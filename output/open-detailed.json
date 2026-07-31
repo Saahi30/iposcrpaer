@@ -1,0 +1,78 @@
+{
+  "scrapedAt": "2026-07-31T07:32:57+00:00",
+  "source": "https://www.chittorgarh.com/",
+  "feeds": {
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/7/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/2026/2026-27/0/all?search="
+  },
+  "filters": {
+    "status": [
+      "open"
+    ],
+    "type": null,
+    "details": true,
+    "limit": 1
+  },
+  "summary": {
+    "open": 1,
+    "upcoming": 0,
+    "closed": 0,
+    "listed": 0,
+    "other": 0,
+    "total": 1
+  },
+  "ipos": [
+    {
+      "slug": "fusion-klassroom-edutech-ipo",
+      "ipoId": 2867,
+      "name": "Fusion Klassroom Edutech",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 151.0,
+        "max": 159.0,
+        "display": "₹151.0–159.0"
+      },
+      "lotSize": 800,
+      "issueSize": "₹39.04 Cr",
+      "issueSizeCr": 39.04,
+      "freshIssueCr": 29.67,
+      "ofsCr": 7.41,
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "listing": "2026-08-07"
+      },
+      "gmp": {
+        "value": 7.0,
+        "percent": 4.4,
+        "xLot": 5600.0,
+        "updatedOn": "31-Jul 12:36"
+      },
+      "subscription": {
+        "total": 0.41,
+        "byCategory": []
+      },
+      "leadManager": "Narnolia Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/klassroom-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+        "gmp": "https://www.investorgain.com/gmp/fusion-klassroom-edutech-ipo/2130/"
+      },
+      "gmpId": 2130,
+      "about": "Incorporated in 2016, Fusion Klassroom Edutech Ltd. is an education technology company focused on providing professional and competitive examination coaching through digital and hybrid learning models across multiple cities. The company offers coaching programs for courses such as CA, CS, CMA, and other commerce-related examinations. It combines classroom teaching with online platforms to enhance accessibility and learning flexibility.",
+      "faceValue": "₹ 10 per share",
+      "registrar": null,
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS"
+    }
+  ]
+}

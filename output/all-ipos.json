@@ -1,0 +1,6051 @@
+{
+  "scrapedAt": "2026-07-31T07:21:12+00:00",
+  "source": "https://www.iposathi.com/",
+  "api": "https://ipoback.latestupdatesdaily.com",
+  "filters": {
+    "status": null,
+    "type": null,
+    "q": null,
+    "details": false
+  },
+  "summary": {
+    "open": 8,
+    "upcoming": 4,
+    "closed": 4,
+    "listed": 71,
+    "other": 0,
+    "total": 87
+  },
+  "ipos": [
+    {
+      "slug": "gvelectricals",
+      "name": "G.V.Electricals",
+      "type": "sme",
+      "status": "open",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 123,
+        "max": 130,
+        "display": "₹123–130"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹42.25 Cr",
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "listing": "2026-08-07"
+      },
+      "gmp": {
+        "value": 25,
+        "percent": 19.23,
+        "xLot": 25000.0,
+        "history": [
+          {
+            "date": "2026-07-27",
+            "value": 18
+          },
+          {
+            "date": "2026-07-28",
+            "value": 22
+          },
+          {
+            "date": "2026-07-29",
+            "value": 22
+          },
+          {
+            "date": "2026-07-30",
+            "value": 25
+          },
+          {
+            "date": "2026-07-31",
+            "value": 25
+          }
+        ],
+        "lastHeard": "31-Jul 11:53",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "mudra",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/gvelectricals",
+        "apply": "https://www.iposathi.com/ipo/gvelectricals/apply",
+        "source": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/"
+      },
+      "updatedAt": "2026-07-31T07:20:09.376Z",
+      "lastScrapedAt": "2026-07-31T07:20:09.318Z"
+    },
+    {
+      "slug": "fusion-klassroom-edutech",
+      "name": "Fusion Klassroom Edutech",
+      "type": "sme",
+      "status": "open",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 151,
+        "max": 159,
+        "display": "₹151–159"
+      },
+      "lotSize": 800,
+      "issueSize": "₹39.04 Cr",
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "listing": "2026-08-07"
+      },
+      "gmp": {
+        "value": 9,
+        "percent": 5.66,
+        "xLot": 7200.0,
+        "history": [
+          {
+            "date": "2026-07-30",
+            "value": 9
+          },
+          {
+            "date": "2026-07-31",
+            "value": 9
+          }
+        ],
+        "lastHeard": "31-Jul 11:53",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "maashitla",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/fusion-klassroom-edutech",
+        "apply": "https://www.iposathi.com/ipo/fusion-klassroom-edutech/apply",
+        "source": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.137Z",
+      "lastScrapedAt": "2026-07-30T18:30:00.012Z"
+    },
+    {
+      "slug": "oneindig-technologies",
+      "name": "Oneindig Technologies",
+      "type": "sme",
+      "status": "open",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 91,
+        "max": 96,
+        "display": "₹91–96"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹28 Cr",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "maashitla",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/oneindig-technologies",
+        "apply": "https://www.iposathi.com/ipo/oneindig-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/oneindig-technologies-ipo/2646/"
+      },
+      "updatedAt": "2026-07-30T04:00:29.559Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "mv-electrosystems",
+      "name": "MV Electrosystems",
+      "type": "mainboard",
+      "status": "open",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 400,
+        "max": 425,
+        "display": "₹400–425"
+      },
+      "lotSize": 34,
+      "issueSize": "₹290 Cr",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 133,
+        "percent": 31.29,
+        "xLot": 4522.0,
+        "history": [
+          {
+            "date": "2026-07-25",
+            "value": 60
+          },
+          {
+            "date": "2026-07-26",
+            "value": 75
+          },
+          {
+            "date": "2026-07-27",
+            "value": 103
+          },
+          {
+            "date": "2026-07-28",
+            "value": 105
+          },
+          {
+            "date": "2026-07-29",
+            "value": 106
+          },
+          {
+            "date": "2026-07-30",
+            "value": 125
+          },
+          {
+            "date": "2026-07-31",
+            "value": 133
+          }
+        ],
+        "lastHeard": "31-Jul 11:57",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 7.98,
+        "applications": 444904,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 0.89
+          },
+          {
+            "category": "NII",
+            "times": 9.06
+          },
+          {
+            "category": "bNII",
+            "times": 6.66
+          },
+          {
+            "category": "sNII",
+            "times": 13.87
+          },
+          {
+            "category": "Retail",
+            "times": 27.6
+          }
+        ],
+        "updatedAt": "2026-07-31T07:18:01.269Z"
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/mv-electrosystems",
+        "apply": "https://www.iposathi.com/ipo/mv-electrosystems/apply",
+        "source": "https://www.chittorgarh.com/ipo/mv-electrosystems-ipo/2800/"
+      },
+      "updatedAt": "2026-07-31T07:18:01.269Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "juniper-green-energy",
+      "name": "Juniper Green Energy",
+      "type": "mainboard",
+      "status": "open",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 214,
+        "max": 225,
+        "display": "₹214–225"
+      },
+      "lotSize": 66,
+      "issueSize": "₹1,800 Cr",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 6,
+        "percent": 2.67,
+        "xLot": 396.0,
+        "history": [
+          {
+            "date": "2026-07-28",
+            "value": 13
+          },
+          {
+            "date": "2026-07-29",
+            "value": 17
+          },
+          {
+            "date": "2026-07-30",
+            "value": 8
+          },
+          {
+            "date": "2026-07-31",
+            "value": 6
+          }
+        ],
+        "lastHeard": "31-Jul 11:56",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 0.47,
+        "applications": 62938,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 1.25
+          },
+          {
+            "category": "NII",
+            "times": 0.07
+          },
+          {
+            "category": "bNII",
+            "times": 0.04
+          },
+          {
+            "category": "sNII",
+            "times": 0.14
+          },
+          {
+            "category": "Retail",
+            "times": 0.19
+          },
+          {
+            "category": "Employee",
+            "times": 1.55
+          }
+        ],
+        "updatedAt": "2026-07-31T07:18:01.263Z"
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/juniper-green-energy",
+        "apply": "https://www.iposathi.com/ipo/juniper-green-energy/apply",
+        "source": "https://www.chittorgarh.com/ipo/juniper-green-energy-ipo/2492/"
+      },
+      "updatedAt": "2026-07-31T07:18:01.263Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "dhaval-packaging",
+      "name": "Dhaval Packaging",
+      "type": "sme",
+      "status": "open",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 92,
+        "max": 97,
+        "display": "₹92–97"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹36 Cr",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 12,
+        "percent": 12.37,
+        "xLot": 14400.0,
+        "history": [
+          {
+            "date": "2026-07-28",
+            "value": 8
+          },
+          {
+            "date": "2026-07-29",
+            "value": 12
+          },
+          {
+            "date": "2026-07-30",
+            "value": 15
+          },
+          {
+            "date": "2026-07-31",
+            "value": 12
+          }
+        ],
+        "lastHeard": "31-Jul 11:58",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/dhaval-packaging",
+        "apply": "https://www.iposathi.com/ipo/dhaval-packaging/apply",
+        "source": "https://www.chittorgarh.com/ipo/dhaval-packaging-ipo/2835/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.151Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "hrhygiene-products",
+      "name": "H.R.Hygiene Products",
+      "type": "sme",
+      "status": "open",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 83,
+        "max": 88,
+        "display": "₹83–88"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹53.95 Cr",
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "listing": "2026-08-05"
+      },
+      "gmp": {
+        "value": 1,
+        "percent": 1.14,
+        "xLot": 1600.0,
+        "history": [
+          {
+            "date": "2026-07-25",
+            "value": 2
+          },
+          {
+            "date": "2026-07-26",
+            "value": 2
+          },
+          {
+            "date": "2026-07-27",
+            "value": 2
+          },
+          {
+            "date": "2026-07-28",
+            "value": 2
+          },
+          {
+            "date": "2026-07-29",
+            "value": 2
+          },
+          {
+            "date": "2026-07-30",
+            "value": 2
+          },
+          {
+            "date": "2026-07-31",
+            "value": 1
+          }
+        ],
+        "lastHeard": "31-Jul 11:54",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "purva",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/hrhygiene-products",
+        "apply": "https://www.iposathi.com/ipo/hrhygiene-products/apply",
+        "source": "https://www.chittorgarh.com/ipo/hr-hygiene-products-ipo/2713/"
+      },
+      "updatedAt": "2026-07-31T07:20:09.390Z",
+      "lastScrapedAt": "2026-07-31T07:20:09.318Z"
+    },
+    {
+      "slug": "manipal-health-enterprises",
+      "name": "Manipal Health Enterprises",
+      "type": "mainboard",
+      "status": "open",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 560,
+        "max": 590,
+        "display": "₹560–590"
+      },
+      "lotSize": 25,
+      "issueSize": "₹9,275 Cr",
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "listing": "2026-08-05"
+      },
+      "gmp": {
+        "value": 3,
+        "percent": 0.51,
+        "xLot": 75.0,
+        "history": [
+          {
+            "date": "2026-07-24",
+            "value": 35
+          },
+          {
+            "date": "2026-07-25",
+            "value": 25
+          },
+          {
+            "date": "2026-07-26",
+            "value": 25
+          },
+          {
+            "date": "2026-07-27",
+            "value": 13
+          },
+          {
+            "date": "2026-07-28",
+            "value": 9
+          },
+          {
+            "date": "2026-07-29",
+            "value": 9
+          },
+          {
+            "date": "2026-07-30",
+            "value": 6
+          },
+          {
+            "date": "2026-07-31",
+            "value": 3
+          }
+        ],
+        "lastHeard": "31-Jul 11:55",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 0.92,
+        "applications": 229099,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 1.35
+          },
+          {
+            "category": "NII",
+            "times": 0.23
+          },
+          {
+            "category": "bNII",
+            "times": 0.23
+          },
+          {
+            "category": "sNII",
+            "times": 0.24
+          },
+          {
+            "category": "Retail",
+            "times": 0.62
+          },
+          {
+            "category": "Employee",
+            "times": 1.93
+          }
+        ],
+        "updatedAt": "2026-07-31T07:18:01.274Z"
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/manipal-health-enterprises",
+        "apply": "https://www.iposathi.com/ipo/manipal-health-enterprises/apply",
+        "source": "https://www.chittorgarh.com/ipo/manipal-health-enterprises-ipo/2956/"
+      },
+      "updatedAt": "2026-07-31T07:18:01.274Z",
+      "lastScrapedAt": "2026-07-28T18:30:00.006Z"
+    },
+    {
+      "slug": "lapl-automotive",
+      "name": "LAPL Automotive",
+      "type": "sme",
+      "status": "upcoming",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 88,
+        "max": 94,
+        "display": "₹88–94"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹32 Cr",
+      "dates": {
+        "open": "2026-08-06",
+        "close": "2026-08-10",
+        "allotment": "2026-08-11",
+        "listing": "2026-08-13"
+      },
+      "gmp": {
+        "value": 7,
+        "percent": 7.45,
+        "xLot": 8400.0,
+        "history": [
+          {
+            "date": "2026-07-31",
+            "value": 7
+          }
+        ],
+        "lastHeard": "31-Jul 12:00",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "maashitla",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/lapl-automotive",
+        "apply": "https://www.iposathi.com/ipo/lapl-automotive/apply",
+        "source": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/"
+      },
+      "updatedAt": "2026-07-31T07:18:01.072Z",
+      "lastScrapedAt": "2026-07-31T02:40:00.002Z"
+    },
+    {
+      "slug": "ardee-industries",
+      "name": "Ardee Industries",
+      "type": "mainboard",
+      "status": "upcoming",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 50,
+        "max": 53,
+        "display": "₹50–53"
+      },
+      "lotSize": 281,
+      "issueSize": "₹426 Cr",
+      "dates": {
+        "open": "2026-08-05",
+        "close": "2026-08-07",
+        "allotment": "2026-08-10",
+        "listing": "2026-08-12"
+      },
+      "gmp": {
+        "value": 13,
+        "percent": 24.53,
+        "xLot": 3653.0,
+        "history": [
+          {
+            "date": "2026-07-29",
+            "value": 13
+          },
+          {
+            "date": "2026-07-30",
+            "value": 13
+          },
+          {
+            "date": "2026-07-31",
+            "value": 13
+          }
+        ],
+        "lastHeard": "31-Jul 12:00",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/ardee-industries",
+        "apply": "https://www.iposathi.com/ipo/ardee-industries/apply",
+        "source": "https://www.chittorgarh.com/ipo/ardee-industries-ipo/2860/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.109Z",
+      "lastScrapedAt": "2026-07-28T17:00:00.004Z"
+    },
+    {
+      "slug": "aegeus-technologies",
+      "name": "Aegeus Technologies",
+      "type": "sme",
+      "status": "upcoming",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 100,
+        "max": 105,
+        "display": "₹100–105"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24 Cr",
+      "dates": {
+        "open": "2026-08-04",
+        "close": "2026-08-06",
+        "allotment": "2026-08-07",
+        "listing": "2026-08-11"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/aegeus-technologies",
+        "apply": "https://www.iposathi.com/ipo/aegeus-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/aegeus-technologies-ipo/2837/"
+      },
+      "updatedAt": "2026-07-29T03:30:29.434Z",
+      "lastScrapedAt": "2026-07-29T03:20:09.333Z"
+    },
+    {
+      "slug": "anawil-wire-and-engineering",
+      "name": "Anawil Wire & Engineering",
+      "type": "sme",
+      "status": "upcoming",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 257,
+        "max": 270,
+        "display": "₹257–270"
+      },
+      "lotSize": 400,
+      "issueSize": "₹178 Cr",
+      "dates": {
+        "open": "2026-08-03",
+        "close": "2026-08-05",
+        "allotment": "2026-08-06",
+        "listing": "2026-08-10"
+      },
+      "gmp": {
+        "value": 65,
+        "percent": 24.07,
+        "xLot": 26000.0,
+        "history": [
+          {
+            "date": "2026-07-29",
+            "value": 60
+          },
+          {
+            "date": "2026-07-30",
+            "value": 70
+          },
+          {
+            "date": "2026-07-31",
+            "value": 65
+          }
+        ],
+        "lastHeard": "31-Jul 11:59",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/anawil-wire-and-engineering",
+        "apply": "https://www.iposathi.com/ipo/anawil-wire-and-engineering/apply",
+        "source": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.119Z",
+      "lastScrapedAt": "2026-07-29T04:30:00.012Z"
+    },
+    {
+      "slug": "poojaa-precision-engg",
+      "name": "Poojaa Precision Engg.",
+      "type": "sme",
+      "status": "closed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 285,
+        "max": 301,
+        "display": "₹285–301"
+      },
+      "lotSize": 400,
+      "issueSize": "₹159.83 Cr",
+      "dates": {
+        "open": "2026-07-28",
+        "close": "2026-07-30",
+        "allotment": "2026-07-31",
+        "listing": "2026-08-04"
+      },
+      "gmp": {
+        "value": 225,
+        "percent": 74.75,
+        "xLot": 90000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 195
+          },
+          {
+            "date": "2026-07-24",
+            "value": 200
+          },
+          {
+            "date": "2026-07-25",
+            "value": 245
+          },
+          {
+            "date": "2026-07-26",
+            "value": 245
+          },
+          {
+            "date": "2026-07-27",
+            "value": 260
+          },
+          {
+            "date": "2026-07-28",
+            "value": 300
+          },
+          {
+            "date": "2026-07-29",
+            "value": 275
+          },
+          {
+            "date": "2026-07-30",
+            "value": 225
+          },
+          {
+            "date": "2026-07-31",
+            "value": 225
+          }
+        ],
+        "lastHeard": "31-Jul 11:53",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/poojaa-precision-engg",
+        "apply": "https://www.iposathi.com/ipo/poojaa-precision-engg/apply",
+        "source": "https://www.chittorgarh.com/ipo/poojaa-precision-engg-ipo/2954/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.252Z",
+      "lastScrapedAt": "2026-07-30T11:20:00.001Z"
+    },
+    {
+      "slug": "advance-technoforge",
+      "name": "Advance Technoforge",
+      "type": "sme",
+      "status": "closed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 95,
+        "max": 95,
+        "display": "₹95–95"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24 Cr",
+      "dates": {
+        "open": "2026-07-27",
+        "close": "2026-07-29",
+        "allotment": "2026-07-30",
+        "listing": "2026-08-03"
+      },
+      "gmp": {
+        "value": 5,
+        "percent": 5.26,
+        "xLot": 6000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 5.5
+          },
+          {
+            "date": "2026-07-24",
+            "value": 9
+          },
+          {
+            "date": "2026-07-25",
+            "value": 9
+          },
+          {
+            "date": "2026-07-26",
+            "value": 9
+          },
+          {
+            "date": "2026-07-27",
+            "value": 9
+          },
+          {
+            "date": "2026-07-28",
+            "value": 8
+          },
+          {
+            "date": "2026-07-29",
+            "value": 8
+          },
+          {
+            "date": "2026-07-30",
+            "value": 5
+          },
+          {
+            "date": "2026-07-31",
+            "value": 5
+          }
+        ],
+        "lastHeard": "31-Jul 11:56",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/advance-technoforge",
+        "apply": "https://www.iposathi.com/ipo/advance-technoforge/apply",
+        "source": "https://www.chittorgarh.com/ipo/advance-technoforge-ipo/2307/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.260Z",
+      "lastScrapedAt": "2026-07-29T11:20:00.001Z"
+    },
+    {
+      "slug": "propshop-events-and-exhibitions",
+      "name": "Propshop Events & Exhibitions",
+      "type": "sme",
+      "status": "closed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 65,
+        "max": 69,
+        "display": "₹65–69"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹29 Cr",
+      "dates": {
+        "open": "2026-07-27",
+        "close": "2026-07-29",
+        "allotment": "2026-07-30",
+        "listing": "2026-08-03"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-30T14:03:00.169Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/propshop-events-and-exhibitions",
+        "apply": "https://www.iposathi.com/ipo/propshop-events-and-exhibitions/apply",
+        "source": "https://www.chittorgarh.com/ipo/propshop-events-exhibitions-ipo/2732/"
+      },
+      "updatedAt": "2026-07-31T04:30:24.721Z",
+      "lastScrapedAt": "2026-07-29T11:20:00.001Z"
+    },
+    {
+      "slug": "cube-highways-trust",
+      "name": "Cube Highways Trust",
+      "type": "mainboard",
+      "status": "closed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 151,
+        "max": 152,
+        "display": "₹151–152"
+      },
+      "lotSize": 95,
+      "issueSize": "₹5,000 Cr",
+      "dates": {
+        "open": "2026-07-22",
+        "close": "2026-07-24",
+        "allotment": "2026-07-29",
+        "listing": "2026-08-03"
+      },
+      "gmp": {
+        "value": 1.75,
+        "percent": 1.15,
+        "xLot": 166.25,
+        "history": [
+          {
+            "date": "2026-07-24",
+            "value": 1.25
+          },
+          {
+            "date": "2026-07-25",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-26",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-27",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-28",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-29",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-30",
+            "value": 1.75
+          },
+          {
+            "date": "2026-07-31",
+            "value": 1.75
+          }
+        ],
+        "lastHeard": "31-Jul 9:31",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 9.33,
+        "applications": null,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 13.2
+          },
+          {
+            "category": "NII",
+            "times": 4.69
+          }
+        ],
+        "updatedAt": "2026-07-24T11:30:00.406Z"
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/cube-highways-trust",
+        "apply": "https://www.iposathi.com/ipo/cube-highways-trust/apply",
+        "source": "https://www.chittorgarh.com/ipo/cube-highways-trust-invit/3192/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.309Z",
+      "lastScrapedAt": "2026-07-24T11:30:09.322Z"
+    },
+    {
+      "slug": "silverstorm-parks-and-resorts",
+      "name": "Silverstorm Parks & Resorts",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 123,
+        "max": 133,
+        "display": "₹123–133"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹82 Cr",
+      "dates": {
+        "open": "2026-07-24",
+        "close": "2026-07-28",
+        "allotment": "2026-07-29",
+        "listing": "2026-07-31"
+      },
+      "gmp": {
+        "value": 5,
+        "percent": 3.76,
+        "xLot": 5000.0,
+        "history": [
+          {
+            "date": "2026-07-30",
+            "value": 5
+          },
+          {
+            "date": "2026-07-31",
+            "value": 5
+          }
+        ],
+        "lastHeard": "31-Jul 9:34",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": null,
+        "currentPrice": null,
+        "listingGainPercent": null,
+        "currentGainPercent": null
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-29T16:03:00.157Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/silverstorm-parks-and-resorts",
+        "apply": "https://www.iposathi.com/ipo/silverstorm-parks-and-resorts/apply",
+        "source": "https://www.chittorgarh.com/ipo/silverstorm-parks-resorts-ipo/2824/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.271Z",
+      "lastScrapedAt": "2026-07-30T18:30:00.012Z"
+    },
+    {
+      "slug": "indo-mim",
+      "name": "Indo-MIM",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 461,
+        "max": 485,
+        "display": "₹461–485"
+      },
+      "lotSize": 30,
+      "issueSize": "₹3,812 Cr",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "listing": "2026-07-30"
+      },
+      "gmp": {
+        "value": 184,
+        "percent": 37.94,
+        "xLot": 5520.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 176
+          },
+          {
+            "date": "2026-07-24",
+            "value": 181
+          },
+          {
+            "date": "2026-07-25",
+            "value": 181
+          },
+          {
+            "date": "2026-07-26",
+            "value": 190
+          },
+          {
+            "date": "2026-07-27",
+            "value": 190
+          },
+          {
+            "date": "2026-07-28",
+            "value": 185
+          },
+          {
+            "date": "2026-07-29",
+            "value": 187
+          },
+          {
+            "date": "2026-07-30",
+            "value": 184
+          },
+          {
+            "date": "2026-07-31",
+            "value": 184
+          }
+        ],
+        "lastHeard": "30-Jul 9:36",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 72.34,
+        "applications": 5042381,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 204.47
+          },
+          {
+            "category": "NII",
+            "times": 50.63
+          },
+          {
+            "category": "bNII",
+            "times": 57.69
+          },
+          {
+            "category": "sNII",
+            "times": 36.49
+          },
+          {
+            "category": "Retail",
+            "times": 6.63
+          },
+          {
+            "category": "Employee",
+            "times": 9.39
+          }
+        ],
+        "updatedAt": "2026-07-27T11:26:00.883Z"
+      },
+      "listing": {
+        "price": 700,
+        "currentPrice": 741.75,
+        "listingGainPercent": 44.33,
+        "currentGainPercent": 52.94
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-28T18:51:00.151Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/indo-mim",
+        "apply": "https://www.iposathi.com/ipo/indo-mim/apply",
+        "source": "https://www.chittorgarh.com/ipo/indo-mim-ipo/2682/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.278Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "xtranet-technologies",
+      "name": "Xtranet Technologies",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 120,
+        "max": 127,
+        "display": "₹120–127"
+      },
+      "lotSize": 110,
+      "issueSize": "₹167 Cr",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "listing": "2026-07-30"
+      },
+      "gmp": {
+        "value": 14.5,
+        "percent": 11.42,
+        "xLot": 1595.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 12
+          },
+          {
+            "date": "2026-07-24",
+            "value": 10
+          },
+          {
+            "date": "2026-07-25",
+            "value": 7.5
+          },
+          {
+            "date": "2026-07-26",
+            "value": 9
+          },
+          {
+            "date": "2026-07-27",
+            "value": 7
+          },
+          {
+            "date": "2026-07-28",
+            "value": 9.5
+          },
+          {
+            "date": "2026-07-29",
+            "value": 14.5
+          },
+          {
+            "date": "2026-07-30",
+            "value": 14.5
+          },
+          {
+            "date": "2026-07-31",
+            "value": 14.5
+          }
+        ],
+        "lastHeard": "30-Jul 9:31",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 12.17,
+        "applications": 325717,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 7.13
+          },
+          {
+            "category": "NII",
+            "times": 26.61
+          },
+          {
+            "category": "bNII",
+            "times": 26.72
+          },
+          {
+            "category": "sNII",
+            "times": 26.39
+          },
+          {
+            "category": "Retail",
+            "times": 8.87
+          }
+        ],
+        "updatedAt": "2026-07-27T11:26:00.888Z"
+      },
+      "listing": {
+        "price": 136,
+        "currentPrice": 129.2,
+        "listingGainPercent": 7.09,
+        "currentGainPercent": 1.73
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-28T15:21:00.284Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/xtranet-technologies",
+        "apply": "https://www.iposathi.com/ipo/xtranet-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/xtranet-technologies-ipo/2688/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.286Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "lohia-corp",
+      "name": "Lohia Corp",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 404,
+        "max": 425,
+        "display": "₹404–425"
+      },
+      "lotSize": 35,
+      "issueSize": "₹1,101 Cr",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "listing": "2026-07-30"
+      },
+      "gmp": {
+        "value": 17,
+        "percent": 4,
+        "xLot": 595.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 15
+          },
+          {
+            "date": "2026-07-24",
+            "value": 14
+          },
+          {
+            "date": "2026-07-25",
+            "value": 7.5
+          },
+          {
+            "date": "2026-07-26",
+            "value": 7
+          },
+          {
+            "date": "2026-07-27",
+            "value": 11.5
+          },
+          {
+            "date": "2026-07-28",
+            "value": 17
+          },
+          {
+            "date": "2026-07-29",
+            "value": 19
+          },
+          {
+            "date": "2026-07-30",
+            "value": 17
+          },
+          {
+            "date": "2026-07-31",
+            "value": 17
+          }
+        ],
+        "lastHeard": "30-Jul 9:30",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 7.23,
+        "applications": 185508,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 9.11
+          },
+          {
+            "category": "NII",
+            "times": 6.8
+          },
+          {
+            "category": "bNII",
+            "times": 7.35
+          },
+          {
+            "category": "sNII",
+            "times": 5.7
+          },
+          {
+            "category": "Retail",
+            "times": 2.7
+          },
+          {
+            "category": "Employee",
+            "times": 1.38
+          }
+        ],
+        "updatedAt": "2026-07-27T11:26:00.877Z"
+      },
+      "listing": {
+        "price": 461,
+        "currentPrice": 494.6,
+        "listingGainPercent": 8.47,
+        "currentGainPercent": 16.38
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-28T17:54:00.158Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/lohia-corp",
+        "apply": "https://www.iposathi.com/ipo/lohia-corp/apply",
+        "source": "https://www.chittorgarh.com/ipo/lohia-corp-ipo/2574/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.293Z",
+      "lastScrapedAt": "2026-07-29T18:30:00.001Z"
+    },
+    {
+      "slug": "shree-balaji-mala",
+      "name": "Shree Balaji (Mala) Textiles",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 66,
+        "max": 70,
+        "display": "₹66–70"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹19 Cr",
+      "dates": {
+        "open": "2026-07-22",
+        "close": "2026-07-24",
+        "allotment": "2026-07-27",
+        "listing": "2026-07-29"
+      },
+      "gmp": {
+        "value": 56,
+        "percent": 80,
+        "xLot": 112000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 16
+          },
+          {
+            "date": "2026-07-24",
+            "value": 13
+          },
+          {
+            "date": "2026-07-25",
+            "value": 13
+          },
+          {
+            "date": "2026-07-26",
+            "value": 13
+          },
+          {
+            "date": "2026-07-27",
+            "value": 15
+          },
+          {
+            "date": "2026-07-28",
+            "value": 15
+          },
+          {
+            "date": "2026-07-29",
+            "value": 56
+          },
+          {
+            "date": "2026-07-30",
+            "value": 56
+          },
+          {
+            "date": "2026-07-31",
+            "value": 56
+          }
+        ],
+        "lastHeard": "29-Jul 9:29",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 133,
+        "currentPrice": 126.35,
+        "listingGainPercent": 90.0,
+        "currentGainPercent": 80.5
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-27T14:51:00.220Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/shree-balaji-mala",
+        "apply": "https://www.iposathi.com/ipo/shree-balaji-mala/apply",
+        "source": "https://www.chittorgarh.com/ipo/shree-balaji-mala-ipo/2706/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.300Z",
+      "lastScrapedAt": "2026-07-28T18:30:00.006Z"
+    },
+    {
+      "slug": "metalic-technoforge",
+      "name": "Metalic Technoforge",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 72,
+        "max": 77,
+        "display": "₹72–77"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹50 Cr",
+      "dates": {
+        "open": "2026-07-21",
+        "close": "2026-07-23",
+        "allotment": "2026-07-24",
+        "listing": "2026-07-28"
+      },
+      "gmp": {
+        "value": 6,
+        "percent": 7.79,
+        "xLot": 9600.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 3
+          },
+          {
+            "date": "2026-07-24",
+            "value": 6
+          },
+          {
+            "date": "2026-07-25",
+            "value": 7.5
+          },
+          {
+            "date": "2026-07-26",
+            "value": 8.1
+          },
+          {
+            "date": "2026-07-27",
+            "value": 6
+          },
+          {
+            "date": "2026-07-28",
+            "value": 6
+          },
+          {
+            "date": "2026-07-29",
+            "value": 6
+          },
+          {
+            "date": "2026-07-30",
+            "value": 6
+          },
+          {
+            "date": "2026-07-31",
+            "value": 6
+          }
+        ],
+        "lastHeard": "28-Jul 9:29",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 87,
+        "currentPrice": 83.05,
+        "listingGainPercent": 12.99,
+        "currentGainPercent": 7.86
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-24T12:57:00.279Z"
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/metalic-technoforge",
+        "apply": "https://www.iposathi.com/ipo/metalic-technoforge/apply",
+        "source": "https://www.chittorgarh.com/ipo/metalic-technoforge-ipo/2993/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.317Z",
+      "lastScrapedAt": "2026-07-27T18:30:00.004Z"
+    },
+    {
+      "slug": "gulf-lloyds",
+      "name": "Gulf Lloyds (India)",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 100,
+        "max": 100,
+        "display": "₹100–100"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹18 Cr",
+      "dates": {
+        "open": "2026-07-20",
+        "close": "2026-07-22",
+        "allotment": "2026-07-23",
+        "listing": "2026-07-27"
+      },
+      "gmp": {
+        "value": 1,
+        "percent": 1,
+        "xLot": 1200.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 1
+          },
+          {
+            "date": "2026-07-24",
+            "value": 1
+          },
+          {
+            "date": "2026-07-25",
+            "value": 1
+          },
+          {
+            "date": "2026-07-26",
+            "value": 1
+          },
+          {
+            "date": "2026-07-27",
+            "value": 1
+          },
+          {
+            "date": "2026-07-28",
+            "value": 1
+          },
+          {
+            "date": "2026-07-29",
+            "value": 1
+          },
+          {
+            "date": "2026-07-30",
+            "value": 1
+          },
+          {
+            "date": "2026-07-31",
+            "value": 1
+          }
+        ],
+        "lastHeard": "27-Jul 9:29",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 100,
+        "currentPrice": 95,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-23T13:57:01.885Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/gulf-lloyds",
+        "apply": "https://www.iposathi.com/ipo/gulf-lloyds/apply",
+        "source": "https://www.chittorgarh.com/ipo/gulf-lloyds-ipo/2953/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.324Z",
+      "lastScrapedAt": "2026-07-26T18:30:00.006Z"
+    },
+    {
+      "slug": "caliber-mining",
+      "name": "Caliber Mining & Logistics",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 402,
+        "max": 424,
+        "display": "₹402–424"
+      },
+      "lotSize": 35,
+      "issueSize": "₹450 Cr",
+      "dates": {
+        "open": "2026-07-17",
+        "close": "2026-07-21",
+        "allotment": "2026-07-22",
+        "listing": "2026-07-24"
+      },
+      "gmp": {
+        "value": 60,
+        "percent": 14.15,
+        "xLot": 2100.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 75
+          },
+          {
+            "date": "2026-07-24",
+            "value": 60
+          },
+          {
+            "date": "2026-07-25",
+            "value": 60
+          },
+          {
+            "date": "2026-07-26",
+            "value": 60
+          },
+          {
+            "date": "2026-07-27",
+            "value": 60
+          },
+          {
+            "date": "2026-07-28",
+            "value": 60
+          },
+          {
+            "date": "2026-07-29",
+            "value": 60
+          },
+          {
+            "date": "2026-07-30",
+            "value": 60
+          },
+          {
+            "date": "2026-07-31",
+            "value": 60
+          }
+        ],
+        "lastHeard": "24-Jul 9:35",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 154.66,
+        "applications": 3844190,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 253.88
+          },
+          {
+            "category": "NII",
+            "times": 281.99
+          },
+          {
+            "category": "bNII",
+            "times": 309.31
+          },
+          {
+            "category": "sNII",
+            "times": 227.37
+          },
+          {
+            "category": "Retail",
+            "times": 43.4
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.100Z"
+      },
+      "listing": {
+        "price": 500.25,
+        "currentPrice": 528.2,
+        "listingGainPercent": 17.98,
+        "currentGainPercent": 24.58
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-22T15:45:00.532Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/caliber-mining",
+        "apply": "https://www.iposathi.com/ipo/caliber-mining/apply",
+        "source": "https://www.chittorgarh.com/ipo/caliber-mining-ipo/1999/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.332Z",
+      "lastScrapedAt": "2026-07-23T18:30:00.004Z"
+    },
+    {
+      "slug": "sotefin-bharat",
+      "name": "Sotefin Bharat",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 178,
+        "max": 187,
+        "display": "₹178–187"
+      },
+      "lotSize": 600,
+      "issueSize": "₹90 Cr",
+      "dates": {
+        "open": "2026-07-16",
+        "close": "2026-07-20",
+        "allotment": "2026-07-21",
+        "listing": "2026-07-23"
+      },
+      "gmp": {
+        "value": 2.5,
+        "percent": 1.34,
+        "xLot": 1500.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-24",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-25",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-26",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-27",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-28",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-29",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-30",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-31",
+            "value": 2.5
+          }
+        ],
+        "lastHeard": "23-Jul 9:34",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 205,
+        "currentPrice": 215.25,
+        "listingGainPercent": 9.63,
+        "currentGainPercent": 15.11
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T14:30:18.445Z"
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/sotefin-bharat",
+        "apply": "https://www.iposathi.com/ipo/sotefin-bharat/apply",
+        "source": "https://www.chittorgarh.com/ipo/sotefin-bharat-ipo/2836/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.340Z",
+      "lastScrapedAt": "2026-07-22T18:30:00.009Z"
+    },
+    {
+      "slug": "sbi-funds-management",
+      "name": "SBI Funds Management",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 545,
+        "max": 574,
+        "display": "₹545–574"
+      },
+      "lotSize": 26,
+      "issueSize": "₹9,795 Cr",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "listing": "2026-07-21"
+      },
+      "gmp": {
+        "value": 65,
+        "percent": 11.32,
+        "xLot": 1690.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 65
+          },
+          {
+            "date": "2026-07-24",
+            "value": 65
+          },
+          {
+            "date": "2026-07-25",
+            "value": 65
+          },
+          {
+            "date": "2026-07-26",
+            "value": 65
+          },
+          {
+            "date": "2026-07-27",
+            "value": 65
+          },
+          {
+            "date": "2026-07-28",
+            "value": 65
+          },
+          {
+            "date": "2026-07-29",
+            "value": 65
+          },
+          {
+            "date": "2026-07-30",
+            "value": 65
+          },
+          {
+            "date": "2026-07-31",
+            "value": 65
+          }
+        ],
+        "lastHeard": "21-Jul 9:35",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 41.73,
+        "applications": 6382532,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 140.11
+          },
+          {
+            "category": "NII",
+            "times": 22.51
+          },
+          {
+            "category": "bNII",
+            "times": 26.01
+          },
+          {
+            "category": "sNII",
+            "times": 15.51
+          },
+          {
+            "category": "Retail",
+            "times": 3.76
+          },
+          {
+            "category": "Employee",
+            "times": 4.65
+          },
+          {
+            "category": "Shareholder",
+            "times": 9.52
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.114Z"
+      },
+      "listing": {
+        "price": 613.3,
+        "currentPrice": 609.75,
+        "listingGainPercent": 6.85,
+        "currentGainPercent": 6.23
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/sbi-funds-management",
+        "apply": "https://www.iposathi.com/ipo/sbi-funds-management/apply",
+        "source": "https://www.chittorgarh.com/ipo/sbi-funds-management-ipo/2949/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.357Z",
+      "lastScrapedAt": "2026-07-21T10:00:00.002Z"
+    },
+    {
+      "slug": "alpine-texworld",
+      "name": "Alpine Texworld",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 100,
+        "max": 105,
+        "display": "₹100–105"
+      },
+      "lotSize": 142,
+      "issueSize": "₹126 Cr",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "listing": "2026-07-21"
+      },
+      "gmp": {
+        "value": 1,
+        "percent": 0.95,
+        "xLot": 142.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 1
+          },
+          {
+            "date": "2026-07-24",
+            "value": 1
+          },
+          {
+            "date": "2026-07-25",
+            "value": 1
+          },
+          {
+            "date": "2026-07-26",
+            "value": 1
+          },
+          {
+            "date": "2026-07-27",
+            "value": 1
+          },
+          {
+            "date": "2026-07-28",
+            "value": 1
+          },
+          {
+            "date": "2026-07-29",
+            "value": 1
+          },
+          {
+            "date": "2026-07-30",
+            "value": 1
+          },
+          {
+            "date": "2026-07-31",
+            "value": 1
+          }
+        ],
+        "lastHeard": "21-Jul 9:35",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": 1.4,
+        "applications": 76891,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 1.09
+          },
+          {
+            "category": "NII",
+            "times": 1.09
+          },
+          {
+            "category": "bNII",
+            "times": 0.9
+          },
+          {
+            "category": "sNII",
+            "times": 1.48
+          },
+          {
+            "category": "Retail",
+            "times": 1.54
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.107Z"
+      },
+      "listing": {
+        "price": 105,
+        "currentPrice": 99.75,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.901Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/alpine-texworld",
+        "apply": "https://www.iposathi.com/ipo/alpine-texworld/apply",
+        "source": "https://www.chittorgarh.com/ipo/alpine-texworld-ipo/2675/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.365Z",
+      "lastScrapedAt": "2026-07-21T10:00:00.002Z"
+    },
+    {
+      "slug": "millworks-technologies",
+      "name": "Millworks Technologies",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 315,
+        "max": 331,
+        "display": "₹315–331"
+      },
+      "lotSize": 400,
+      "issueSize": "₹160 Cr",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "listing": "2026-07-21"
+      },
+      "gmp": {
+        "value": 395,
+        "percent": 119.34,
+        "xLot": 158000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 395
+          },
+          {
+            "date": "2026-07-24",
+            "value": 395
+          },
+          {
+            "date": "2026-07-25",
+            "value": 395
+          },
+          {
+            "date": "2026-07-26",
+            "value": 395
+          },
+          {
+            "date": "2026-07-27",
+            "value": 395
+          },
+          {
+            "date": "2026-07-28",
+            "value": 395
+          },
+          {
+            "date": "2026-07-29",
+            "value": 395
+          },
+          {
+            "date": "2026-07-30",
+            "value": 395
+          },
+          {
+            "date": "2026-07-31",
+            "value": 395
+          }
+        ],
+        "lastHeard": "21-Jul 9:32",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 628.9,
+        "currentPrice": 660.3,
+        "listingGainPercent": 90.0,
+        "currentGainPercent": 99.49
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-22T17:31:13.571Z"
+      },
+      "registrar": "purva",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/millworks-technologies",
+        "apply": "https://www.iposathi.com/ipo/millworks-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/millworks-technologies-ipo/2866/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.348Z",
+      "lastScrapedAt": "2026-07-21T10:00:00.002Z"
+    },
+    {
+      "slug": "happy-steels",
+      "name": "Happy Steels",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 62,
+        "max": 66,
+        "display": "₹62–66"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹25 Cr",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "listing": "2026-07-16"
+      },
+      "gmp": {
+        "value": 10,
+        "percent": 15.15,
+        "xLot": 20000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 10
+          },
+          {
+            "date": "2026-07-24",
+            "value": 10
+          },
+          {
+            "date": "2026-07-25",
+            "value": 10
+          },
+          {
+            "date": "2026-07-26",
+            "value": 10
+          },
+          {
+            "date": "2026-07-27",
+            "value": 10
+          },
+          {
+            "date": "2026-07-28",
+            "value": 10
+          },
+          {
+            "date": "2026-07-29",
+            "value": 10
+          },
+          {
+            "date": "2026-07-30",
+            "value": 10
+          },
+          {
+            "date": "2026-07-31",
+            "value": 10
+          }
+        ],
+        "lastHeard": "16-Jul 9:29",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 68,
+        "currentPrice": 68.5,
+        "listingGainPercent": 3.03,
+        "currentGainPercent": 3.79
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-20T12:00:19.713Z"
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/happy-steels",
+        "apply": "https://www.iposathi.com/ipo/happy-steels/apply",
+        "source": "https://www.chittorgarh.com/ipo/happy-steels-ipo/2864/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.373Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "laser-power-and-infra",
+      "name": "Laser Power & Infra",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 203,
+        "max": 214,
+        "display": "₹203–214"
+      },
+      "lotSize": 70,
+      "issueSize": "₹742 Cr",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "listing": "2026-07-16"
+      },
+      "gmp": {
+        "value": 39,
+        "percent": 18.22,
+        "xLot": 2730.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 39
+          },
+          {
+            "date": "2026-07-24",
+            "value": 39
+          },
+          {
+            "date": "2026-07-25",
+            "value": 39
+          },
+          {
+            "date": "2026-07-26",
+            "value": 39
+          },
+          {
+            "date": "2026-07-27",
+            "value": 39
+          },
+          {
+            "date": "2026-07-28",
+            "value": 39
+          },
+          {
+            "date": "2026-07-29",
+            "value": 39
+          },
+          {
+            "date": "2026-07-30",
+            "value": 39
+          },
+          {
+            "date": "2026-07-31",
+            "value": 39
+          }
+        ],
+        "lastHeard": "16-Jul 9:29",
+        "updatedAt": "2026-07-31T07:00:24.712Z"
+      },
+      "subscription": {
+        "total": 41.05,
+        "applications": 1153140,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 97.25
+          },
+          {
+            "category": "NII",
+            "times": 45.69
+          },
+          {
+            "category": "bNII",
+            "times": 50.32
+          },
+          {
+            "category": "sNII",
+            "times": 36.43
+          },
+          {
+            "category": "Retail",
+            "times": 6.95
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.119Z"
+      },
+      "listing": {
+        "price": 250,
+        "currentPrice": 262.42,
+        "listingGainPercent": 16.82,
+        "currentGainPercent": 22.63
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.751Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/laser-power-and-infra",
+        "apply": "https://www.iposathi.com/ipo/laser-power-and-infra/apply",
+        "source": "https://www.chittorgarh.com/ipo/laser-power-infra-ipo/2654/"
+      },
+      "updatedAt": "2026-07-31T07:00:24.923Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "devson-catalyst",
+      "name": "Devson Catalyst",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 112,
+        "max": 118,
+        "display": "₹112–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹42 Cr",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "listing": "2026-07-16"
+      },
+      "gmp": {
+        "value": 49,
+        "percent": 41.53,
+        "xLot": 58800.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 49
+          },
+          {
+            "date": "2026-07-24",
+            "value": 49
+          },
+          {
+            "date": "2026-07-25",
+            "value": 49
+          },
+          {
+            "date": "2026-07-26",
+            "value": 49
+          },
+          {
+            "date": "2026-07-27",
+            "value": 49
+          },
+          {
+            "date": "2026-07-28",
+            "value": 49
+          },
+          {
+            "date": "2026-07-29",
+            "value": 49
+          },
+          {
+            "date": "2026-07-30",
+            "value": 49
+          },
+          {
+            "date": "2026-07-31",
+            "value": 49
+          }
+        ],
+        "lastHeard": "16-Jul 9:37",
+        "updatedAt": "2026-07-31T07:18:00.069Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 196.15,
+        "currentPrice": 205.95,
+        "listingGainPercent": 66.23,
+        "currentGainPercent": 74.53
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.769Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/devson-catalyst",
+        "apply": "https://www.iposathi.com/ipo/devson-catalyst/apply",
+        "source": "https://www.chittorgarh.com/ipo/devson-catalyst-ipo/2943/"
+      },
+      "updatedAt": "2026-07-31T07:18:00.383Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "kusumgar",
+      "name": "Kusumgar",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 398,
+        "max": 419,
+        "display": "₹398–419"
+      },
+      "lotSize": 35,
+      "issueSize": "₹650 Cr",
+      "dates": {
+        "open": "2026-07-08",
+        "close": "2026-07-10",
+        "allotment": "2026-07-13",
+        "listing": "2026-07-15"
+      },
+      "gmp": {
+        "value": 161,
+        "percent": 38.42,
+        "xLot": 5635.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 161
+          },
+          {
+            "date": "2026-07-24",
+            "value": 161
+          },
+          {
+            "date": "2026-07-25",
+            "value": 161
+          },
+          {
+            "date": "2026-07-26",
+            "value": 161
+          },
+          {
+            "date": "2026-07-27",
+            "value": 161
+          },
+          {
+            "date": "2026-07-28",
+            "value": 161
+          },
+          {
+            "date": "2026-07-29",
+            "value": 161
+          }
+        ],
+        "lastHeard": "15-Jul 9:33",
+        "updatedAt": "2026-07-29T07:26:00.159Z"
+      },
+      "subscription": {
+        "total": 135.8,
+        "applications": 3719690,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 299.51
+          },
+          {
+            "category": "NII",
+            "times": 174.28
+          },
+          {
+            "category": "bNII",
+            "times": 189.4
+          },
+          {
+            "category": "sNII",
+            "times": 144.05
+          },
+          {
+            "category": "Retail",
+            "times": 27.97
+          },
+          {
+            "category": "Employee",
+            "times": 11.09
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.125Z"
+      },
+      "listing": {
+        "price": 569,
+        "currentPrice": 602.8,
+        "listingGainPercent": 35.8,
+        "currentGainPercent": 43.87
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-20T12:00:19.706Z"
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/kusumgar",
+        "apply": "https://www.iposathi.com/ipo/kusumgar/apply",
+        "source": "https://www.chittorgarh.com/ipo/kusumgar-ipo/2670/"
+      },
+      "updatedAt": "2026-07-30T11:01:19.342Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "ic-electricals",
+      "name": "IC Electricals Co.",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 94,
+        "max": 99,
+        "display": "₹94–99"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹48 Cr",
+      "dates": {
+        "open": "2026-07-03",
+        "close": "2026-07-07",
+        "allotment": "2026-07-08",
+        "listing": "2026-07-10"
+      },
+      "gmp": {
+        "value": 47,
+        "percent": 47.47,
+        "xLot": 56400.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 47
+          },
+          {
+            "date": "2026-07-24",
+            "value": 47
+          },
+          {
+            "date": "2026-07-25",
+            "value": 47
+          },
+          {
+            "date": "2026-07-26",
+            "value": 47
+          },
+          {
+            "date": "2026-07-27",
+            "value": 47
+          },
+          {
+            "date": "2026-07-28",
+            "value": 47
+          },
+          {
+            "date": "2026-07-29",
+            "value": 47
+          }
+        ],
+        "lastHeard": "10-Jul 9:35",
+        "updatedAt": "2026-07-29T07:26:00.159Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 166,
+        "currentPrice": 174.3,
+        "listingGainPercent": 67.68,
+        "currentGainPercent": 76.06
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.302Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/ic-electricals",
+        "apply": "https://www.iposathi.com/ipo/ic-electricals/apply",
+        "source": "https://www.chittorgarh.com/ipo/ic-electricals-ipo/2754/"
+      },
+      "updatedAt": "2026-07-30T11:30:39.322Z",
+      "lastScrapedAt": "2026-07-23T04:00:09.384Z"
+    },
+    {
+      "slug": "knack-packaging",
+      "name": "Knack Packaging",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 161,
+        "max": 170,
+        "display": "₹161–170"
+      },
+      "lotSize": 88,
+      "issueSize": "₹439 Cr",
+      "dates": {
+        "open": "2026-07-01",
+        "close": "2026-07-03",
+        "allotment": "2026-07-06",
+        "listing": "2026-07-08"
+      },
+      "gmp": {
+        "value": 13,
+        "percent": 7.65,
+        "xLot": 1144.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 13
+          },
+          {
+            "date": "2026-07-24",
+            "value": 13
+          },
+          {
+            "date": "2026-07-25",
+            "value": 13
+          },
+          {
+            "date": "2026-07-26",
+            "value": 13
+          },
+          {
+            "date": "2026-07-27",
+            "value": 13
+          }
+        ],
+        "lastHeard": "8-Jul 9:30",
+        "updatedAt": "2026-07-27T05:30:19.287Z"
+      },
+      "subscription": {
+        "total": 87.17,
+        "applications": 1986659,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 160.22
+          },
+          {
+            "category": "NII",
+            "times": 146.64
+          },
+          {
+            "category": "bNII",
+            "times": 163.91
+          },
+          {
+            "category": "sNII",
+            "times": 112.09
+          },
+          {
+            "category": "Retail",
+            "times": 21.09
+          },
+          {
+            "category": "Employee",
+            "times": 9.84
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.130Z"
+      },
+      "listing": {
+        "price": 188,
+        "currentPrice": 182.98,
+        "listingGainPercent": 10.59,
+        "currentGainPercent": 7.64
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.758Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/knack-packaging",
+        "apply": "https://www.iposathi.com/ipo/knack-packaging/apply",
+        "source": "https://www.chittorgarh.com/ipo/knack-packaging-ipo/2592/"
+      },
+      "updatedAt": "2026-07-30T11:30:44.459Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "kratikal-tech",
+      "name": "Kratikal Tech",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 128,
+        "max": 135,
+        "display": "₹128–135"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹40 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 78,
+        "percent": 57.78,
+        "xLot": 78000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 78
+          },
+          {
+            "date": "2026-07-24",
+            "value": 78
+          },
+          {
+            "date": "2026-07-25",
+            "value": 78
+          }
+        ],
+        "lastHeard": "7-Jul 9:31",
+        "updatedAt": "2026-07-25T17:38:00.035Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 192,
+        "currentPrice": 182.4,
+        "listingGainPercent": 42.22,
+        "currentGainPercent": 35.11
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.936Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/kratikal-tech",
+        "apply": "https://www.iposathi.com/ipo/kratikal-tech/apply",
+        "source": "https://www.chittorgarh.com/ipo/kratikal-tech-ipo/2844/"
+      },
+      "updatedAt": "2026-07-30T11:31:04.422Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "sampark-india-logistics",
+      "name": "Sampark India Logistics",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 80,
+        "max": 84,
+        "display": "₹80–84"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹27 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 2.5,
+        "percent": 2.98,
+        "xLot": 4000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 2.5
+          },
+          {
+            "date": "2026-07-24",
+            "value": 2.5
+          }
+        ],
+        "lastHeard": "7-Jul 9:28",
+        "updatedAt": "2026-07-24T09:46:00.023Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 89,
+        "currentPrice": 93.45,
+        "listingGainPercent": 5.95,
+        "currentGainPercent": 11.25
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "maashitla",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/sampark-india-logistics",
+        "apply": "https://www.iposathi.com/ipo/sampark-india-logistics/apply",
+        "source": "https://www.chittorgarh.com/ipo/sampark-india-logistics-ipo/2711/"
+      },
+      "updatedAt": "2026-07-30T11:30:49.320Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "teja-engineering-industries",
+      "name": "Teja Engineering Industries",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 220,
+        "max": 220,
+        "display": "₹220–220"
+      },
+      "lotSize": 600,
+      "issueSize": "₹37 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 36,
+        "percent": 16.36,
+        "xLot": 21600.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 36
+          },
+          {
+            "date": "2026-07-24",
+            "value": 36
+          }
+        ],
+        "lastHeard": "7-Jul 9:35",
+        "updatedAt": "2026-07-24T14:00:24.480Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 418,
+        "currentPrice": 438.9,
+        "listingGainPercent": 90.0,
+        "currentGainPercent": 99.5
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.932Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/teja-engineering-industries",
+        "apply": "https://www.iposathi.com/ipo/teja-engineering-industries/apply",
+        "source": "https://www.chittorgarh.com/ipo/teja-engineering-industries-ipo/2308/"
+      },
+      "updatedAt": "2026-07-30T11:30:54.410Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "atharva-polyplast",
+      "name": "Atharva Polyplast",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 55,
+        "max": 60,
+        "display": "₹55–60"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹27 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 10,
+        "percent": 16.67,
+        "xLot": 20000.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 10
+          },
+          {
+            "date": "2026-07-24",
+            "value": 10
+          },
+          {
+            "date": "2026-07-25",
+            "value": 10
+          }
+        ],
+        "lastHeard": "7-Jul 9:35",
+        "updatedAt": "2026-07-25T08:54:00.100Z"
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 69,
+        "currentPrice": 72.45,
+        "listingGainPercent": 15.0,
+        "currentGainPercent": 20.75
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/atharva-polyplast",
+        "apply": "https://www.iposathi.com/ipo/atharva-polyplast/apply",
+        "source": "https://www.chittorgarh.com/ipo/atharva-polyplast-ipo/2653/"
+      },
+      "updatedAt": "2026-07-30T11:30:59.451Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "seemax-resources",
+      "name": "Seemax Resources",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 134,
+        "max": 141,
+        "display": "₹134–141"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹20 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 112.8,
+        "currentPrice": 107.2,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -23.97
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "cameo",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/seemax-resources",
+        "apply": "https://www.iposathi.com/ipo/seemax-resources/apply",
+        "source": "https://www.chittorgarh.com/ipo/seemax-resources-ipo/2707/"
+      },
+      "updatedAt": "2026-07-30T11:31:14.541Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "vinit-mobile",
+      "name": "Vinit Mobile",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 150,
+        "max": 158,
+        "display": "₹150–158"
+      },
+      "lotSize": 800,
+      "issueSize": "₹34 Cr",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "listing": "2026-07-07"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 155,
+        "currentPrice": 147.25,
+        "listingGainPercent": -1.9,
+        "currentGainPercent": -6.8
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/vinit-mobile",
+        "apply": "https://www.iposathi.com/ipo/vinit-mobile/apply",
+        "source": "https://www.chittorgarh.com/ipo/vinit-mobile-ipo/2831/"
+      },
+      "updatedAt": "2026-07-30T11:31:09.455Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "adon-agro-commodities",
+      "name": "Adon Agro Commodities",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 66,
+        "max": 70,
+        "display": "₹66–70"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹44 Cr",
+      "dates": {
+        "open": "2026-06-29",
+        "close": "2026-07-01",
+        "allotment": "2026-07-02",
+        "listing": "2026-07-06"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 78.25,
+        "currentPrice": 82.16,
+        "listingGainPercent": 11.79,
+        "currentGainPercent": 17.37
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.942Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/adon-agro-commodities",
+        "apply": "https://www.iposathi.com/ipo/adon-agro-commodities/apply",
+        "source": "https://www.chittorgarh.com/ipo/adon-agro-commodities-ipo/2467/"
+      },
+      "updatedAt": "2026-07-30T12:00:39.517Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "aastha-spintex",
+      "name": "Aastha Spintex",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 125,
+        "max": 136,
+        "display": "₹125–136"
+      },
+      "lotSize": 110,
+      "issueSize": "₹170 Cr",
+      "dates": {
+        "open": "2026-06-29",
+        "close": "2026-07-01",
+        "allotment": "2026-07-02",
+        "listing": "2026-07-06"
+      },
+      "gmp": {
+        "value": 5,
+        "percent": 3.68,
+        "xLot": 550.0,
+        "history": [
+          {
+            "date": "2026-07-23",
+            "value": 5
+          }
+        ],
+        "lastHeard": "6-Jul 9:33",
+        "updatedAt": "2026-07-23T06:30:00.158Z"
+      },
+      "subscription": {
+        "total": 5.05,
+        "applications": 111665,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 3.59
+          },
+          {
+            "category": "NII",
+            "times": 8.29
+          },
+          {
+            "category": "bNII",
+            "times": 9.11
+          },
+          {
+            "category": "sNII",
+            "times": 6.66
+          },
+          {
+            "category": "Retail",
+            "times": 2.54
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.136Z"
+      },
+      "listing": {
+        "price": 130,
+        "currentPrice": 136.49,
+        "listingGainPercent": -4.41,
+        "currentGainPercent": 0.36
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/aastha-spintex",
+        "apply": "https://www.iposathi.com/ipo/aastha-spintex/apply",
+        "source": "https://www.chittorgarh.com/ipo/aastha-spintex-ipo/2678/"
+      },
+      "updatedAt": "2026-07-30T11:31:19.447Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "crazy-snacks",
+      "name": "Crazy Snacks",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 39,
+        "max": 42,
+        "display": "₹39–42"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹31 Cr",
+      "dates": {
+        "open": "2026-06-25",
+        "close": "2026-06-30",
+        "allotment": "2026-07-01",
+        "listing": "2026-07-03"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 44,
+        "currentPrice": 45.67,
+        "listingGainPercent": 4.76,
+        "currentGainPercent": 8.74
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.947Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/crazy-snacks",
+        "apply": "https://www.iposathi.com/ipo/crazy-snacks/apply",
+        "source": "https://www.chittorgarh.com/ipo/crazy-snacks-ipo/2133/"
+      },
+      "updatedAt": "2026-07-30T12:00:44.504Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "csm-technologies",
+      "name": "CSM Technologies",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 107,
+        "max": 113,
+        "display": "₹107–113"
+      },
+      "lotSize": 132,
+      "issueSize": "₹146 Cr",
+      "dates": {
+        "open": "2026-06-24",
+        "close": "2026-06-29",
+        "allotment": "2026-06-30",
+        "listing": "2026-07-02"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 1.37,
+        "applications": 45816,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 1.02
+          },
+          {
+            "category": "NII",
+            "times": 1.54
+          },
+          {
+            "category": "bNII",
+            "times": 1.65
+          },
+          {
+            "category": "sNII",
+            "times": 1.33
+          },
+          {
+            "category": "Retail",
+            "times": 1.63
+          },
+          {
+            "category": "Employee",
+            "times": 1.82
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.140Z"
+      },
+      "listing": {
+        "price": 113,
+        "currentPrice": 107.35,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.906Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/csm-technologies",
+        "apply": "https://www.iposathi.com/ipo/csm-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/csm-technologies-ipo/2641/"
+      },
+      "updatedAt": "2026-07-30T12:00:49.476Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "shreedhar-spinners",
+      "name": "Shreedhar Spinners",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 51,
+        "max": 53,
+        "display": "₹51–53"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹31 Cr",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "listing": "2026-07-01"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 54.4,
+        "currentPrice": 57.1,
+        "listingGainPercent": 2.64,
+        "currentGainPercent": 7.74
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.774Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/shreedhar-spinners",
+        "apply": "https://www.iposathi.com/ipo/shreedhar-spinners/apply",
+        "source": "https://www.chittorgarh.com/ipo/shreedhar-spinners-ipo/2851/"
+      },
+      "updatedAt": "2026-07-30T12:00:54.504Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "jivial-industries",
+      "name": "Jivial Industries",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 196,
+        "max": 196,
+        "display": "₹196–196"
+      },
+      "lotSize": 600,
+      "issueSize": "₹32 Cr",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "listing": "2026-07-01"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 156.8,
+        "currentPrice": 161.7,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -17.5
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/jivial-industries",
+        "apply": "https://www.iposathi.com/ipo/jivial-industries/apply",
+        "source": "https://www.chittorgarh.com/ipo/jivial-industries-ipo/2771/"
+      },
+      "updatedAt": "2026-07-30T12:01:04.543Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "advit-jewels",
+      "name": "Advit Jewels",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 130,
+        "max": 138,
+        "display": "₹130–138"
+      },
+      "lotSize": 100,
+      "issueSize": "₹165 Cr",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "listing": "2026-07-01"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 212.63,
+        "applications": 3204037,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 174.98
+          },
+          {
+            "category": "NII",
+            "times": 536.38
+          },
+          {
+            "category": "bNII",
+            "times": 554.12
+          },
+          {
+            "category": "sNII",
+            "times": 502.25
+          },
+          {
+            "category": "Retail",
+            "times": 95.3
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.150Z"
+      },
+      "listing": {
+        "price": 188.9,
+        "currentPrice": 179.46,
+        "listingGainPercent": 36.88,
+        "currentGainPercent": 30.04
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/advit-jewels",
+        "apply": "https://www.iposathi.com/ipo/advit-jewels/apply",
+        "source": "https://www.chittorgarh.com/ipo/advit-jewels-ipo/2686/"
+      },
+      "updatedAt": "2026-07-30T12:00:59.415Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "waterways-leisure-tourism",
+      "name": "Waterways Leisure Tourism",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 769,
+        "max": 808,
+        "display": "₹769–808"
+      },
+      "lotSize": 18,
+      "issueSize": "₹585 Cr",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "listing": "2026-07-01"
+      },
+      "gmp": {
+        "value": -51,
+        "percent": -6.31,
+        "xLot": -918.0,
+        "history": [],
+        "lastHeard": "1-Jul 9:36",
+        "updatedAt": "2026-07-22T05:18:00.090Z"
+      },
+      "subscription": {
+        "total": 1.53,
+        "applications": 115477,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 0.72
+          },
+          {
+            "category": "NII",
+            "times": 1.23
+          },
+          {
+            "category": "bNII",
+            "times": 0.94
+          },
+          {
+            "category": "sNII",
+            "times": 1.83
+          },
+          {
+            "category": "Retail",
+            "times": 4.4
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.145Z"
+      },
+      "listing": {
+        "price": 681,
+        "currentPrice": 668.1,
+        "listingGainPercent": -15.72,
+        "currentGainPercent": -17.31
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.764Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/waterways-leisure-tourism",
+        "apply": "https://www.iposathi.com/ipo/waterways-leisure-tourism/apply",
+        "source": "https://www.chittorgarh.com/ipo/cordelia-cruises-ipo/2474/"
+      },
+      "updatedAt": "2026-07-30T12:01:09.548Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "anubhav-plast",
+      "name": "Anubhav Plast",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 77,
+        "max": 80,
+        "display": "₹77–80"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹24 Cr",
+      "dates": {
+        "open": "2026-06-19",
+        "close": "2026-06-23",
+        "allotment": "2026-06-24",
+        "listing": "2026-06-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 80,
+        "currentPrice": 76,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/anubhav-plast",
+        "apply": "https://www.iposathi.com/ipo/anubhav-plast/apply",
+        "source": "https://www.chittorgarh.com/ipo/anubhav-plast-ipo/2610/"
+      },
+      "updatedAt": "2026-07-30T12:01:14.603Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "turtlemint-fintech-solutions",
+      "name": "Turtlemint Fintech Solutions",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 144,
+        "max": 152,
+        "display": "₹144–152"
+      },
+      "lotSize": 98,
+      "issueSize": "₹883 Cr",
+      "dates": {
+        "open": "2026-06-19",
+        "close": "2026-06-23",
+        "allotment": "2026-06-24",
+        "listing": "2026-06-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 1.24,
+        "applications": 52935,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 1.63
+          },
+          {
+            "category": "NII",
+            "times": 0.55
+          },
+          {
+            "category": "bNII",
+            "times": 0.54
+          },
+          {
+            "category": "sNII",
+            "times": 0.56
+          },
+          {
+            "category": "Retail",
+            "times": 1.11
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.154Z"
+      },
+      "listing": {
+        "price": 134.9,
+        "currentPrice": 135.37,
+        "listingGainPercent": -11.25,
+        "currentGainPercent": -10.94
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.912Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/turtlemint-fintech-solutions",
+        "apply": "https://www.iposathi.com/ipo/turtlemint-fintech-solutions/apply",
+        "source": "https://www.chittorgarh.com/ipo/turtlemint-fintech-solutions-ipo/2601/"
+      },
+      "updatedAt": "2026-07-30T12:01:19.478Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "riyaasat-lifestyle",
+      "name": "Riyaasat Lifestyle",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 100,
+        "max": 106,
+        "display": "₹100–106"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹30 Cr",
+      "dates": {
+        "open": "2026-06-18",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "listing": "2026-07-01"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 84.8,
+        "currentPrice": 80.6,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -23.96
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.320Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/riyaasat-lifestyle",
+        "apply": "https://www.iposathi.com/ipo/riyaasat-lifestyle/apply",
+        "source": "https://www.chittorgarh.com/ipo/riyaasat-lifestyle-ipo/2538/"
+      },
+      "updatedAt": "2026-07-30T12:30:39.431Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "avience-biomedicals",
+      "name": "Avience Biomedicals",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 196,
+        "max": 208,
+        "display": "₹196–208"
+      },
+      "lotSize": 600,
+      "issueSize": "₹30 Cr",
+      "dates": {
+        "open": "2026-06-18",
+        "close": "2026-06-22",
+        "allotment": "2026-06-23",
+        "listing": "2026-06-25"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 395.2,
+        "currentPrice": 414.95,
+        "listingGainPercent": 90.0,
+        "currentGainPercent": 99.5
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.326Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/avience-biomedicals",
+        "apply": "https://www.iposathi.com/ipo/avience-biomedicals/apply",
+        "source": "https://www.chittorgarh.com/ipo/avience-biomedicals-ipo/2184/"
+      },
+      "updatedAt": "2026-07-30T12:30:44.430Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "liotech-industries",
+      "name": "Liotech Industries",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 321,
+        "max": 321,
+        "display": "₹321–321"
+      },
+      "lotSize": 400,
+      "issueSize": "₹36 Cr",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "listing": "2026-06-24"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 257,
+        "currentPrice": 244.15,
+        "listingGainPercent": -19.94,
+        "currentGainPercent": -23.94
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.951Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/liotech-industries",
+        "apply": "https://www.iposathi.com/ipo/liotech-industries/apply",
+        "source": "https://www.chittorgarh.com/ipo/liotech-industries-ipo/2367/"
+      },
+      "updatedAt": "2026-07-30T12:30:49.483Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "leapfrog-engineering",
+      "name": "Leapfrog Engineering",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 21,
+        "max": 23,
+        "display": "₹21–23"
+      },
+      "lotSize": 6000,
+      "issueSize": "₹89 Cr",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "listing": "2026-06-24"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 22,
+        "currentPrice": 23.1,
+        "listingGainPercent": -4.35,
+        "currentGainPercent": 0.43
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "integrated",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/leapfrog-engineering",
+        "apply": "https://www.iposathi.com/ipo/leapfrog-engineering/apply",
+        "source": "https://www.chittorgarh.com/ipo/leapfrog-engineering-ipo/2107/"
+      },
+      "updatedAt": "2026-07-30T12:30:54.506Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "diksha-polymers",
+      "name": "Diksha Polymers",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 112,
+        "max": 112,
+        "display": "₹112–112"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹18 Cr",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "listing": "2026-06-24"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 114.5,
+        "currentPrice": 120.2,
+        "listingGainPercent": 2.23,
+        "currentGainPercent": 7.32
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "cameo",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/diksha-polymers",
+        "apply": "https://www.iposathi.com/ipo/diksha-polymers/apply",
+        "source": "https://www.chittorgarh.com/ipo/diksha-polymers-ipo/2568/"
+      },
+      "updatedAt": "2026-07-30T12:30:59.467Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "clay-craft",
+      "name": "Clay Craft",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 193,
+        "max": 203,
+        "display": "₹193–203"
+      },
+      "lotSize": 600,
+      "issueSize": "₹110 Cr",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "listing": "2026-06-24"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 211,
+        "currentPrice": 221.55,
+        "listingGainPercent": 3.94,
+        "currentGainPercent": 9.14
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.956Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/clay-craft",
+        "apply": "https://www.iposathi.com/ipo/clay-craft/apply",
+        "source": "https://www.chittorgarh.com/ipo/clay-craft-ipo/2585/"
+      },
+      "updatedAt": "2026-07-30T12:31:04.422Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "horizon-reclaim-india",
+      "name": "Horizon Reclaim (India)",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 98,
+        "max": 103,
+        "display": "₹98–103"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹54 Cr",
+      "dates": {
+        "open": "2026-06-12",
+        "close": "2026-06-16",
+        "allotment": "2026-06-17",
+        "listing": "2026-06-19"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 151,
+        "currentPrice": 147.3,
+        "listingGainPercent": 46.6,
+        "currentGainPercent": 43.01
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.962Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/horizon-reclaim-india",
+        "apply": "https://www.iposathi.com/ipo/horizon-reclaim-india/apply",
+        "source": "https://www.chittorgarh.com/ipo/horizon-reclaim-india-ipo/2937/"
+      },
+      "updatedAt": "2026-07-30T12:31:09.420Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "susan-electricals-india",
+      "name": "Susan Electricals India",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 120,
+        "max": 127,
+        "display": "₹120–127"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹70 Cr",
+      "dates": {
+        "open": "2026-06-11",
+        "close": "2026-06-15",
+        "allotment": "2026-06-16",
+        "listing": "2026-06-18"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 186,
+        "currentPrice": 195.3,
+        "listingGainPercent": 46.46,
+        "currentGainPercent": 53.78
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "mudra",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/susan-electricals-india",
+        "apply": "https://www.iposathi.com/ipo/susan-electricals-india/apply",
+        "source": "https://www.chittorgarh.com/ipo/susan-electricals-india-ipo/2872/"
+      },
+      "updatedAt": "2026-07-30T12:31:14.332Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "utkal-speciality",
+      "name": "Utkal Speciality",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 62,
+        "max": 66,
+        "display": "₹62–66"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹35 Cr",
+      "dates": {
+        "open": "2026-06-10",
+        "close": "2026-06-12",
+        "allotment": "2026-06-15",
+        "listing": "2026-06-17"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 66,
+        "currentPrice": 62.7,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "cameo",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/utkal-speciality",
+        "apply": "https://www.iposathi.com/ipo/utkal-speciality/apply",
+        "source": "https://www.chittorgarh.com/ipo/utkal-speciality-ipo/2638/"
+      },
+      "updatedAt": "2026-07-30T12:31:19.411Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "genxai-analytics",
+      "name": "Genxai Analytics",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 110,
+        "max": 116,
+        "display": "₹110–116"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹55 Cr",
+      "dates": {
+        "open": "2026-06-05",
+        "close": "2026-06-09",
+        "allotment": "2026-06-10",
+        "listing": "2026-06-12"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 92.8,
+        "currentPrice": 97.4,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -16.03
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/genxai-analytics",
+        "apply": "https://www.iposathi.com/ipo/genxai-analytics/apply",
+        "source": "https://www.chittorgarh.com/ipo/genxai-analytics-ipo/2801/"
+      },
+      "updatedAt": "2026-07-30T13:00:44.563Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "hexagon-nutrition",
+      "name": "Hexagon Nutrition",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 42,
+        "max": 45,
+        "display": "₹42–45"
+      },
+      "lotSize": 333,
+      "issueSize": "₹139 Cr",
+      "dates": {
+        "open": "2026-06-05",
+        "close": "2026-06-09",
+        "allotment": "2026-06-10",
+        "listing": "2026-06-12"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 53.68,
+        "applications": 771182,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 19.77
+          },
+          {
+            "category": "NII",
+            "times": 161.49
+          },
+          {
+            "category": "bNII",
+            "times": 183.16
+          },
+          {
+            "category": "sNII",
+            "times": 118.15
+          },
+          {
+            "category": "Retail",
+            "times": 26.85
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.159Z"
+      },
+      "listing": {
+        "price": 53.19,
+        "currentPrice": 53.19,
+        "listingGainPercent": 18.2,
+        "currentGainPercent": 18.2
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.917Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/hexagon-nutrition",
+        "apply": "https://www.iposathi.com/ipo/hexagon-nutrition/apply",
+        "source": "https://www.chittorgarh.com/ipo/hexagon-nutrition-ipo/2658/"
+      },
+      "updatedAt": "2026-07-30T13:00:39.622Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "uhm-vacation",
+      "name": "UHM Vacation",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 157,
+        "max": 166,
+        "display": "₹157–166"
+      },
+      "lotSize": 800,
+      "issueSize": "₹36 Cr",
+      "dates": {
+        "open": "2026-06-04",
+        "close": "2026-06-08",
+        "allotment": "2026-06-09",
+        "listing": "2026-06-11"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 132.8,
+        "currentPrice": 126.2,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -23.98
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.779Z"
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/uhm-vacation",
+        "apply": "https://www.iposathi.com/ipo/uhm-vacation/apply",
+        "source": "https://www.chittorgarh.com/ipo/uhm-vacation-ipo/2841/"
+      },
+      "updatedAt": "2026-07-30T13:00:54.630Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "vahh-chemicals",
+      "name": "Vahh Chemicals",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 60,
+        "max": 60,
+        "display": "₹60–60"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹13 Cr",
+      "dates": {
+        "open": "2026-06-04",
+        "close": "2026-06-08",
+        "allotment": "2026-06-09",
+        "listing": "2026-06-11"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 70,
+        "currentPrice": 66.5,
+        "listingGainPercent": 16.67,
+        "currentGainPercent": 10.83
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.967Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/vahh-chemicals",
+        "apply": "https://www.iposathi.com/ipo/vahh-chemicals/apply",
+        "source": "https://www.chittorgarh.com/ipo/vahh-chemicals-ipo/2802/"
+      },
+      "updatedAt": "2026-07-30T13:00:49.346Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "cmr-green-technologies",
+      "name": "CMR Green Technologies",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 182,
+        "max": 192,
+        "display": "₹182–192"
+      },
+      "lotSize": 78,
+      "issueSize": "₹631 Cr",
+      "dates": {
+        "open": "2026-06-03",
+        "close": "2026-06-05",
+        "allotment": "2026-06-08",
+        "listing": "2026-06-10"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 127.07,
+        "applications": 3377379,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 270.46
+          },
+          {
+            "category": "NII",
+            "times": 172.35
+          },
+          {
+            "category": "bNII",
+            "times": 187.21
+          },
+          {
+            "category": "sNII",
+            "times": 142.61
+          },
+          {
+            "category": "Retail",
+            "times": 27.08
+          },
+          {
+            "category": "Employee",
+            "times": 18.53
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.164Z"
+      },
+      "listing": {
+        "price": 268,
+        "currentPrice": 241.2,
+        "listingGainPercent": 39.58,
+        "currentGainPercent": 25.62
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.922Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/cmr-green-technologies",
+        "apply": "https://www.iposathi.com/ipo/cmr-green-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/cmr-green-technologies-ipo/2586/"
+      },
+      "updatedAt": "2026-07-30T13:00:59.428Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "merritronix",
+      "name": "Merritronix",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 141,
+        "max": 149,
+        "display": "₹141–149"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹70 Cr",
+      "dates": {
+        "open": "2026-06-01",
+        "close": "2026-06-03",
+        "allotment": "2026-06-04",
+        "listing": "2026-06-08"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 283.1,
+        "currentPrice": 297.25,
+        "listingGainPercent": 90.0,
+        "currentGainPercent": 99.5
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/merritronix",
+        "apply": "https://www.iposathi.com/ipo/merritronix/apply",
+        "source": "https://www.chittorgarh.com/ipo/merritronix-ipo/2961/"
+      },
+      "updatedAt": "2026-07-30T13:01:04.458Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "aureate-tradde",
+      "name": "Aureate Tradde",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 70,
+        "max": 70,
+        "display": "₹70–70"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹27 Cr",
+      "dates": {
+        "open": "2026-05-29",
+        "close": "2026-06-02",
+        "allotment": "2026-06-03",
+        "listing": "2026-06-05"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 70,
+        "currentPrice": 66.5,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -5.0
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/aureate-tradde",
+        "apply": "https://www.iposathi.com/ipo/aureate-tradde/apply",
+        "source": "https://www.chittorgarh.com/ipo/aureate-tradde-ipo/2817/"
+      },
+      "updatedAt": "2026-07-30T13:01:09.511Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "smr-jewels",
+      "name": "SMR Jewels",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 125,
+        "max": 128,
+        "display": "₹125–128"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹64 Cr",
+      "dates": {
+        "open": "2026-05-26",
+        "close": "2026-06-03",
+        "allotment": "2026-06-04",
+        "listing": "2026-06-08"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 102.95,
+        "currentPrice": 103.05,
+        "listingGainPercent": -19.57,
+        "currentGainPercent": -19.49
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "purva",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/smr-jewels",
+        "apply": "https://www.iposathi.com/ipo/smr-jewels/apply",
+        "source": "https://www.chittorgarh.com/ipo/smr-jewels-ipo/2597/"
+      },
+      "updatedAt": "2026-07-30T13:01:14.404Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "rajnandini-fashion-india",
+      "name": "Rajnandini Fashion India",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 59,
+        "max": 63,
+        "display": "₹59–63"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹18 Cr",
+      "dates": {
+        "open": "2026-05-26",
+        "close": "2026-05-29",
+        "allotment": "2026-06-01",
+        "listing": "2026-06-03"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 63,
+        "currentPrice": 60.57,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": -3.86
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/rajnandini-fashion-india",
+        "apply": "https://www.iposathi.com/ipo/rajnandini-fashion-india/apply",
+        "source": "https://www.chittorgarh.com/ipo/rajnandini-fashion-india-ipo/2729/"
+      },
+      "updatedAt": "2026-07-30T13:01:19.479Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "yaashvi-jewellers",
+      "name": "Yaashvi Jewellers",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 83,
+        "max": 83,
+        "display": "₹83–83"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹44 Cr",
+      "dates": {
+        "open": "2026-05-25",
+        "close": "2026-05-27",
+        "allotment": "2026-05-29",
+        "listing": "2026-06-02"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 83,
+        "currentPrice": 87.05,
+        "listingGainPercent": 0.0,
+        "currentGainPercent": 4.88
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/yaashvi-jewellers",
+        "apply": "https://www.iposathi.com/ipo/yaashvi-jewellers/apply",
+        "source": "https://www.chittorgarh.com/ipo/yaashvi-jewellers-ipo/2820/"
+      },
+      "updatedAt": "2026-07-30T13:30:39.378Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "m-r-maniveni",
+      "name": "M R Maniveni",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 51,
+        "max": 52,
+        "display": "₹51–52"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹27 Cr",
+      "dates": {
+        "open": "2026-05-22",
+        "close": "2026-05-26",
+        "allotment": "2026-05-27",
+        "listing": "2026-06-01"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 42.55,
+        "currentPrice": 41.13,
+        "listingGainPercent": -18.17,
+        "currentGainPercent": -20.9
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/m-r-maniveni",
+        "apply": "https://www.iposathi.com/ipo/m-r-maniveni/apply",
+        "source": "https://www.chittorgarh.com/ipo/m-r-maniveni-ipo/2627/"
+      },
+      "updatedAt": "2026-07-30T13:30:44.558Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "bio-medica-laboratories",
+      "name": "Bio Medica Laboratories",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 132,
+        "max": 139,
+        "display": "₹132–139"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹52 Cr",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "listing": "2026-05-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 111.2,
+        "currentPrice": 115.8,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -16.69
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.337Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/bio-medica-laboratories",
+        "apply": "https://www.iposathi.com/ipo/bio-medica-laboratories/apply",
+        "source": "https://www.chittorgarh.com/ipo/bio-medica-laboratories-ipo/2564/"
+      },
+      "updatedAt": "2026-07-30T13:30:54.510Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "q-line-biotec",
+      "name": "Q-Line Biotec",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 326,
+        "max": 343,
+        "display": "₹326–343"
+      },
+      "lotSize": 400,
+      "issueSize": "₹214 Cr",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "listing": "2026-05-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 452,
+        "currentPrice": 474.6,
+        "listingGainPercent": 31.78,
+        "currentGainPercent": 38.37
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "purva",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/q-line-biotec",
+        "apply": "https://www.iposathi.com/ipo/q-line-biotec/apply",
+        "source": "https://www.chittorgarh.com/ipo/q-line-biotec-ipo/2745/"
+      },
+      "updatedAt": "2026-07-30T13:30:59.421Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "autofurnish",
+      "name": "Autofurnish",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 41,
+        "max": 41,
+        "display": "₹41–41"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹15 Cr",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "listing": "2026-05-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 43,
+        "currentPrice": 45.15,
+        "listingGainPercent": 4.88,
+        "currentGainPercent": 10.12
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.331Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/autofurnish",
+        "apply": "https://www.iposathi.com/ipo/autofurnish/apply",
+        "source": "https://www.chittorgarh.com/ipo/autofurnish-ipo/2738/"
+      },
+      "updatedAt": "2026-07-30T13:30:49.336Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "vegorama-punjabi-angithi",
+      "name": "Vegorama Punjabi Angithi",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 73,
+        "max": 77,
+        "display": "₹73–77"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹38 Cr",
+      "dates": {
+        "open": "2026-05-20",
+        "close": "2026-05-22",
+        "allotment": "2026-05-25",
+        "listing": "2026-05-27"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 118.1,
+        "currentPrice": 124,
+        "listingGainPercent": 53.38,
+        "currentGainPercent": 61.04
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/vegorama-punjabi-angithi",
+        "apply": "https://www.iposathi.com/ipo/vegorama-punjabi-angithi/apply",
+        "source": "https://www.chittorgarh.com/ipo/vegorama-punjabi-angithi-ipo/2477/"
+      },
+      "updatedAt": "2026-07-30T13:31:09.345Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "harikanta-overseas",
+      "name": "Harikanta Overseas",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 86,
+        "max": 91,
+        "display": "₹86–91"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24 Cr",
+      "dates": {
+        "open": "2026-05-20",
+        "close": "2026-05-27",
+        "allotment": "2026-05-29",
+        "listing": "2026-06-02"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 79.75,
+        "currentPrice": 75.77,
+        "listingGainPercent": -12.36,
+        "currentGainPercent": -16.74
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/harikanta-overseas",
+        "apply": "https://www.iposathi.com/ipo/harikanta-overseas/apply",
+        "source": "https://www.chittorgarh.com/ipo/harikanta-overseas-ipo/2697/"
+      },
+      "updatedAt": "2026-07-30T13:31:04.350Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "teamtech-formwork-solutions",
+      "name": "Teamtech Formwork Solutions",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 61,
+        "max": 63,
+        "display": "₹61–63"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹50 Cr",
+      "dates": {
+        "open": "2026-05-19",
+        "close": "2026-05-21",
+        "allotment": "2026-05-22",
+        "listing": "2026-05-26"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 75,
+        "currentPrice": 72.75,
+        "listingGainPercent": 19.05,
+        "currentGainPercent": 15.48
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.973Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/teamtech-formwork-solutions",
+        "apply": "https://www.iposathi.com/ipo/teamtech-formwork-solutions/apply",
+        "source": "https://www.chittorgarh.com/ipo/teamtech-formwork-solutions-ipo/2964/"
+      },
+      "updatedAt": "2026-07-30T13:31:14.345Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "nfp-sampoorna-foods",
+      "name": "NFP Sampoorna Foods",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 52,
+        "max": 55,
+        "display": "₹52–55"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹25 Cr",
+      "dates": {
+        "open": "2026-05-18",
+        "close": "2026-05-20",
+        "allotment": "2026-05-21",
+        "listing": "2026-05-25"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 54.5,
+        "currentPrice": 51.8,
+        "listingGainPercent": -0.91,
+        "currentGainPercent": -5.82
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.342Z"
+      },
+      "registrar": "skyline",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/nfp-sampoorna-foods",
+        "apply": "https://www.iposathi.com/ipo/nfp-sampoorna-foods/apply",
+        "source": "https://www.chittorgarh.com/ipo/nfp-sampoorna-foods-ipo/2397/"
+      },
+      "updatedAt": "2026-07-30T13:31:19.432Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "goldline-pharmaceutical",
+      "name": "Goldline Pharmaceutical",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 41,
+        "max": 43,
+        "display": "₹41–43"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹12 Cr",
+      "dates": {
+        "open": "2026-05-12",
+        "close": "2026-05-14",
+        "allotment": "2026-05-15",
+        "listing": "2026-05-19"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 59.75,
+        "currentPrice": 56.77,
+        "listingGainPercent": 38.95,
+        "currentGainPercent": 32.02
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/goldline-pharmaceutical",
+        "apply": "https://www.iposathi.com/ipo/goldline-pharmaceutical/apply",
+        "source": "https://www.chittorgarh.com/ipo/goldline-pharmaceutical-ipo/2773/"
+      },
+      "updatedAt": "2026-07-30T14:00:44.534Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "rfbl-flexi-pack",
+      "name": "RFBL Flexi Pack",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 47,
+        "max": 50,
+        "display": "₹47–50"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹35 Cr",
+      "dates": {
+        "open": "2026-05-12",
+        "close": "2026-05-14",
+        "allotment": "2026-05-15",
+        "listing": "2026-05-19"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 52.5,
+        "currentPrice": 55.1,
+        "listingGainPercent": 5.0,
+        "currentGainPercent": 10.2
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.977Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/rfbl-flexi-pack",
+        "apply": "https://www.iposathi.com/ipo/rfbl-flexi-pack/apply",
+        "source": "https://www.chittorgarh.com/ipo/rfbl-flexi-pack-ipo/2962/"
+      },
+      "updatedAt": "2026-07-30T14:00:39.515Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "simca-advertising",
+      "name": "Simca Advertising",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 174,
+        "max": 183,
+        "display": "₹174–183"
+      },
+      "lotSize": 600,
+      "issueSize": "₹58 Cr",
+      "dates": {
+        "open": "2026-05-08",
+        "close": "2026-05-12",
+        "allotment": "2026-05-13",
+        "listing": "2026-05-15"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 156,
+        "currentPrice": 163.8,
+        "listingGainPercent": -14.75,
+        "currentGainPercent": -10.49
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/simca-advertising",
+        "apply": "https://www.iposathi.com/ipo/simca-advertising/apply",
+        "source": "https://www.chittorgarh.com/ipo/simca-advertising-ipo/2512/"
+      },
+      "updatedAt": "2026-07-30T14:00:49.450Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "bagmane-prime-office",
+      "name": "Bagmane Prime Office",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 95,
+        "max": 100,
+        "display": "₹95–100"
+      },
+      "lotSize": 150,
+      "issueSize": "₹3,405 Cr",
+      "dates": {
+        "open": "2026-05-05",
+        "close": "2026-05-07",
+        "allotment": "2026-05-12",
+        "listing": "2026-05-15"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 103.4,
+        "currentPrice": 103.66,
+        "listingGainPercent": 3.4,
+        "currentGainPercent": 3.66
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/bagmane-prime-office",
+        "apply": "https://www.iposathi.com/ipo/bagmane-prime-office/apply",
+        "source": "https://www.chittorgarh.com/ipo/bagmane-reit/3090/"
+      },
+      "updatedAt": "2026-07-30T14:00:59.317Z",
+      "lastScrapedAt": "2026-07-23T04:00:09.384Z"
+    },
+    {
+      "slug": "recode-studios",
+      "name": "Recode Studios",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "BSE",
+      "priceBand": {
+        "min": 150,
+        "max": 158,
+        "display": "₹150–158"
+      },
+      "lotSize": 800,
+      "issueSize": "₹45 Cr",
+      "dates": {
+        "open": "2026-05-05",
+        "close": "2026-05-07",
+        "allotment": "2026-05-08",
+        "listing": "2026-05-12"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 213.1,
+        "currentPrice": 223.75,
+        "listingGainPercent": 34.87,
+        "currentGainPercent": 41.61
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "mudra",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/recode-studios",
+        "apply": "https://www.iposathi.com/ipo/recode-studios/apply",
+        "source": "https://www.chittorgarh.com/ipo/recode-studios-ipo/2825/"
+      },
+      "updatedAt": "2026-07-30T14:00:54.429Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "value-360-communications",
+      "name": "Value 360 Communications",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 95,
+        "max": 98,
+        "display": "₹95–98"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹42 Cr",
+      "dates": {
+        "open": "2026-05-04",
+        "close": "2026-05-06",
+        "allotment": "2026-05-07",
+        "listing": "2026-05-11"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 78.4,
+        "currentPrice": 82.3,
+        "listingGainPercent": -20.0,
+        "currentGainPercent": -16.02
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.983Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/value-360-communications",
+        "apply": "https://www.iposathi.com/ipo/value-360-communications/apply",
+        "source": "https://www.chittorgarh.com/ipo/value-360-communications-ipo/2552/"
+      },
+      "updatedAt": "2026-07-30T14:01:04.614Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "onemi-technology",
+      "name": "OnEMI Technology Solutions (Kissht)",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE, BSE",
+      "priceBand": {
+        "min": 162,
+        "max": 171,
+        "display": "₹162–171"
+      },
+      "lotSize": 87,
+      "issueSize": "₹926 Cr",
+      "dates": {
+        "open": "2026-04-30",
+        "close": "2026-05-05",
+        "allotment": "2026-05-06",
+        "listing": "2026-05-08"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": 9.96,
+        "applications": 153474,
+        "byCategory": [
+          {
+            "category": "QIB",
+            "times": 25.97
+          },
+          {
+            "category": "NII",
+            "times": 6.91
+          },
+          {
+            "category": "bNII",
+            "times": 8.59
+          },
+          {
+            "category": "sNII",
+            "times": 3.53
+          },
+          {
+            "category": "Retail",
+            "times": 2.13
+          }
+        ],
+        "updatedAt": "2026-07-22T17:31:09.169Z"
+      },
+      "listing": {
+        "price": 190,
+        "currentPrice": 208.63,
+        "listingGainPercent": 11.11,
+        "currentGainPercent": 22.01
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.927Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/onemi-technology",
+        "apply": "https://www.iposathi.com/ipo/onemi-technology/apply",
+        "source": "https://www.chittorgarh.com/ipo/onemi-technology-ipo/2576/"
+      },
+      "updatedAt": "2026-07-30T14:01:09.437Z",
+      "lastScrapedAt": "2026-07-23T04:00:09.384Z"
+    },
+    {
+      "slug": "amba-auto-sales-and-services",
+      "name": "Amba Auto Sales & Services",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 130,
+        "max": 135,
+        "display": "₹130–135"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹65 Cr",
+      "dates": {
+        "open": "2026-04-27",
+        "close": "2026-04-29",
+        "allotment": "2026-04-30",
+        "listing": "2026-05-05"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 134.5,
+        "currentPrice": 135.15,
+        "listingGainPercent": -0.37,
+        "currentGainPercent": 0.11
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "bigshare",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/amba-auto-sales-and-services",
+        "apply": "https://www.iposathi.com/ipo/amba-auto-sales-and-services/apply",
+        "source": "https://www.chittorgarh.com/ipo/amba-auto-sales-services-ipo/2644/"
+      },
+      "updatedAt": "2026-07-30T14:01:14.507Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "adisoft-technologies",
+      "name": "Adisoft Technologies",
+      "type": "sme",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 163,
+        "max": 172,
+        "display": "₹163–172"
+      },
+      "lotSize": 800,
+      "issueSize": "₹74 Cr",
+      "dates": {
+        "open": "2026-04-23",
+        "close": "2026-04-27",
+        "allotment": "2026-04-28",
+        "listing": "2026-04-30"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 205,
+        "currentPrice": 215.25,
+        "listingGainPercent": 19.19,
+        "currentGainPercent": 25.15
+      },
+      "allotment": {
+        "out": true,
+        "outAt": "2026-07-21T17:20:01.988Z"
+      },
+      "registrar": "kfintech",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/adisoft-technologies",
+        "apply": "https://www.iposathi.com/ipo/adisoft-technologies/apply",
+        "source": "https://www.chittorgarh.com/ipo/adisoft-technologies-ipo/2788/"
+      },
+      "updatedAt": "2026-07-30T14:01:19.480Z",
+      "lastScrapedAt": "2026-07-19T17:00:00.003Z"
+    },
+    {
+      "slug": "citius-transnet-investment-trust",
+      "name": "Citius Transnet Investment Trust",
+      "type": "mainboard",
+      "status": "listed",
+      "sector": null,
+      "exchange": "NSE",
+      "priceBand": {
+        "min": 99,
+        "max": 100,
+        "display": "₹99–100"
+      },
+      "lotSize": 150,
+      "issueSize": "₹1,105 Cr",
+      "dates": {
+        "open": "2026-04-17",
+        "close": "2026-04-21",
+        "allotment": "2026-04-24",
+        "listing": "2026-04-29"
+      },
+      "gmp": {
+        "value": 0,
+        "percent": 0,
+        "xLot": 0.0,
+        "history": [],
+        "lastHeard": null,
+        "updatedAt": null
+      },
+      "subscription": {
+        "total": null,
+        "applications": null,
+        "byCategory": [],
+        "updatedAt": null
+      },
+      "listing": {
+        "price": 104.5,
+        "currentPrice": 106.19,
+        "listingGainPercent": 4.5,
+        "currentGainPercent": 6.19
+      },
+      "allotment": {
+        "out": false,
+        "outAt": null
+      },
+      "registrar": "linkintime",
+      "urls": {
+        "iposathi": "https://www.iposathi.com/ipo/citius-transnet-investment-trust",
+        "apply": "https://www.iposathi.com/ipo/citius-transnet-investment-trust/apply",
+        "source": "https://www.chittorgarh.com/ipo/citius-transnet-invit-ipo/2862/"
+      },
+      "updatedAt": "2026-07-30T14:30:39.651Z",
+      "lastScrapedAt": "2026-07-23T04:00:09.384Z"
+    }
+  ],
+  "buybacks": [],
+  "registrars": []
+}

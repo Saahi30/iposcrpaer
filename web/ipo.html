@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IPO Desk</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./detail.css" />
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true"></div>
+
+    <header class="top detail-top">
+      <div>
+        <a class="back-link" href="./index.html">← All IPOs</a>
+        <div class="brand detail-brand">
+          <p class="brand-mark" id="name">Loading…</p>
+          <p class="brand-tag" id="tagline"></p>
+        </div>
+      </div>
+      <div class="meta" id="meta">
+        <span class="meta-dot" aria-hidden="true"></span>
+        <span id="scrapedAt">…</span>
+      </div>
+    </header>
+
+    <main class="detail-main" id="app">
+      <p class="empty" id="error">Loading IPO details…</p>
+    </main>
+
+    <footer class="foot">
+      <p>
+        Sourced from Chittorgarh for your site. GMP is unofficial and not investment advice.
+      </p>
+    </footer>
+
+    <script src="./detail.js" type="module"></script>
+  </body>
+</html>

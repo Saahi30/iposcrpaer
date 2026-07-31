@@ -1,0 +1,955 @@
+{
+  "scrapedAt": "2026-07-31T08:00:37+00:00",
+  "source": "https://www.chittorgarh.com/",
+  "feeds": {
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/7/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/2026/2026-27/0/all?search="
+  },
+  "filters": {
+    "status": [
+      "open"
+    ],
+    "type": null,
+    "details": true,
+    "limit": null
+  },
+  "summary": {
+    "open": 8,
+    "upcoming": 0,
+    "closed": 0,
+    "listed": 0,
+    "other": 0,
+    "total": 8
+  },
+  "ipos": [
+    {
+      "slug": "fusion-klassroom-edutech-ipo",
+      "ipoId": 2867,
+      "name": "Fusion Klassroom Edutech",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 151.0,
+        "max": 159.0,
+        "display": "₹151–159"
+      },
+      "lotSize": 800,
+      "issueSize": "₹39.04 Cr",
+      "issueSizeCr": 39.04,
+      "freshIssueCr": 29.67,
+      "ofsCr": 7.41,
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "listing": "2026-08-07"
+      },
+      "gmp": {
+        "value": 7.0,
+        "percent": 4.4,
+        "xLot": 5600.0,
+        "updatedOn": "31-Jul 12:36"
+      },
+      "subscription": {
+        "total": 0.46,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "6,96,800",
+            "Shares bid for": "6,96,800",
+            "Total Amt* (₹ Cr.)": "11.079",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.47",
+            "Shares Offered*": "4,64,800",
+            "Shares bid for": "2,20,000",
+            "Total Amt* (₹ Cr.)": "3.498",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.12",
+            "Shares Offered*": "3,52,800",
+            "Shares bid for": "42,400",
+            "Total Amt* (₹ Cr.)": "0.674",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.18",
+            "Shares Offered*": "2,35,200",
+            "Shares bid for": "42,400",
+            "Total Amt* (₹ Cr.)": "0.674",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "1,17,600",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.59",
+            "Shares Offered*": "8,17,600",
+            "Shares bid for": "4,83,200",
+            "Total Amt* (₹ Cr.)": "7.683",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.46",
+            "Shares Offered*": "16,35,200",
+            "Shares bid for": "7,45,600",
+            "Total Amt* (₹ Cr.)": "11.855",
+            "Total Applications": "312"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Narnolia Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/klassroom-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/fusion-klassroom-edutech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fusion-klassroom-edutech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+        "gmp": "https://www.investorgain.com/gmp/fusion-klassroom-edutech-ipo/2130/"
+      },
+      "gmpId": 2130,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2016, Fusion Klassroom Edutech Ltd. is an education technology company focused on providing professional and competitive examination coaching through digital and hybrid learning models across multiple cities. The company offers coaching programs for courses such as CA, CS, CMA, and other commerce-related examinations. It combines classroom teaching with online platforms to enhance accessibility and learning flexibility.\n\nThe company operates a proprietary AI-powered Education OTT",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "gv-electricals-ipo",
+      "ipoId": 2985,
+      "name": "G.V. Electricals",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 123.0,
+        "max": 130.0,
+        "display": "₹123–130"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹42.25 Cr",
+      "issueSizeCr": 42.25,
+      "freshIssueCr": 35.36,
+      "ofsCr": 3.25,
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "listing": "2026-08-07"
+      },
+      "gmp": {
+        "value": 25.0,
+        "percent": 19.23,
+        "xLot": 25000.0,
+        "updatedOn": "31-Jul 12:28"
+      },
+      "subscription": {
+        "total": 1.68,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "8,88,000",
+            "Shares bid for": "8,88,000",
+            "Total Amt* (₹ Cr.)": "11.544",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "3.52",
+            "Shares Offered*": "5,92,000",
+            "Shares bid for": "20,82,000",
+            "Total Amt* (₹ Cr.)": "27.066",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "1.21",
+            "Shares Offered*": "4,50,000",
+            "Shares bid for": "5,44,000",
+            "Total Amt* (₹ Cr.)": "7.072",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "1.53",
+            "Shares Offered*": "3,00,000",
+            "Shares bid for": "4,58,000",
+            "Total Amt* (₹ Cr.)": "5.954",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.57",
+            "Shares Offered*": "1,50,000",
+            "Shares bid for": "86,000",
+            "Total Amt* (₹ Cr.)": "1.118",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.84",
+            "Shares Offered*": "10,40,000",
+            "Shares bid for": "8,74,000",
+            "Total Amt* (₹ Cr.)": "11.362",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "1.68",
+            "Shares Offered*": "20,82,000",
+            "Shares bid for": "35,00,000",
+            "Total Amt* (₹ Cr.)": "45.500",
+            "Total Applications": "474"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Seren Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/gv-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=gv-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/",
+        "gmp": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/"
+      },
+      "gmpId": 2246,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in1985, G.V. Electricals Limited is an power distribution infrastructure service provider that provides operation, maintenance, and support services mainly to India's electricity distribution utilities.\n\nThe company operates in three business verticals:-\n\nThe company supports maintenance and operations of electrical distribution systems at various voltage levels, including 33 kV, 11 kV, and LT networks. It provides O&M for 33/11 kV substations and deploys technical staff for field t",
+      "registrar": "Mudra RTA Ventures Private Limited"
+    },
+    {
+      "slug": "juniper-green-energy-ipo",
+      "ipoId": 2492,
+      "name": "Juniper Green Energy",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 214.0,
+        "max": 225.0,
+        "display": "₹214–225"
+      },
+      "lotSize": 66,
+      "issueSize": "₹1800.00 Cr",
+      "issueSizeCr": 1800.0,
+      "freshIssueCr": 1800.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 6.0,
+        "percent": 2.67,
+        "xLot": 396.0,
+        "updatedOn": "31-Jul 12:35"
+      },
+      "subscription": {
+        "total": 0.47,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "2,39,73,333",
+            "Shares bid for": "2,39,73,333",
+            "Total Amt* (₹ Cr.)": "539.400"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "1.25",
+            "Shares Offered*": "1,59,82,222",
+            "Shares bid for": "1,99,28,898",
+            "Total Amt* (₹ Cr.)": "448.400"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "0.07",
+            "Shares Offered*": "1,19,86,667",
+            "Shares bid for": "8,76,942",
+            "Total Amt* (₹ Cr.)": "19.731"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.04",
+            "Shares Offered*": "79,91,111",
+            "Shares bid for": "3,08,154",
+            "Total Amt* (₹ Cr.)": "6.933"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.14",
+            "Shares Offered*": "39,95,556",
+            "Shares bid for": "5,68,788",
+            "Total Amt* (₹ Cr.)": "12.798"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "0.20",
+            "Shares Offered*": "2,79,68,889",
+            "Shares bid for": "55,14,300",
+            "Total Amt* (₹ Cr.)": "124.072"
+          },
+          {
+            "Category": "Employees",
+            "Subscription (x)": "1.62",
+            "Shares Offered*": "98,039",
+            "Shares bid for": "1,58,598",
+            "Total Amt* (₹ Cr.)": "3.568"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.47",
+            "Shares Offered*": "5,60,35,817",
+            "Shares bid for": "2,64,78,738",
+            "Total Amt* (₹ Cr.)": "595.772"
+          }
+        ],
+        "applications": 65382.0
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/juniper-green-energy-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/juniper-green-energy-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=juniper-green-energy-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/juniper-green-energy-ipo/2492/",
+        "gmp": "https://www.investorgain.com/gmp/juniper-green-energy-ipo/1809/"
+      },
+      "gmpId": 1809,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2011, Juniper Green Energy Limited is one of India's leading renewable energy independent power producers (IPPs), engaged in developing, building, operating, and maintaining utility-scale renewable energy projects. The company develops solar, wind, Wind-Solar Hybrid (WSH), and Firm & Dispatchable Renewable Energy (FDRE) projects with Battery Energy Storage Systems (BESS), generating revenue through long-term power purchase agreements with central and state government-backed entit",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "oneindig-technologies-ipo",
+      "ipoId": 2646,
+      "name": "Oneindig Technologies",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 91.0,
+        "max": 96.0,
+        "display": "₹91–96"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹27.65 Cr",
+      "issueSizeCr": 27.65,
+      "freshIssueCr": 26.27,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "31-Jul 12:37"
+      },
+      "subscription": {
+        "total": 0.59,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "8,16,000",
+            "Shares bid for": "8,16,000",
+            "Total Amt* (₹ Cr.)": "7.834",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,44,000",
+            "Shares bid for": "1,44,000",
+            "Total Amt* (₹ Cr.)": "1.382",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.63",
+            "Shares Offered*": "5,46,000",
+            "Shares bid for": "3,42,000",
+            "Total Amt* (₹ Cr.)": "3.283",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.21",
+            "Shares Offered*": "4,14,000",
+            "Shares bid for": "87,600",
+            "Total Amt* (₹ Cr.)": "0.841",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.21",
+            "Shares Offered*": "2,76,000",
+            "Shares bid for": "57,600",
+            "Total Amt* (₹ Cr.)": "0.553",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.22",
+            "Shares Offered*": "1,38,000",
+            "Shares bid for": "30,000",
+            "Total Amt* (₹ Cr.)": "0.288",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.73",
+            "Shares Offered*": "9,60,000",
+            "Shares bid for": "6,96,000",
+            "Total Amt* (₹ Cr.)": "6.682",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.59",
+            "Shares Offered*": "19,20,000",
+            "Shares bid for": "11,25,600",
+            "Total Amt* (₹ Cr.)": "10.806",
+            "Total Applications": "302"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Share India Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/oneinding-technologies-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/oneindig-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=oneindig-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/oneindig-technologies-ipo/2646/",
+        "gmp": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/"
+      },
+      "gmpId": 1916,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in November 2016, Oneindig Technologies Limited is a renewable energy company engaged in providing Engineering, Procurement and Commissioning (EPC) services for solar power projects across India. The company offers end-to-end turnkey solar solutions, including residential, commercial & industrial (C&I) rooftop, ground-mounted solar projects, solar water pumps, Operations & Maintenance (O&M) services, and Independent Power Producer (IPP) activities through Power Purchase Agreements (",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "mv-electrosystems-ipo",
+      "ipoId": 2800,
+      "name": "MV Electrosystems",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 400.0,
+        "max": 425.0,
+        "display": "₹400–425"
+      },
+      "lotSize": 34,
+      "issueSize": "₹290.00 Cr",
+      "issueSizeCr": 290.0,
+      "freshIssueCr": 290.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 133.0,
+        "percent": 31.29,
+        "xLot": 4522.0,
+        "updatedOn": "31-Jul 12:34"
+      },
+      "subscription": {
+        "total": 8.72,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "30,70,587",
+            "Shares bid for": "30,70,587",
+            "Total Amt* (₹ Cr.)": "130.50"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.90",
+            "Shares Offered*": "20,47,060",
+            "Shares bid for": "18,33,348",
+            "Total Amt* (₹ Cr.)": "77.92"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "9.97",
+            "Shares Offered*": "10,23,529",
+            "Shares bid for": "1,01,99,626",
+            "Total Amt* (₹ Cr.)": "433.48"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "7.30",
+            "Shares Offered*": "6,82,353",
+            "Shares bid for": "49,80,218",
+            "Total Amt* (₹ Cr.)": "211.66"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "15.30",
+            "Shares Offered*": "3,41,176",
+            "Shares bid for": "52,19,408",
+            "Total Amt* (₹ Cr.)": "221.82"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "30.30",
+            "Shares Offered*": "6,82,353",
+            "Shares bid for": "2,06,76,012",
+            "Total Amt* (₹ Cr.)": "878.73"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "8.72",
+            "Shares Offered*": "37,52,942",
+            "Shares bid for": "3,27,08,986",
+            "Total Amt* (₹ Cr.)": "1,390.13"
+          }
+        ],
+        "applications": 491250.0
+      },
+      "leadManager": "Sundae Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mv-electrosystem-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/mv-electrosystems-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=mv-electrosystems-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mv-electrosystems-ipo/2800/",
+        "gmp": "https://www.investorgain.com/gmp/mv-electrosystems-ipo/2054/"
+      },
+      "gmpId": 2054,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, MV Electrosystems Ltd. is engaged in engaged in the design, development, assembly and manufacturing of electrical & power electronics equipment used in railway rolling stock including IGBT based 3-Phase Drive Propulsion equipment for electric locomotives, switchgear panels for railway coaches & EMU’s, cable protection & management products and electrical components, systems & sub-systems.\n\nThe company operate within India’s rail infrastructure transition driven by mandated ",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "dhaval-packaging-ipo",
+      "ipoId": 2835,
+      "name": "Dhaval Packaging",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 92.0,
+        "max": 97.0,
+        "display": "₹92–97"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹36.36 Cr",
+      "issueSizeCr": 36.36,
+      "freshIssueCr": 34.54,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "listing": "2026-08-06"
+      },
+      "gmp": {
+        "value": 12.0,
+        "percent": 12.37,
+        "xLot": 14400.0,
+        "updatedOn": "31-Jul 12:29"
+      },
+      "subscription": {
+        "total": 1.08,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "10,30,800",
+            "Shares bid for": "10,30,800",
+            "Total Amt* (₹ Cr.)": "9.999",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,88,400",
+            "Shares bid for": "1,88,400",
+            "Total Amt* (₹ Cr.)": "1.827",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "1.05",
+            "Shares Offered*": "6,87,600",
+            "Shares bid for": "7,23,600",
+            "Total Amt* (₹ Cr.)": "7.019",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.98",
+            "Shares Offered*": "5,17,200",
+            "Shares bid for": "5,07,600",
+            "Total Amt* (₹ Cr.)": "4.924",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "1.00",
+            "Shares Offered*": "3,44,400",
+            "Shares bid for": "3,43,200",
+            "Total Amt* (₹ Cr.)": "3.329",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.95",
+            "Shares Offered*": "1,72,800",
+            "Shares bid for": "1,64,400",
+            "Total Amt* (₹ Cr.)": "1.595",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "1.24",
+            "Shares Offered*": "12,04,800",
+            "Shares bid for": "14,88,000",
+            "Total Amt* (₹ Cr.)": "14.434",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Employees",
+            "Subscription (x)": "0.14",
+            "Shares Offered*": "1,20,000",
+            "Shares bid for": "16,800",
+            "Total Amt* (₹ Cr.)": "0.163",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "1.08",
+            "Shares Offered*": "25,29,600",
+            "Shares bid for": "27,36,000",
+            "Total Amt* (₹ Cr.)": "26.539",
+            "Total Applications": "689"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Rarever Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhaval-packaging-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/dhaval-packaging-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=dhaval-packaging-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhaval-packaging-ipo/2835/",
+        "gmp": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/"
+      },
+      "gmpId": 2087,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in November 2015, Dhaval Packaging Limited is engaged in the design, manufacturing, and supply of plastic packaging solutions for the food, FMCG, and industrial sectors. The company primarily manufactures In-Mold Labeling (IML) food containers and SAW Pipe Protection Plastic Caps (End Caps), serving both domestic and international customers. Its packaging solutions cater to industries including dairy, sweets, bakery, confectionery, frozen foods, pharmaceuticals, agro products, oil &",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "hr-hygiene-products-ipo",
+      "ipoId": 2713,
+      "name": "H.R. Hygiene Products",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 83.0,
+        "max": 88.0,
+        "display": "₹83–88"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹53.95 Cr",
+      "issueSizeCr": 53.95,
+      "freshIssueCr": 40.44,
+      "ofsCr": 10.79,
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "listing": "2026-08-05"
+      },
+      "gmp": {
+        "value": 1.0,
+        "percent": 1.14,
+        "xLot": 1600.0,
+        "updatedOn": "31-Jul 12:33"
+      },
+      "subscription": {
+        "total": 2.95,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "16,86,400",
+            "Shares bid for": "16,86,400",
+            "Total Amt* (₹ Cr.)": "14.840",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "3,10,400",
+            "Shares bid for": "3,10,400",
+            "Total Amt* (₹ Cr.)": "2.732",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "1.34",
+            "Shares Offered*": "12,22,400",
+            "Shares bid for": "16,33,600",
+            "Total Amt* (₹ Cr.)": "14.376",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "4.37",
+            "Shares Offered*": "8,73,600",
+            "Shares bid for": "38,19,200",
+            "Total Amt* (₹ Cr.)": "33.609",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "4.60",
+            "Shares Offered*": "5,82,400",
+            "Shares bid for": "26,78,400",
+            "Total Amt* (₹ Cr.)": "23.570",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "3.92",
+            "Shares Offered*": "2,91,200",
+            "Shares bid for": "11,40,800",
+            "Total Amt* (₹ Cr.)": "10.039",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "3.30",
+            "Shares Offered*": "20,38,400",
+            "Shares bid for": "67,23,200",
+            "Total Amt* (₹ Cr.)": "59.164",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "2.95",
+            "Shares Offered*": "41,34,400",
+            "Shares bid for": "1,21,76,000",
+            "Total Amt* (₹ Cr.)": "107.149",
+            "Total Applications": "2,569"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Marwadi Chandarana Intermediaries",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/h-r-hygiene-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hr-hygiene-products-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hr-hygiene-products-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hr-hygiene-products-ipo/2713/",
+        "gmp": "https://www.investorgain.com/gmp/hr-hygiene-products-ipo/1972/"
+      },
+      "gmpId": 1972,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2016, H.R. Hygiene Products Limited is engaged in the manufacturing and marketing of hygiene products (sanitary napkins). The company operates under multiple in-house brands Femiss, Womanica, ElderFit, and Bloom Baby designed to address hygiene and personal care needs across various consumer segments, from babies and young women to the elderly. The company’s core business focuses on sanitary napkins, which it manufactures under both its own brands and white-label arrangements for",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
+    {
+      "slug": "manipal-health-enterprises-ipo",
+      "ipoId": 2956,
+      "name": "Manipal Health Enterprises",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 560.0,
+        "max": 590.0,
+        "display": "₹560–590"
+      },
+      "lotSize": 25,
+      "issueSize": "₹9275.22 Cr",
+      "issueSizeCr": 9275.22,
+      "freshIssueCr": 8000.0,
+      "ofsCr": 1275.22,
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "listing": "2026-08-05"
+      },
+      "gmp": {
+        "value": 2.5,
+        "percent": 0.42,
+        "xLot": 62.5,
+        "updatedOn": "31-Jul 12:29"
+      },
+      "subscription": {
+        "total": 1.72,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "7,06,28,768",
+            "Shares bid for": "7,06,28,768",
+            "Total Amt* (₹ Cr.)": "4,167.097"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "2.80",
+            "Shares Offered*": "4,70,85,844",
+            "Shares bid for": "13,19,39,025",
+            "Total Amt* (₹ Cr.)": "7,784.402"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "0.28",
+            "Shares Offered*": "2,35,42,922",
+            "Shares bid for": "64,86,750",
+            "Total Amt* (₹ Cr.)": "382.718"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.28",
+            "Shares Offered*": "1,56,95,282",
+            "Shares bid for": "44,26,250",
+            "Total Amt* (₹ Cr.)": "261.149"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.26",
+            "Shares Offered*": "78,47,641",
+            "Shares bid for": "20,60,500",
+            "Total Amt* (₹ Cr.)": "121.570"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "0.64",
+            "Shares Offered*": "1,56,95,282",
+            "Shares bid for": "1,00,59,150",
+            "Total Amt* (₹ Cr.)": "593.490"
+          },
+          {
+            "Category": "Employees",
+            "Subscription (x)": "1.98",
+            "Shares Offered*": "2,80,899",
+            "Shares bid for": "5,56,850",
+            "Total Amt* (₹ Cr.)": "32.854"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "1.72",
+            "Shares Offered*": "8,66,04,947",
+            "Shares bid for": "14,90,41,775",
+            "Total Amt* (₹ Cr.)": "8,793.465"
+          }
+        ],
+        "applications": 238644.0
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manipal-hospital-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/manipal-health-enterprises-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=manipal-health-enterprises-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-health-enterprises-ipo/2956/",
+        "gmp": "https://www.investorgain.com/gmp/manipal-health-enterprises-ipo/2217/"
+      },
+      "gmpId": 2217,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2010, Manipal Health Enterprises Limited is a healthcare service providers, operating a large network of multi-specialty hospitals, clinics, and diagnostic centres across the country. It is part of the Manipal Group, founded by T. M. A. Pai.vThe company offers a wide range of healthcare services including tertiary and quaternary care, organ transplants, oncology, cardiology, neurology, orthopaedics, and preventive healthcare. Its hospitals are equipped with advanced medical techn",
+      "registrar": "Kfin Technologies Ltd."
+    }
+  ]
+}
