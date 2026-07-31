@@ -435,8 +435,8 @@
     "source": "https://www.chittorgarh.com/ipo/dhaval-packaging-ipo/2835/"
   },
   "subscription": {
-    "summary": "Dhaval Packaging IPO subscribed 1.08 times. The public issue subscribed 1.24 times in the individual investors category, 1.05 times in QIB (Ex Anchor), and 0.98 times in the NII category by July 31, 2026 1:29:53 PM (Day 2).",
-    "total": 1.08,
+    "summary": "Dhaval Packaging IPO subscribed 1.40 times. The public issue subscribed 1.70 times in the individual investors category, 1.05 times in QIB (Ex Anchor), and 1.43 times in the NII category by July 31, 2026 5:05:52 PM (Day 2).",
+    "total": 1.4,
     "applications": null,
     "byCategory": [
       {
@@ -465,51 +465,51 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.98",
+        "Subscription (x)": "1.43",
         "Shares Offered*": "5,17,200",
-        "Shares bid for": "5,07,600",
-        "Total Amt* (₹ Cr.)": "4.924",
+        "Shares bid for": "7,39,200",
+        "Total Amt* (₹ Cr.)": "7.170",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.00",
+        "Subscription (x)": "1.47",
         "Shares Offered*": "3,44,400",
-        "Shares bid for": "3,43,200",
-        "Total Amt* (₹ Cr.)": "3.329",
+        "Shares bid for": "5,06,400",
+        "Total Amt* (₹ Cr.)": "4.912",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.95",
+        "Subscription (x)": "1.35",
         "Shares Offered*": "1,72,800",
-        "Shares bid for": "1,64,400",
-        "Total Amt* (₹ Cr.)": "1.595",
+        "Shares bid for": "2,32,800",
+        "Total Amt* (₹ Cr.)": "2.258",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.24",
+        "Subscription (x)": "1.70",
         "Shares Offered*": "12,04,800",
-        "Shares bid for": "14,88,000",
-        "Total Amt* (₹ Cr.)": "14.434",
+        "Shares bid for": "20,42,400",
+        "Total Amt* (₹ Cr.)": "19.811",
         "Total Applications": "0"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "0.22",
         "Shares Offered*": "1,20,000",
-        "Shares bid for": "16,800",
-        "Total Amt* (₹ Cr.)": "0.163",
+        "Shares bid for": "26,400",
+        "Total Amt* (₹ Cr.)": "0.256",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.08",
+        "Subscription (x)": "1.40",
         "Shares Offered*": "25,29,600",
-        "Shares bid for": "27,36,000",
-        "Total Amt* (₹ Cr.)": "26.539",
-        "Total Applications": "689"
+        "Shares bid for": "35,31,600",
+        "Total Amt* (₹ Cr.)": "34.257",
+        "Total Applications": "946"
       }
     ],
     "dayWise": [
@@ -526,12 +526,12 @@
       {
         "Date": "Jul 31 (Day 2)",
         "QIB (Ex Anchor)": "1.05",
-        "NII*": "0.98",
-        "NII (> ₹10L)": "1.00",
-        "NII (< ₹10L)": "0.95",
-        "Individual Investors": "1.24",
-        "EMP": "0.14",
-        "Total": "1.08"
+        "NII*": "1.43",
+        "NII (> ₹10L)": "1.47",
+        "NII (< ₹10L)": "1.35",
+        "Individual Investors": "1.70",
+        "EMP": "0.22",
+        "Total": "1.40"
       }
     ]
   },
@@ -557,7 +557,7 @@
       "value": 12.0,
       "percent": 12.37,
       "xLot": 14400.0,
-      "updatedOn": "31-Jul 12:29"
+      "updatedOn": "31-Jul 19:00"
     },
     "leadManager": "Rarever Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/dhaval-packaging-logo.png",
@@ -567,5 +567,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-07-31T08:00:28+00:00"
+  "scrapedAt": "2026-07-31T14:16:41+00:00"
 }

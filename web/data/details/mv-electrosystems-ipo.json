@@ -420,9 +420,9 @@
     "source": "https://www.chittorgarh.com/ipo/mv-electrosystems-ipo/2800/"
   },
   "subscription": {
-    "summary": "MV Electrosystems IPO subscribed 8.72 times. The public issue subscribed 30.30 times in the retail category, 0.90 times in QIB (Ex Anchor), and 9.97 times in the NII category by July 31, 2026 1:28:18 PM (Day 2).",
-    "total": 8.72,
-    "applications": 491250.0,
+    "summary": "MV Electrosystems IPO subscribed 12.79 times. The public issue subscribed 42.28 times in the retail category, 0.97 times in QIB (Ex Anchor), and 16.76 times in the NII category by July 31, 2026 5:04:18 PM (Day 2).",
+    "total": 12.79,
+    "applications": 707402.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -433,45 +433,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.90",
+        "Subscription (x)": "0.97",
         "Shares Offered*": "20,47,060",
-        "Shares bid for": "18,33,348",
-        "Total Amt* (₹ Cr.)": "77.92"
+        "Shares bid for": "19,81,724",
+        "Total Amt* (₹ Cr.)": "84.22"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "9.97",
+        "Subscription (x)": "16.76",
         "Shares Offered*": "10,23,529",
-        "Shares bid for": "1,01,99,626",
-        "Total Amt* (₹ Cr.)": "433.48"
+        "Shares bid for": "1,71,52,014",
+        "Total Amt* (₹ Cr.)": "728.96"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "7.30",
+        "Subscription (x)": "13.49",
         "Shares Offered*": "6,82,353",
-        "Shares bid for": "49,80,218",
-        "Total Amt* (₹ Cr.)": "211.66"
+        "Shares bid for": "92,08,186",
+        "Total Amt* (₹ Cr.)": "391.35"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "15.30",
+        "Subscription (x)": "23.28",
         "Shares Offered*": "3,41,176",
-        "Shares bid for": "52,19,408",
-        "Total Amt* (₹ Cr.)": "221.82"
+        "Shares bid for": "79,43,828",
+        "Total Amt* (₹ Cr.)": "337.61"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "30.30",
+        "Subscription (x)": "42.28",
         "Shares Offered*": "6,82,353",
-        "Shares bid for": "2,06,76,012",
-        "Total Amt* (₹ Cr.)": "878.73"
+        "Shares bid for": "2,88,49,884",
+        "Total Amt* (₹ Cr.)": "1,226.12"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "8.72",
+        "Subscription (x)": "12.79",
         "Shares Offered*": "37,52,942",
-        "Shares bid for": "3,27,08,986",
-        "Total Amt* (₹ Cr.)": "1,390.13"
+        "Shares bid for": "4,79,83,622",
+        "Total Amt* (₹ Cr.)": "2,039.30"
       }
     ],
     "dayWise": [
@@ -486,12 +486,12 @@
       },
       {
         "Date": "Jul 31 (Day 2)",
-        "QIB (Ex Anchor)": "0.90",
-        "NII": "9.97",
-        "NII (> ₹10L)": "7.30",
-        "NII (< ₹10L)": "15.30",
-        "Retail": "30.30",
-        "Total": "8.72"
+        "QIB (Ex Anchor)": "0.97",
+        "NII": "16.76",
+        "NII (> ₹10L)": "13.49",
+        "NII (< ₹10L)": "23.28",
+        "Retail": "42.28",
+        "Total": "12.79"
       }
     ]
   },
@@ -517,7 +517,7 @@
       "value": 133.0,
       "percent": 31.29,
       "xLot": 4522.0,
-      "updatedOn": "31-Jul 12:34"
+      "updatedOn": "31-Jul 18:54"
     },
     "leadManager": "Sundae Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/mv-electrosystem-logo.jpeg",
@@ -527,5 +527,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-07-31T08:00:26+00:00"
+  "scrapedAt": "2026-07-31T14:16:39+00:00"
 }
