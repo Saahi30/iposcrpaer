@@ -499,9 +499,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 560.0,
+      "min": 590.0,
       "max": 590.0,
-      "display": "₹560–590"
+      "display": "₹590"
     },
     "lotSize": 25,
     "issueSize": "₹9275.22 Cr",
@@ -512,10 +512,10 @@
       "listing": "2026-08-05"
     },
     "gmp": {
-      "value": -10.0,
-      "percent": -1.69,
-      "xLot": -250.0,
-      "updatedOn": "31-Jul 18:59"
+      "value": -15.0,
+      "percent": -2.54,
+      "xLot": -375.0,
+      "updatedOn": "31-Jul 23:29"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/manipal-hospital-ipo-logo.jpg",
@@ -525,5 +525,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-07-31T14:16:44+00:00"
+  "scrapedAt": "2026-07-31T19:39:51+00:00"
 }

@@ -477,9 +477,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 83.0,
+      "min": 88.0,
       "max": 88.0,
-      "display": "₹83–88"
+      "display": "₹88"
     },
     "lotSize": 1600,
     "issueSize": "₹53.95 Cr",
@@ -493,7 +493,7 @@
       "value": 2.0,
       "percent": 2.27,
       "xLot": 3200.0,
-      "updatedOn": "31-Jul 18:56"
+      "updatedOn": "31-Jul 23:33"
     },
     "leadManager": "Marwadi Chandarana Intermediaries",
     "logo": "https://www.chittorgarh.net/images/ipo/h-r-hygiene-logo.png",
@@ -503,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-07-31T14:16:42+00:00"
+  "scrapedAt": "2026-07-31T19:39:49+00:00"
 }
