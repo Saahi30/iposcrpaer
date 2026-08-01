@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-07-31T19:40:02+00:00",
+  "scrapedAt": "2026-08-01T03:20:07+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
-    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/7/2026/2026-27/0/all/0?search=&v=14-08",
-    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/2026/2026-27/0/all?search="
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/8/2026/2026-27/0/all?search="
   },
   "filters": {
     "status": [
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
+    "open": 6,
     "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 14
+    "total": 12
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 4.0,
         "percent": 2.52,
         "xLot": 3200.0,
-        "updatedOn": "31-Jul 23:30"
+        "updatedOn": "1-Aug 8:36"
       },
       "subscription": {
         "total": 0.79,
@@ -164,7 +164,7 @@
         "value": 25.0,
         "percent": 19.23,
         "xLot": 25000.0,
-        "updatedOn": "31-Jul 23:31"
+        "updatedOn": "1-Aug 8:35"
       },
       "subscription": {
         "total": 2.3,
@@ -277,7 +277,7 @@
         "value": 3.0,
         "percent": 1.33,
         "xLot": 198.0,
-        "updatedOn": "31-Jul 23:31"
+        "updatedOn": "1-Aug 8:32"
       },
       "subscription": {
         "total": 0.49,
@@ -390,7 +390,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Jul 23:32"
+        "updatedOn": "1-Aug 8:28"
       },
       "subscription": {
         "total": 0.79,
@@ -511,7 +511,7 @@
         "value": 133.0,
         "percent": 31.29,
         "xLot": 4522.0,
-        "updatedOn": "31-Jul 23:37"
+        "updatedOn": "1-Aug 8:33"
       },
       "subscription": {
         "total": 12.79,
@@ -617,7 +617,7 @@
         "value": 12.0,
         "percent": 12.37,
         "xLot": 14400.0,
-        "updatedOn": "31-Jul 23:30"
+        "updatedOn": "1-Aug 8:37"
       },
       "subscription": {
         "total": 1.4,
@@ -719,240 +719,6 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "hr-hygiene-products-ipo",
-      "ipoId": 2713,
-      "name": "H.R. Hygiene Products",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 83.0,
-        "max": 88.0,
-        "display": "₹83–88"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹53.95 Cr",
-      "issueSizeCr": 53.95,
-      "freshIssueCr": 40.44,
-      "ofsCr": 10.79,
-      "dates": {
-        "open": "2026-07-29",
-        "close": "2026-07-31",
-        "allotment": "2026-08-03",
-        "listing": "2026-08-05"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 2.27,
-        "xLot": 3200.0,
-        "updatedOn": "31-Jul 23:33"
-      },
-      "subscription": {
-        "total": 6.65,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "16,86,400",
-            "Shares bid for": "16,86,400",
-            "Total Amt* (₹ Cr.)": "14.840",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,10,400",
-            "Shares bid for": "3,10,400",
-            "Total Amt* (₹ Cr.)": "2.732",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "2.81",
-            "Shares Offered*": "12,22,400",
-            "Shares bid for": "34,30,400",
-            "Total Amt* (₹ Cr.)": "30.188",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "11.83",
-            "Shares Offered*": "8,73,600",
-            "Shares bid for": "1,03,36,000",
-            "Total Amt* (₹ Cr.)": "90.957",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "12.39",
-            "Shares Offered*": "5,82,400",
-            "Shares bid for": "72,17,600",
-            "Total Amt* (₹ Cr.)": "63.515",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "10.71",
-            "Shares Offered*": "2,91,200",
-            "Shares bid for": "31,18,400",
-            "Total Amt* (₹ Cr.)": "27.442",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "6.74",
-            "Shares Offered*": "20,38,400",
-            "Shares bid for": "1,37,44,000",
-            "Total Amt* (₹ Cr.)": "120.947",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "6.65",
-            "Shares Offered*": "41,34,400",
-            "Shares bid for": "2,75,10,400",
-            "Total Amt* (₹ Cr.)": "242.092",
-            "Total Applications": "5,525"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Marwadi Chandarana Intermediaries",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/h-r-hygiene-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/hr-hygiene-products-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hr-hygiene-products-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hr-hygiene-products-ipo/2713/",
-        "gmp": "https://www.investorgain.com/gmp/hr-hygiene-products-ipo/1972/"
-      },
-      "gmpId": 1972,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2016, H.R. Hygiene Products Limited is engaged in the manufacturing and marketing of hygiene products (sanitary napkins). The company operates under multiple in-house brands Femiss, Womanica, ElderFit, and Bloom Baby designed to address hygiene and personal care needs across various consumer segments, from babies and young women to the elderly. The company’s core business focuses on sanitary napkins, which it manufactures under both its own brands and white-label arrangements for",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "manipal-health-enterprises-ipo",
-      "ipoId": 2956,
-      "name": "Manipal Health Enterprises",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 560.0,
-        "max": 590.0,
-        "display": "₹560–590"
-      },
-      "lotSize": 25,
-      "issueSize": "₹9275.22 Cr",
-      "issueSizeCr": 9275.22,
-      "freshIssueCr": 8000.0,
-      "ofsCr": 1275.22,
-      "dates": {
-        "open": "2026-07-29",
-        "close": "2026-07-31",
-        "allotment": "2026-08-03",
-        "listing": "2026-08-05"
-      },
-      "gmp": {
-        "value": -15.0,
-        "percent": -2.54,
-        "xLot": -375.0,
-        "updatedOn": "31-Jul 23:29"
-      },
-      "subscription": {
-        "total": 5.12,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "7,06,28,768",
-            "Shares bid for": "7,06,28,768",
-            "Total Amt* (₹ Cr.)": "4,167.097"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "8.54",
-            "Shares Offered*": "4,70,85,844",
-            "Shares bid for": "40,21,59,425",
-            "Total Amt* (₹ Cr.)": "23,727.406"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "1.06",
-            "Shares Offered*": "2,35,42,922",
-            "Shares bid for": "2,50,39,675",
-            "Total Amt* (₹ Cr.)": "1,477.341"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.13",
-            "Shares Offered*": "1,56,95,282",
-            "Shares bid for": "1,76,78,100",
-            "Total Amt* (₹ Cr.)": "1,043.008"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.94",
-            "Shares Offered*": "78,47,641",
-            "Shares bid for": "73,61,575",
-            "Total Amt* (₹ Cr.)": "434.333"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "0.98",
-            "Shares Offered*": "1,56,95,282",
-            "Shares bid for": "1,53,26,325",
-            "Total Amt* (₹ Cr.)": "904.253"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "2.32",
-            "Shares Offered*": "2,80,899",
-            "Shares bid for": "6,50,450",
-            "Total Amt* (₹ Cr.)": "38.377"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "5.12",
-            "Shares Offered*": "8,66,04,947",
-            "Shares bid for": "44,31,75,875",
-            "Total Amt* (₹ Cr.)": "26,147.377"
-          }
-        ],
-        "applications": 359937.0
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/manipal-hospital-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/manipal-health-enterprises-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=manipal-health-enterprises-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-health-enterprises-ipo/2956/",
-        "gmp": "https://www.investorgain.com/gmp/manipal-health-enterprises-ipo/2217/"
-      },
-      "gmpId": 2217,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2010, Manipal Health Enterprises Limited is a healthcare service providers, operating a large network of multi-specialty hospitals, clinics, and diagnostic centres across the country. It is part of the Manipal Group, founded by T. M. A. Pai.vThe company offers a wide range of healthcare services including tertiary and quaternary care, organ transplants, oncology, cardiology, neurology, orthopaedics, and preventive healthcare. Its hospitals are equipped with advanced medical techn",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "technocraft-ventures-ipo",
       "ipoId": 2565,
       "name": "Technocraft Ventures",
@@ -978,9 +744,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "31-Jul 14:40"
+        "updatedOn": "1-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -1033,9 +799,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "31-Jul 15:30"
+        "updatedOn": "1-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -1090,7 +856,7 @@
         "value": 22.0,
         "percent": 23.4,
         "xLot": 26400.0,
-        "updatedOn": "31-Jul 23:35"
+        "updatedOn": "1-Aug 8:34"
       },
       "subscription": {
         "total": null,
@@ -1145,7 +911,7 @@
         "value": 6.5,
         "percent": 12.26,
         "xLot": 1826.5,
-        "updatedOn": "31-Jul 23:34"
+        "updatedOn": "1-Aug 8:36"
       },
       "subscription": {
         "total": null,
@@ -1200,7 +966,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Jul 23:35"
+        "updatedOn": "1-Aug 8:29"
       },
       "subscription": {
         "total": null,
@@ -1252,10 +1018,10 @@
         "listing": "2026-08-10"
       },
       "gmp": {
-        "value": 60.0,
-        "percent": 22.22,
-        "xLot": 24000.0,
-        "updatedOn": "31-Jul 23:31"
+        "value": 80.0,
+        "percent": 29.63,
+        "xLot": 32000.0,
+        "updatedOn": "1-Aug 8:36"
       },
       "subscription": {
         "total": null,

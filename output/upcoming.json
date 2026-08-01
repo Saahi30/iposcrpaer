@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-07-31T19:40:02+00:00",
+  "scrapedAt": "2026-08-01T03:20:07+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
-    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/7/2026/2026-27/0/all/0?search=&v=14-08",
-    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/2026/2026-27/0/all?search="
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/8/2026/2026-27/0/all?search="
   },
   "filters": {
     "status": [
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "31-Jul 14:40"
+        "updatedOn": "1-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "31-Jul 15:30"
+        "updatedOn": "1-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 22.0,
         "percent": 23.4,
         "xLot": 26400.0,
-        "updatedOn": "31-Jul 23:35"
+        "updatedOn": "1-Aug 8:34"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 6.5,
         "percent": 12.26,
         "xLot": 1826.5,
-        "updatedOn": "31-Jul 23:34"
+        "updatedOn": "1-Aug 8:36"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Jul 23:35"
+        "updatedOn": "1-Aug 8:29"
       },
       "subscription": {
         "total": null,
@@ -322,10 +322,10 @@
         "listing": "2026-08-10"
       },
       "gmp": {
-        "value": 60.0,
-        "percent": 22.22,
-        "xLot": 24000.0,
-        "updatedOn": "31-Jul 23:31"
+        "value": 80.0,
+        "percent": 29.63,
+        "xLot": 32000.0,
+        "updatedOn": "1-Aug 8:36"
       },
       "subscription": {
         "total": null,
