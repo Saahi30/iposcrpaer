@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-03T03:21:54+00:00",
+  "scrapedAt": "2026-08-03T09:53:37+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 6,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 7
   },
   "ipos": [
+    {
+      "slug": "dhoot-transmission-ipo",
+      "ipoId": 2859,
+      "name": "Dhoot Transmission",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 1400.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-11-11",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "3-Aug 12:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/dhoot-transmission-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=dhoot-transmission-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhoot-transmission-ipo/2859/",
+        "gmp": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/"
+      },
+      "gmpId": 2122,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1998, Dhoot Transmission Limited is one of India’s leading electrical and electronics (E&E) companies manufacturing wiring harnesses, battery packs, sensors, electronic controllers, and automotive switches for automotive applications.\n\nThe company supplies products for ICE and EV vehicles across two-wheelers, three-wheelers, commercial vehicles, and industrial equipment.The company operates 22 manufacturing facilities across India, the UK, Slovakia, and Thailand, along with engin",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "technocraft-ventures-ipo",
       "ipoId": 2565,
@@ -47,10 +102,10 @@
         "listing": "2026-08-14"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Aug 8:37"
+        "value": 16.0,
+        "percent": 7.55,
+        "xLot": 1120.0,
+        "updatedOn": "3-Aug 15:00"
       },
       "subscription": {
         "total": null,
@@ -102,10 +157,10 @@
         "listing": "2026-08-14"
       },
       "gmp": {
-        "value": 8.0,
-        "percent": 5.03,
-        "xLot": 752.0,
-        "updatedOn": "3-Aug 8:28"
+        "value": 4.0,
+        "percent": 2.52,
+        "xLot": 376.0,
+        "updatedOn": "3-Aug 14:55"
       },
       "subscription": {
         "total": null,
@@ -166,7 +221,7 @@
         "total": null,
         "byCategory": []
       },
-      "leadManager": "NEXGEN Financial Solutions",
+      "leadManager": "LSI Financial",
       "symbols": {
         "isin": null,
         "bse": null,
@@ -215,7 +270,7 @@
         "value": 25.0,
         "percent": 26.6,
         "xLot": 30000.0,
-        "updatedOn": "3-Aug 8:36"
+        "updatedOn": "3-Aug 14:53"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 6.75,
         "percent": 12.74,
         "xLot": 1896.75,
-        "updatedOn": "3-Aug 8:31"
+        "updatedOn": "3-Aug 14:53"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Aug 8:34"
+        "updatedOn": "3-Aug 14:53"
       },
       "subscription": {
         "total": null,
