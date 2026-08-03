@@ -464,9 +464,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 214.0,
+      "min": 225.0,
       "max": 225.0,
-      "display": "₹214–225"
+      "display": "₹225"
     },
     "lotSize": 66,
     "issueSize": "₹1800.00 Cr",
@@ -477,10 +477,10 @@
       "listing": "2026-08-06"
     },
     "gmp": {
-      "value": 8.25,
-      "percent": 3.67,
-      "xLot": 544.5,
-      "updatedOn": "3-Aug 19:36"
+      "value": 9.5,
+      "percent": 4.22,
+      "xLot": 627.0,
+      "updatedOn": "3-Aug 23:37"
     },
     "leadManager": "ICICI Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/juniper-green-energy-logo.jpg",
@@ -490,5 +490,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-03T14:47:27+00:00"
+  "scrapedAt": "2026-08-03T19:42:35+00:00"
 }

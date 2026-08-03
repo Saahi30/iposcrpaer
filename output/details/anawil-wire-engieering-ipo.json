@@ -469,9 +469,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 257.0,
+      "min": 270.0,
       "max": 270.0,
-      "display": "₹257–270"
+      "display": "₹270"
     },
     "lotSize": 400,
     "issueSize": "₹177.81 Cr",
@@ -485,7 +485,7 @@
       "value": 80.0,
       "percent": 29.63,
       "xLot": 32000.0,
-      "updatedOn": "3-Aug 19:30"
+      "updatedOn": "3-Aug 23:32"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
@@ -495,5 +495,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-03T14:47:21+00:00"
+  "scrapedAt": "2026-08-03T19:42:29+00:00"
 }

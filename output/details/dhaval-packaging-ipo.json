@@ -540,9 +540,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 92.0,
+      "min": 97.0,
       "max": 97.0,
-      "display": "₹92–97"
+      "display": "₹97"
     },
     "lotSize": 1200,
     "issueSize": "₹36.36 Cr",
@@ -556,7 +556,7 @@
       "value": 8.0,
       "percent": 8.25,
       "xLot": 9600.0,
-      "updatedOn": "3-Aug 19:30"
+      "updatedOn": "3-Aug 23:29"
     },
     "leadManager": "Rarever Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/dhaval-packaging-logo.png",
@@ -566,5 +566,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-03T14:47:32+00:00"
+  "scrapedAt": "2026-08-03T19:42:40+00:00"
 }
