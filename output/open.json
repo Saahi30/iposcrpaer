@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-02T19:16:08+00:00",
+  "scrapedAt": "2026-08-03T03:21:54+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,69 @@
     "limit": null
   },
   "summary": {
-    "open": 6,
+    "open": 7,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 7
   },
   "ipos": [
+    {
+      "slug": "anawil-wire-engieering-ipo",
+      "ipoId": 2618,
+      "name": "Anawil Wire & Engineering",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 257.0,
+        "max": 270.0,
+        "display": "₹257–270"
+      },
+      "lotSize": 400,
+      "issueSize": "₹177.81 Cr",
+      "issueSizeCr": 177.81,
+      "freshIssueCr": 133.75,
+      "ofsCr": 35.12,
+      "dates": {
+        "open": "2026-08-03",
+        "close": "2026-08-05",
+        "allotment": "2026-08-06",
+        "listing": "2026-08-10"
+      },
+      "gmp": {
+        "value": 90.0,
+        "percent": 33.33,
+        "xLot": 36000.0,
+        "updatedOn": "3-Aug 8:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/anawil-wire-engieering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=anawil-wire-engieering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
+        "gmp": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/"
+      },
+      "gmpId": 1895,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector. The company manufactures customized tubular steel wind turbine towers of up to 140 meters in height for leading Wind Turbine Generator (WTG) OEMs and renewable energy companies.\n\nThe company operates two advanced manufacturing facilities in Koppal, Karnataka and Kutch, Gujarat, wit",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
     {
       "slug": "fusion-klassroom-edutech-ipo",
       "ipoId": 2867,
@@ -50,7 +105,7 @@
         "value": 4.0,
         "percent": 2.52,
         "xLot": 3200.0,
-        "updatedOn": "2-Aug 23:32"
+        "updatedOn": "3-Aug 8:33"
       },
       "subscription": {
         "total": 0.79,
@@ -163,7 +218,7 @@
         "value": 26.0,
         "percent": 20.0,
         "xLot": 26000.0,
-        "updatedOn": "2-Aug 23:36"
+        "updatedOn": "3-Aug 8:28"
       },
       "subscription": {
         "total": 2.3,
@@ -276,7 +331,7 @@
         "value": 1.75,
         "percent": 0.78,
         "xLot": 115.5,
-        "updatedOn": "2-Aug 23:29"
+        "updatedOn": "3-Aug 8:30"
       },
       "subscription": {
         "total": 0.49,
@@ -389,7 +444,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "2-Aug 23:37"
+        "updatedOn": "3-Aug 8:30"
       },
       "subscription": {
         "total": 0.79,
@@ -510,7 +565,7 @@
         "value": 115.0,
         "percent": 27.06,
         "xLot": 3910.0,
-        "updatedOn": "2-Aug 23:31"
+        "updatedOn": "3-Aug 8:37"
       },
       "subscription": {
         "total": 12.79,
@@ -613,10 +668,10 @@
         "listing": "2026-08-06"
       },
       "gmp": {
-        "value": 11.0,
-        "percent": 11.34,
-        "xLot": 13200.0,
-        "updatedOn": "2-Aug 23:29"
+        "value": 10.0,
+        "percent": 10.31,
+        "xLot": 12000.0,
+        "updatedOn": "3-Aug 8:35"
       },
       "subscription": {
         "total": 1.4,

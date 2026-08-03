@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-02T19:16:08+00:00",
+  "scrapedAt": "2026-08-03T03:21:54+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 6
   },
   "ipos": [
     {
@@ -31,15 +31,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 200.0,
+        "max": 212.0,
+        "display": "₹200–212"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
+      "lotSize": 70,
+      "issueSize": "₹251.88 Cr",
+      "issueSizeCr": 251.88,
+      "freshIssueCr": 201.51,
+      "ofsCr": 50.37,
       "dates": {
         "open": "2026-08-07",
         "close": "2026-08-11",
@@ -49,8 +49,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "2-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "3-Aug 8:37"
       },
       "subscription": {
         "total": null,
@@ -86,11 +86,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 151.0,
+        "max": 159.0,
+        "display": "₹151–159"
       },
-      "lotSize": null,
+      "lotSize": 94,
       "issueSize": "₹2480.00 Cr",
       "issueSizeCr": 2480.0,
       "freshIssueCr": 480.0,
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 8.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "2-Aug 23:35"
+        "percent": 5.03,
+        "xLot": 752.0,
+        "updatedOn": "3-Aug 8:28"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "2-Aug 5:55"
+        "updatedOn": "3-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 25.0,
         "percent": 26.6,
         "xLot": 30000.0,
-        "updatedOn": "2-Aug 23:31"
+        "updatedOn": "3-Aug 8:36"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 6.75,
         "percent": 12.74,
         "xLot": 1896.75,
-        "updatedOn": "2-Aug 23:36"
+        "updatedOn": "3-Aug 8:31"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "2-Aug 23:34"
+        "updatedOn": "3-Aug 8:34"
       },
       "subscription": {
         "total": null,
@@ -351,61 +351,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2017, Aegeus Technologies Ltd. is engaged in the business of designing and developing robotic and intelligent automation solutions. The company offers services such as software development, system integration, data management, automation solutions, and customized technology support tailored to client-specific operational and business requirements.\n\nAegeus Technologies emphasizes quality delivery, secure systems, and continuous innovation, enabling clients to improve productivity,",
       "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
-      "slug": "anawil-wire-engieering-ipo",
-      "ipoId": 2618,
-      "name": "Anawil Wire & Engineering",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 257.0,
-        "max": 270.0,
-        "display": "₹257–270"
-      },
-      "lotSize": 400,
-      "issueSize": "₹177.81 Cr",
-      "issueSizeCr": 177.81,
-      "freshIssueCr": 133.75,
-      "ofsCr": 35.12,
-      "dates": {
-        "open": "2026-08-03",
-        "close": "2026-08-05",
-        "allotment": "2026-08-06",
-        "listing": "2026-08-10"
-      },
-      "gmp": {
-        "value": 90.0,
-        "percent": 33.33,
-        "xLot": 36000.0,
-        "updatedOn": "2-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/anawil-wire-engieering-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=anawil-wire-engieering-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
-        "gmp": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/"
-      },
-      "gmpId": 1895,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector. The company manufactures customized tubular steel wind turbine towers of up to 140 meters in height for leading Wind Turbine Generator (WTG) OEMs and renewable energy companies.\n\nThe company operates two advanced manufacturing facilities in Koppal, Karnataka and Kutch, Gujarat, wit",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
