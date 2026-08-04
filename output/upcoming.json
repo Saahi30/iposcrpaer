@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-04T02:50:59+00:00",
+  "scrapedAt": "2026-08-04T08:43:44+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 6,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 7
   },
   "ipos": [
+    {
+      "slug": "molbio-diagnostics-ipo",
+      "ipoId": 2579,
+      "name": "Molbio Diagnostics",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 200.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "listing": "2026-08-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "4-Aug 12:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/molbio-diagnostics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=molbio-diagnostics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/",
+        "gmp": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/"
+      },
+      "gmpId": 1865,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in October 2000, Molbio Diagnostics Limited is a global point-of-care (POC) molecular diagnostics company engaged in the research, development, manufacturing, and commercialization of rapid diagnostic solutions for infectious and non-communicable diseases. The company has developed its proprietary 'Truenat' platform, a portable, battery-operated PCR-based molecular diagnostics system designed for resource-limited settings, offering accurate test results within an hour.\n\nMolbio offer",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "dhoot-transmission-ipo",
       "ipoId": 2859,
@@ -31,26 +86,26 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 829.0,
+        "max": 871.0,
+        "display": "₹829–871"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 17,
+      "issueSize": "₹3066.89 Cr",
+      "issueSizeCr": 3066.89,
       "freshIssueCr": 1400.0,
-      "ofsCr": null,
+      "ofsCr": 1666.89,
       "dates": {
-        "open": "2026-11-12",
-        "close": null,
-        "allotment": null,
-        "listing": null
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 146.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "4-Aug 7:57"
+        "value": 236.0,
+        "percent": 27.1,
+        "xLot": 4012.0,
+        "updatedOn": "4-Aug 13:28"
       },
       "subscription": {
         "total": null,
@@ -74,7 +129,7 @@
       "faceValue": "₹2 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1998, Dhoot Transmission Limited is one of India’s leading electrical and electronics (E&E) companies manufacturing wiring harnesses, battery packs, sensors, electronic controllers, and automotive switches for automotive applications.\n\nThe company supplies products for ICE and EV vehicles across two-wheelers, three-wheelers, commercial vehicles, and industrial equipment.The company operates 22 manufacturing facilities across India, the UK, Slovakia, and Thailand, along with engin",
+      "about": "Incorporated in April 1998, Dhoot Transmission Limited is one of India's leading electrical and electronics (E&E) companies engaged in the design, engineering, manufacturing, and supply of wiring harnesses and electrical distribution systems for automotive and non-automotive applications. The company offers a diversified product portfolio comprising wiring harnesses, battery packs, sensors and electronic controllers, automotive switches, terminals, connectors, and power supply cords, catering to",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -105,7 +160,7 @@
         "value": 10.0,
         "percent": 4.72,
         "xLot": 700.0,
-        "updatedOn": "4-Aug 7:54"
+        "updatedOn": "4-Aug 13:35"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 4.0,
         "percent": 2.52,
         "xLot": 376.0,
-        "updatedOn": "4-Aug 7:56"
+        "updatedOn": "4-Aug 13:34"
       },
       "subscription": {
         "total": null,
@@ -196,15 +251,15 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 166.0,
+        "max": 175.0,
+        "display": "₹166–175"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
+      "lotSize": 800,
+      "issueSize": "₹108.50 Cr",
+      "issueSizeCr": 108.5,
+      "freshIssueCr": 76.65,
+      "ofsCr": 21.0,
       "dates": {
         "open": "2026-08-07",
         "close": "2026-08-11",
@@ -214,8 +269,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "4-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "4-Aug 13:37"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 27.0,
         "percent": 28.72,
         "xLot": 32400.0,
-        "updatedOn": "4-Aug 8:01"
+        "updatedOn": "4-Aug 13:35"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 7.5,
         "percent": 14.15,
         "xLot": 2107.5,
-        "updatedOn": "4-Aug 8:01"
+        "updatedOn": "4-Aug 13:32"
       },
       "subscription": {
         "total": null,
