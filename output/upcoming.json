@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-04T08:43:44+00:00",
+  "scrapedAt": "2026-08-04T14:25:08+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "pramodini-medicare-ipo",
+      "ipoId": 3088,
+      "name": "Pramodini Medicare",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "4-Aug 19:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pramodini-medicare-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pramodini-medicare-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
+        "gmp": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/"
+      },
+      "gmpId": 2275,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2000, Pramodini Medicare Limited is a diagnostic service provider in India offering technology-enabled diagnostic services across radiology, clinical laboratory, and nuclear medicine segments. The company provides services to public hospitals, private hospitals, public sector undertakings (PSUs), medical colleges, and private diagnostic centres across tier I, II, and III cities.\n\nIts service portfolio includes radiology services such as MRI, CT scans, X-ray, ultrasound with colou",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
     {
       "slug": "molbio-diagnostics-ipo",
       "ipoId": 2579,
@@ -102,10 +157,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 236.0,
-        "percent": 27.1,
-        "xLot": 4012.0,
-        "updatedOn": "4-Aug 13:28"
+        "value": 247.0,
+        "percent": 28.36,
+        "xLot": 4199.0,
+        "updatedOn": "4-Aug 19:28"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 10.0,
         "percent": 4.72,
         "xLot": 700.0,
-        "updatedOn": "4-Aug 13:35"
+        "updatedOn": "4-Aug 19:37"
       },
       "subscription": {
         "total": null,
@@ -212,10 +267,10 @@
         "listing": "2026-08-14"
       },
       "gmp": {
-        "value": 4.0,
-        "percent": 2.52,
-        "xLot": 376.0,
-        "updatedOn": "4-Aug 13:34"
+        "value": 3.0,
+        "percent": 1.89,
+        "xLot": 282.0,
+        "updatedOn": "4-Aug 19:34"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Aug 13:37"
+        "updatedOn": "4-Aug 19:36"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 27.0,
         "percent": 28.72,
         "xLot": 32400.0,
-        "updatedOn": "4-Aug 13:35"
+        "updatedOn": "4-Aug 19:34"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-08-12"
       },
       "gmp": {
-        "value": 7.5,
-        "percent": 14.15,
-        "xLot": 2107.5,
-        "updatedOn": "4-Aug 13:32"
+        "value": 8.0,
+        "percent": 15.09,
+        "xLot": 2248.0,
+        "updatedOn": "4-Aug 19:31"
       },
       "subscription": {
         "total": null,
