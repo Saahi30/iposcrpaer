@@ -1,0 +1,3738 @@
+{
+  "scrapedAt": "2026-08-04T21:08:52+00:00",
+  "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
+  "feeds": {
+    "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
+    "mainboard": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/mainboard/0?search=&v=14-08",
+    "sme": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/sme/0?search=&v=14-08"
+  },
+  "year": 2026,
+  "financialYear": "2026-27",
+  "summary": {
+    "total": 155,
+    "mainboard": 44,
+    "sme": 111
+  },
+  "ipos": [
+    {
+      "ipoId": 2277,
+      "name": "Gabion Technologies India Ltd.",
+      "slug": "gabion-technologies-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-06",
+        "close": "2026-01-08",
+        "allotment": "2026-01-09",
+        "refunds": "2026-01-12",
+        "listing": "2026-01-13"
+      },
+      "displayDates": {
+        "open": "06-Jan-2026",
+        "close": "08-Jan-2026",
+        "allotment": "09-Jan-2026",
+        "listing": "13-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gabion-tecnhology-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gabion-technologies-india-ipo/2277/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2315,
+      "name": "Victory Electric Vehicles International Ltd.",
+      "slug": "victory-electric-vehicles-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-07",
+        "close": "2026-01-09",
+        "allotment": "2026-01-12",
+        "refunds": "2026-01-13",
+        "listing": "2026-01-14"
+      },
+      "displayDates": {
+        "open": "07-Jan-2026",
+        "close": "09-Jan-2026",
+        "allotment": "12-Jan-2026",
+        "listing": "14-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/victory-electric-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/victory-electric-vehicles-ipo/2315/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2128,
+      "name": "Yajur Fibres Ltd.",
+      "slug": "yajur-fibres-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-07",
+        "close": "2026-01-09",
+        "allotment": "2026-01-12",
+        "refunds": "2026-01-13",
+        "listing": "2026-01-14"
+      },
+      "displayDates": {
+        "open": "07-Jan-2026",
+        "close": "09-Jan-2026",
+        "allotment": "12-Jan-2026",
+        "listing": "14-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/yajur-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/yajur-fibres-ipo/2128/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2462,
+      "name": "Bharat Coking Coal Ltd.",
+      "slug": "bharat-coking-coal-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-01-09",
+        "close": "2026-01-13",
+        "allotment": "2026-01-14",
+        "refunds": "2026-01-15",
+        "listing": "2026-01-19"
+      },
+      "displayDates": {
+        "open": "09-Jan-2026",
+        "close": "13-Jan-2026",
+        "allotment": "14-Jan-2026",
+        "listing": "19-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bharat-coal-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bharat-coking-coal-ipo/2462/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2693,
+      "name": "Defrail Technologies Ltd.",
+      "slug": "defrail-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-09",
+        "close": "2026-01-13",
+        "allotment": "2026-01-14",
+        "refunds": "2026-01-15",
+        "listing": "2026-01-19"
+      },
+      "displayDates": {
+        "open": "09-Jan-2026",
+        "close": "13-Jan-2026",
+        "allotment": "14-Jan-2026",
+        "listing": "19-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/defrail-technologies-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/defrail-technologies-ipo/2693/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2635,
+      "name": "Avana Electrosystems Ltd.",
+      "slug": "avana-electrosystems-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-12",
+        "close": "2026-01-14",
+        "allotment": "2026-01-15",
+        "refunds": "2026-01-16",
+        "listing": "2026-01-20"
+      },
+      "displayDates": {
+        "open": "12-Jan-2026",
+        "close": "14-Jan-2026",
+        "allotment": "15-Jan-2026",
+        "listing": "20-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/avana-electrosystems-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/avana-electrosystems-ipo/2635/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2580,
+      "name": "Narmadesh Brass Industries Ltd.",
+      "slug": "narmadesh-brass-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-12",
+        "close": "2026-01-16",
+        "allotment": "2026-01-19",
+        "refunds": "2026-01-20",
+        "listing": "2026-01-21"
+      },
+      "displayDates": {
+        "open": "12-Jan-2026",
+        "close": "16-Jan-2026",
+        "allotment": "19-Jan-2026",
+        "listing": "21-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/narmadesh-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/narmadesh-brass-industries-ipo/2580/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2549,
+      "name": "Amagi Media Labs Ltd.",
+      "slug": "amagi-media-labs-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-01-13",
+        "close": "2026-01-16",
+        "allotment": "2026-01-19",
+        "refunds": "2026-01-20",
+        "listing": "2026-01-21"
+      },
+      "displayDates": {
+        "open": "13-Jan-2026",
+        "close": "16-Jan-2026",
+        "allotment": "19-Jan-2026",
+        "listing": "21-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/amagi-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/amagi-media-labs-ipo/2549/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2353,
+      "name": "GRE Renew Enertech Ltd.",
+      "slug": "gre-renew-enertech-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-13",
+        "close": "2026-01-16",
+        "allotment": "2026-01-19",
+        "refunds": "2026-01-20",
+        "listing": "2026-01-21"
+      },
+      "displayDates": {
+        "open": "13-Jan-2026",
+        "close": "16-Jan-2026",
+        "allotment": "19-Jan-2026",
+        "listing": "21-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gre-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gre-renew-enertech-ipo/2353/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2694,
+      "name": "INDO SMC Ltd.",
+      "slug": "indo-smc-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-13",
+        "close": "2026-01-16",
+        "allotment": "2026-01-19",
+        "refunds": "2026-01-20",
+        "listing": "2026-01-21"
+      },
+      "displayDates": {
+        "open": "13-Jan-2026",
+        "close": "16-Jan-2026",
+        "allotment": "19-Jan-2026",
+        "listing": "21-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/indo-smc-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/indo-smc-ipo/2694/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2138,
+      "name": "Armour Security India Ltd.",
+      "slug": "armour-security-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-14",
+        "close": "2026-01-19",
+        "allotment": "2026-01-20",
+        "refunds": "2026-01-21",
+        "listing": "2026-01-22"
+      },
+      "displayDates": {
+        "open": "14-Jan-2026",
+        "close": "19-Jan-2026",
+        "allotment": "20-Jan-2026",
+        "listing": "22-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/armour-security-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/armour-security-india-ipo/2138/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2421,
+      "name": "Aritas Vinyl Ltd.",
+      "slug": "aritas-vinyl-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-16",
+        "close": "2026-01-20",
+        "allotment": "2026-01-21",
+        "refunds": "2026-01-22",
+        "listing": "2026-01-23"
+      },
+      "displayDates": {
+        "open": "16-Jan-2026",
+        "close": "20-Jan-2026",
+        "allotment": "21-Jan-2026",
+        "listing": "23-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aritas-vinyl-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/aritas-vinyl-ipo/2421/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2617,
+      "name": "Digilogic Systems Ltd.",
+      "slug": "digilogic-systems-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-20",
+        "close": "2026-01-22",
+        "allotment": "2026-01-23",
+        "refunds": "2026-01-27",
+        "listing": "2026-01-28"
+      },
+      "displayDates": {
+        "open": "20-Jan-2026",
+        "close": "22-Jan-2026",
+        "allotment": "23-Jan-2026",
+        "listing": "28-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/digilogic-systems-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/digilogic-systems-ipo/2617/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2526,
+      "name": "Shadowfax Technologies Ltd.",
+      "slug": "shadowfax-technologies-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-01-20",
+        "close": "2026-01-22",
+        "allotment": "2026-01-23",
+        "refunds": "2026-01-27",
+        "listing": "2026-01-28"
+      },
+      "displayDates": {
+        "open": "20-Jan-2026",
+        "close": "22-Jan-2026",
+        "allotment": "23-Jan-2026",
+        "listing": "28-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shadowfax-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shadowfax-technologies-ipo/2526/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2620,
+      "name": "KRM Ayurveda Ltd.",
+      "slug": "krm-ayurveda-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-21",
+        "close": "2026-01-23",
+        "allotment": "2026-01-27",
+        "refunds": "2026-01-28",
+        "listing": "2026-01-29"
+      },
+      "displayDates": {
+        "open": "21-Jan-2026",
+        "close": "23-Jan-2026",
+        "allotment": "27-Jan-2026",
+        "listing": "29-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/krm-ayurveda-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/krm-ayurveda-ipo/2620/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2251,
+      "name": "Hannah Joseph Hospital Ltd.",
+      "slug": "hannah-joseph-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-22",
+        "close": "2026-01-28",
+        "allotment": "2026-01-29",
+        "refunds": "2026-01-30",
+        "listing": "2026-02-02"
+      },
+      "displayDates": {
+        "open": "22-Jan-2026",
+        "close": "28-Jan-2026",
+        "allotment": "29-Jan-2026",
+        "listing": "02-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hannah-joseph-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hannah-joseph-ipo/2251/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2173,
+      "name": "Shayona Engineering Ltd.",
+      "slug": "shayona-engineering-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-22",
+        "close": "2026-01-27",
+        "allotment": "2026-01-28",
+        "refunds": "2026-01-29",
+        "listing": "2026-01-30"
+      },
+      "displayDates": {
+        "open": "22-Jan-2026",
+        "close": "27-Jan-2026",
+        "allotment": "28-Jan-2026",
+        "listing": "30-Jan-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shayona-engineering-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shayona-engineering-ipo/2173/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2281,
+      "name": "Kasturi Metal Composite Ltd.",
+      "slug": "kasturi-metal-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-27",
+        "close": "2026-01-29",
+        "allotment": "2026-01-30",
+        "refunds": "2026-02-02",
+        "listing": "2026-02-03"
+      },
+      "displayDates": {
+        "open": "27-Jan-2026",
+        "close": "29-Jan-2026",
+        "allotment": "30-Jan-2026",
+        "listing": "03-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kasturi-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kasturi-metal-ipo/2281/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2699,
+      "name": "Accretion Nutraveda Ltd.",
+      "slug": "accretion-nutraveda-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-28",
+        "close": "2026-01-30",
+        "allotment": "2026-02-02",
+        "refunds": "2026-02-03",
+        "listing": "2026-02-04"
+      },
+      "displayDates": {
+        "open": "28-Jan-2026",
+        "close": "30-Jan-2026",
+        "allotment": "02-Feb-2026",
+        "listing": "04-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/accretion-nutraveda-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/accretion-nutraveda-ipo/2699/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2555,
+      "name": "Kanishk Aluminium India Ltd.",
+      "slug": "kanishk-aluminium-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-28",
+        "close": "2026-01-30",
+        "allotment": "2026-02-02",
+        "refunds": "2026-02-03",
+        "listing": "2026-02-04"
+      },
+      "displayDates": {
+        "open": "28-Jan-2026",
+        "close": "30-Jan-2026",
+        "allotment": "02-Feb-2026",
+        "listing": "04-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kanishk-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kanishk-aluminium-india-ipo/2555/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2600,
+      "name": "Msafe Equipments Ltd.",
+      "slug": "msafe-equipments-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-28",
+        "close": "2026-01-30",
+        "allotment": "2026-02-02",
+        "refunds": "2026-02-03",
+        "listing": "2026-02-04"
+      },
+      "displayDates": {
+        "open": "28-Jan-2026",
+        "close": "30-Jan-2026",
+        "allotment": "02-Feb-2026",
+        "listing": "04-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/msafe-equipments-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/msafe-equipments-ipo/2600/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2409,
+      "name": "CKK Retail Mart Ltd.",
+      "slug": "c-k-k-retail-mart-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-01-30",
+        "close": "2026-02-03",
+        "allotment": "2026-02-04",
+        "refunds": "2026-02-05",
+        "listing": "2026-02-06"
+      },
+      "displayDates": {
+        "open": "30-Jan-2026",
+        "close": "03-Feb-2026",
+        "allotment": "04-Feb-2026",
+        "listing": "06-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ckk-retail-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/c-k-k-retail-mart-ipo/2409/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2274,
+      "name": "Brandman Retail Ltd.",
+      "slug": "brandman-retail-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-04",
+        "close": "2026-02-06",
+        "allotment": "2026-02-09",
+        "refunds": "2026-02-10",
+        "listing": "2026-02-11"
+      },
+      "displayDates": {
+        "open": "04-Feb-2026",
+        "close": "06-Feb-2026",
+        "allotment": "09-Feb-2026",
+        "listing": "11-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/brandmanretail-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/brandman-retail-ipo/2274/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2731,
+      "name": "Grover Jewells Ltd.",
+      "slug": "grover-jewells-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-04",
+        "close": "2026-02-06",
+        "allotment": "2026-02-09",
+        "refunds": "2026-02-10",
+        "listing": "2026-02-11"
+      },
+      "displayDates": {
+        "open": "04-Feb-2026",
+        "close": "06-Feb-2026",
+        "allotment": "09-Feb-2026",
+        "listing": "11-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/grover-jewellery-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/grover-jewells-ipo/2731/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2721,
+      "name": "Biopol Chemicals Ltd.",
+      "slug": "biopol-chemicals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-06",
+        "close": "2026-02-10",
+        "allotment": "2026-02-11",
+        "refunds": "2026-02-12",
+        "listing": "2026-02-13"
+      },
+      "displayDates": {
+        "open": "06-Feb-2026",
+        "close": "10-Feb-2026",
+        "allotment": "11-Feb-2026",
+        "listing": "13-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/biopol-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/biopol-chemicals-ipo/2721/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2759,
+      "name": "PAN HR Solutions Ltd.",
+      "slug": "pan-hr-solutions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-06",
+        "close": "2026-02-10",
+        "allotment": "2026-02-11",
+        "refunds": "2026-02-12",
+        "listing": "2026-02-13"
+      },
+      "displayDates": {
+        "open": "06-Feb-2026",
+        "close": "10-Feb-2026",
+        "allotment": "11-Feb-2026",
+        "listing": "13-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pan-hr-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pan-hr-solutions-ipo/2759/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2026,
+      "name": "Aye Finance Ltd.",
+      "slug": "aye-finance-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-09",
+        "close": "2026-02-11",
+        "allotment": "2026-02-12",
+        "refunds": "2026-02-13",
+        "listing": "2026-02-16"
+      },
+      "displayDates": {
+        "open": "09-Feb-2026",
+        "close": "11-Feb-2026",
+        "allotment": "12-Feb-2026",
+        "listing": "16-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aye-finance-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/aye-finance-ipo/2026/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2569,
+      "name": "Fractal Analytics Ltd.",
+      "slug": "fractal-analytics-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-09",
+        "close": "2026-02-11",
+        "allotment": "2026-02-12",
+        "refunds": "2026-02-13",
+        "listing": "2026-02-16"
+      },
+      "displayDates": {
+        "open": "09-Feb-2026",
+        "close": "11-Feb-2026",
+        "allotment": "12-Feb-2026",
+        "listing": "16-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fractal-analytics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fractal-analytics-ipo/2569/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2606,
+      "name": "Marushika Technology Ltd.",
+      "slug": "marushika-technology-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-12",
+        "close": "2026-02-16",
+        "allotment": "2026-02-17",
+        "refunds": "2026-02-18",
+        "listing": "2026-02-19"
+      },
+      "displayDates": {
+        "open": "12-Feb-2026",
+        "close": "16-Feb-2026",
+        "allotment": "17-Feb-2026",
+        "listing": "19-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/marushika-technology-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/marushika-technology-ipo/2606/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2780,
+      "name": "Fractal Industries Ltd.",
+      "slug": "fractal-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-16",
+        "close": "2026-02-18",
+        "allotment": "2026-02-20",
+        "refunds": "2026-02-23",
+        "listing": "2026-02-24"
+      },
+      "displayDates": {
+        "open": "16-Feb-2026",
+        "close": "18-Feb-2026",
+        "allotment": "20-Feb-2026",
+        "listing": "24-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fractal-industries-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fractal-industries-ipo/2780/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2700,
+      "name": "Yashhtej Industries (India) Ltd.",
+      "slug": "yashhtej-industries-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-18",
+        "close": "2026-02-20",
+        "allotment": "2026-02-23",
+        "refunds": "2026-02-24",
+        "listing": "2026-02-25"
+      },
+      "displayDates": {
+        "open": "18-Feb-2026",
+        "close": "20-Feb-2026",
+        "allotment": "23-Feb-2026",
+        "listing": "25-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/yashhtej-industries-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/yashhtej-industries-india-ipo/2700/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2019,
+      "name": "Gaudium IVF & Women Health Ltd.",
+      "slug": "gaudium-ivf-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-20",
+        "close": "2026-02-24",
+        "allotment": "2026-02-25",
+        "refunds": "2026-02-25",
+        "listing": "2026-02-27"
+      },
+      "displayDates": {
+        "open": "20-Feb-2026",
+        "close": "24-Feb-2026",
+        "allotment": "25-Feb-2026",
+        "listing": "27-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gaudium-lvf-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gaudium-ivf-ipo/2019/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2727,
+      "name": "Manilam Industries India Ltd.",
+      "slug": "manilam-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-20",
+        "close": "2026-02-24",
+        "allotment": "2026-02-25",
+        "refunds": "2026-02-26",
+        "listing": "2026-02-27"
+      },
+      "displayDates": {
+        "open": "20-Feb-2026",
+        "close": "24-Feb-2026",
+        "allotment": "25-Feb-2026",
+        "listing": "27-Feb-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manilam-industries-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manilam-industries-ipo/2727/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2763,
+      "name": "Accord Transformer & Switchgear Ltd.",
+      "slug": "accord-transformer-switchgear-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-23",
+        "close": "2026-02-25",
+        "allotment": "2026-02-26",
+        "refunds": "2026-02-27",
+        "listing": "2026-03-02"
+      },
+      "displayDates": {
+        "open": "23-Feb-2026",
+        "close": "25-Feb-2026",
+        "allotment": "26-Feb-2026",
+        "listing": "02-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/accord-transformer-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/accord-transformer-switchgear-ipo/2763/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2573,
+      "name": "Clean Max Enviro Energy Solutions Ltd.",
+      "slug": "clean-max-enviro-energy-solutions-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-23",
+        "close": "2026-02-25",
+        "allotment": "2026-02-26",
+        "refunds": "2026-02-26",
+        "listing": "2026-03-02"
+      },
+      "displayDates": {
+        "open": "23-Feb-2026",
+        "close": "25-Feb-2026",
+        "allotment": "26-Feb-2026",
+        "listing": "02-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/cleanmax-enviro-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/clean-max-enviro-energy-solutions-ipo/2573/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2417,
+      "name": "Kiaasa Retail Ltd.",
+      "slug": "kiaasa-retail-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-23",
+        "close": "2026-02-25",
+        "allotment": "2026-02-26",
+        "refunds": "2026-02-27",
+        "listing": "2026-03-02"
+      },
+      "displayDates": {
+        "open": "23-Feb-2026",
+        "close": "25-Feb-2026",
+        "allotment": "26-Feb-2026",
+        "listing": "02-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kiaasa_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kiaasa-retail-ipo/2417/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2584,
+      "name": "Mobilise App Lab Ltd.",
+      "slug": "mobilise-app-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-23",
+        "close": "2026-02-25",
+        "allotment": "2026-02-26",
+        "refunds": "2026-02-27",
+        "listing": "2026-03-02"
+      },
+      "displayDates": {
+        "open": "23-Feb-2026",
+        "close": "25-Feb-2026",
+        "allotment": "26-Feb-2026",
+        "listing": "02-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mobilise-app-lab-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mobilise-app-ipo/2584/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2502,
+      "name": "Shree Ram Twistex Ltd.",
+      "slug": "shree-ram-twistex-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-23",
+        "close": "2026-02-25",
+        "allotment": "2026-02-26",
+        "refunds": "2026-02-27",
+        "listing": "2026-03-02"
+      },
+      "displayDates": {
+        "open": "23-Feb-2026",
+        "close": "25-Feb-2026",
+        "allotment": "26-Feb-2026",
+        "listing": "02-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-ram-twistex-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-ram-twistex-ipo/2502/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2475,
+      "name": "PNGS Reva Diamond Jewellery Ltd.",
+      "slug": "pngs-reva-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-24",
+        "close": "2026-02-26",
+        "allotment": "2026-02-27",
+        "refunds": "2026-03-02",
+        "listing": "2026-03-04"
+      },
+      "displayDates": {
+        "open": "24-Feb-2026",
+        "close": "26-Feb-2026",
+        "allotment": "27-Feb-2026",
+        "listing": "04-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/reva-diamonds-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pngs-reva-ipo/2475/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2479,
+      "name": "Omnitech Engineering Ltd.",
+      "slug": "omnitech-engineering-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-02-25",
+        "close": "2026-02-27",
+        "allotment": "2026-03-02",
+        "refunds": "2026-03-04",
+        "listing": "2026-03-05"
+      },
+      "displayDates": {
+        "open": "25-Feb-2026",
+        "close": "27-Feb-2026",
+        "allotment": "02-Mar-2026",
+        "listing": "05-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/omnitech-engineering-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/omnitech-engineering-ipo/2479/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2582,
+      "name": "Yaap Digital Ltd.",
+      "slug": "yaap-digital-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-25",
+        "close": "2026-02-27",
+        "allotment": "2026-03-02",
+        "refunds": "2026-03-04",
+        "listing": "2026-03-05"
+      },
+      "displayDates": {
+        "open": "25-Feb-2026",
+        "close": "27-Feb-2026",
+        "allotment": "02-Mar-2026",
+        "listing": "05-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/yaap-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/yaap-digital-ipo/2582/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2714,
+      "name": "Striders Impex Ltd.",
+      "slug": "striders-impex-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-26",
+        "close": "2026-03-02",
+        "allotment": "2026-03-04",
+        "refunds": "2026-03-05",
+        "listing": "2026-03-06"
+      },
+      "displayDates": {
+        "open": "26-Feb-2026",
+        "close": "02-Mar-2026",
+        "allotment": "04-Mar-2026",
+        "listing": "06-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/striders-impex-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/striders-impex-ipo/2714/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2616,
+      "name": "Acetech E-Commerce Ltd.",
+      "slug": "acetech-e-commerce-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-02-27",
+        "close": "2026-03-04",
+        "allotment": "2026-03-05",
+        "refunds": "2026-03-06",
+        "listing": "2026-03-09"
+      },
+      "displayDates": {
+        "open": "27-Feb-2026",
+        "close": "04-Mar-2026",
+        "allotment": "05-Mar-2026",
+        "listing": "09-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acetech-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acetech-e-commerce-ipo/2616/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2794,
+      "name": "SEDEMAC Mechatronics Ltd.",
+      "slug": "sedemac-mechatronics-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-04",
+        "close": "2026-03-06",
+        "allotment": "2026-03-09",
+        "refunds": "2026-03-10",
+        "listing": "2026-03-11"
+      },
+      "displayDates": {
+        "open": "04-Mar-2026",
+        "close": "06-Mar-2026",
+        "allotment": "09-Mar-2026",
+        "listing": "11-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sedemac-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sedemac-mechatronics-ipo/2794/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2696,
+      "name": "Elfin Agro India Ltd.",
+      "slug": "elfin-agro-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-05",
+        "close": "2026-03-09",
+        "allotment": "2026-03-10",
+        "refunds": "2026-03-11",
+        "listing": "2026-03-12"
+      },
+      "displayDates": {
+        "open": "05-Mar-2026",
+        "close": "09-Mar-2026",
+        "allotment": "10-Mar-2026",
+        "listing": "12-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/elfin-agro-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/elfin-agro-india-ipo/2696/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2402,
+      "name": "Srinibas Pradhan Constructions Ltd.",
+      "slug": "srinibas-pradhan-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-06",
+        "close": "2026-03-10",
+        "allotment": "2026-03-11",
+        "refunds": "2026-03-12",
+        "listing": "2026-03-13"
+      },
+      "displayDates": {
+        "open": "06-Mar-2026",
+        "close": "10-Mar-2026",
+        "allotment": "11-Mar-2026",
+        "listing": "13-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/srinibas-pradhan-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/srinibas-pradhan-ipo/2402/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2067,
+      "name": "Rajputana Stainless Ltd.",
+      "slug": "rajputana-stainless-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-09",
+        "close": "2026-03-11",
+        "allotment": "2026-03-17",
+        "refunds": "2026-03-18",
+        "listing": "2026-03-19"
+      },
+      "displayDates": {
+        "open": "09-Mar-2026",
+        "close": "11-Mar-2026",
+        "allotment": "17-Mar-2026",
+        "listing": "19-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rajputana-stainless-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rajputana-stainless-ipo/2067/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2039,
+      "name": "Innovision Ltd.",
+      "slug": "innovision-limited-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-10",
+        "close": "2026-03-17",
+        "allotment": "2026-03-18",
+        "refunds": "2026-03-20",
+        "listing": "2026-03-23"
+      },
+      "displayDates": {
+        "open": "10-Mar-2026",
+        "close": "17-Mar-2026",
+        "allotment": "18-Mar-2026",
+        "listing": "23-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/innovision-ltd-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/innovision-limited-ipo/2039/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2752,
+      "name": "Apsis Aerocom Ltd.",
+      "slug": "apsis-aerocom-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-11",
+        "close": "2026-03-13",
+        "allotment": "2026-03-16",
+        "refunds": "2026-03-17",
+        "listing": "2026-03-18"
+      },
+      "displayDates": {
+        "open": "11-Mar-2026",
+        "close": "13-Mar-2026",
+        "allotment": "16-Mar-2026",
+        "listing": "18-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/apsis-aerocom-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/apsis-aerocom-ipo/2752/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2031,
+      "name": "GSP Crop Science Ltd.",
+      "slug": "gsp-crop-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-16",
+        "close": "2026-03-18",
+        "allotment": "2026-03-20",
+        "refunds": "2026-03-23",
+        "listing": "2026-03-24"
+      },
+      "displayDates": {
+        "open": "16-Mar-2026",
+        "close": "18-Mar-2026",
+        "allotment": "20-Mar-2026",
+        "listing": "24-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gsp-crop-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gsp-crop-ipo/2031/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2747,
+      "name": "Novus Loyalty Ltd.",
+      "slug": "novus-loyalty-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-17",
+        "close": "2026-03-20",
+        "allotment": "2026-03-23",
+        "refunds": "2026-03-24",
+        "listing": "2026-03-25"
+      },
+      "displayDates": {
+        "open": "17-Mar-2026",
+        "close": "20-Mar-2026",
+        "allotment": "23-Mar-2026",
+        "listing": "25-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/novus-loyalty-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/novus-loyalty-ipo/2747/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2456,
+      "name": "Central Mine Planning & Design Institute Ltd.",
+      "slug": "central-mine-planning-design-institute-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-20",
+        "close": "2026-03-24",
+        "allotment": "2026-03-25",
+        "refunds": "2026-03-27",
+        "listing": "2026-03-30"
+      },
+      "displayDates": {
+        "open": "20-Mar-2026",
+        "close": "24-Mar-2026",
+        "allotment": "25-Mar-2026",
+        "listing": "30-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/cmpdi_ipo_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/central-mine-planning-design-institute-ipo/2456/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2381,
+      "name": "Speciality Medicines Ltd.",
+      "slug": "speciality-medicines-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-20",
+        "close": "2026-03-24",
+        "allotment": "2026-03-25",
+        "refunds": "2026-03-27",
+        "listing": "2026-03-30"
+      },
+      "displayDates": {
+        "open": "20-Mar-2026",
+        "close": "24-Mar-2026",
+        "allotment": "25-Mar-2026",
+        "listing": "30-Mar-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/speciality-medicines-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/speciality-medicines-ipo/2381/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2733,
+      "name": "Tipco Engineering India Ltd.",
+      "slug": "tipco-engineering-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-23",
+        "close": "2026-03-25",
+        "allotment": "2026-03-27",
+        "refunds": "2026-03-30",
+        "listing": "2026-04-01"
+      },
+      "displayDates": {
+        "open": "23-Mar-2026",
+        "close": "25-Mar-2026",
+        "allotment": "27-Mar-2026",
+        "listing": "01-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/tipco-engineering-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tipco-engineering-ipo/2733/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2501,
+      "name": "Amir Chand Jagdish Kumar (Exports) Ltd.",
+      "slug": "amir-chand-jagdish-kumar-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-24",
+        "close": "2026-03-27",
+        "allotment": "2026-03-30",
+        "refunds": "2026-04-01",
+        "listing": "2026-04-02"
+      },
+      "displayDates": {
+        "open": "24-Mar-2026",
+        "close": "27-Mar-2026",
+        "allotment": "30-Mar-2026",
+        "listing": "02-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/amir-chand-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/amir-chand-jagdish-kumar-ipo/2501/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2768,
+      "name": "Highness Microelectronics Ltd.",
+      "slug": "highness-microelectronics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-24",
+        "close": "2026-03-27",
+        "allotment": "2026-03-30",
+        "refunds": "2026-04-01",
+        "listing": "2026-04-02"
+      },
+      "displayDates": {
+        "open": "24-Mar-2026",
+        "close": "27-Mar-2026",
+        "allotment": "30-Mar-2026",
+        "listing": "02-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/highness-microelectronics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/highness-microelectronics-ipo/2768/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2570,
+      "name": "Powerica Ltd.",
+      "slug": "powerica-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-24",
+        "close": "2026-03-27",
+        "allotment": "2026-03-30",
+        "refunds": "2026-04-01",
+        "listing": "2026-04-02"
+      },
+      "displayDates": {
+        "open": "24-Mar-2026",
+        "close": "27-Mar-2026",
+        "allotment": "30-Mar-2026",
+        "listing": "02-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/powerica-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/powerica-ipo/2570/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2681,
+      "name": "Sai Parenteral's Ltd.",
+      "slug": "sai-parenterals-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-03-24",
+        "close": "2026-03-27",
+        "allotment": "2026-03-30",
+        "refunds": "2026-04-01",
+        "listing": "2026-04-02"
+      },
+      "displayDates": {
+        "open": "24-Mar-2026",
+        "close": "27-Mar-2026",
+        "allotment": "30-Mar-2026",
+        "listing": "02-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sai-parenteral-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-parenterals-ipo/2681/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2728,
+      "name": "Vivid Electromech Ltd.",
+      "slug": "vivid-electromech-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-25",
+        "close": "2026-03-30",
+        "allotment": "2026-04-02",
+        "refunds": "2026-04-06",
+        "listing": "2026-04-07"
+      },
+      "displayDates": {
+        "open": "25-Mar-2026",
+        "close": "30-Mar-2026",
+        "allotment": "02-Apr-2026",
+        "listing": "07-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vivid-electromech-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vivid-electromech-ipo/2728/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2766,
+      "name": "Emiac Technologies Ltd.",
+      "slug": "emiac-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-03-27",
+        "close": "2026-04-08",
+        "allotment": "2026-04-09",
+        "refunds": "2026-04-10",
+        "listing": "2026-04-13"
+      },
+      "displayDates": {
+        "open": "27-Mar-2026",
+        "close": "08-Apr-2026",
+        "allotment": "09-Apr-2026",
+        "listing": "13-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/emiac-technologies-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/emiac-technologies-ipo/2766/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2328,
+      "name": "Safety Controls & Devices Ltd.",
+      "slug": "safety-controls-and-devices-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-04-06",
+        "close": "2026-04-08",
+        "allotment": "2026-04-09",
+        "refunds": "2026-04-10",
+        "listing": "2026-04-13"
+      },
+      "displayDates": {
+        "open": "06-Apr-2026",
+        "close": "08-Apr-2026",
+        "allotment": "09-Apr-2026",
+        "listing": "13-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/safety-controls-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/safety-controls-and-devices-ipo/2328/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2676,
+      "name": "Om Power Transmission Ltd.",
+      "slug": "om-power-transmission-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-04-09",
+        "close": "2026-04-13",
+        "allotment": "2026-04-15",
+        "refunds": "2026-04-16",
+        "listing": "2026-04-17"
+      },
+      "displayDates": {
+        "open": "09-Apr-2026",
+        "close": "13-Apr-2026",
+        "allotment": "15-Apr-2026",
+        "listing": "17-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/om-power-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/om-power-transmission-ipo/2676/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2536,
+      "name": "Mehul Telecom Ltd.",
+      "slug": "mehul-telecom-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-04-17",
+        "close": "2026-04-21",
+        "allotment": "2026-04-22",
+        "refunds": "2026-04-23",
+        "listing": "2026-04-24"
+      },
+      "displayDates": {
+        "open": "17-Apr-2026",
+        "close": "21-Apr-2026",
+        "allotment": "22-Apr-2026",
+        "listing": "24-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mehul-telecom-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mehul-telecom-ipo/2536/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2788,
+      "name": "Adisoft Technologies Ltd.",
+      "slug": "adisoft-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-04-23",
+        "close": "2026-04-27",
+        "allotment": "2026-04-28",
+        "refunds": "2026-04-29",
+        "listing": "2026-04-30"
+      },
+      "displayDates": {
+        "open": "23-Apr-2026",
+        "close": "27-Apr-2026",
+        "allotment": "28-Apr-2026",
+        "listing": "30-Apr-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/adisoft-technologies-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/adisoft-technologies-ipo/2788/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2644,
+      "name": "Amba Auto Sales & Services Ltd.",
+      "slug": "amba-auto-sales-services-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-04-27",
+        "close": "2026-04-29",
+        "allotment": "2026-04-30",
+        "refunds": "2026-05-04",
+        "listing": "2026-05-05"
+      },
+      "displayDates": {
+        "open": "27-Apr-2026",
+        "close": "29-Apr-2026",
+        "allotment": "30-Apr-2026",
+        "listing": "05-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/amba-auto-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/amba-auto-sales-services-ipo/2644/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2576,
+      "name": "OnEMI Technology Solutions Ltd.",
+      "slug": "onemi-technology-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-04-30",
+        "close": "2026-05-05",
+        "allotment": "2026-05-06",
+        "refunds": "2026-05-07",
+        "listing": "2026-05-08"
+      },
+      "displayDates": {
+        "open": "30-Apr-2026",
+        "close": "05-May-2026",
+        "allotment": "06-May-2026",
+        "listing": "08-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kissht-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/onemi-technology-ipo/2576/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2552,
+      "name": "Value 360 Communications Ltd.",
+      "slug": "value-360-communications-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-04",
+        "close": "2026-05-06",
+        "allotment": "2026-05-07",
+        "refunds": "2026-05-07",
+        "listing": "2026-05-11"
+      },
+      "displayDates": {
+        "open": "04-May-2026",
+        "close": "06-May-2026",
+        "allotment": "07-May-2026",
+        "listing": "11-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/value-360-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/value-360-communications-ipo/2552/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2825,
+      "name": "Recode Studios Ltd.",
+      "slug": "recode-studios-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-05",
+        "close": "2026-05-07",
+        "allotment": "2026-05-08",
+        "refunds": "2026-05-11",
+        "listing": "2026-05-12"
+      },
+      "displayDates": {
+        "open": "05-May-2026",
+        "close": "07-May-2026",
+        "allotment": "08-May-2026",
+        "listing": "12-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/recode-studios-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/recode-studios-ipo/2825/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2512,
+      "name": "Simca Advertising Ltd.",
+      "slug": "simca-advertising-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-08",
+        "close": "2026-05-12",
+        "allotment": "2026-05-13",
+        "refunds": "2026-05-14",
+        "listing": "2026-05-15"
+      },
+      "displayDates": {
+        "open": "08-May-2026",
+        "close": "12-May-2026",
+        "allotment": "13-May-2026",
+        "listing": "15-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/simca-advertising-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/simca-advertising-ipo/2512/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2773,
+      "name": "Goldline Pharmaceutical Ltd.",
+      "slug": "goldline-pharmaceutical-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-12",
+        "close": "2026-05-14",
+        "allotment": "2026-05-15",
+        "refunds": "2026-05-18",
+        "listing": "2026-05-19"
+      },
+      "displayDates": {
+        "open": "12-May-2026",
+        "close": "14-May-2026",
+        "allotment": "15-May-2026",
+        "listing": "19-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/goldline-pharmaceuticals-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/goldline-pharmaceutical-ipo/2773/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2962,
+      "name": "RFBL Flexi Pack Ltd.",
+      "slug": "rfbl-flexi-pack-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-12",
+        "close": "2026-05-14",
+        "allotment": "2026-05-15",
+        "refunds": "2026-05-18",
+        "listing": "2026-05-19"
+      },
+      "displayDates": {
+        "open": "12-May-2026",
+        "close": "14-May-2026",
+        "allotment": "15-May-2026",
+        "listing": "19-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rfbl_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rfbl-flexi-pack-ipo/2962/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2397,
+      "name": "NFP Sampoorna Foods Ltd.",
+      "slug": "nfp-sampoorna-foods-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-18",
+        "close": "2026-05-20",
+        "allotment": "2026-05-21",
+        "refunds": "2026-05-22",
+        "listing": "2026-05-25"
+      },
+      "displayDates": {
+        "open": "18-May-2026",
+        "close": "20-May-2026",
+        "allotment": "21-May-2026",
+        "listing": "25-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/nfp-sampoorna-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nfp-sampoorna-foods-ipo/2397/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2964,
+      "name": "Teamtech Formwork Solutions Ltd.",
+      "slug": "teamtech-formwork-solutions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-19",
+        "close": "2026-05-21",
+        "allotment": "2026-05-22",
+        "refunds": "2026-05-25",
+        "listing": "2026-05-26"
+      },
+      "displayDates": {
+        "open": "19-May-2026",
+        "close": "21-May-2026",
+        "allotment": "22-May-2026",
+        "listing": "26-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/team_tech_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/teamtech-formwork-solutions-ipo/2964/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2697,
+      "name": "Harikanta Overseas Ltd.",
+      "slug": "harikanta-overseas-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-20",
+        "close": "2026-05-27",
+        "allotment": "2026-05-29",
+        "refunds": "2026-06-01",
+        "listing": "2026-06-02"
+      },
+      "displayDates": {
+        "open": "20-May-2026",
+        "close": "27-May-2026",
+        "allotment": "29-May-2026",
+        "listing": "02-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/harikanta-overseas-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/harikanta-overseas-ipo/2697/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2477,
+      "name": "Vegorama Punjabi Angithi Ltd.",
+      "slug": "vegorama-punjabi-angithi-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-20",
+        "close": "2026-05-22",
+        "allotment": "2026-05-25",
+        "refunds": "2026-05-26",
+        "listing": "2026-05-27"
+      },
+      "displayDates": {
+        "open": "20-May-2026",
+        "close": "22-May-2026",
+        "allotment": "25-May-2026",
+        "listing": "27-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vegorama-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vegorama-punjabi-angithi-ipo/2477/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2738,
+      "name": "Autofurnish Ltd.",
+      "slug": "autofurnish-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "refunds": "2026-05-27",
+        "listing": "2026-05-29"
+      },
+      "displayDates": {
+        "open": "21-May-2026",
+        "close": "25-May-2026",
+        "allotment": "26-May-2026",
+        "listing": "29-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/autofurnish-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/autofurnish-ipo/2738/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2564,
+      "name": "Bio Medica Laboratories Ltd.",
+      "slug": "bio-medica-laboratories-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "refunds": "2026-05-27",
+        "listing": "2026-05-29"
+      },
+      "displayDates": {
+        "open": "21-May-2026",
+        "close": "25-May-2026",
+        "allotment": "26-May-2026",
+        "listing": "29-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bio-medica-laboratories-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bio-medica-laboratories-ipo/2564/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2745,
+      "name": "Q-Line Biotech Ltd.",
+      "slug": "q-line-biotec-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-21",
+        "close": "2026-05-25",
+        "allotment": "2026-05-26",
+        "refunds": "2026-05-27",
+        "listing": "2026-05-29"
+      },
+      "displayDates": {
+        "open": "21-May-2026",
+        "close": "25-May-2026",
+        "allotment": "26-May-2026",
+        "listing": "29-May-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/qline-biotech-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/q-line-biotec-ipo/2745/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2627,
+      "name": "M R Maniveni Foods Ltd.",
+      "slug": "m-r-maniveni-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-22",
+        "close": "2026-05-26",
+        "allotment": "2026-05-27",
+        "refunds": "2026-05-29",
+        "listing": "2026-06-01"
+      },
+      "displayDates": {
+        "open": "22-May-2026",
+        "close": "26-May-2026",
+        "allotment": "27-May-2026",
+        "listing": "01-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/m-r-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/m-r-maniveni-ipo/2627/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2820,
+      "name": "Yaashvi Jewellers Ltd.",
+      "slug": "yaashvi-jewellers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-25",
+        "close": "2026-05-27",
+        "allotment": "2026-05-29",
+        "refunds": "2026-06-01",
+        "listing": "2026-06-02"
+      },
+      "displayDates": {
+        "open": "25-May-2026",
+        "close": "27-May-2026",
+        "allotment": "29-May-2026",
+        "listing": "02-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/yaashvi-jewellers-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/yaashvi-jewellers-ipo/2820/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2729,
+      "name": "Rajnandini Fashion India Ltd.",
+      "slug": "rajnandini-fashion-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-26",
+        "close": "2026-05-29",
+        "allotment": "2026-06-01",
+        "refunds": "2026-06-02",
+        "listing": "2026-06-03"
+      },
+      "displayDates": {
+        "open": "26-May-2026",
+        "close": "29-May-2026",
+        "allotment": "01-Jun-2026",
+        "listing": "03-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rajnandini-fashion-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rajnandini-fashion-india-ipo/2729/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2597,
+      "name": "SMR Jewels Ltd.",
+      "slug": "smr-jewels-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-26",
+        "close": "2026-06-03",
+        "allotment": "2026-06-04",
+        "refunds": "2026-06-05",
+        "listing": "2026-06-08"
+      },
+      "displayDates": {
+        "open": "26-May-2026",
+        "close": "03-Jun-2026",
+        "allotment": "04-Jun-2026",
+        "listing": "08-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/smr-jewells-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/smr-jewels-ipo/2597/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2817,
+      "name": "Aureate Tradde Ltd.",
+      "slug": "aureate-tradde-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-05-29",
+        "close": "2026-06-02",
+        "allotment": "2026-06-03",
+        "refunds": "2026-06-04",
+        "listing": "2026-06-05"
+      },
+      "displayDates": {
+        "open": "29-May-2026",
+        "close": "02-Jun-2026",
+        "allotment": "03-Jun-2026",
+        "listing": "05-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aureate-tradde-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/aureate-tradde-ipo/2817/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2961,
+      "name": "Merritronix Ltd.",
+      "slug": "merritronix-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-01",
+        "close": "2026-06-03",
+        "allotment": "2026-06-04",
+        "refunds": "2026-06-05",
+        "listing": "2026-06-08"
+      },
+      "displayDates": {
+        "open": "01-Jun-2026",
+        "close": "03-Jun-2026",
+        "allotment": "04-Jun-2026",
+        "listing": "08-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/merritronix_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/merritronix-ipo/2961/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2586,
+      "name": "CMR Green Technologies Ltd.",
+      "slug": "cmr-green-technologies-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-03",
+        "close": "2026-06-05",
+        "allotment": "2026-06-08",
+        "refunds": "2026-06-09",
+        "listing": "2026-06-10"
+      },
+      "displayDates": {
+        "open": "03-Jun-2026",
+        "close": "05-Jun-2026",
+        "allotment": "08-Jun-2026",
+        "listing": "10-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/cmr-green-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/cmr-green-technologies-ipo/2586/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2841,
+      "name": "UHM Vacation Ltd.",
+      "slug": "uhm-vacation-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-04",
+        "close": "2026-06-08",
+        "allotment": "2026-06-09",
+        "refunds": "2026-06-10",
+        "listing": "2026-06-11"
+      },
+      "displayDates": {
+        "open": "04-Jun-2026",
+        "close": "08-Jun-2026",
+        "allotment": "09-Jun-2026",
+        "listing": "11-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/uhm-vacation-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/uhm-vacation-ipo/2841/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2802,
+      "name": "Vahh Chemicals Ltd.",
+      "slug": "vahh-chemicals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-04",
+        "close": "2026-06-08",
+        "allotment": "2026-06-09",
+        "refunds": "2026-06-10",
+        "listing": "2026-06-11"
+      },
+      "displayDates": {
+        "open": "04-Jun-2026",
+        "close": "08-Jun-2026",
+        "allotment": "09-Jun-2026",
+        "listing": "11-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vahh-chemicals-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vahh-chemicals-ipo/2802/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2801,
+      "name": "Genxai Analytics Ltd.",
+      "slug": "genxai-analytics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-05",
+        "close": "2026-06-09",
+        "allotment": "2026-06-10",
+        "refunds": "2026-06-11",
+        "listing": "2026-06-12"
+      },
+      "displayDates": {
+        "open": "05-Jun-2026",
+        "close": "09-Jun-2026",
+        "allotment": "10-Jun-2026",
+        "listing": "12-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/genxai-analytics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/genxai-analytics-ipo/2801/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2658,
+      "name": "Hexagon Nutrition Ltd.",
+      "slug": "hexagon-nutrition-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-05",
+        "close": "2026-06-09",
+        "allotment": "2026-06-10",
+        "refunds": "2026-06-11",
+        "listing": "2026-06-12"
+      },
+      "displayDates": {
+        "open": "05-Jun-2026",
+        "close": "09-Jun-2026",
+        "allotment": "10-Jun-2026",
+        "listing": "12-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hexagon-nutrition-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hexagon-nutrition-ipo/2658/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2638,
+      "name": "Utkal Speciality Industries India Ltd.",
+      "slug": "utkal-speciality-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-10",
+        "close": "2026-06-12",
+        "allotment": "2026-06-15",
+        "refunds": "2026-06-16",
+        "listing": "2026-06-17"
+      },
+      "displayDates": {
+        "open": "10-Jun-2026",
+        "close": "12-Jun-2026",
+        "allotment": "15-Jun-2026",
+        "listing": "17-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/utkal-speciality-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/utkal-speciality-ipo/2638/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2872,
+      "name": "Susan Electricals India Ltd.",
+      "slug": "susan-electricals-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-11",
+        "close": "2026-06-15",
+        "allotment": "2026-06-16",
+        "refunds": "2026-06-17",
+        "listing": "2026-06-18"
+      },
+      "displayDates": {
+        "open": "11-Jun-2026",
+        "close": "15-Jun-2026",
+        "allotment": "16-Jun-2026",
+        "listing": "18-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/susan-electricals-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/susan-electricals-india-ipo/2872/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2937,
+      "name": "Horizon Reclaim (India) Ltd.",
+      "slug": "horizon-reclaim-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-12",
+        "close": "2026-06-16",
+        "allotment": "2026-06-17",
+        "refunds": "2026-06-18",
+        "listing": "2026-06-19"
+      },
+      "displayDates": {
+        "open": "12-Jun-2026",
+        "close": "16-Jun-2026",
+        "allotment": "17-Jun-2026",
+        "listing": "19-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/horizon-reclaim-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-reclaim-india-ipo/2937/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2585,
+      "name": "Clay Craft India Ltd.",
+      "slug": "clay-craft-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "refunds": "2026-06-23",
+        "listing": "2026-06-24"
+      },
+      "displayDates": {
+        "open": "17-Jun-2026",
+        "close": "19-Jun-2026",
+        "allotment": "22-Jun-2026",
+        "listing": "24-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/clay-craft-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/clay-craft-ipo/2585/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2568,
+      "name": "Diksha Polymers Ltd.",
+      "slug": "diksha-polymers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "refunds": "2026-06-23",
+        "listing": "2026-06-24"
+      },
+      "displayDates": {
+        "open": "17-Jun-2026",
+        "close": "19-Jun-2026",
+        "allotment": "22-Jun-2026",
+        "listing": "24-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/diksha-polymers-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/diksha-polymers-ipo/2568/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2107,
+      "name": "Leapfrog Engineering Services Ltd.",
+      "slug": "leapfrog-engineering-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "refunds": "2026-06-23",
+        "listing": "2026-06-24"
+      },
+      "displayDates": {
+        "open": "17-Jun-2026",
+        "close": "19-Jun-2026",
+        "allotment": "22-Jun-2026",
+        "listing": "24-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/leapfrog-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/leapfrog-engineering-ipo/2107/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2367,
+      "name": "Liotech Industries Ltd.",
+      "slug": "liotech-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-17",
+        "close": "2026-06-19",
+        "allotment": "2026-06-22",
+        "refunds": "2026-06-22",
+        "listing": "2026-06-24"
+      },
+      "displayDates": {
+        "open": "17-Jun-2026",
+        "close": "19-Jun-2026",
+        "allotment": "22-Jun-2026",
+        "listing": "24-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/liotech-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/liotech-industries-ipo/2367/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2184,
+      "name": "Avience Biomedicals Ltd.",
+      "slug": "avience-biomedicals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-18",
+        "close": "2026-06-22",
+        "allotment": "2026-06-23",
+        "refunds": "2026-06-24",
+        "listing": "2026-06-25"
+      },
+      "displayDates": {
+        "open": "18-Jun-2026",
+        "close": "22-Jun-2026",
+        "allotment": "23-Jun-2026",
+        "listing": "25-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/avience-bio-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/avience-biomedicals-ipo/2184/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2538,
+      "name": "Riyaasat Lifestyle Ltd.",
+      "slug": "riyaasat-lifestyle-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-18",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "refunds": "2026-06-30",
+        "listing": "2026-07-01"
+      },
+      "displayDates": {
+        "open": "18-Jun-2026",
+        "close": "25-Jun-2026",
+        "allotment": "29-Jun-2026",
+        "listing": "01-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/riyaasat-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/riyaasat-lifestyle-ipo/2538/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2610,
+      "name": "Anubhav Plast Ltd.",
+      "slug": "anubhav-plast-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-19",
+        "close": "2026-06-23",
+        "allotment": "2026-06-24",
+        "refunds": "2026-06-25",
+        "listing": "2026-06-29"
+      },
+      "displayDates": {
+        "open": "19-Jun-2026",
+        "close": "23-Jun-2026",
+        "allotment": "24-Jun-2026",
+        "listing": "29-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/anubhav-plast-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anubhav-plast-ipo/2610/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2601,
+      "name": "Turtlemint Fintech Solutions Ltd.",
+      "slug": "turtlemint-fintech-solutions-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-19",
+        "close": "2026-06-23",
+        "allotment": "2026-06-24",
+        "refunds": "2026-06-25",
+        "listing": "2026-06-29"
+      },
+      "displayDates": {
+        "open": "19-Jun-2026",
+        "close": "23-Jun-2026",
+        "allotment": "24-Jun-2026",
+        "listing": "29-Jun-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/turtlemint-insurance-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/turtlemint-fintech-solutions-ipo/2601/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2686,
+      "name": "Advit Jewels Ltd.",
+      "slug": "advit-jewels-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "refunds": "2026-06-30",
+        "listing": "2026-07-01"
+      },
+      "displayDates": {
+        "open": "23-Jun-2026",
+        "close": "25-Jun-2026",
+        "allotment": "29-Jun-2026",
+        "listing": "01-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/advit-jewels-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/advit-jewels-ipo/2686/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2771,
+      "name": "Jivial Industries Ltd.",
+      "slug": "jivial-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "refunds": "2026-06-30",
+        "listing": "2026-07-01"
+      },
+      "displayDates": {
+        "open": "23-Jun-2026",
+        "close": "25-Jun-2026",
+        "allotment": "29-Jun-2026",
+        "listing": "01-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jivial-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jivial-industries-ipo/2771/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2851,
+      "name": "Shreedhar Spinners Ltd.",
+      "slug": "shreedhar-spinners-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "refunds": "2026-06-30",
+        "listing": "2026-07-01"
+      },
+      "displayDates": {
+        "open": "23-Jun-2026",
+        "close": "25-Jun-2026",
+        "allotment": "29-Jun-2026",
+        "listing": "01-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shreedhar_spinners_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shreedhar-spinners-ipo/2851/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2474,
+      "name": "Waterways Leisure Tourism Ltd.",
+      "slug": "cordelia-cruises-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-23",
+        "close": "2026-06-25",
+        "allotment": "2026-06-29",
+        "refunds": "2026-06-30",
+        "listing": "2026-07-01"
+      },
+      "displayDates": {
+        "open": "23-Jun-2026",
+        "close": "25-Jun-2026",
+        "allotment": "29-Jun-2026",
+        "listing": "01-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/cordelia-cruises-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/cordelia-cruises-ipo/2474/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2641,
+      "name": "CSM Technologies Ltd.",
+      "slug": "csm-technologies-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-24",
+        "close": "2026-06-29",
+        "allotment": "2026-06-30",
+        "refunds": "2026-07-01",
+        "listing": "2026-07-02"
+      },
+      "displayDates": {
+        "open": "24-Jun-2026",
+        "close": "29-Jun-2026",
+        "allotment": "30-Jun-2026",
+        "listing": "02-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/csm-technologies-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/csm-technologies-ipo/2641/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2572,
+      "name": "Sri Priyanka Geo Commex Ltd.",
+      "slug": "sri-priyanka-geo-commex-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-24",
+        "close": "2026-06-29",
+        "allotment": "2026-06-30",
+        "refunds": "2026-07-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Jun-2026",
+        "close": "29-Jun-2026",
+        "allotment": "30-Jun-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/spgcl-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sri-priyanka-geo-commex-ipo/2572/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2133,
+      "name": "Crazy Snacks Ltd.",
+      "slug": "crazy-snacks-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-25",
+        "close": "2026-06-30",
+        "allotment": "2026-07-01",
+        "refunds": "2026-07-02",
+        "listing": "2026-07-03"
+      },
+      "displayDates": {
+        "open": "25-Jun-2026",
+        "close": "30-Jun-2026",
+        "allotment": "01-Jul-2026",
+        "listing": "03-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/crazy-snacks-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/crazy-snacks-ipo/2133/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2678,
+      "name": "Aastha Spintex Ltd.",
+      "slug": "aastha-spintex-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-06-29",
+        "close": "2026-07-01",
+        "allotment": "2026-07-02",
+        "refunds": "2026-07-03",
+        "listing": "2026-07-06"
+      },
+      "displayDates": {
+        "open": "29-Jun-2026",
+        "close": "01-Jul-2026",
+        "allotment": "02-Jul-2026",
+        "listing": "06-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aastha-spintex-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/aastha-spintex-ipo/2678/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2467,
+      "name": "Adon Agro Commodities Ltd.",
+      "slug": "adon-agro-commodities-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-29",
+        "close": "2026-07-01",
+        "allotment": "2026-07-02",
+        "refunds": "2026-07-03",
+        "listing": "2026-07-06"
+      },
+      "displayDates": {
+        "open": "29-Jun-2026",
+        "close": "01-Jul-2026",
+        "allotment": "02-Jul-2026",
+        "listing": "06-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/adon-agro-commodities-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/adon-agro-commodities-ipo/2467/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2438,
+      "name": "Twinkle Papers Ltd.",
+      "slug": "twinkle-papers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-29",
+        "close": "2026-07-01",
+        "allotment": "2026-07-02",
+        "refunds": "2026-07-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Jun-2026",
+        "close": "01-Jul-2026",
+        "allotment": "02-Jul-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/twinkle-papers-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/twinkle-papers-ipo/2438/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2653,
+      "name": "Atharva Polyplast Ltd.",
+      "slug": "atharva-polyplast-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/atharva-polyplast-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/atharva-polyplast-ipo/2653/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2844,
+      "name": "Kratikal Tech Ltd.",
+      "slug": "kratikal-tech-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kratikal-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kratikal-tech-ipo/2844/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2711,
+      "name": "Sampark India Logistics Ltd.",
+      "slug": "sampark-india-logistics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sampark-india-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sampark-india-logistics-ipo/2711/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2707,
+      "name": "Seemax Resources Ltd.",
+      "slug": "seemax-resources-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/seemax-resources-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/seemax-resources-ipo/2707/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2308,
+      "name": "Teja Engineering Industries Ltd.",
+      "slug": "teja-engineering-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/teja_engineering_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/teja-engineering-industries-ipo/2308/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2831,
+      "name": "Vinit Mobile Ltd.",
+      "slug": "vinit-mobile-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-06-30",
+        "close": "2026-07-02",
+        "allotment": "2026-07-03",
+        "refunds": "2026-07-06",
+        "listing": "2026-07-07"
+      },
+      "displayDates": {
+        "open": "30-Jun-2026",
+        "close": "02-Jul-2026",
+        "allotment": "03-Jul-2026",
+        "listing": "07-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vinit-mobile-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vinit-mobile-ipo/2831/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2592,
+      "name": "Knack Packaging Ltd.",
+      "slug": "knack-packaging-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-01",
+        "close": "2026-07-03",
+        "allotment": "2026-07-06",
+        "refunds": "2026-07-07",
+        "listing": "2026-07-08"
+      },
+      "displayDates": {
+        "open": "01-Jul-2026",
+        "close": "03-Jul-2026",
+        "allotment": "06-Jul-2026",
+        "listing": "08-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/knack-packaging-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/knack-packaging-ipo/2592/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2754,
+      "name": "IC Electricals Co.Ltd.",
+      "slug": "ic-electricals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-03",
+        "close": "2026-07-07",
+        "allotment": "2026-07-08",
+        "refunds": "2026-07-09",
+        "listing": "2026-07-10"
+      },
+      "displayDates": {
+        "open": "03-Jul-2026",
+        "close": "07-Jul-2026",
+        "allotment": "08-Jul-2026",
+        "listing": "10-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ic-electric-ltd-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ic-electricals-ipo/2754/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2670,
+      "name": "Kusumgar Ltd.",
+      "slug": "kusumgar-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-08",
+        "close": "2026-07-10",
+        "allotment": "2026-07-13",
+        "refunds": "2026-07-14",
+        "listing": "2026-07-15"
+      },
+      "displayDates": {
+        "open": "08-Jul-2026",
+        "close": "10-Jul-2026",
+        "allotment": "13-Jul-2026",
+        "listing": "15-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kusumgar-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kusumgar-ipo/2670/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2943,
+      "name": "Devson Catalyst Ltd.",
+      "slug": "devson-catalyst-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "refunds": "2026-07-15",
+        "listing": "2026-07-16"
+      },
+      "displayDates": {
+        "open": "09-Jul-2026",
+        "close": "13-Jul-2026",
+        "allotment": "14-Jul-2026",
+        "listing": "16-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/devson_catalyst_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/devson-catalyst-ipo/2943/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2864,
+      "name": "Happy Steels Ltd.",
+      "slug": "happy-steels-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "refunds": "2026-07-15",
+        "listing": "2026-07-16"
+      },
+      "displayDates": {
+        "open": "09-Jul-2026",
+        "close": "13-Jul-2026",
+        "allotment": "14-Jul-2026",
+        "listing": "16-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/happysteel-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/happy-steels-ipo/2864/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2654,
+      "name": "Laser Power & Infra Ltd.",
+      "slug": "laser-power-infra-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-09",
+        "close": "2026-07-13",
+        "allotment": "2026-07-14",
+        "refunds": "2026-07-15",
+        "listing": "2026-07-16"
+      },
+      "displayDates": {
+        "open": "09-Jul-2026",
+        "close": "13-Jul-2026",
+        "allotment": "14-Jul-2026",
+        "listing": "16-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/laser-power-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/laser-power-infra-ipo/2654/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2675,
+      "name": "Alpine Texworld Ltd.",
+      "slug": "alpine-texworld-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "refunds": "2026-07-20",
+        "listing": "2026-07-21"
+      },
+      "displayDates": {
+        "open": "14-Jul-2026",
+        "close": "16-Jul-2026",
+        "allotment": "17-Jul-2026",
+        "listing": "21-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/alpine-texworld-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/alpine-texworld-ipo/2675/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2866,
+      "name": "Millworks Technologies Ltd.",
+      "slug": "millworks-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "refunds": "2026-07-20",
+        "listing": "2026-07-21"
+      },
+      "displayDates": {
+        "open": "14-Jul-2026",
+        "close": "16-Jul-2026",
+        "allotment": "17-Jul-2026",
+        "listing": "21-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/millworks-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/millworks-technologies-ipo/2866/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2949,
+      "name": "SBI Funds Management Ltd.",
+      "slug": "sbi-funds-management-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-14",
+        "close": "2026-07-16",
+        "allotment": "2026-07-17",
+        "refunds": "2026-07-20",
+        "listing": "2026-07-21"
+      },
+      "displayDates": {
+        "open": "14-Jul-2026",
+        "close": "16-Jul-2026",
+        "allotment": "17-Jul-2026",
+        "listing": "21-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sbi-funds-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sbi-funds-management-ipo/2949/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2836,
+      "name": "Sotefin Bharat Ltd.",
+      "slug": "sotefin-bharat-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-16",
+        "close": "2026-07-20",
+        "allotment": "2026-07-21",
+        "refunds": "2026-07-22",
+        "listing": "2026-07-23"
+      },
+      "displayDates": {
+        "open": "16-Jul-2026",
+        "close": "20-Jul-2026",
+        "allotment": "21-Jul-2026",
+        "listing": "23-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/softfin-bharat-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sotefin-bharat-ipo/2836/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 1999,
+      "name": "Caliber Mining & Logistics Ltd.",
+      "slug": "caliber-mining-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-17",
+        "close": "2026-07-21",
+        "allotment": "2026-07-22",
+        "refunds": "2026-07-23",
+        "listing": "2026-07-24"
+      },
+      "displayDates": {
+        "open": "17-Jul-2026",
+        "close": "21-Jul-2026",
+        "allotment": "22-Jul-2026",
+        "listing": "24-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/caliber-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/caliber-mining-ipo/1999/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2953,
+      "name": "Gulf Lloyds (India) Ltd.",
+      "slug": "gulf-lloyds-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-20",
+        "close": "2026-07-22",
+        "allotment": "2026-07-23",
+        "refunds": "2026-07-24",
+        "listing": "2026-07-27"
+      },
+      "displayDates": {
+        "open": "20-Jul-2026",
+        "close": "22-Jul-2026",
+        "allotment": "23-Jul-2026",
+        "listing": "27-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gulf_lloyd-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gulf-lloyds-ipo/2953/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2993,
+      "name": "Metalic Technoforge Ltd.",
+      "slug": "metalic-technoforge-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-21",
+        "close": "2026-07-23",
+        "allotment": "2026-07-24",
+        "refunds": "2026-07-24",
+        "listing": "2026-07-28"
+      },
+      "displayDates": {
+        "open": "21-Jul-2026",
+        "close": "23-Jul-2026",
+        "allotment": "24-Jul-2026",
+        "listing": "28-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mtf_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/metalic-technoforge-ipo/2993/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2706,
+      "name": "Shree Balaji (Mala) Textiles Ltd.",
+      "slug": "shree-balaji-mala-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-22",
+        "close": "2026-07-24",
+        "allotment": "2026-07-27",
+        "refunds": "2026-07-28",
+        "listing": "2026-07-29"
+      },
+      "displayDates": {
+        "open": "22-Jul-2026",
+        "close": "24-Jul-2026",
+        "allotment": "27-Jul-2026",
+        "listing": "29-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-balaji-mala-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-balaji-mala-ipo/2706/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2682,
+      "name": "Indo-MIM Ltd.",
+      "slug": "indo-mim-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "refunds": "2026-07-29",
+        "listing": "2026-07-30"
+      },
+      "displayDates": {
+        "open": "23-Jul-2026",
+        "close": "27-Jul-2026",
+        "allotment": "28-Jul-2026",
+        "listing": "30-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/indo-mim-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/indo-mim-ipo/2682/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2574,
+      "name": "Lohia Corp Ltd.",
+      "slug": "lohia-corp-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "refunds": "2026-07-29",
+        "listing": "2026-07-30"
+      },
+      "displayDates": {
+        "open": "23-Jul-2026",
+        "close": "27-Jul-2026",
+        "allotment": "28-Jul-2026",
+        "listing": "30-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lohia-corp-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lohia-corp-ipo/2574/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2688,
+      "name": "Xtranet Technologies Ltd.",
+      "slug": "xtranet-technologies-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-23",
+        "close": "2026-07-27",
+        "allotment": "2026-07-28",
+        "refunds": "2026-07-29",
+        "listing": "2026-07-30"
+      },
+      "displayDates": {
+        "open": "23-Jul-2026",
+        "close": "27-Jul-2026",
+        "allotment": "28-Jul-2026",
+        "listing": "30-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/xtranet-technologies-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/xtranet-technologies-ipo/2688/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2824,
+      "name": "Silverstorm Parks & Resorts Ltd.",
+      "slug": "silverstorm-parks-resorts-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-24",
+        "close": "2026-07-28",
+        "allotment": "2026-07-29",
+        "refunds": "2026-07-30",
+        "listing": "2026-07-31"
+      },
+      "displayDates": {
+        "open": "24-Jul-2026",
+        "close": "28-Jul-2026",
+        "allotment": "29-Jul-2026",
+        "listing": "31-Jul-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/silver-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/silverstorm-parks-resorts-ipo/2824/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2307,
+      "name": "Advance Technoforge Ltd.",
+      "slug": "advance-technoforge-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-27",
+        "close": "2026-07-29",
+        "allotment": "2026-07-30",
+        "refunds": "2026-07-31",
+        "listing": "2026-08-03"
+      },
+      "displayDates": {
+        "open": "27-Jul-2026",
+        "close": "29-Jul-2026",
+        "allotment": "30-Jul-2026",
+        "listing": "03-Aug-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/advance-technoforge-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/advance-technoforge-ipo/2307/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2732,
+      "name": "Propshop Events & Exhibitions Ltd.",
+      "slug": "propshop-events-exhibitions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-27",
+        "close": "2026-07-29",
+        "allotment": "2026-07-30",
+        "refunds": "2026-07-31",
+        "listing": "2026-08-03"
+      },
+      "displayDates": {
+        "open": "27-Jul-2026",
+        "close": "29-Jul-2026",
+        "allotment": "30-Jul-2026",
+        "listing": "03-Aug-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/propshop-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/propshop-events-exhibitions-ipo/2732/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2954,
+      "name": "Poojaa Precision Engg.Ltd.",
+      "slug": "poojaa-precision-engg-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-28",
+        "close": "2026-07-30",
+        "allotment": "2026-07-31",
+        "refunds": "2026-08-03",
+        "listing": "2026-08-04"
+      },
+      "displayDates": {
+        "open": "28-Jul-2026",
+        "close": "30-Jul-2026",
+        "allotment": "31-Jul-2026",
+        "listing": "04-Aug-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pooja_precision_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/poojaa-precision-engg-ipo/2954/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2713,
+      "name": "H.R.Hygiene Products Ltd.",
+      "slug": "hr-hygiene-products-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "refunds": "2026-08-04",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Jul-2026",
+        "close": "31-Jul-2026",
+        "allotment": "03-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/h-r-hygiene-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hr-hygiene-products-ipo/2713/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2956,
+      "name": "Manipal Health Enterprises Ltd.",
+      "slug": "manipal-health-enterprises-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-29",
+        "close": "2026-07-31",
+        "allotment": "2026-08-03",
+        "refunds": "2026-08-04",
+        "listing": "2026-08-05"
+      },
+      "displayDates": {
+        "open": "29-Jul-2026",
+        "close": "31-Jul-2026",
+        "allotment": "03-Aug-2026",
+        "listing": "05-Aug-2026"
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manipal-hospital-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-health-enterprises-ipo/2956/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2835,
+      "name": "Dhaval Packaging Ltd.",
+      "slug": "dhaval-packaging-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "refunds": "2026-08-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Jul-2026",
+        "close": "03-Aug-2026",
+        "allotment": "04-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhaval-packaging-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhaval-packaging-ipo/2835/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2492,
+      "name": "Juniper Green Energy Ltd.",
+      "slug": "juniper-green-energy-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "refunds": "2026-08-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Jul-2026",
+        "close": "03-Aug-2026",
+        "allotment": "04-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/juniper-green-energy-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/juniper-green-energy-ipo/2492/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2800,
+      "name": "MV Electrosystems Ltd.",
+      "slug": "mv-electrosystems-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "refunds": "2026-08-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Jul-2026",
+        "close": "03-Aug-2026",
+        "allotment": "04-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mv-electrosystem-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mv-electrosystems-ipo/2800/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2646,
+      "name": "Oneindig Technologies Ltd.",
+      "slug": "oneindig-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-30",
+        "close": "2026-08-03",
+        "allotment": "2026-08-04",
+        "refunds": "2026-08-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Jul-2026",
+        "close": "03-Aug-2026",
+        "allotment": "04-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/oneinding-technologies-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/oneindig-technologies-ipo/2646/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2867,
+      "name": "Fusion Klassroom Edutech Ltd.",
+      "slug": "fusion-klassroom-edutech-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "refunds": "2026-08-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "31-Jul-2026",
+        "close": "04-Aug-2026",
+        "allotment": "05-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/klassroom-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2985,
+      "name": "G.V.Electricals Ltd.",
+      "slug": "gv-electricals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-04",
+        "allotment": "2026-08-05",
+        "refunds": "2026-08-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "31-Jul-2026",
+        "close": "04-Aug-2026",
+        "allotment": "05-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2618,
+      "name": "Anawil Wire & Engineering Ltd.",
+      "slug": "anawil-wire-engieering-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-03",
+        "close": "2026-08-05",
+        "allotment": "2026-08-06",
+        "refunds": "2026-08-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "03-Aug-2026",
+        "close": "05-Aug-2026",
+        "allotment": "06-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2837,
+      "name": "Aegeus Technologies Ltd.",
+      "slug": "aegeus-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-04",
+        "close": "2026-08-06",
+        "allotment": "2026-08-07",
+        "refunds": "2026-08-10",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "04-Aug-2026",
+        "close": "06-Aug-2026",
+        "allotment": "07-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aegeus-technologies-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/aegeus-technologies-ipo/2837/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2860,
+      "name": "Ardee Industries Ltd.",
+      "slug": "ardee-industries-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-05",
+        "close": "2026-08-07",
+        "allotment": "2026-08-10",
+        "refunds": "2026-08-11",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "05-Aug-2026",
+        "close": "07-Aug-2026",
+        "allotment": "10-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ardee-industries-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ardee-industries-ipo/2860/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2300,
+      "name": "LAPL Automotive Ltd.",
+      "slug": "lapl-automotive-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-06",
+        "close": "2026-08-10",
+        "allotment": "2026-08-11",
+        "refunds": "2026-08-12",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "06-Aug-2026",
+        "close": "10-Aug-2026",
+        "allotment": "11-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2583,
+      "name": "LEAP India Ltd.",
+      "slug": "leap-india-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "refunds": "2026-08-13",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "07-Aug-2026",
+        "close": "11-Aug-2026",
+        "allotment": "12-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/leap-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/leap-india-ipo/2583/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2755,
+      "name": "Optimystix Entertainment India Ltd.",
+      "slug": "optimystix-entertainment-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "refunds": "2026-08-13",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "07-Aug-2026",
+        "close": "11-Aug-2026",
+        "allotment": "12-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/optimystix-entertainment-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/optimystix-entertainment-ipo/2755/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2565,
+      "name": "Technocraft Ventures Ltd.",
+      "slug": "technocraft-ventures-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "refunds": "2026-08-13",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "07-Aug-2026",
+        "close": "11-Aug-2026",
+        "allotment": "12-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/technocraft-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/technocraft-ventures-ipo/2565/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2859,
+      "name": "Dhoot Transmission Ltd.",
+      "slug": "dhoot-transmission-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "refunds": "2026-08-14",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Aug-2026",
+        "close": "12-Aug-2026",
+        "allotment": "13-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhoot-transmission-ipo/2859/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2579,
+      "name": "Molbio Diagnostics Ltd.",
+      "slug": "molbio-diagnostics-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "refunds": "2026-08-14",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Aug-2026",
+        "close": "12-Aug-2026",
+        "allotment": "13-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3088,
+      "name": "Pramodini Medicare Ltd.",
+      "slug": "pramodini-medicare-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "refunds": "2026-08-18",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "12-Aug-2026",
+        "close": "14-Aug-2026",
+        "allotment": "17-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    }
+  ]
+}

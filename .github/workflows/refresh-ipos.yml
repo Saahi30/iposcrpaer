@@ -37,6 +37,13 @@ jobs:
             --split \
             --out-dir output
 
+      - name: Scrape IPO calendar + timetable
+        run: |
+          python scrape_calendar_timetable.py \
+            --months 2 \
+            --calendar-out output/ipo-calendar.json \
+            --timetable-out output/ipo-timetable.json
+
       - name: Commit refreshed data
         id: commit
         run: |
