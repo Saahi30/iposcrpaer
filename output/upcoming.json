@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-04T19:42:08+00:00",
+  "scrapedAt": "2026-08-05T02:48:01+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 7
   },
   "ipos": [
     {
@@ -31,15 +31,15 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 110.0,
+        "max": 118.0,
+        "display": "₹110–118"
       },
-      "lotSize": null,
+      "lotSize": 1200,
       "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
+      "issueSizeCr": 69.04,
+      "freshIssueCr": 59.17,
+      "ofsCr": 5.9,
       "dates": {
         "open": "2026-08-12",
         "close": "2026-08-14",
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "4-Aug 19:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "5-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -86,15 +86,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 768.0,
+        "max": 807.0,
+        "display": "₹768–807"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": 200.0,
-      "ofsCr": null,
+      "lotSize": 18,
+      "issueSize": "₹939.85 Cr",
+      "issueSizeCr": 939.85,
+      "freshIssueCr": 200.16,
+      "ofsCr": 739.7,
       "dates": {
         "open": "2026-08-10",
         "close": "2026-08-12",
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "4-Aug 12:00"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "5-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 253.0,
         "percent": 29.05,
         "xLot": 4301.0,
-        "updatedOn": "4-Aug 23:29"
+        "updatedOn": "5-Aug 7:30"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 10.0,
         "percent": 4.72,
         "xLot": 700.0,
-        "updatedOn": "4-Aug 23:33"
+        "updatedOn": "5-Aug 7:34"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 3.0,
         "percent": 1.89,
         "xLot": 282.0,
-        "updatedOn": "4-Aug 23:33"
+        "updatedOn": "5-Aug 7:36"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Aug 23:32"
+        "updatedOn": "5-Aug 7:30"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 27.0,
         "percent": 28.72,
         "xLot": 32400.0,
-        "updatedOn": "4-Aug 23:29"
+        "updatedOn": "5-Aug 7:30"
       },
       "subscription": {
         "total": null,
@@ -406,61 +406,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2004, LAPL Automotive Pvt. Ltd. is engaged in the business of designing, manufacturing and supplying a wide range of automotive components and accessories.\n\nThe company specialises in the manufacturing of automotive lighting and signalling products.\n\nThe company operates as an ODM and OBM under its brand \" LAPL ,\" designing and manufacturing automotive components in Aurangabad, Maharashtra, delivering tailored, high-quality solutions to clients and vehicle manufacturers.\n\nThe man",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "ardee-industries-ipo",
-      "ipoId": 2860,
-      "name": "Ardee Industries",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 50.0,
-        "max": 53.0,
-        "display": "₹50–53"
-      },
-      "lotSize": 281,
-      "issueSize": "₹425.87 Cr",
-      "issueSizeCr": 425.87,
-      "freshIssueCr": 320.0,
-      "ofsCr": 105.87,
-      "dates": {
-        "open": "2026-08-05",
-        "close": "2026-08-07",
-        "allotment": "2026-08-10",
-        "listing": "2026-08-12"
-      },
-      "gmp": {
-        "value": 8.0,
-        "percent": 15.09,
-        "xLot": 2248.0,
-        "updatedOn": "4-Aug 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Pantomath Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ardee-industries-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ardee-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ardee-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ardee-industries-ipo/2860/",
-        "gmp": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/"
-      },
-      "gmpId": 2123,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1993, Ardee Industries Limited is a prominent Indian company, with a core focus on the sustainable recovery and recycling of end-of-life energy storage products and non-ferrous scrap.\n\nIts product range includes high-purity lead and specialised lead alloys such as lead calcium, lead antimony, lead tin, lead silver, and lead cadmium alloys. These products are widely used across key sectors, including energy storage, e-mobility, automotive, and chemicals.\n\nAs of March 31, 2025, Ard",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
