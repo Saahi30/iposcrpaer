@@ -434,9 +434,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 50.0,
+      "min": 53.0,
       "max": 53.0,
-      "display": "₹50–53"
+      "display": "₹53"
     },
     "lotSize": 281,
     "issueSize": "₹425.87 Cr",
@@ -447,10 +447,10 @@
       "listing": "2026-08-12"
     },
     "gmp": {
-      "value": 14.0,
-      "percent": 26.42,
-      "xLot": 3934.0,
-      "updatedOn": "5-Aug 18:57"
+      "value": 15.25,
+      "percent": 28.77,
+      "xLot": 4285.25,
+      "updatedOn": "5-Aug 23:34"
     },
     "leadManager": "Pantomath Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/ardee-industries-logo.png",
@@ -460,5 +460,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-05T14:17:30+00:00"
+  "scrapedAt": "2026-08-05T19:40:18+00:00"
 }
