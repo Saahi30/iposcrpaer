@@ -379,8 +379,8 @@
     "source": "https://www.chittorgarh.com/ipo/aegeus-technologies-ipo/2837/"
   },
   "subscription": {
-    "summary": "Aegeus Technologies IPO subscribed 1.05 times. The public issue subscribed 1.71 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.94 times in the NII category by August 5, 2026 2:09:45 PM (Day 2).",
-    "total": 1.05,
+    "summary": "Aegeus Technologies IPO subscribed 1.89 times. The public issue subscribed 2.35 times in the individual investors category, 0.74 times in QIB (Ex Anchor), and 2.37 times in the NII category by August 5, 2026 6:54:44 PM (Day 2).",
+    "total": 1.89,
     "applications": null,
     "byCategory": [
       {
@@ -392,52 +392,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "3,25,200",
+        "Shares bid for": "3,25,200",
+        "Total Amt* (₹ Cr.)": "3.415",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.74",
         "Shares Offered*": "3,92,400",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "2,90,400",
+        "Total Amt* (₹ Cr.)": "3.049",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.94",
+        "Subscription (x)": "2.37",
         "Shares Offered*": "2,91,600",
-        "Shares bid for": "2,73,600",
-        "Total Amt* (₹ Cr.)": "2.873",
+        "Shares bid for": "6,91,200",
+        "Total Amt* (₹ Cr.)": "7.258",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.49",
+        "Subscription (x)": "2.35",
         "Shares Offered*": "1,94,400",
-        "Shares bid for": "96,000",
-        "Total Amt* (₹ Cr.)": "1.008",
+        "Shares bid for": "4,57,200",
+        "Total Amt* (₹ Cr.)": "4.801",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.83",
+        "Subscription (x)": "2.41",
         "Shares Offered*": "97,200",
-        "Shares bid for": "1,77,600",
-        "Total Amt* (₹ Cr.)": "1.865",
+        "Shares bid for": "2,34,000",
+        "Total Amt* (₹ Cr.)": "2.457",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.71",
+        "Subscription (x)": "2.35",
         "Shares Offered*": "6,76,800",
-        "Shares bid for": "11,54,400",
-        "Total Amt* (₹ Cr.)": "12.121",
+        "Shares bid for": "15,93,600",
+        "Total Amt* (₹ Cr.)": "16.733",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.05",
+        "Subscription (x)": "1.89",
         "Shares Offered*": "13,60,800",
-        "Shares bid for": "14,28,000",
-        "Total Amt* (₹ Cr.)": "14.994",
-        "Total Applications": "536"
+        "Shares bid for": "25,75,200",
+        "Total Amt* (₹ Cr.)": "27.040",
+        "Total Applications": "759"
       }
     ],
     "dayWise": [
@@ -452,12 +460,12 @@
       },
       {
         "Date": "Aug 5 (Day 2)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.94",
-        "NII (> ₹10L)": "0.49",
-        "NII (< ₹10L)": "1.83",
-        "Individual Investors": "1.71",
-        "Total": "1.05"
+        "QIB (Ex Anchor)": "0.74",
+        "NII*": "2.37",
+        "NII (> ₹10L)": "2.35",
+        "NII (< ₹10L)": "2.41",
+        "Individual Investors": "2.35",
+        "Total": "1.89"
       }
     ]
   },
@@ -483,7 +491,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "5-Aug 13:31"
+      "updatedOn": "5-Aug 18:57"
     },
     "leadManager": "Turnaround Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/aegeus-technologies-logo.png",
@@ -493,5 +501,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-05T08:41:33+00:00"
+  "scrapedAt": "2026-08-05T14:17:32+00:00"
 }

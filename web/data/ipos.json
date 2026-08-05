@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T08:41:50+00:00",
+  "scrapedAt": "2026-08-05T14:18:03+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 3,
+    "open": 4,
     "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 12
   },
   "ipos": [
     {
@@ -48,13 +48,13 @@
         "listing": "2026-08-12"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 28.3,
-        "xLot": 4215.0,
-        "updatedOn": "5-Aug 13:34"
+        "value": 14.0,
+        "percent": 26.42,
+        "xLot": 3934.0,
+        "updatedOn": "5-Aug 18:57"
       },
       "subscription": {
-        "total": 1.96,
+        "total": 3.26,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -65,48 +65,48 @@
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.12",
+            "Subscription (x)": "1.13",
             "Shares Offered*": "1,60,70,390",
-            "Shares bid for": "1,80,32,894",
-            "Total Amt* (₹ Cr.)": "95.574"
+            "Shares bid for": "1,81,34,054",
+            "Total Amt* (₹ Cr.)": "96.110"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "2.73",
+            "Subscription (x)": "5.60",
             "Shares Offered*": "1,20,52,793",
-            "Shares bid for": "3,29,34,043",
-            "Total Amt* (₹ Cr.)": "174.550"
+            "Shares bid for": "6,74,85,241",
+            "Total Amt* (₹ Cr.)": "357.672"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "2.60",
+            "Subscription (x)": "5.37",
             "Shares Offered*": "80,35,195",
-            "Shares bid for": "2,08,74,085",
-            "Total Amt* (₹ Cr.)": "110.633"
+            "Shares bid for": "4,31,11,301",
+            "Total Amt* (₹ Cr.)": "228.490"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "3.00",
+            "Subscription (x)": "6.07",
             "Shares Offered*": "40,17,598",
-            "Shares bid for": "1,20,59,958",
-            "Total Amt* (₹ Cr.)": "63.918"
+            "Shares bid for": "2,43,73,940",
+            "Total Amt* (₹ Cr.)": "129.182"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "2.10",
+            "Subscription (x)": "3.48",
             "Shares Offered*": "2,81,23,183",
-            "Shares bid for": "5,90,32,761",
-            "Total Amt* (₹ Cr.)": "312.874"
+            "Shares bid for": "9,78,57,688",
+            "Total Amt* (₹ Cr.)": "518.646"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.96",
+            "Subscription (x)": "3.26",
             "Shares Offered*": "5,62,46,366",
-            "Shares bid for": "10,99,99,698",
-            "Total Amt* (₹ Cr.)": "582.998"
+            "Shares bid for": "18,34,76,983",
+            "Total Amt* (₹ Cr.)": "972.428"
           }
         ],
-        "applications": 172261.0
+        "applications": 289070.0
       },
       "leadManager": "Pantomath Capital",
       "symbols": {
@@ -157,10 +157,10 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 13:31"
+        "updatedOn": "5-Aug 18:57"
       },
       "subscription": {
-        "total": 1.05,
+        "total": 1.89,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -171,52 +171,60 @@
             "Total Applications": "-"
           },
           {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "3,25,200",
+            "Shares bid for": "3,25,200",
+            "Total Amt* (₹ Cr.)": "3.415",
+            "Total Applications": "-"
+          },
+          {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "0.00",
+            "Subscription (x)": "0.74",
             "Shares Offered*": "3,92,400",
-            "Shares bid for": "0",
-            "Total Amt* (₹ Cr.)": "0",
+            "Shares bid for": "2,90,400",
+            "Total Amt* (₹ Cr.)": "3.049",
             "Total Applications": "0"
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.94",
+            "Subscription (x)": "2.37",
             "Shares Offered*": "2,91,600",
-            "Shares bid for": "2,73,600",
-            "Total Amt* (₹ Cr.)": "2.873",
+            "Shares bid for": "6,91,200",
+            "Total Amt* (₹ Cr.)": "7.258",
             "Total Applications": "0"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.49",
+            "Subscription (x)": "2.35",
             "Shares Offered*": "1,94,400",
-            "Shares bid for": "96,000",
-            "Total Amt* (₹ Cr.)": "1.008",
+            "Shares bid for": "4,57,200",
+            "Total Amt* (₹ Cr.)": "4.801",
             "Total Applications": ""
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.83",
+            "Subscription (x)": "2.41",
             "Shares Offered*": "97,200",
-            "Shares bid for": "1,77,600",
-            "Total Amt* (₹ Cr.)": "1.865",
+            "Shares bid for": "2,34,000",
+            "Total Amt* (₹ Cr.)": "2.457",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "1.71",
+            "Subscription (x)": "2.35",
             "Shares Offered*": "6,76,800",
-            "Shares bid for": "11,54,400",
-            "Total Amt* (₹ Cr.)": "12.121",
+            "Shares bid for": "15,93,600",
+            "Total Amt* (₹ Cr.)": "16.733",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.05",
+            "Subscription (x)": "1.89",
             "Shares Offered*": "13,60,800",
-            "Shares bid for": "14,28,000",
-            "Total Amt* (₹ Cr.)": "14.994",
-            "Total Applications": "536"
+            "Shares bid for": "25,75,200",
+            "Total Amt* (₹ Cr.)": "27.040",
+            "Total Applications": "759"
           }
         ],
         "applications": null
@@ -270,10 +278,10 @@
         "value": 80.0,
         "percent": 29.63,
         "xLot": 32000.0,
-        "updatedOn": "5-Aug 13:34"
+        "updatedOn": "5-Aug 18:56"
       },
       "subscription": {
-        "total": 79.75,
+        "total": 149.13,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -293,51 +301,51 @@
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "40.78",
+            "Subscription (x)": "164.56",
             "Shares Offered*": "12,50,800",
-            "Shares bid for": "5,10,01,600",
-            "Total Amt* (₹ Cr.)": "1,377.04",
-            "Total Applications": "73"
+            "Shares bid for": "20,58,34,800",
+            "Total Amt* (₹ Cr.)": "5,557.54",
+            "Total Applications": "167"
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "153.43",
+            "Subscription (x)": "233.36",
             "Shares Offered*": "9,38,400",
-            "Shares bid for": "14,39,76,400",
-            "Total Amt* (₹ Cr.)": "3,887.36",
-            "Total Applications": "46,846"
+            "Shares bid for": "21,89,88,000",
+            "Total Amt* (₹ Cr.)": "5,912.68",
+            "Total Applications": "71,834"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "191.05",
+            "Subscription (x)": "288.90",
             "Shares Offered*": "6,25,600",
-            "Shares bid for": "11,95,24,000",
-            "Total Amt* (₹ Cr.)": "3,227.15",
+            "Shares bid for": "18,07,37,200",
+            "Total Amt* (₹ Cr.)": "4,879.90",
             "Total Applications": ""
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "78.17",
+            "Subscription (x)": "122.29",
             "Shares Offered*": "3,12,800",
-            "Shares bid for": "2,44,52,400",
-            "Total Amt* (₹ Cr.)": "660.21",
+            "Shares bid for": "3,82,50,800",
+            "Total Amt* (₹ Cr.)": "1,032.77",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "70.45",
+            "Subscription (x)": "104.22",
             "Shares Offered*": "21,89,600",
-            "Shares bid for": "15,42,49,600",
-            "Total Amt* (₹ Cr.)": "4,164.74",
-            "Total Applications": "1,92,812"
+            "Shares bid for": "22,82,05,600",
+            "Total Amt* (₹ Cr.)": "6,161.55",
+            "Total Applications": "2,85,257"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "79.75",
+            "Subscription (x)": "149.13",
             "Shares Offered*": "43,78,800",
-            "Shares bid for": "34,92,27,600",
-            "Total Amt* (₹ Cr.)": "9,429.15",
-            "Total Applications": "2,39,731"
+            "Shares bid for": "65,30,28,400",
+            "Total Amt* (₹ Cr.)": "17,631.77",
+            "Total Applications": "3,57,258"
           }
         ],
         "applications": null
@@ -362,6 +370,127 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector. The company manufactures customized tubular steel wind turbine towers of up to 140 meters in height for leading Wind Turbine Generator (WTG) OEMs and renewable energy companies.\n\nThe company operates two advanced manufacturing facilities in Koppal, Karnataka and Kutch, Gujarat, wit",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "gv-electricals-ipo",
+      "ipoId": 2985,
+      "name": "G.V. Electricals",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 123.0,
+        "max": 130.0,
+        "display": "₹123–130"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹42.25 Cr",
+      "issueSizeCr": 42.25,
+      "freshIssueCr": 35.36,
+      "ofsCr": 3.25,
+      "dates": {
+        "open": "2026-07-31",
+        "close": "2026-08-07",
+        "allotment": "2026-08-10",
+        "listing": "2026-08-12"
+      },
+      "gmp": {
+        "value": 23.0,
+        "percent": 17.69,
+        "xLot": 23000.0,
+        "updatedOn": "5-Aug 19:01"
+      },
+      "subscription": {
+        "total": 109.56,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "8,88,000",
+            "Shares bid for": "8,88,000",
+            "Total Amt* (₹ Cr.)": "11.54",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "2,80,000",
+            "Shares bid for": "2,80,000",
+            "Total Amt* (₹ Cr.)": "3.64",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "62.61",
+            "Shares Offered*": "5,92,000",
+            "Shares bid for": "3,70,68,000",
+            "Total Amt* (₹ Cr.)": "481.88",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "234.77",
+            "Shares Offered*": "4,50,000",
+            "Shares bid for": "10,56,47,000",
+            "Total Amt* (₹ Cr.)": "1,373.41",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "284.62",
+            "Shares Offered*": "3,00,000",
+            "Shares bid for": "8,53,86,000",
+            "Total Amt* (₹ Cr.)": "1,110.02",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "135.07",
+            "Shares Offered*": "1,50,000",
+            "Shares bid for": "2,02,61,000",
+            "Total Amt* (₹ Cr.)": "263.39",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "82.10",
+            "Shares Offered*": "10,40,000",
+            "Shares bid for": "8,53,82,000",
+            "Total Amt* (₹ Cr.)": "1,109.97",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "109.56",
+            "Shares Offered*": "20,82,000",
+            "Shares bid for": "22,80,97,000",
+            "Total Amt* (₹ Cr.)": "2,965.26",
+            "Total Applications": "59,882"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Seren Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/gv-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=gv-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/",
+        "gmp": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/"
+      },
+      "gmpId": 2246,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in1985, G.V. Electricals Limited is an power distribution infrastructure service provider that provides operation, maintenance, and support services mainly to India's electricity distribution utilities.\n\nThe company operates in three business verticals:-\n\nThe company supports maintenance and operations of electrical distribution systems at various voltage levels, including 33 kV, 11 kV, and LT networks. It provides O&M for 33/11 kV substations and deploys technical staff for field t",
+      "registrar": "Mudra RTA Ventures Private Limited"
     },
     {
       "slug": "pramodini-medicare-ipo",
@@ -391,7 +520,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 13:33"
+        "updatedOn": "5-Aug 19:02"
       },
       "subscription": {
         "total": null,
@@ -498,10 +627,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "5-Aug 13:36"
+        "value": 80.0,
+        "percent": 9.91,
+        "xLot": 1440.0,
+        "updatedOn": "5-Aug 18:56"
       },
       "subscription": {
         "total": null,
@@ -556,7 +685,7 @@
         "value": 255.0,
         "percent": 29.28,
         "xLot": 4335.0,
-        "updatedOn": "5-Aug 13:37"
+        "updatedOn": "5-Aug 19:00"
       },
       "subscription": {
         "total": null,
@@ -608,10 +737,10 @@
         "listing": "2026-08-14"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 4.72,
-        "xLot": 700.0,
-        "updatedOn": "5-Aug 13:35"
+        "value": 12.0,
+        "percent": 5.66,
+        "xLot": 840.0,
+        "updatedOn": "5-Aug 19:00"
       },
       "subscription": {
         "total": null,
@@ -666,7 +795,7 @@
         "value": 3.0,
         "percent": 1.89,
         "xLot": 282.0,
-        "updatedOn": "5-Aug 13:30"
+        "updatedOn": "5-Aug 18:57"
       },
       "subscription": {
         "total": null,
@@ -721,7 +850,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 13:32"
+        "updatedOn": "5-Aug 18:54"
       },
       "subscription": {
         "total": null,
@@ -776,7 +905,7 @@
         "value": 26.0,
         "percent": 27.66,
         "xLot": 31200.0,
-        "updatedOn": "5-Aug 13:31"
+        "updatedOn": "5-Aug 18:58"
       },
       "subscription": {
         "total": null,
