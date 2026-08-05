@@ -6,6 +6,10 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# Required for GitHub Pages deploy via Actions.
+# One-time setup (required or deploy fails with 404):
+#   Settings → Pages → Build and deployment → Source = "GitHub Actions"
+#   https://github.com/Saahi30/iposcrpaer/settings/pages
 permissions:
   contents: write
   pages: write
@@ -60,7 +64,7 @@ jobs:
           fi
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: web
 
@@ -74,4 +78,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
