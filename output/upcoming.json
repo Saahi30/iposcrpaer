@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T02:48:01+00:00",
+  "scrapedAt": "2026-08-05T08:41:50+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
     {
@@ -36,7 +36,7 @@
         "display": "₹110–118"
       },
       "lotSize": 1200,
-      "issueSize": "-",
+      "issueSize": "₹69.04 Cr",
       "issueSizeCr": 69.04,
       "freshIssueCr": 59.17,
       "ofsCr": 5.9,
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 5:55"
+        "updatedOn": "5-Aug 13:33"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
+      "slug": "milky-mist-dairy-food-ipo",
+      "ipoId": 2541,
+      "name": "Milky Mist Dairy Food",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹1553.00 Cr",
+      "issueSizeCr": 1553.0,
+      "freshIssueCr": 1428.0,
+      "ofsCr": 125.0,
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "listing": "2026-08-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "5-Aug 9:20"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/milky-mist-dairy-food-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=milky-mist-dairy-food-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/",
+        "gmp": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/"
+      },
+      "gmpId": 1838,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in July 2014, Milky Mist Dairy Food Limited is one of India's fastest-growing packaged food companies focused on premium value-added dairy products. The company manufactures and markets a diversified portfolio including cheese, paneer, butter, curd, ghee, yogurt, ice cream, UHT products, frozen foods, ready-to-eat (RTE), ready-to-cook (RTC) foods, and chocolates under its flagship brand 'Milky Mist' and sub-brands such as SmartChef, Capella, Misty Lite, Briyas, and Asal.\n\nThe compan",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "molbio-diagnostics-ipo",
       "ipoId": 2579,
       "name": "Molbio Diagnostics",
@@ -91,9 +146,9 @@
         "display": "₹768–807"
       },
       "lotSize": 18,
-      "issueSize": "₹939.85 Cr",
-      "issueSizeCr": 939.85,
-      "freshIssueCr": 200.16,
+      "issueSize": "₹939.70 Cr",
+      "issueSizeCr": 939.7,
+      "freshIssueCr": 200.0,
       "ofsCr": 739.7,
       "dates": {
         "open": "2026-08-10",
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 5:55"
+        "updatedOn": "5-Aug 13:36"
       },
       "subscription": {
         "total": null,
@@ -157,10 +212,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 253.0,
-        "percent": 29.05,
-        "xLot": 4301.0,
-        "updatedOn": "5-Aug 7:30"
+        "value": 255.0,
+        "percent": 29.28,
+        "xLot": 4335.0,
+        "updatedOn": "5-Aug 13:37"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 10.0,
         "percent": 4.72,
         "xLot": 700.0,
-        "updatedOn": "5-Aug 7:34"
+        "updatedOn": "5-Aug 13:35"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 3.0,
         "percent": 1.89,
         "xLot": 282.0,
-        "updatedOn": "5-Aug 7:36"
+        "updatedOn": "5-Aug 13:30"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 7:30"
+        "updatedOn": "5-Aug 13:32"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-08-13"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 28.72,
-        "xLot": 32400.0,
-        "updatedOn": "5-Aug 7:30"
+        "value": 26.0,
+        "percent": 27.66,
+        "xLot": 31200.0,
+        "updatedOn": "5-Aug 13:31"
       },
       "subscription": {
         "total": null,

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T02:48:08+00:00",
+  "scrapedAt": "2026-08-05T08:41:55+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 155,
-    "mainboard": 44,
+    "total": 156,
+    "mainboard": 45,
     "sme": 111
   },
   "ipos": [
@@ -3707,6 +3707,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2541,
+      "name": "Milky Mist Dairy Food Ltd.",
+      "slug": "milky-mist-dairy-food-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "refunds": "2026-08-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "11-Aug-2026",
+        "close": "13-Aug-2026",
+        "allotment": "14-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

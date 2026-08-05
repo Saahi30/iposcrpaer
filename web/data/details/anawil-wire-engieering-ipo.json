@@ -391,8 +391,8 @@
     "source": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/"
   },
   "subscription": {
-    "summary": "Anawil Wire & Engineering IPO subscribed 11.25 times. The public issue subscribed 13.32 times in the individual investors category, 8.91 times in QIB (Ex Anchor), and 9.53 times in the NII category by August 4, 2026 6:54:59 PM (Day 2).",
-    "total": 11.25,
+    "summary": "Anawil Wire & Engineering IPO subscribed 79.75 times. The public issue subscribed 70.45 times in the individual investors category, 40.78 times in QIB (Ex Anchor), and 153.43 times in the NII category by August 5, 2026 2:09:59 PM (Day 3).",
+    "total": 79.75,
     "applications": null,
     "byCategory": [
       {
@@ -413,51 +413,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "8.91",
+        "Subscription (x)": "40.78",
         "Shares Offered*": "12,50,800",
-        "Shares bid for": "1,11,47,200",
-        "Total Amt* (₹ Cr.)": "300.97",
-        "Total Applications": "8"
+        "Shares bid for": "5,10,01,600",
+        "Total Amt* (₹ Cr.)": "1,377.04",
+        "Total Applications": "73"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "9.53",
+        "Subscription (x)": "153.43",
         "Shares Offered*": "9,38,400",
-        "Shares bid for": "89,45,200",
-        "Total Amt* (₹ Cr.)": "241.52",
-        "Total Applications": "3,710"
+        "Shares bid for": "14,39,76,400",
+        "Total Amt* (₹ Cr.)": "3,887.36",
+        "Total Applications": "46,846"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "9.12",
+        "Subscription (x)": "191.05",
         "Shares Offered*": "6,25,600",
-        "Shares bid for": "57,05,600",
-        "Total Amt* (₹ Cr.)": "154.05",
+        "Shares bid for": "11,95,24,000",
+        "Total Amt* (₹ Cr.)": "3,227.15",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "10.36",
+        "Subscription (x)": "78.17",
         "Shares Offered*": "3,12,800",
-        "Shares bid for": "32,39,600",
-        "Total Amt* (₹ Cr.)": "87.47",
+        "Shares bid for": "2,44,52,400",
+        "Total Amt* (₹ Cr.)": "660.21",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "13.32",
+        "Subscription (x)": "70.45",
         "Shares Offered*": "21,89,600",
-        "Shares bid for": "2,91,56,000",
-        "Total Amt* (₹ Cr.)": "787.21",
-        "Total Applications": "36,445"
+        "Shares bid for": "15,42,49,600",
+        "Total Amt* (₹ Cr.)": "4,164.74",
+        "Total Applications": "1,92,812"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "11.25",
+        "Subscription (x)": "79.75",
         "Shares Offered*": "43,78,800",
-        "Shares bid for": "4,92,48,400",
-        "Total Amt* (₹ Cr.)": "1,329.71",
-        "Total Applications": "40,163"
+        "Shares bid for": "34,92,27,600",
+        "Total Amt* (₹ Cr.)": "9,429.15",
+        "Total Applications": "2,39,731"
       }
     ],
     "dayWise": [
@@ -478,6 +478,15 @@
         "NII (< ₹10L)": "10.36",
         "Individual Investors": "13.32",
         "Total": "11.25"
+      },
+      {
+        "Date": "Aug 5 (Day 3)",
+        "QIB (Ex Anchor)": "40.78",
+        "NII*": "153.43",
+        "NII (> ₹10L)": "191.05",
+        "NII (< ₹10L)": "78.17",
+        "Individual Investors": "70.45",
+        "Total": "79.75"
       }
     ]
   },
@@ -503,7 +512,7 @@
       "value": 80.0,
       "percent": 29.63,
       "xLot": 32000.0,
-      "updatedOn": "5-Aug 7:28"
+      "updatedOn": "5-Aug 13:34"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
@@ -513,5 +522,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-05T02:47:46+00:00"
+  "scrapedAt": "2026-08-05T08:41:35+00:00"
 }
