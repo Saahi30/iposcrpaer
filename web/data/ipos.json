@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T22:58:59+00:00",
+  "scrapedAt": "2026-08-06T02:51:09+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -23,6 +23,61 @@
     "total": 12
   },
   "ipos": [
+    {
+      "slug": "lapl-automotive-ipo",
+      "ipoId": 2300,
+      "name": "LAPL Automotive",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 94.0,
+        "display": "₹88–94"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹32.40 Cr",
+      "issueSizeCr": 32.4,
+      "freshIssueCr": 30.77,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-06",
+        "close": "2026-08-10",
+        "allotment": "2026-08-11",
+        "listing": "2026-08-13"
+      },
+      "gmp": {
+        "value": 30.0,
+        "percent": 31.91,
+        "xLot": 36000.0,
+        "updatedOn": "6-Aug 8:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lapl-automotive-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lapl-automotive-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/",
+        "gmp": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/"
+      },
+      "gmpId": 1713,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2004, LAPL Automotive Pvt. Ltd. is engaged in the business of designing, manufacturing and supplying a wide range of automotive components and accessories.\n\nThe company specialises in the manufacturing of automotive lighting and signalling products.\n\nThe company operates as an ODM and OBM under its brand \" LAPL ,\" designing and manufacturing automotive components in Aurangabad, Maharashtra, delivering tailored, high-quality solutions to clients and vehicle manufacturers.\n\nThe man",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "ardee-industries-ipo",
       "ipoId": 2860,
@@ -51,7 +106,7 @@
         "value": 15.25,
         "percent": 28.77,
         "xLot": 4285.25,
-        "updatedOn": "5-Aug 23:34"
+        "updatedOn": "6-Aug 7:56"
       },
       "subscription": {
         "total": 3.26,
@@ -157,7 +212,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 23:37"
+        "updatedOn": "6-Aug 7:56"
       },
       "subscription": {
         "total": 1.89,
@@ -251,127 +306,6 @@
       "registrar": "Skyline Financial Services Pvt.Ltd."
     },
     {
-      "slug": "anawil-wire-engieering-ipo",
-      "ipoId": 2618,
-      "name": "Anawil Wire & Engineering",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 257.0,
-        "max": 270.0,
-        "display": "₹257–270"
-      },
-      "lotSize": 400,
-      "issueSize": "₹177.81 Cr",
-      "issueSizeCr": 177.81,
-      "freshIssueCr": 133.75,
-      "ofsCr": 35.12,
-      "dates": {
-        "open": "2026-08-03",
-        "close": "2026-08-05",
-        "allotment": "2026-08-06",
-        "listing": "2026-08-10"
-      },
-      "gmp": {
-        "value": 78.0,
-        "percent": 28.89,
-        "xLot": 31200.0,
-        "updatedOn": "5-Aug 23:37"
-      },
-      "subscription": {
-        "total": 149.13,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "18,75,600",
-            "Shares bid for": "18,75,600",
-            "Total Amt* (₹ Cr.)": "50.64",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,31,200",
-            "Shares bid for": "3,31,200",
-            "Total Amt* (₹ Cr.)": "8.94",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "164.56",
-            "Shares Offered*": "12,50,800",
-            "Shares bid for": "20,58,34,800",
-            "Total Amt* (₹ Cr.)": "5,557.54",
-            "Total Applications": "167"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "233.36",
-            "Shares Offered*": "9,38,400",
-            "Shares bid for": "21,89,88,000",
-            "Total Amt* (₹ Cr.)": "5,912.68",
-            "Total Applications": "71,834"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "288.90",
-            "Shares Offered*": "6,25,600",
-            "Shares bid for": "18,07,37,200",
-            "Total Amt* (₹ Cr.)": "4,879.90",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "122.29",
-            "Shares Offered*": "3,12,800",
-            "Shares bid for": "3,82,50,800",
-            "Total Amt* (₹ Cr.)": "1,032.77",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "104.22",
-            "Shares Offered*": "21,89,600",
-            "Shares bid for": "22,82,05,600",
-            "Total Amt* (₹ Cr.)": "6,161.55",
-            "Total Applications": "2,85,257"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "149.13",
-            "Shares Offered*": "43,78,800",
-            "Shares bid for": "65,30,28,400",
-            "Total Amt* (₹ Cr.)": "17,631.77",
-            "Total Applications": "3,57,258"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/anawil-wire-engineering-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/anawil-wire-engieering-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=anawil-wire-engieering-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
-        "gmp": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/"
-      },
-      "gmpId": 1895,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 2021, Anawil Wire and Engineering Limited is engaged in the manufacturing of windmill towers, specializing in the fabrication of heavy and precision steel components for the wind energy sector. The company manufactures customized tubular steel wind turbine towers of up to 140 meters in height for leading Wind Turbine Generator (WTG) OEMs and renewable energy companies.\n\nThe company operates two advanced manufacturing facilities in Koppal, Karnataka and Kutch, Gujarat, wit",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
       "slug": "gv-electricals-ipo",
       "ipoId": 2985,
       "name": "G.V. Electricals",
@@ -399,7 +333,7 @@
         "value": 26.0,
         "percent": 20.0,
         "xLot": 26000.0,
-        "updatedOn": "5-Aug 23:36"
+        "updatedOn": "6-Aug 7:58"
       },
       "subscription": {
         "total": 109.56,
@@ -493,6 +427,61 @@
       "registrar": "Mudra RTA Ventures Private Limited"
     },
     {
+      "slug": "shiprocket-ipo",
+      "ipoId": 2450,
+      "name": "Shiprocket",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 92.0,
+        "max": 97.0,
+        "display": "₹92–97"
+      },
+      "lotSize": 154,
+      "issueSize": "₹1617.59 Cr",
+      "issueSizeCr": 1617.59,
+      "freshIssueCr": 885.6,
+      "ofsCr": 731.98,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "6-Aug 8:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shiprocket-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shiprocket-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
+        "gmp": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/"
+      },
+      "gmpId": 1790,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Shiprocket is an end-to-end, technology-driven platform that helps Indian MSMEs and large retailers run their e-commerce businesses easily. It enables merchants to sell online and offline by simplifying shipping, checkout, payments, fulfilment, and cross-border trade. According to the Redseer Report, Shiprocket is India’s largest new-age end-to-end e-commerce enablement platform by revenue in FY25.\n\nShiprocket was started as a shipping platform and its core business includes domestic shipping se",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "pramodini-medicare-ipo",
       "ipoId": 3088,
       "name": "Pramodini Medicare",
@@ -520,7 +509,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 23:32"
+        "updatedOn": "6-Aug 7:56"
       },
       "subscription": {
         "total": null,
@@ -573,9 +562,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "5-Aug 9:20"
+        "updatedOn": "6-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -630,7 +619,7 @@
         "value": 170.0,
         "percent": 21.07,
         "xLot": 3060.0,
-        "updatedOn": "5-Aug 23:37"
+        "updatedOn": "6-Aug 8:01"
       },
       "subscription": {
         "total": null,
@@ -685,7 +674,7 @@
         "value": 253.0,
         "percent": 29.05,
         "xLot": 4301.0,
-        "updatedOn": "5-Aug 23:35"
+        "updatedOn": "6-Aug 7:53"
       },
       "subscription": {
         "total": null,
@@ -740,7 +729,7 @@
         "value": 13.0,
         "percent": 6.13,
         "xLot": 910.0,
-        "updatedOn": "5-Aug 23:37"
+        "updatedOn": "6-Aug 7:58"
       },
       "subscription": {
         "total": null,
@@ -795,7 +784,7 @@
         "value": 3.0,
         "percent": 1.89,
         "xLot": 282.0,
-        "updatedOn": "5-Aug 23:37"
+        "updatedOn": "6-Aug 8:00"
       },
       "subscription": {
         "total": null,
@@ -850,7 +839,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "5-Aug 23:33"
+        "updatedOn": "6-Aug 7:59"
       },
       "subscription": {
         "total": null,
@@ -875,61 +864,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2000, Optimystix Entertainment India Limited is engaged in the business of content creation and production for television, films, and digital platforms. The company has produced over 150 television shows, delivering more than 7,500 hours of original programming across major national broadcasters.\n\nIt operates across both fiction and non-fiction formats, with popular shows such as Laughter Chefs, Baalveer, Rising Star, Saas Bina Sasural, and Ladies Special. The company’s franchise",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "lapl-automotive-ipo",
-      "ipoId": 2300,
-      "name": "LAPL Automotive",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 94.0,
-        "display": "₹88–94"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹32.40 Cr",
-      "issueSizeCr": 32.4,
-      "freshIssueCr": 30.77,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-06",
-        "close": "2026-08-10",
-        "allotment": "2026-08-11",
-        "listing": "2026-08-13"
-      },
-      "gmp": {
-        "value": 30.0,
-        "percent": 31.91,
-        "xLot": 36000.0,
-        "updatedOn": "5-Aug 23:28"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "GYR Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/lapl-automotive-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=lapl-automotive-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/",
-        "gmp": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/"
-      },
-      "gmpId": 1713,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2004, LAPL Automotive Pvt. Ltd. is engaged in the business of designing, manufacturing and supplying a wide range of automotive components and accessories.\n\nThe company specialises in the manufacturing of automotive lighting and signalling products.\n\nThe company operates as an ODM and OBM under its brand \" LAPL ,\" designing and manufacturing automotive components in Aurangabad, Maharashtra, delivering tailored, high-quality solutions to clients and vehicle manufacturers.\n\nThe man",
       "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]

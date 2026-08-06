@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T22:59:00+00:00",
+  "scrapedAt": "2026-08-06T02:51:14+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 36,
+    "totalEvents": 37,
     "mainboard": 18,
-    "sme": 18,
+    "sme": 19,
     "byEventType": {
-      "allotment": 6,
+      "allotment": 7,
       "close": 17,
       "open": 11,
       "other": 2
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 34,
+        "total": 35,
         "mainboard": 17,
-        "sme": 17
+        "sme": 18
       },
       "byDate": {
         "2026-08-03": [
@@ -330,6 +330,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/anawil-wire-engieering-ipo/2618/#15217",
               "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anawil%20Wire%20%26%20Engineering%20IPO%20Closes%20on%20Aug%205%2C%202026&location=&dates=20260805/20260806&details=The%20issue%20of%20Anawil%20Wire%20%26%20Engineering%20Ltd.%20opens%20on%20Aug%203%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20se"
+            }
+          },
+          {
+            "title": "Fusion Klassroom Edutech IPO Allotment Status",
+            "company": "Fusion Klassroom Edutech",
+            "eventType": "allotment",
+            "date": "2026-08-05",
+            "dateEnd": "2026-08-05",
+            "details": "The allotment status of Fusion Klassroom Edutech Ltd. IPO is now available online. The public issue of Fusion Klassroom Edutech IPO was open on Jul 31, 2026 and closed for subscription on Aug 4, 2026.",
+            "type": "sme",
+            "slug": "fusion-klassroom-edutech-ipo",
+            "ipoId": 2867,
+            "eventId": 15252,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/fusion-klassroom-edutech-ipo/2867/#15252",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20Klassroom%20Edutech%20IPO%20Allotment%20Status&location=&dates=20260805/20260806&details=The%20allotment%20status%20of%20Fusion%20Klassroom%20Edutech%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Fusion%20Klassroom%20Edutech%20IPO%20was%20open%20on%20Jul%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%204%2C%202026."
             }
           }
         ],
@@ -1205,6 +1224,25 @@
           }
         },
         {
+          "title": "Fusion Klassroom Edutech IPO Allotment Status",
+          "company": "Fusion Klassroom Edutech",
+          "eventType": "allotment",
+          "date": "2026-08-05",
+          "dateEnd": "2026-08-05",
+          "details": "The allotment status of Fusion Klassroom Edutech Ltd. IPO is now available online. The public issue of Fusion Klassroom Edutech IPO was open on Jul 31, 2026 and closed for subscription on Aug 4, 2026.",
+          "type": "sme",
+          "slug": "fusion-klassroom-edutech-ipo",
+          "ipoId": 2867,
+          "eventId": 15252,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/fusion-klassroom-edutech-ipo/2867/#15252",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20Klassroom%20Edutech%20IPO%20Allotment%20Status&location=&dates=20260805/20260806&details=The%20allotment%20status%20of%20Fusion%20Klassroom%20Edutech%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Fusion%20Klassroom%20Edutech%20IPO%20was%20open%20on%20Jul%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%204%2C%202026."
+          }
+        },
+        {
           "title": "Aegeus Technologies IPO Closes on Aug 6, 2026",
           "company": "Aegeus Technologies",
           "eventType": "close",
@@ -1948,6 +1986,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/anawil-wire-engieering-ipo/2618/#15217",
         "chittorgarh": "https://www.chittorgarh.com/ipo/anawil-wire-engieering-ipo/2618/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anawil%20Wire%20%26%20Engineering%20IPO%20Closes%20on%20Aug%205%2C%202026&location=&dates=20260805/20260806&details=The%20issue%20of%20Anawil%20Wire%20%26%20Engineering%20Ltd.%20opens%20on%20Aug%203%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20se"
+      }
+    },
+    {
+      "title": "Fusion Klassroom Edutech IPO Allotment Status",
+      "company": "Fusion Klassroom Edutech",
+      "eventType": "allotment",
+      "date": "2026-08-05",
+      "dateEnd": "2026-08-05",
+      "details": "The allotment status of Fusion Klassroom Edutech Ltd. IPO is now available online. The public issue of Fusion Klassroom Edutech IPO was open on Jul 31, 2026 and closed for subscription on Aug 4, 2026.",
+      "type": "sme",
+      "slug": "fusion-klassroom-edutech-ipo",
+      "ipoId": 2867,
+      "eventId": 15252,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/fusion-klassroom-edutech-ipo/2867/#15252",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-klassroom-edutech-ipo/2867/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20Klassroom%20Edutech%20IPO%20Allotment%20Status&location=&dates=20260805/20260806&details=The%20allotment%20status%20of%20Fusion%20Klassroom%20Edutech%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Fusion%20Klassroom%20Edutech%20IPO%20was%20open%20on%20Jul%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%204%2C%202026."
       }
     },
     {

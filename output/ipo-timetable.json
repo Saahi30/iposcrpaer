@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-05T22:59:00+00:00",
+  "scrapedAt": "2026-08-06T02:51:15+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 156,
-    "mainboard": 45,
+    "total": 157,
+    "mainboard": 46,
     "sme": 111
   },
   "ipos": [
@@ -3756,6 +3756,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2450,
+      "name": "Shiprocket Ltd.",
+      "slug": "shiprocket-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "refunds": "2026-08-18",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "12-Aug-2026",
+        "close": "14-Aug-2026",
+        "allotment": "17-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]
