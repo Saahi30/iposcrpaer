@@ -419,8 +419,8 @@
     "source": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/"
   },
   "subscription": {
-    "summary": "G.V. Electricals IPO subscribed 109.56 times. The public issue subscribed 82.10 times in the individual investors category, 62.61 times in QIB (Ex Anchor), and 234.77 times in the NII category by August 5, 2026 6:54:51 PM (Day 4).",
-    "total": 109.56,
+    "summary": "G.V. Electricals IPO subscribed 110.83 times. The public issue subscribed 88.35 times in the individual investors category, 59.10 times in QIB (Ex Anchor), and 230.84 times in the NII category by August 6, 2026 2:09:59 PM (Day 5).",
+    "total": 110.83,
     "applications": null,
     "byCategory": [
       {
@@ -441,51 +441,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "62.61",
+        "Subscription (x)": "59.10",
         "Shares Offered*": "5,92,000",
-        "Shares bid for": "3,70,68,000",
-        "Total Amt* (₹ Cr.)": "481.88",
+        "Shares bid for": "3,49,86,000",
+        "Total Amt* (₹ Cr.)": "454.82",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "234.77",
+        "Subscription (x)": "230.84",
         "Shares Offered*": "4,50,000",
-        "Shares bid for": "10,56,47,000",
-        "Total Amt* (₹ Cr.)": "1,373.41",
+        "Shares bid for": "10,38,77,000",
+        "Total Amt* (₹ Cr.)": "1,350.40",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "284.62",
+        "Subscription (x)": "277.53",
         "Shares Offered*": "3,00,000",
-        "Shares bid for": "8,53,86,000",
-        "Total Amt* (₹ Cr.)": "1,110.02",
+        "Shares bid for": "8,32,59,000",
+        "Total Amt* (₹ Cr.)": "1,082.37",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "135.07",
+        "Subscription (x)": "137.45",
         "Shares Offered*": "1,50,000",
-        "Shares bid for": "2,02,61,000",
-        "Total Amt* (₹ Cr.)": "263.39",
+        "Shares bid for": "2,06,18,000",
+        "Total Amt* (₹ Cr.)": "268.03",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "82.10",
+        "Subscription (x)": "88.35",
         "Shares Offered*": "10,40,000",
-        "Shares bid for": "8,53,82,000",
-        "Total Amt* (₹ Cr.)": "1,109.97",
+        "Shares bid for": "9,18,84,000",
+        "Total Amt* (₹ Cr.)": "1,194.49",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "109.56",
+        "Subscription (x)": "110.83",
         "Shares Offered*": "20,82,000",
-        "Shares bid for": "22,80,97,000",
-        "Total Amt* (₹ Cr.)": "2,965.26",
-        "Total Applications": "59,882"
+        "Shares bid for": "23,07,47,000",
+        "Total Amt* (₹ Cr.)": "2,999.71",
+        "Total Applications": "62,947"
       }
     ],
     "dayWise": [
@@ -524,6 +524,15 @@
         "NII (< ₹10L)": "135.07",
         "Individual Investors": "82.10",
         "Total": "109.56"
+      },
+      {
+        "Date": "Aug 6 (Day 5)",
+        "QIB (Ex Anchor)": "59.10",
+        "NII*": "230.84",
+        "NII (> ₹10L)": "277.53",
+        "NII (< ₹10L)": "137.45",
+        "Individual Investors": "88.35",
+        "Total": "110.83"
       }
     ]
   },
@@ -549,7 +558,7 @@
       "value": 26.0,
       "percent": 20.0,
       "xLot": 26000.0,
-      "updatedOn": "6-Aug 7:58"
+      "updatedOn": "6-Aug 13:34"
     },
     "leadManager": "Seren Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
@@ -559,5 +568,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-06T02:50:54+00:00"
+  "scrapedAt": "2026-08-06T08:42:37+00:00"
 }

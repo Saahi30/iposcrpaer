@@ -379,8 +379,8 @@
     "source": "https://www.chittorgarh.com/ipo/aegeus-technologies-ipo/2837/"
   },
   "subscription": {
-    "summary": "Aegeus Technologies IPO subscribed 1.89 times. The public issue subscribed 2.35 times in the individual investors category, 0.74 times in QIB (Ex Anchor), and 2.37 times in the NII category by August 5, 2026 6:54:44 PM (Day 2).",
-    "total": 1.89,
+    "summary": "Aegeus Technologies IPO subscribed 8.23 times. The public issue subscribed 8.97 times in the individual investors category, 2.65 times in QIB (Ex Anchor), and 14.03 times in the NII category by August 6, 2026 2:09:43 PM (Day 3).",
+    "total": 8.23,
     "applications": null,
     "byCategory": [
       {
@@ -401,51 +401,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.74",
+        "Subscription (x)": "2.65",
         "Shares Offered*": "3,92,400",
-        "Shares bid for": "2,90,400",
-        "Total Amt* (₹ Cr.)": "3.049",
+        "Shares bid for": "10,39,200",
+        "Total Amt* (₹ Cr.)": "10.912",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "2.37",
+        "Subscription (x)": "14.03",
         "Shares Offered*": "2,91,600",
-        "Shares bid for": "6,91,200",
-        "Total Amt* (₹ Cr.)": "7.258",
+        "Shares bid for": "40,92,000",
+        "Total Amt* (₹ Cr.)": "42.966",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.35",
+        "Subscription (x)": "15.83",
         "Shares Offered*": "1,94,400",
-        "Shares bid for": "4,57,200",
-        "Total Amt* (₹ Cr.)": "4.801",
+        "Shares bid for": "30,78,000",
+        "Total Amt* (₹ Cr.)": "32.319",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.41",
+        "Subscription (x)": "10.43",
         "Shares Offered*": "97,200",
-        "Shares bid for": "2,34,000",
-        "Total Amt* (₹ Cr.)": "2.457",
+        "Shares bid for": "10,14,000",
+        "Total Amt* (₹ Cr.)": "10.647",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "2.35",
+        "Subscription (x)": "8.97",
         "Shares Offered*": "6,76,800",
-        "Shares bid for": "15,93,600",
-        "Total Amt* (₹ Cr.)": "16.733",
+        "Shares bid for": "60,72,000",
+        "Total Amt* (₹ Cr.)": "63.756",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.89",
+        "Subscription (x)": "8.23",
         "Shares Offered*": "13,60,800",
-        "Shares bid for": "25,75,200",
-        "Total Amt* (₹ Cr.)": "27.040",
-        "Total Applications": "759"
+        "Shares bid for": "1,12,03,200",
+        "Total Amt* (₹ Cr.)": "117.634",
+        "Total Applications": "3,119"
       }
     ],
     "dayWise": [
@@ -466,6 +466,15 @@
         "NII (< ₹10L)": "2.41",
         "Individual Investors": "2.35",
         "Total": "1.89"
+      },
+      {
+        "Date": "Aug 6 (Day 3)",
+        "QIB (Ex Anchor)": "2.65",
+        "NII*": "14.03",
+        "NII (> ₹10L)": "15.83",
+        "NII (< ₹10L)": "10.43",
+        "Individual Investors": "8.97",
+        "Total": "8.23"
       }
     ]
   },
@@ -491,7 +500,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "6-Aug 7:56"
+      "updatedOn": "6-Aug 13:29"
     },
     "leadManager": "Turnaround Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/aegeus-technologies-logo.png",
@@ -501,5 +510,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-06T02:50:52+00:00"
+  "scrapedAt": "2026-08-06T08:42:35+00:00"
 }
