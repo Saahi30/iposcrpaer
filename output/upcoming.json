@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-07T00:05:40+00:00",
+  "scrapedAt": "2026-08-07T07:21:43+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 14.0,
-        "percent": 14.43,
-        "xLot": 2156.0,
-        "updatedOn": "6-Aug 23:32"
+        "value": 15.0,
+        "percent": 15.46,
+        "xLot": 2310.0,
+        "updatedOn": "7-Aug 12:35"
       },
       "subscription": {
         "total": null,
@@ -86,15 +86,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 271.0,
+        "max": 285.0,
+        "display": "₹271–285"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 52,
+      "issueSize": "₹301.62 Cr",
+      "issueSizeCr": 301.62,
       "freshIssueCr": 93.0,
-      "ofsCr": null,
+      "ofsCr": 208.62,
       "dates": {
         "open": "2026-08-12",
         "close": "2026-08-14",
@@ -102,10 +102,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "6-Aug 22:20"
+        "value": 15.0,
+        "percent": 5.26,
+        "xLot": 780.0,
+        "updatedOn": "7-Aug 12:37"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Aug 23:36"
+        "updatedOn": "7-Aug 12:32"
       },
       "subscription": {
         "total": null,
@@ -212,10 +212,10 @@
         "listing": "2026-08-18"
       },
       "gmp": {
-        "value": 26.0,
-        "percent": 18.57,
-        "xLot": 2782.0,
-        "updatedOn": "6-Aug 23:31"
+        "value": 20.0,
+        "percent": 14.29,
+        "xLot": 2140.0,
+        "updatedOn": "7-Aug 12:28"
       },
       "subscription": {
         "total": null,
@@ -256,9 +256,9 @@
         "display": "₹148–156"
       },
       "lotSize": 800,
-      "issueSize": "₹66.99 Cr",
-      "issueSizeCr": 66.99,
-      "freshIssueCr": 53.94,
+      "issueSize": "₹66.98 Cr",
+      "issueSizeCr": 66.98,
+      "freshIssueCr": 50.58,
       "ofsCr": 13.04,
       "dates": {
         "open": "2026-08-11",
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Aug 23:34"
+        "updatedOn": "7-Aug 12:36"
       },
       "subscription": {
         "total": null,
@@ -294,8 +294,63 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2017, Fascinate Textiles Limited is engaged in the manufacturing of readymade garments.\n\nThe company's product range spans menswear, womenswear, and childrenswear, with a significant portion of their output focused on garments for children.\n\nThe offerings include t-shirts, joggers, vests, leggings, shorts, and infant wear, among others, catering to a variety of end-use segments and age groups.",
+      "about": "Incorporated in February 2017, Fascinate Textiles Limited manufactures ready-made garments for men, women, and children, with a primary focus on children's apparel. Its product portfolio includes t-shirts, joggers, vests, leggings, shorts, infant wear, and other garments designed for different age groups and market segments. The company is ISO 9001:2015 certified, demonstrating its commitment to maintaining quality management standards and streamlined manufacturing processes.\n\nFascinate Textiles",
       "registrar": "Cameo Corporate Services Ltd."
+    },
+    {
+      "slug": "sham-foam-ipo",
+      "ipoId": 2869,
+      "name": "Sham Foam",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 130.0,
+        "max": 130.0,
+        "display": "₹130"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹40.48 Cr",
+      "issueSizeCr": 40.48,
+      "freshIssueCr": 38.45,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "listing": "2026-08-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Aug 12:31"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sham-foam-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sham-foam-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sham-foam-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sham-foam-ipo/2869/",
+        "gmp": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/"
+      },
+      "gmpId": 2131,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2020, Sham Foam is engaged in the manufacturing, distribution, marketing, and sale of polyurethane foam (PU Foam), mattresses, and allied home comfort products, primarily for the Indian market. In addition, it produces industrial-grade PU foam used across multiple industries, including furniture, apparel, sports goods, and automotive applications.\n\nIts diversified product portfolio includes mattresses, pillows, cushions, furniture cushioning, and PU foam cores used in home comfor",
+      "registrar": "Alankit Assignments Ltd."
     },
     {
       "slug": "molbio-diagnostics-ipo",
@@ -322,10 +377,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 220.0,
-        "percent": 27.26,
-        "xLot": 3960.0,
-        "updatedOn": "6-Aug 23:34"
+        "value": 205.0,
+        "percent": 25.4,
+        "xLot": 3690.0,
+        "updatedOn": "7-Aug 12:37"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 259.0,
-        "percent": 29.74,
-        "xLot": 4403.0,
-        "updatedOn": "6-Aug 23:33"
+        "value": 250.0,
+        "percent": 28.7,
+        "xLot": 4250.0,
+        "updatedOn": "7-Aug 12:31"
       },
       "subscription": {
         "total": null,
