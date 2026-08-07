@@ -362,9 +362,9 @@
     "source": "https://www.chittorgarh.com/ipo/ardee-industries-ipo/2860/"
   },
   "subscription": {
-    "summary": "Ardee Industries IPO subscribed 47.52 times. The public issue subscribed 31.32 times in the retail category, 6.58 times in QIB (Ex Anchor), and 139.90 times in the NII category by August 7, 2026 12:49:36 PM (Day 3).",
-    "total": 47.52,
-    "applications": 2671485.0,
+    "summary": "Ardee Industries IPO subscribed 138.83 times. The public issue subscribed 47.77 times in the retail category, 202.26 times in QIB (Ex Anchor), and 266.75 times in the NII category by August 7, 2026 6:39:36 PM (Day 3).",
+    "total": 138.83,
+    "applications": 4118591.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -375,45 +375,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "6.58",
+        "Subscription (x)": "202.26",
         "Shares Offered*": "1,60,70,390",
-        "Shares bid for": "10,58,10,831",
-        "Total Amt* (₹ Cr.)": "560.80"
+        "Shares bid for": "3,25,04,36,028",
+        "Total Amt* (₹ Cr.)": "17,227.31"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "139.90",
+        "Subscription (x)": "266.75",
         "Shares Offered*": "1,20,52,793",
-        "Shares bid for": "1,68,61,32,632",
-        "Total Amt* (₹ Cr.)": "8,936.50"
+        "Shares bid for": "3,21,50,58,971",
+        "Total Amt* (₹ Cr.)": "17,039.81"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "147.16",
+        "Subscription (x)": "289.87",
         "Shares Offered*": "80,35,195",
-        "Shares bid for": "1,18,24,47,719",
-        "Total Amt* (₹ Cr.)": "6,266.97"
+        "Shares bid for": "2,32,91,23,014",
+        "Total Amt* (₹ Cr.)": "12,344.35"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "125.37",
+        "Subscription (x)": "220.51",
         "Shares Offered*": "40,17,598",
-        "Shares bid for": "50,36,84,913",
-        "Total Amt* (₹ Cr.)": "2,669.53"
+        "Shares bid for": "88,59,35,957",
+        "Total Amt* (₹ Cr.)": "4,695.46"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "31.32",
+        "Subscription (x)": "47.77",
         "Shares Offered*": "2,81,23,183",
-        "Shares bid for": "88,09,39,777",
-        "Total Amt* (₹ Cr.)": "4,668.98"
+        "Shares bid for": "1,34,33,24,434",
+        "Total Amt* (₹ Cr.)": "7,119.62"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "47.52",
+        "Subscription (x)": "138.83",
         "Shares Offered*": "5,62,46,366",
-        "Shares bid for": "2,67,28,83,240",
-        "Total Amt* (₹ Cr.)": "14,166.28"
+        "Shares bid for": "7,80,88,19,433",
+        "Total Amt* (₹ Cr.)": "41,386.74"
       }
     ],
     "dayWise": [
@@ -437,12 +437,12 @@
       },
       {
         "Date": "Aug 7 (Day 3)",
-        "QIB (Ex Anchor)": "6.58",
-        "NII": "139.90",
-        "NII (> ₹10L)": "147.16",
-        "NII (< ₹10L)": "125.37",
-        "Retail": "31.32",
-        "Total": "47.52"
+        "QIB (Ex Anchor)": "202.26",
+        "NII": "266.75",
+        "NII (> ₹10L)": "289.87",
+        "NII (< ₹10L)": "220.51",
+        "Retail": "47.77",
+        "Total": "138.83"
       }
     ]
   },
@@ -465,10 +465,10 @@
       "listing": "2026-08-12"
     },
     "gmp": {
-      "value": 9.0,
-      "percent": 16.98,
-      "xLot": 2529.0,
-      "updatedOn": "7-Aug 12:34"
+      "value": 15.0,
+      "percent": 28.3,
+      "xLot": 4215.0,
+      "updatedOn": "7-Aug 17:56"
     },
     "leadManager": "Pantomath Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/ardee-industries-logo.png",
@@ -478,5 +478,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-07T07:21:28+00:00"
+  "scrapedAt": "2026-08-07T13:12:20+00:00"
 }

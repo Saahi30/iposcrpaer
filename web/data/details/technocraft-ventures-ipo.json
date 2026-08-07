@@ -441,9 +441,9 @@
     "source": "https://www.chittorgarh.com/ipo/technocraft-ventures-ipo/2565/"
   },
   "subscription": {
-    "summary": "Technocraft Ventures IPO subscribed 1.50 times. The public issue subscribed 0.53 times in the retail category, 3.53 times in QIB (Ex Anchor), and 1.02 times in the NII category by August 7, 2026 12:49:53 PM (Day 1).",
-    "total": 1.5,
-    "applications": 26056.0,
+    "summary": "Technocraft Ventures IPO subscribed 2.59 times. The public issue subscribed 1.01 times in the retail category, 4.47 times in QIB (Ex Anchor), and 3.80 times in the NII category by August 7, 2026 5:07:53 PM (Day 1).",
+    "total": 2.59,
+    "applications": 51397.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -454,56 +454,56 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "3.53",
+        "Subscription (x)": "4.47",
         "Shares Offered*": "23,76,690",
-        "Shares bid for": "83,98,950",
-        "Total Amt* (₹ Cr.)": "178.058"
+        "Shares bid for": "1,06,22,710",
+        "Total Amt* (₹ Cr.)": "225.201"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.02",
+        "Subscription (x)": "3.80",
         "Shares Offered*": "17,82,150",
-        "Shares bid for": "18,20,280",
-        "Total Amt* (₹ Cr.)": "38.590"
+        "Shares bid for": "67,71,170",
+        "Total Amt* (₹ Cr.)": "143.549"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.74",
+        "Subscription (x)": "3.90",
         "Shares Offered*": "11,88,100",
-        "Shares bid for": "8,76,470",
-        "Total Amt* (₹ Cr.)": "18.581"
+        "Shares bid for": "46,33,090",
+        "Total Amt* (₹ Cr.)": "98.222"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.59",
+        "Subscription (x)": "3.60",
         "Shares Offered*": "5,94,050",
-        "Shares bid for": "9,43,810",
-        "Total Amt* (₹ Cr.)": "20.009"
+        "Shares bid for": "21,38,080",
+        "Total Amt* (₹ Cr.)": "45.327"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.53",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "41,58,350",
-        "Shares bid for": "22,17,670",
-        "Total Amt* (₹ Cr.)": "47.015"
+        "Shares bid for": "41,82,710",
+        "Total Amt* (₹ Cr.)": "88.673"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.50",
+        "Subscription (x)": "2.59",
         "Shares Offered*": "83,17,190",
-        "Shares bid for": "1,24,36,900",
-        "Total Amt* (₹ Cr.)": "263.662"
+        "Shares bid for": "2,15,76,590",
+        "Total Amt* (₹ Cr.)": "457.424"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 7 (Day 1)",
-        "QIB (Ex Anchor)": "3.53",
-        "NII": "1.02",
-        "NII (> ₹10L)": "0.74",
-        "NII (< ₹10L)": "1.59",
-        "Retail": "0.53",
-        "Total": "1.50"
+        "QIB (Ex Anchor)": "4.47",
+        "NII": "3.80",
+        "NII (> ₹10L)": "3.90",
+        "NII (< ₹10L)": "3.60",
+        "Retail": "1.01",
+        "Total": "2.59"
       }
     ]
   },
@@ -526,10 +526,10 @@
       "listing": "2026-08-14"
     },
     "gmp": {
-      "value": 16.0,
-      "percent": 7.55,
-      "xLot": 1120.0,
-      "updatedOn": "7-Aug 12:36"
+      "value": 15.0,
+      "percent": 7.08,
+      "xLot": 1050.0,
+      "updatedOn": "7-Aug 18:01"
     },
     "leadManager": "Khambatta Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/technocraft-logo.jpg",
@@ -539,5 +539,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-07T07:21:22+00:00"
+  "scrapedAt": "2026-08-07T13:11:55+00:00"
 }

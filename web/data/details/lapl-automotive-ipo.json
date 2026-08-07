@@ -404,8 +404,8 @@
     "source": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/"
   },
   "subscription": {
-    "summary": "LAPL Automotive IPO subscribed 17.61 times. The public issue subscribed 27.15 times in the individual investors category, 3.52 times in QIB (Ex Anchor), and 14.09 times in the NII category by August 7, 2026 12:49:45 PM (Day 2).",
-    "total": 17.61,
+    "summary": "LAPL Automotive IPO subscribed 31.41 times. The public issue subscribed 47.53 times in the individual investors category, 3.56 times in QIB (Ex Anchor), and 30.78 times in the NII category by August 7, 2026 5:07:44 PM (Day 2).",
+    "total": 31.41,
     "applications": null,
     "byCategory": [
       {
@@ -426,51 +426,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "3.52",
+        "Subscription (x)": "3.56",
         "Shares Offered*": "6,52,800",
-        "Shares bid for": "22,96,800",
-        "Total Amt* (₹ Cr.)": "21.59",
+        "Shares bid for": "23,22,000",
+        "Total Amt* (₹ Cr.)": "21.83",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "14.09",
+        "Subscription (x)": "30.78",
         "Shares Offered*": "4,96,800",
-        "Shares bid for": "69,99,600",
-        "Total Amt* (₹ Cr.)": "65.80",
+        "Shares bid for": "1,52,92,800",
+        "Total Amt* (₹ Cr.)": "143.75",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "12.71",
+        "Subscription (x)": "28.83",
         "Shares Offered*": "3,31,200",
-        "Shares bid for": "42,09,600",
-        "Total Amt* (₹ Cr.)": "39.57",
+        "Shares bid for": "95,49,600",
+        "Total Amt* (₹ Cr.)": "89.77",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "16.85",
+        "Subscription (x)": "34.68",
         "Shares Offered*": "1,65,600",
-        "Shares bid for": "27,90,000",
-        "Total Amt* (₹ Cr.)": "26.23",
+        "Shares bid for": "57,43,200",
+        "Total Amt* (₹ Cr.)": "53.99",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "27.15",
+        "Subscription (x)": "47.53",
         "Shares Offered*": "11,47,200",
-        "Shares bid for": "3,11,42,400",
-        "Total Amt* (₹ Cr.)": "292.74",
+        "Shares bid for": "5,45,23,200",
+        "Total Amt* (₹ Cr.)": "512.52",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "17.61",
+        "Subscription (x)": "31.41",
         "Shares Offered*": "22,96,800",
-        "Shares bid for": "4,04,38,800",
-        "Total Amt* (₹ Cr.)": "380.12",
-        "Total Applications": "14,259"
+        "Shares bid for": "7,21,38,000",
+        "Total Amt* (₹ Cr.)": "678.10",
+        "Total Applications": "25,120"
       }
     ],
     "dayWise": [
@@ -485,12 +485,12 @@
       },
       {
         "Date": "Aug 7 (Day 2)",
-        "QIB (Ex Anchor)": "3.52",
-        "NII*": "14.09",
-        "NII (> ₹10L)": "12.71",
-        "NII (< ₹10L)": "16.85",
-        "Individual Investors": "27.15",
-        "Total": "17.61"
+        "QIB (Ex Anchor)": "3.56",
+        "NII*": "30.78",
+        "NII (> ₹10L)": "28.83",
+        "NII (< ₹10L)": "34.68",
+        "Individual Investors": "47.53",
+        "Total": "31.41"
       }
     ]
   },
@@ -516,7 +516,7 @@
       "value": 32.0,
       "percent": 34.04,
       "xLot": 38400.0,
-      "updatedOn": "7-Aug 12:37"
+      "updatedOn": "7-Aug 18:00"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
@@ -526,5 +526,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-07T07:21:27+00:00"
+  "scrapedAt": "2026-08-07T13:12:03+00:00"
 }
