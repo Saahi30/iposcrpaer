@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-06T14:21:22+00:00",
+  "scrapedAt": "2026-08-07T00:05:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,179 @@
     "limit": null
   },
   "summary": {
-    "open": 4,
+    "open": 6,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 6
   },
   "ipos": [
+    {
+      "slug": "technocraft-ventures-ipo",
+      "ipoId": 2565,
+      "name": "Technocraft Ventures",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 200.0,
+        "max": 212.0,
+        "display": "₹200–212"
+      },
+      "lotSize": 70,
+      "issueSize": "₹251.88 Cr",
+      "issueSizeCr": 251.88,
+      "freshIssueCr": 201.51,
+      "ofsCr": 50.37,
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "listing": "2026-08-14"
+      },
+      "gmp": {
+        "value": 16.0,
+        "percent": 7.55,
+        "xLot": 1120.0,
+        "updatedOn": "6-Aug 23:31"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Khambatta Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/technocraft-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/technocraft-ventures-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=technocraft-ventures-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/technocraft-ventures-ipo/2565/",
+        "gmp": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/"
+      },
+      "gmpId": 1854,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in October 1998, Technocraft Ventures Ltd., is a public infrastructure development company that undertakes turnkey Engineering, Procurement, and Construction (EPC) projects. The company works across multiple infrastructure sectors, delivering projects mainly for state governments and government agencies in northern India, including Uttar Pradesh, Uttarakhand, Rajasthan, and the National Capital Territory of Delhi.\n\nWater & Wastewater Infrastructure – Designing and building water sup",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "leap-india-ipo",
+      "ipoId": 2583,
+      "name": "LEAP India",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 151.0,
+        "max": 159.0,
+        "display": "₹151–159"
+      },
+      "lotSize": 94,
+      "issueSize": "₹2480.00 Cr",
+      "issueSizeCr": 2480.0,
+      "freshIssueCr": 480.0,
+      "ofsCr": 2000.0,
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "listing": "2026-08-14"
+      },
+      "gmp": {
+        "value": 19.5,
+        "percent": 12.26,
+        "xLot": 1833.0,
+        "updatedOn": "6-Aug 23:33"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/leap-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/leap-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=leap-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/leap-india-ipo/2583/",
+        "gmp": "https://www.investorgain.com/gmp/leap-india-ipo/1868/"
+      },
+      "gmpId": 1868,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2013, LEAP India Ltd specializes in sustainable supply chain and asset-pooling solutions. It offers services including equipment pooling, returnable packaging, inventory management, transportation, and repair & maintenance across industries like e-commerce, FMCG, automotive, and consumer durables. Global investment firm KKR acquired a majority stake in LEAP India in 2023 , aligning with its Asia infrastructure strategy\n\nThe company serve a diverse customer base spanning sectors s",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "optimystix-entertainment-ipo",
+      "ipoId": 2755,
+      "name": "Optimystix Entertainment",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 166.0,
+        "max": 175.0,
+        "display": "₹166–175"
+      },
+      "lotSize": 800,
+      "issueSize": "₹108.50 Cr",
+      "issueSizeCr": 108.5,
+      "freshIssueCr": 76.65,
+      "ofsCr": 21.0,
+      "dates": {
+        "open": "2026-08-07",
+        "close": "2026-08-11",
+        "allotment": "2026-08-12",
+        "listing": "2026-08-14"
+      },
+      "gmp": {
+        "value": 5.0,
+        "percent": 2.86,
+        "xLot": 4000.0,
+        "updatedOn": "6-Aug 23:28"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "LSI Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/optimystix-entertainment-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/optimystix-entertainment-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=optimystix-entertainment-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/optimystix-entertainment-ipo/2755/",
+        "gmp": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/"
+      },
+      "gmpId": 2012,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2000, Optimystix Entertainment India Limited is engaged in the business of content creation and production for television, films, and digital platforms. The company has produced over 150 television shows, delivering more than 7,500 hours of original programming across major national broadcasters.\n\nIt operates across both fiction and non-fiction formats, with popular shows such as Laughter Chefs, Baalveer, Rising Star, Saas Bina Sasural, and Ladies Special. The company’s franchise",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "lapl-automotive-ipo",
       "ipoId": 2300,
@@ -47,10 +212,10 @@
         "listing": "2026-08-13"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 31.91,
-        "xLot": 36000.0,
-        "updatedOn": "6-Aug 19:28"
+        "value": 32.0,
+        "percent": 34.04,
+        "xLot": 38400.0,
+        "updatedOn": "6-Aug 23:33"
       },
       "subscription": {
         "total": 4.46,
@@ -163,7 +328,7 @@
         "value": 14.0,
         "percent": 26.42,
         "xLot": 3934.0,
-        "updatedOn": "6-Aug 19:37"
+        "updatedOn": "6-Aug 23:33"
       },
       "subscription": {
         "total": 14.72,
@@ -242,127 +407,6 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "aegeus-technologies-ipo",
-      "ipoId": 2837,
-      "name": "Aegeus Technologies",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 100.0,
-        "max": 105.0,
-        "display": "₹100–105"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹23.71 Cr",
-      "issueSizeCr": 23.71,
-      "freshIssueCr": 20.3,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-04",
-        "close": "2026-08-06",
-        "allotment": "2026-08-07",
-        "listing": "2026-08-11"
-      },
-      "gmp": {
-        "value": 12.0,
-        "percent": 11.43,
-        "xLot": 14400.0,
-        "updatedOn": "6-Aug 19:29"
-      },
-      "subscription": {
-        "total": 29.91,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "5,72,400",
-            "Shares bid for": "5,72,400",
-            "Total Amt* (₹ Cr.)": "6.010",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,25,200",
-            "Shares bid for": "3,25,200",
-            "Total Amt* (₹ Cr.)": "3.415",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "23.88",
-            "Shares Offered*": "3,92,400",
-            "Shares bid for": "93,72,000",
-            "Total Amt* (₹ Cr.)": "98.406",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "48.05",
-            "Shares Offered*": "2,91,600",
-            "Shares bid for": "1,40,12,400",
-            "Total Amt* (₹ Cr.)": "147.130",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "55.23",
-            "Shares Offered*": "1,94,400",
-            "Shares bid for": "1,07,37,600",
-            "Total Amt* (₹ Cr.)": "112.745",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "33.69",
-            "Shares Offered*": "97,200",
-            "Shares bid for": "32,74,800",
-            "Total Amt* (₹ Cr.)": "34.385",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "25.59",
-            "Shares Offered*": "6,76,800",
-            "Shares bid for": "1,73,16,000",
-            "Total Amt* (₹ Cr.)": "181.818",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "29.91",
-            "Shares Offered*": "13,60,800",
-            "Shares bid for": "4,07,00,400",
-            "Total Amt* (₹ Cr.)": "427.354",
-            "Total Applications": "9,276"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Turnaround Corporate",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/aegeus-technologies-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/aegeus-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=aegeus-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/aegeus-technologies-ipo/2837/",
-        "gmp": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/"
-      },
-      "gmpId": 2089,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2017, Aegeus Technologies Ltd. is engaged in the business of designing and developing robotic and intelligent automation solutions. The company offers services such as software development, system integration, data management, automation solutions, and customized technology support tailored to client-specific operational and business requirements.\n\nAegeus Technologies emphasizes quality delivery, secure systems, and continuous innovation, enabling clients to improve productivity,",
-      "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
       "slug": "gv-electricals-ipo",
       "ipoId": 2985,
       "name": "G.V. Electricals",
@@ -390,7 +434,7 @@
         "value": 26.0,
         "percent": 20.0,
         "xLot": 26000.0,
-        "updatedOn": "6-Aug 19:28"
+        "updatedOn": "6-Aug 23:30"
       },
       "subscription": {
         "total": 112.4,

@@ -373,7 +373,7 @@
   "overview": {
     "name": "Optimystix Entertainment",
     "type": "sme",
-    "status": "upcoming",
+    "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
       "min": 166.0,
@@ -392,7 +392,7 @@
       "value": 5.0,
       "percent": 2.86,
       "xLot": 4000.0,
-      "updatedOn": "6-Aug 19:36"
+      "updatedOn": "6-Aug 23:28"
     },
     "leadManager": "LSI Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/optimystix-entertainment-logo.jpeg",
@@ -402,5 +402,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-06T14:21:22+00:00"
+  "scrapedAt": "2026-08-07T00:05:23+00:00"
 }

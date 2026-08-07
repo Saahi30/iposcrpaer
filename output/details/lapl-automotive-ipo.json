@@ -482,9 +482,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 88.0,
+      "min": 94.0,
       "max": 94.0,
-      "display": "₹88–94"
+      "display": "₹94"
     },
     "lotSize": 1200,
     "issueSize": "₹32.40 Cr",
@@ -495,10 +495,10 @@
       "listing": "2026-08-13"
     },
     "gmp": {
-      "value": 30.0,
-      "percent": 31.91,
-      "xLot": 36000.0,
-      "updatedOn": "6-Aug 19:28"
+      "value": 32.0,
+      "percent": 34.04,
+      "xLot": 38400.0,
+      "updatedOn": "6-Aug 23:33"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
@@ -508,5 +508,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-06T14:21:00+00:00"
+  "scrapedAt": "2026-08-07T00:05:25+00:00"
 }
