@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-08T01:52:34+00:00",
+  "scrapedAt": "2026-08-08T06:59:37+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 4,
-    "upcoming": 8,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 13
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 15.0,
         "percent": 7.08,
         "xLot": 1050.0,
-        "updatedOn": "8-Aug 6:55"
+        "updatedOn": "8-Aug 11:54"
       },
       "subscription": {
         "total": 2.59,
@@ -157,7 +157,7 @@
         "value": 15.0,
         "percent": 9.43,
         "xLot": 1410.0,
-        "updatedOn": "8-Aug 7:02"
+        "updatedOn": "8-Aug 11:59"
       },
       "subscription": {
         "total": 0.28,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Aug 7:00"
+        "updatedOn": "8-Aug 11:58"
       },
       "subscription": {
         "total": 0.73,
@@ -380,10 +380,10 @@
         "listing": "2026-08-13"
       },
       "gmp": {
-        "value": 32.0,
-        "percent": 34.04,
-        "xLot": 38400.0,
-        "updatedOn": "8-Aug 6:56"
+        "value": 35.0,
+        "percent": 37.23,
+        "xLot": 42000.0,
+        "updatedOn": "8-Aug 12:02"
       },
       "subscription": {
         "total": 31.41,
@@ -504,7 +504,7 @@
         "value": 14.0,
         "percent": 14.43,
         "xLot": 2156.0,
-        "updatedOn": "8-Aug 6:56"
+        "updatedOn": "8-Aug 11:56"
       },
       "subscription": {
         "total": null,
@@ -559,7 +559,7 @@
         "value": 30.0,
         "percent": 10.53,
         "xLot": 1560.0,
-        "updatedOn": "8-Aug 7:00"
+        "updatedOn": "8-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -614,7 +614,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Aug 6:53"
+        "updatedOn": "8-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -640,6 +640,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2000, Pramodini Medicare Limited is a diagnostic service provider in India offering technology-enabled diagnostic services across radiology, clinical laboratory, and nuclear medicine segments. The company provides services to public hospitals, private hospitals, public sector undertakings (PSUs), medical colleges, and private diagnostic centres across tier I, II, and III cities.\n\nIts service portfolio includes radiology services such as MRI, CT scans, X-ray, ultrasound with colou",
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
+    {
+      "slug": "qt-foods-ipo",
+      "ipoId": 3145,
+      "name": "Q&T Foods",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 115.0,
+        "max": 115.0,
+        "display": "₹115"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹26.25 Cr",
+      "issueSizeCr": 26.25,
+      "freshIssueCr": 24.92,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 6.0,
+        "percent": 5.22,
+        "xLot": 7200.0,
+        "updatedOn": "8-Aug 11:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/qt-foods-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=qt-foods-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
+        "gmp": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/"
+      },
+      "gmpId": 2299,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
+      "registrar": "Skyline Financial Services Pvt.Ltd."
     },
     {
       "slug": "milky-mist-dairy-food-ipo",
@@ -669,7 +724,7 @@
         "value": 24.0,
         "percent": 17.14,
         "xLot": 2568.0,
-        "updatedOn": "8-Aug 6:59"
+        "updatedOn": "8-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -724,7 +779,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Aug 6:53"
+        "updatedOn": "8-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -779,7 +834,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Aug 6:58"
+        "updatedOn": "8-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -831,10 +886,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 180.0,
-        "percent": 22.3,
-        "xLot": 3240.0,
-        "updatedOn": "8-Aug 6:54"
+        "value": 130.0,
+        "percent": 16.11,
+        "xLot": 2340.0,
+        "updatedOn": "8-Aug 11:53"
       },
       "subscription": {
         "total": null,
@@ -889,7 +944,7 @@
         "value": 247.0,
         "percent": 28.36,
         "xLot": 4199.0,
-        "updatedOn": "8-Aug 6:58"
+        "updatedOn": "8-Aug 12:01"
       },
       "subscription": {
         "total": null,

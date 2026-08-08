@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-08T01:52:41+00:00",
+  "scrapedAt": "2026-08-08T06:59:43+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 160,
+    "total": 161,
     "mainboard": 47,
-    "sme": 113
+    "sme": 114
   },
   "ipos": [
     {
@@ -3827,6 +3827,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3145,
+      "name": "Q&T Foods Ltd.",
+      "slug": "qt-foods-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "refunds": "2026-08-18",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "12-Aug-2026",
+        "close": "14-Aug-2026",
+        "allotment": "17-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
