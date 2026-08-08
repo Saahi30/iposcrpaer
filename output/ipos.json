@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-07T19:02:48+00:00",
+  "scrapedAt": "2026-08-08T01:52:34+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 6,
+    "open": 4,
     "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 14
+    "total": 12
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 15.0,
         "percent": 7.08,
         "xLot": 1050.0,
-        "updatedOn": "7-Aug 23:37"
+        "updatedOn": "8-Aug 6:55"
       },
       "subscription": {
         "total": 2.59,
@@ -157,7 +157,7 @@
         "value": 15.0,
         "percent": 9.43,
         "xLot": 1410.0,
-        "updatedOn": "7-Aug 23:31"
+        "updatedOn": "8-Aug 7:02"
       },
       "subscription": {
         "total": 0.28,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Aug 23:37"
+        "updatedOn": "8-Aug 7:00"
       },
       "subscription": {
         "total": 0.73,
@@ -383,7 +383,7 @@
         "value": 32.0,
         "percent": 34.04,
         "xLot": 38400.0,
-        "updatedOn": "7-Aug 23:29"
+        "updatedOn": "8-Aug 6:56"
       },
       "subscription": {
         "total": 31.41,
@@ -477,233 +477,6 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
-      "slug": "ardee-industries-ipo",
-      "ipoId": 2860,
-      "name": "Ardee Industries",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 50.0,
-        "max": 53.0,
-        "display": "₹50–53"
-      },
-      "lotSize": 281,
-      "issueSize": "₹425.87 Cr",
-      "issueSizeCr": 425.87,
-      "freshIssueCr": 320.0,
-      "ofsCr": 105.87,
-      "dates": {
-        "open": "2026-08-05",
-        "close": "2026-08-07",
-        "allotment": "2026-08-10",
-        "listing": "2026-08-12"
-      },
-      "gmp": {
-        "value": 15.0,
-        "percent": 28.3,
-        "xLot": 4215.0,
-        "updatedOn": "7-Aug 23:34"
-      },
-      "subscription": {
-        "total": 138.83,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,41,05,584",
-            "Shares bid for": "2,41,05,584",
-            "Total Amt* (₹ Cr.)": "127.76"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "202.26",
-            "Shares Offered*": "1,60,70,390",
-            "Shares bid for": "3,25,04,36,028",
-            "Total Amt* (₹ Cr.)": "17,227.31"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "266.75",
-            "Shares Offered*": "1,20,52,793",
-            "Shares bid for": "3,21,50,58,971",
-            "Total Amt* (₹ Cr.)": "17,039.81"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "289.87",
-            "Shares Offered*": "80,35,195",
-            "Shares bid for": "2,32,91,23,014",
-            "Total Amt* (₹ Cr.)": "12,344.35"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "220.51",
-            "Shares Offered*": "40,17,598",
-            "Shares bid for": "88,59,35,957",
-            "Total Amt* (₹ Cr.)": "4,695.46"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "47.77",
-            "Shares Offered*": "2,81,23,183",
-            "Shares bid for": "1,34,33,24,434",
-            "Total Amt* (₹ Cr.)": "7,119.62"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "138.83",
-            "Shares Offered*": "5,62,46,366",
-            "Shares bid for": "7,80,88,19,433",
-            "Total Amt* (₹ Cr.)": "41,386.74"
-          }
-        ],
-        "applications": 4118591.0
-      },
-      "leadManager": "Pantomath Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ardee-industries-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ardee-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ardee-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ardee-industries-ipo/2860/",
-        "gmp": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/"
-      },
-      "gmpId": 2123,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1993, Ardee Industries Limited is a prominent Indian company, with a core focus on the sustainable recovery and recycling of end-of-life energy storage products and non-ferrous scrap.\n\nIts product range includes high-purity lead and specialised lead alloys such as lead calcium, lead antimony, lead tin, lead silver, and lead cadmium alloys. These products are widely used across key sectors, including energy storage, e-mobility, automotive, and chemicals.\n\nAs of March 31, 2025, Ard",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "gv-electricals-ipo",
-      "ipoId": 2985,
-      "name": "G.V. Electricals",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 123.0,
-        "max": 130.0,
-        "display": "₹123–130"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹42.25 Cr",
-      "issueSizeCr": 42.25,
-      "freshIssueCr": 35.36,
-      "ofsCr": 3.25,
-      "dates": {
-        "open": "2026-07-31",
-        "close": "2026-08-07",
-        "allotment": "2026-08-10",
-        "listing": "2026-08-12"
-      },
-      "gmp": {
-        "value": 26.0,
-        "percent": 20.0,
-        "xLot": 26000.0,
-        "updatedOn": "7-Aug 23:32"
-      },
-      "subscription": {
-        "total": 169.26,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "8,88,000",
-            "Shares bid for": "8,88,000",
-            "Total Amt* (₹ Cr.)": "11.54",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,80,000",
-            "Shares bid for": "2,80,000",
-            "Total Amt* (₹ Cr.)": "3.64",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "91.55",
-            "Shares Offered*": "5,92,000",
-            "Shares bid for": "5,41,98,000",
-            "Total Amt* (₹ Cr.)": "704.57",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "272.79",
-            "Shares Offered*": "4,50,000",
-            "Shares bid for": "12,27,56,000",
-            "Total Amt* (₹ Cr.)": "1,595.83",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "315.34",
-            "Shares Offered*": "3,00,000",
-            "Shares bid for": "9,46,03,000",
-            "Total Amt* (₹ Cr.)": "1,229.84",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "187.69",
-            "Shares Offered*": "1,50,000",
-            "Shares bid for": "2,81,53,000",
-            "Total Amt* (₹ Cr.)": "365.99",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "168.69",
-            "Shares Offered*": "10,40,000",
-            "Shares bid for": "17,54,38,000",
-            "Total Amt* (₹ Cr.)": "2,280.69",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "169.26",
-            "Shares Offered*": "20,82,000",
-            "Shares bid for": "35,23,92,000",
-            "Total Amt* (₹ Cr.)": "4,581.10",
-            "Total Applications": "1,08,587"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Seren Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/gv-electricals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=gv-electricals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/gv-electricals-ipo/2985/",
-        "gmp": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/"
-      },
-      "gmpId": 2246,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in1985, G.V. Electricals Limited is an power distribution infrastructure service provider that provides operation, maintenance, and support services mainly to India's electricity distribution utilities.\n\nThe company operates in three business verticals:-\n\nThe company supports maintenance and operations of electrical distribution systems at various voltage levels, including 33 kV, 11 kV, and LT networks. It provides O&M for 33/11 kV substations and deploys technical staff for field t",
-      "registrar": "Mudra RTA Ventures Private Limited"
-    },
-    {
       "slug": "shiprocket-ipo",
       "ipoId": 2450,
       "name": "Shiprocket",
@@ -731,7 +504,7 @@
         "value": 14.0,
         "percent": 14.43,
         "xLot": 2156.0,
-        "updatedOn": "7-Aug 23:33"
+        "updatedOn": "8-Aug 6:56"
       },
       "subscription": {
         "total": null,
@@ -786,7 +559,7 @@
         "value": 30.0,
         "percent": 10.53,
         "xLot": 1560.0,
-        "updatedOn": "7-Aug 23:30"
+        "updatedOn": "8-Aug 7:00"
       },
       "subscription": {
         "total": null,
@@ -841,7 +614,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Aug 23:28"
+        "updatedOn": "8-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -896,7 +669,7 @@
         "value": 24.0,
         "percent": 17.14,
         "xLot": 2568.0,
-        "updatedOn": "7-Aug 23:31"
+        "updatedOn": "8-Aug 6:59"
       },
       "subscription": {
         "total": null,
@@ -951,7 +724,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Aug 23:35"
+        "updatedOn": "8-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -1006,7 +779,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Aug 23:28"
+        "updatedOn": "8-Aug 6:58"
       },
       "subscription": {
         "total": null,
@@ -1061,7 +834,7 @@
         "value": 180.0,
         "percent": 22.3,
         "xLot": 3240.0,
-        "updatedOn": "7-Aug 23:34"
+        "updatedOn": "8-Aug 6:54"
       },
       "subscription": {
         "total": null,
@@ -1116,7 +889,7 @@
         "value": 247.0,
         "percent": 28.36,
         "xLot": 4199.0,
-        "updatedOn": "7-Aug 23:31"
+        "updatedOn": "8-Aug 6:58"
       },
       "subscription": {
         "total": null,
