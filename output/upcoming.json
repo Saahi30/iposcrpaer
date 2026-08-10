@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T07:48:28+00:00",
+  "scrapedAt": "2026-08-10T13:17:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,177 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 11
   },
   "ipos": [
+    {
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "name": "Shankesh Jewellers",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "listing": "2026-08-25"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "10-Aug 18:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aryaman Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/shankesh-jewellers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shankesh-jewellers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "gmp": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/"
+      },
+      "gmpId": 1932,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2005, Shankesh Jewellers Limited is engaged in the business of manufacturing and providing customised handcrafted gold jewellery. The company specialises in 22-karat and 18-karat gold jewellery, offering a wide product portfolio including bangles, bridal jewellery, chokers, jhumkas, necklace sets, mangalsutras, rings, and combined sets across categories such as antique, semi-antique, Calcutta, temple, gheru polish, and yellow/rodium/rose gold jewellery.\n\nThe company distributes p",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "ipoId": 2469,
+      "name": "Lalithaa Jewellery Mart",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹1700.00 Cr",
+      "issueSizeCr": 1700.0,
+      "freshIssueCr": 1200.0,
+      "ofsCr": 500.0,
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "listing": "2026-08-24"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "10-Aug 13:50"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Anand Rathi Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lalithaa-jewellery-mart-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lalithaa-jewellery-mart-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lalithaa-jewellery-mart-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "gmp": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/"
+      },
+      "gmpId": 1799,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in November 1985, Lalithaa Jewellery Mart Limited is a jewellery retail company with a strong regional presence across South India, catering primarily to the mass and value-conscious customer segment. The Company offers a diverse range of gold, silver, diamond, precious and semi-precious jewellery, with a focus on quality, craftsmanship and original designs. The Company has established strong brand acceptance in Tier II and Tier III cities across southern India.\n\nThe Company operate",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "skytech-infinite-platform-ipo",
+      "ipoId": 2739,
+      "name": "Skytech Infinite Platform Ltd.",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": null,
+        "listing": "2026-08-21"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Finshore Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/skytech-infinite-platform-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/skytech-infinite-platform-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=skytech-infinite-platform-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Skytech Infinite Platform Limited is engaged in providing turnkey industrial automation solutions, covering design, engineering, supply, installation & commissioning (I&C), and maintenance of a wide range of control panels.\n\nThe company specializes in manufacturing automation control panels that integrate PLCs, drive systems, switchgear, and sensors to enhance process efficiency and operational performance. Its panels function as centralized systems for managing and monitor",
+      "registrar": "Integrated Registry Management Services Pvt.Ltd."
+    },
     {
       "slug": "credent-connect-ipo",
       "ipoId": 2991,
@@ -50,7 +214,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 12:57"
+        "updatedOn": "10-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -105,7 +269,7 @@
         "value": 26.0,
         "percent": 26.8,
         "xLot": 4004.0,
-        "updatedOn": "10-Aug 12:59"
+        "updatedOn": "10-Aug 17:54"
       },
       "subscription": {
         "total": null,
@@ -157,10 +321,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 43.0,
-        "percent": 15.09,
-        "xLot": 2236.0,
-        "updatedOn": "10-Aug 13:02"
+        "value": 53.0,
+        "percent": 18.6,
+        "xLot": 2756.0,
+        "updatedOn": "10-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -215,7 +379,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 13:01"
+        "updatedOn": "10-Aug 17:56"
       },
       "subscription": {
         "total": null,
@@ -270,7 +434,7 @@
         "value": 15.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "10-Aug 12:53"
+        "updatedOn": "10-Aug 18:02"
       },
       "subscription": {
         "total": null,
@@ -322,10 +486,10 @@
         "listing": "2026-08-18"
       },
       "gmp": {
-        "value": 26.5,
-        "percent": 18.93,
-        "xLot": 2835.5,
-        "updatedOn": "10-Aug 12:57"
+        "value": 25.0,
+        "percent": 17.86,
+        "xLot": 2675.0,
+        "updatedOn": "10-Aug 17:56"
       },
       "subscription": {
         "total": null,
@@ -380,7 +544,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 12:59"
+        "updatedOn": "10-Aug 18:02"
       },
       "subscription": {
         "total": null,
@@ -435,7 +599,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 12:59"
+        "updatedOn": "10-Aug 17:58"
       },
       "subscription": {
         "total": null,

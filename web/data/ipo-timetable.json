@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T07:48:33+00:00",
+  "scrapedAt": "2026-08-10T13:17:05+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 162,
-    "mainboard": 47,
-    "sme": 115
+    "total": 165,
+    "mainboard": 49,
+    "sme": 116
   },
   "ipos": [
     {
@@ -3900,6 +3900,78 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2739,
+      "name": "Skytech Infinite Platform Ltd.",
+      "slug": "skytech-infinite-platform-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": "2026-08-19",
+        "refunds": "2026-08-20",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "14-Aug-2026",
+        "close": "18-Aug-2026",
+        "allotment": "19-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/skytech-infinite-platform-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2469,
+      "name": "Lalithaa Jewellery Mart Ltd.",
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "refunds": "2026-08-21",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "17-Aug-2026",
+        "close": "19-Aug-2026",
+        "allotment": "20-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lalithaa-jewellery-mart-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2663,
+      "name": "Shankesh Jewellers Ltd.",
+      "slug": "shankesh-jewellers-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "refunds": "2026-08-24",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "18-Aug-2026",
+        "close": "20-Aug-2026",
+        "allotment": "21-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]
