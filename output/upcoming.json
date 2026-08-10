@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T13:17:00+00:00",
+  "scrapedAt": "2026-08-10T19:02:32+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -135,7 +135,7 @@
     {
       "slug": "skytech-infinite-platform-ipo",
       "ipoId": 2739,
-      "name": "Skytech Infinite Platform Ltd.",
+      "name": "Skytech Infinite Platform",
       "type": "sme",
       "status": "upcoming",
       "exchange": "NSE SME",
@@ -146,21 +146,21 @@
         "display": null
       },
       "lotSize": null,
-      "issueSize": "₹0.0 Cr",
+      "issueSize": "-",
       "issueSizeCr": 0.0,
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
         "open": "2026-08-14",
         "close": "2026-08-18",
-        "allotment": null,
+        "allotment": "2026-08-19",
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": null,
+        "value": 0.0,
         "percent": null,
         "xLot": null,
-        "updatedOn": null
+        "updatedOn": "10-Aug 18:30"
       },
       "subscription": {
         "total": null,
@@ -178,8 +178,9 @@
       "urls": {
         "local": "./ipo.html?slug=skytech-infinite-platform-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/"
       },
+      "gmpId": 1997,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
@@ -214,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 18:01"
+        "updatedOn": "10-Aug 23:35"
       },
       "subscription": {
         "total": null,
@@ -266,10 +267,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 26.0,
-        "percent": 26.8,
-        "xLot": 4004.0,
-        "updatedOn": "10-Aug 17:54"
+        "value": 27.0,
+        "percent": 27.84,
+        "xLot": 4158.0,
+        "updatedOn": "10-Aug 23:36"
       },
       "subscription": {
         "total": null,
@@ -324,7 +325,7 @@
         "value": 53.0,
         "percent": 18.6,
         "xLot": 2756.0,
-        "updatedOn": "10-Aug 17:58"
+        "updatedOn": "10-Aug 23:37"
       },
       "subscription": {
         "total": null,
@@ -379,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 17:56"
+        "updatedOn": "10-Aug 23:29"
       },
       "subscription": {
         "total": null,
@@ -434,7 +435,7 @@
         "value": 15.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "10-Aug 18:02"
+        "updatedOn": "10-Aug 23:32"
       },
       "subscription": {
         "total": null,
@@ -486,10 +487,10 @@
         "listing": "2026-08-18"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 17.86,
-        "xLot": 2675.0,
-        "updatedOn": "10-Aug 17:56"
+        "value": 20.5,
+        "percent": 14.64,
+        "xLot": 2193.5,
+        "updatedOn": "10-Aug 23:31"
       },
       "subscription": {
         "total": null,
@@ -544,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 18:02"
+        "updatedOn": "10-Aug 23:34"
       },
       "subscription": {
         "total": null,
@@ -599,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 17:58"
+        "updatedOn": "10-Aug 23:32"
       },
       "subscription": {
         "total": null,

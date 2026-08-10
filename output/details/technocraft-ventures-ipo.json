@@ -441,7 +441,7 @@
   "subscription": {
     "summary": "Technocraft Ventures IPO subscribed 4.74 times. The public issue subscribed 4.13 times in the retail category, 4.50 times in QIB (Ex Anchor), and 6.48 times in the NII category by August 10, 2026 5:06:43 PM (Day 2).",
     "total": 4.74,
-    "applications": 211336.0,
+    "applications": 211486.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -533,10 +533,10 @@
       "listing": "2026-08-14"
     },
     "gmp": {
-      "value": 27.5,
-      "percent": 12.97,
-      "xLot": 1925.0,
-      "updatedOn": "10-Aug 17:55"
+      "value": 30.0,
+      "percent": 14.15,
+      "xLot": 2100.0,
+      "updatedOn": "10-Aug 23:36"
     },
     "leadManager": "Khambatta Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/technocraft-logo.jpg",
@@ -546,5 +546,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-10T13:16:36+00:00"
+  "scrapedAt": "2026-08-10T19:02:06+00:00"
 }

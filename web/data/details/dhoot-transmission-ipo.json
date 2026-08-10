@@ -426,7 +426,7 @@
   "subscription": {
     "summary": "Dhoot Transmission IPO subscribed 0.62 times. The public issue subscribed 0.76 times in the retail category, 0.06 times in QIB (Ex Anchor), and 1.02 times in the NII category by August 10, 2026 5:06:51 PM (Day 1).",
     "total": 0.62,
-    "applications": 440288.0,
+    "applications": 440830.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -517,10 +517,10 @@
       "listing": "2026-08-17"
     },
     "gmp": {
-      "value": 267.0,
-      "percent": 30.65,
-      "xLot": 4539.0,
-      "updatedOn": "10-Aug 18:00"
+      "value": 250.0,
+      "percent": 28.7,
+      "xLot": 4250.0,
+      "updatedOn": "10-Aug 23:35"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
@@ -530,5 +530,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-10T13:16:34+00:00"
+  "scrapedAt": "2026-08-10T19:02:04+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T13:17:04+00:00",
+  "scrapedAt": "2026-08-10T19:02:37+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 50,
-    "mainboard": 22,
-    "sme": 28,
+    "totalEvents": 58,
+    "mainboard": 26,
+    "sme": 32,
     "byEventType": {
       "allotment": 10,
-      "close": 22,
-      "open": 16,
+      "close": 26,
+      "open": 20,
       "other": 2
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 48,
-        "mainboard": 21,
-        "sme": 27
+        "total": 56,
+        "mainboard": 25,
+        "sme": 31
       },
       "byDate": {
         "2026-08-03": [
@@ -858,6 +858,25 @@
             }
           },
           {
+            "title": "Credent Connect IPO Opens on Aug 13, 2026",
+            "company": "Credent Connect",
+            "eventType": "open",
+            "date": "2026-08-13",
+            "dateEnd": "2026-08-13",
+            "details": "Credent Connect N Care Ltd. is entering in the capital market with an IPO of 0.47 Equity Shares of Rs 10 aggregating up to Rs 89.13 Crore. The price for the issue has been set at Rs 179 - Rs 189 Per E",
+            "type": "sme",
+            "slug": "credent-connect-ipo",
+            "ipoId": 2991,
+            "eventId": 15266,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15266",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Opens%20on%20Aug%2013%2C%202026&location=&dates=20260813/20260814&details=Credent%20Connect%20N%20Care%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.47%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2089.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20179%20-%20Rs%20189%20Per%20E"
+            }
+          },
+          {
             "title": "Fascinate Textiles IPO Closes on Aug 13, 2026",
             "company": "Fascinate Textiles",
             "eventType": "close",
@@ -971,6 +990,147 @@
               "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15265",
               "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Closes%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=The%20issue%20of%20Q%26T%20Foods%20Ltd.%20opens%20on%20Aug%2012%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20115%20Pe"
+            }
+          },
+          {
+            "title": "Skytech Infinite Platform IPO Opens on Aug 14, 2026",
+            "company": "Skytech Infinite Platform",
+            "eventType": "open",
+            "date": "2026-08-14",
+            "dateEnd": "2026-08-14",
+            "details": "Skytech Infinite Platform Ltd. is entering in the capital market with an IPO of 0.28 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+            "type": "sme",
+            "slug": "skytech-infinite-platform-ipo",
+            "ipoId": 2739,
+            "eventId": 15274,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15274",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Opens%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=Skytech%20Infinite%20Platform%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.28%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+            }
+          }
+        ],
+        "2026-08-17": [
+          {
+            "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
+            "company": "Lalithaa Jewellery Mart",
+            "eventType": "open",
+            "date": "2026-08-17",
+            "dateEnd": "2026-08-17",
+            "details": "Lalithaa Jewellery Mart Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 1,700.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+            "type": "mainboard",
+            "slug": "lalithaa-jewellery-mart-ipo",
+            "ipoId": 2469,
+            "eventId": 15270,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15270",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Lalithaa%20Jewellery%20Mart%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%201%2C700.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+            }
+          },
+          {
+            "title": "Credent Connect IPO Closes on Aug 17, 2026",
+            "company": "Credent Connect",
+            "eventType": "close",
+            "date": "2026-08-17",
+            "dateEnd": "2026-08-17",
+            "details": "The issue of Credent Connect N Care Ltd. opens on Aug 13, 2026 and closes for subscription on Aug 17, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set",
+            "type": "sme",
+            "slug": "credent-connect-ipo",
+            "ipoId": 2991,
+            "eventId": 15267,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15267",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Closes%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=The%20issue%20of%20Credent%20Connect%20N%20Care%20Ltd.%20opens%20on%20Aug%2013%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
+            }
+          }
+        ],
+        "2026-08-18": [
+          {
+            "title": "Shankesh Jewellers IPO Opens on Aug 18, 2026",
+            "company": "Shankesh Jewellers",
+            "eventType": "open",
+            "date": "2026-08-18",
+            "dateEnd": "2026-08-18",
+            "details": "Shankesh Jewellers Ltd. is entering in the capital market with an IPO of 3.95 Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+            "type": "mainboard",
+            "slug": "shankesh-jewellers-ipo",
+            "ipoId": 2663,
+            "eventId": 15272,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15272",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Opens%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=Shankesh%20Jewellers%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%203.95%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
+            }
+          },
+          {
+            "title": "Skytech Infinite Platform IPO Closes on Aug 18, 2026",
+            "company": "Skytech Infinite Platform",
+            "eventType": "close",
+            "date": "2026-08-18",
+            "dateEnd": "2026-08-18",
+            "details": "The issue of Skytech Infinite Platform Ltd. opens on Aug 14, 2026 and closes for subscription on Aug 18, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been",
+            "type": "sme",
+            "slug": "skytech-infinite-platform-ipo",
+            "ipoId": 2739,
+            "eventId": 15275,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15275",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Closes%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=The%20issue%20of%20Skytech%20Infinite%20Platform%20Ltd.%20opens%20on%20Aug%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2018%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+            }
+          }
+        ],
+        "2026-08-19": [
+          {
+            "title": "Lalithaa Jewellery Mart IPO Closes on Aug 19, 2026",
+            "company": "Lalithaa Jewellery Mart",
+            "eventType": "close",
+            "date": "2026-08-19",
+            "dateEnd": "2026-08-19",
+            "details": "The issue of Lalithaa Jewellery Mart Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been s",
+            "type": "mainboard",
+            "slug": "lalithaa-jewellery-mart-ipo",
+            "ipoId": 2469,
+            "eventId": 15271,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15271",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20s"
+            }
+          }
+        ],
+        "2026-08-20": [
+          {
+            "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
+            "company": "Shankesh Jewellers",
+            "eventType": "close",
+            "date": "2026-08-20",
+            "dateEnd": "2026-08-20",
+            "details": "The issue of Shankesh Jewellers Ltd. opens on Aug 18, 2026 and closes for subscription on Aug 20, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+            "type": "mainboard",
+            "slug": "shankesh-jewellers-ipo",
+            "ipoId": 2663,
+            "eventId": 15273,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15273",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Closes%20on%20Aug%2020%2C%202026&location=&dates=20260820/20260821&details=The%20issue%20of%20Shankesh%20Jewellers%20Ltd.%20opens%20on%20Aug%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
             }
           }
         ]
@@ -1373,6 +1533,82 @@
             "news": "https://www.chittorgarh.com/ipo_news/shiprocket-ipo/2450/#15254",
             "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shiprocket%20IPO%20Closes%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=The%20issue%20of%20Shiprocket%20Ltd.%20opens%20on%20Aug%2012%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2092%20-"
+          }
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
+          "company": "Lalithaa Jewellery Mart",
+          "eventType": "open",
+          "date": "2026-08-17",
+          "dateEnd": "2026-08-17",
+          "details": "Lalithaa Jewellery Mart Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 1,700.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+          "type": "mainboard",
+          "slug": "lalithaa-jewellery-mart-ipo",
+          "ipoId": 2469,
+          "eventId": 15270,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15270",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Lalithaa%20Jewellery%20Mart%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%201%2C700.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+          }
+        },
+        {
+          "title": "Shankesh Jewellers IPO Opens on Aug 18, 2026",
+          "company": "Shankesh Jewellers",
+          "eventType": "open",
+          "date": "2026-08-18",
+          "dateEnd": "2026-08-18",
+          "details": "Shankesh Jewellers Ltd. is entering in the capital market with an IPO of 3.95 Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+          "type": "mainboard",
+          "slug": "shankesh-jewellers-ipo",
+          "ipoId": 2663,
+          "eventId": 15272,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15272",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Opens%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=Shankesh%20Jewellers%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%203.95%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
+          }
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO Closes on Aug 19, 2026",
+          "company": "Lalithaa Jewellery Mart",
+          "eventType": "close",
+          "date": "2026-08-19",
+          "dateEnd": "2026-08-19",
+          "details": "The issue of Lalithaa Jewellery Mart Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been s",
+          "type": "mainboard",
+          "slug": "lalithaa-jewellery-mart-ipo",
+          "ipoId": 2469,
+          "eventId": 15271,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15271",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20s"
+          }
+        },
+        {
+          "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
+          "company": "Shankesh Jewellers",
+          "eventType": "close",
+          "date": "2026-08-20",
+          "dateEnd": "2026-08-20",
+          "details": "The issue of Shankesh Jewellers Ltd. opens on Aug 18, 2026 and closes for subscription on Aug 20, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+          "type": "mainboard",
+          "slug": "shankesh-jewellers-ipo",
+          "ipoId": 2663,
+          "eventId": 15273,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15273",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Closes%20on%20Aug%2020%2C%202026&location=&dates=20260820/20260821&details=The%20issue%20of%20Shankesh%20Jewellers%20Ltd.%20opens%20on%20Aug%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
           }
         },
         {
@@ -1813,6 +2049,25 @@
           }
         },
         {
+          "title": "Credent Connect IPO Opens on Aug 13, 2026",
+          "company": "Credent Connect",
+          "eventType": "open",
+          "date": "2026-08-13",
+          "dateEnd": "2026-08-13",
+          "details": "Credent Connect N Care Ltd. is entering in the capital market with an IPO of 0.47 Equity Shares of Rs 10 aggregating up to Rs 89.13 Crore. The price for the issue has been set at Rs 179 - Rs 189 Per E",
+          "type": "sme",
+          "slug": "credent-connect-ipo",
+          "ipoId": 2991,
+          "eventId": 15266,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15266",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Opens%20on%20Aug%2013%2C%202026&location=&dates=20260813/20260814&details=Credent%20Connect%20N%20Care%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.47%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2089.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20179%20-%20Rs%20189%20Per%20E"
+          }
+        },
+        {
           "title": "Fascinate Textiles IPO Closes on Aug 13, 2026",
           "company": "Fascinate Textiles",
           "eventType": "close",
@@ -1886,6 +2141,63 @@
             "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15265",
             "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Closes%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=The%20issue%20of%20Q%26T%20Foods%20Ltd.%20opens%20on%20Aug%2012%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20115%20Pe"
+          }
+        },
+        {
+          "title": "Skytech Infinite Platform IPO Opens on Aug 14, 2026",
+          "company": "Skytech Infinite Platform",
+          "eventType": "open",
+          "date": "2026-08-14",
+          "dateEnd": "2026-08-14",
+          "details": "Skytech Infinite Platform Ltd. is entering in the capital market with an IPO of 0.28 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+          "type": "sme",
+          "slug": "skytech-infinite-platform-ipo",
+          "ipoId": 2739,
+          "eventId": 15274,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15274",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Opens%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=Skytech%20Infinite%20Platform%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.28%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+          }
+        },
+        {
+          "title": "Credent Connect IPO Closes on Aug 17, 2026",
+          "company": "Credent Connect",
+          "eventType": "close",
+          "date": "2026-08-17",
+          "dateEnd": "2026-08-17",
+          "details": "The issue of Credent Connect N Care Ltd. opens on Aug 13, 2026 and closes for subscription on Aug 17, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set",
+          "type": "sme",
+          "slug": "credent-connect-ipo",
+          "ipoId": 2991,
+          "eventId": 15267,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15267",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Closes%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=The%20issue%20of%20Credent%20Connect%20N%20Care%20Ltd.%20opens%20on%20Aug%2013%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
+          }
+        },
+        {
+          "title": "Skytech Infinite Platform IPO Closes on Aug 18, 2026",
+          "company": "Skytech Infinite Platform",
+          "eventType": "close",
+          "date": "2026-08-18",
+          "dateEnd": "2026-08-18",
+          "details": "The issue of Skytech Infinite Platform Ltd. opens on Aug 14, 2026 and closes for subscription on Aug 18, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been",
+          "type": "sme",
+          "slug": "skytech-infinite-platform-ipo",
+          "ipoId": 2739,
+          "eventId": 15275,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15275",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Closes%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=The%20issue%20of%20Skytech%20Infinite%20Platform%20Ltd.%20opens%20on%20Aug%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2018%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
           }
         }
       ]
@@ -2388,6 +2700,82 @@
       }
     },
     {
+      "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
+      "company": "Lalithaa Jewellery Mart",
+      "eventType": "open",
+      "date": "2026-08-17",
+      "dateEnd": "2026-08-17",
+      "details": "Lalithaa Jewellery Mart Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 1,700.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+      "type": "mainboard",
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "ipoId": 2469,
+      "eventId": 15270,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15270",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Lalithaa%20Jewellery%20Mart%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%201%2C700.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+      }
+    },
+    {
+      "title": "Shankesh Jewellers IPO Opens on Aug 18, 2026",
+      "company": "Shankesh Jewellers",
+      "eventType": "open",
+      "date": "2026-08-18",
+      "dateEnd": "2026-08-18",
+      "details": "Shankesh Jewellers Ltd. is entering in the capital market with an IPO of 3.95 Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+      "type": "mainboard",
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "eventId": 15272,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15272",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Opens%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=Shankesh%20Jewellers%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%203.95%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
+      }
+    },
+    {
+      "title": "Lalithaa Jewellery Mart IPO Closes on Aug 19, 2026",
+      "company": "Lalithaa Jewellery Mart",
+      "eventType": "close",
+      "date": "2026-08-19",
+      "dateEnd": "2026-08-19",
+      "details": "The issue of Lalithaa Jewellery Mart Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been s",
+      "type": "mainboard",
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "ipoId": 2469,
+      "eventId": 15271,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15271",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20s"
+      }
+    },
+    {
+      "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
+      "company": "Shankesh Jewellers",
+      "eventType": "close",
+      "date": "2026-08-20",
+      "dateEnd": "2026-08-20",
+      "details": "The issue of Shankesh Jewellers Ltd. opens on Aug 18, 2026 and closes for subscription on Aug 20, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+      "type": "mainboard",
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "eventId": 15273,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15273",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Closes%20on%20Aug%2020%2C%202026&location=&dates=20260820/20260821&details=The%20issue%20of%20Shankesh%20Jewellers%20Ltd.%20opens%20on%20Aug%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+      }
+    },
+    {
       "title": "Advance Technoforge IPO Allotment Status",
       "company": "Advance Technoforge",
       "eventType": "allotment",
@@ -2825,6 +3213,25 @@
       }
     },
     {
+      "title": "Credent Connect IPO Opens on Aug 13, 2026",
+      "company": "Credent Connect",
+      "eventType": "open",
+      "date": "2026-08-13",
+      "dateEnd": "2026-08-13",
+      "details": "Credent Connect N Care Ltd. is entering in the capital market with an IPO of 0.47 Equity Shares of Rs 10 aggregating up to Rs 89.13 Crore. The price for the issue has been set at Rs 179 - Rs 189 Per E",
+      "type": "sme",
+      "slug": "credent-connect-ipo",
+      "ipoId": 2991,
+      "eventId": 15266,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15266",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Opens%20on%20Aug%2013%2C%202026&location=&dates=20260813/20260814&details=Credent%20Connect%20N%20Care%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.47%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2089.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20179%20-%20Rs%20189%20Per%20E"
+      }
+    },
+    {
       "title": "Fascinate Textiles IPO Closes on Aug 13, 2026",
       "company": "Fascinate Textiles",
       "eventType": "close",
@@ -2898,6 +3305,63 @@
         "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15265",
         "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Closes%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=The%20issue%20of%20Q%26T%20Foods%20Ltd.%20opens%20on%20Aug%2012%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20115%20Pe"
+      }
+    },
+    {
+      "title": "Skytech Infinite Platform IPO Opens on Aug 14, 2026",
+      "company": "Skytech Infinite Platform",
+      "eventType": "open",
+      "date": "2026-08-14",
+      "dateEnd": "2026-08-14",
+      "details": "Skytech Infinite Platform Ltd. is entering in the capital market with an IPO of 0.28 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+      "type": "sme",
+      "slug": "skytech-infinite-platform-ipo",
+      "ipoId": 2739,
+      "eventId": 15274,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15274",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Opens%20on%20Aug%2014%2C%202026&location=&dates=20260814/20260815&details=Skytech%20Infinite%20Platform%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.28%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+      }
+    },
+    {
+      "title": "Credent Connect IPO Closes on Aug 17, 2026",
+      "company": "Credent Connect",
+      "eventType": "close",
+      "date": "2026-08-17",
+      "dateEnd": "2026-08-17",
+      "details": "The issue of Credent Connect N Care Ltd. opens on Aug 13, 2026 and closes for subscription on Aug 17, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set",
+      "type": "sme",
+      "slug": "credent-connect-ipo",
+      "ipoId": 2991,
+      "eventId": 15267,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15267",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Closes%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=The%20issue%20of%20Credent%20Connect%20N%20Care%20Ltd.%20opens%20on%20Aug%2013%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
+      }
+    },
+    {
+      "title": "Skytech Infinite Platform IPO Closes on Aug 18, 2026",
+      "company": "Skytech Infinite Platform",
+      "eventType": "close",
+      "date": "2026-08-18",
+      "dateEnd": "2026-08-18",
+      "details": "The issue of Skytech Infinite Platform Ltd. opens on Aug 14, 2026 and closes for subscription on Aug 18, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been",
+      "type": "sme",
+      "slug": "skytech-infinite-platform-ipo",
+      "ipoId": 2739,
+      "eventId": 15275,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/skytech-infinite-platform-ipo/2739/#15275",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Skytech%20Infinite%20Platform%20IPO%20Closes%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=The%20issue%20of%20Skytech%20Infinite%20Platform%20Ltd.%20opens%20on%20Aug%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2018%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
       }
     },
     {
