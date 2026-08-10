@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T02:04:29+00:00",
+  "scrapedAt": "2026-08-10T07:48:33+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 161,
+    "total": 162,
     "mainboard": 47,
-    "sme": 114
+    "sme": 115
   },
   "ipos": [
     {
@@ -3876,6 +3876,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2991,
+      "name": "Credent Connect N Care Ltd.",
+      "slug": "credent-connect-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-13",
+        "close": "2026-08-17",
+        "allotment": "2026-08-18",
+        "refunds": "2026-08-19",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "13-Aug-2026",
+        "close": "17-Aug-2026",
+        "allotment": "18-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]

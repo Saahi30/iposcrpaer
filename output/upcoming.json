@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T02:04:23+00:00",
+  "scrapedAt": "2026-08-10T07:48:28+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "credent-connect-ipo",
+      "ipoId": 2991,
+      "name": "Credent Connect",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 179.0,
+        "max": 189.0,
+        "display": "₹179–189"
+      },
+      "lotSize": 600,
+      "issueSize": "₹93.90 Cr",
+      "issueSizeCr": 93.9,
+      "freshIssueCr": 89.13,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-13",
+        "close": "2026-08-17",
+        "allotment": "2026-08-18",
+        "listing": "2026-08-20"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "10-Aug 12:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/credent-connect-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=credent-connect-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "gmp": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/"
+      },
+      "gmpId": 2252,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 2015 as Credent Cold Chain Logistics Private Limited. Credent Connect N Care Limited is an integrated healthcare services and logistics provider offering technology-enabled operational, workforce and supply chain solutions to healthcare institutions across India. The company primarily operates on a B2B model, serving diagnostic laboratories, IVD companies, pharmaceutical companies, hospitals, clinics and other healthcare enterprises\n\nThe company offers a comprehensive portfo",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "shiprocket-ipo",
       "ipoId": 2450,
@@ -47,10 +102,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 22.0,
-        "percent": 22.68,
-        "xLot": 3388.0,
-        "updatedOn": "10-Aug 7:01"
+        "value": 26.0,
+        "percent": 26.8,
+        "xLot": 4004.0,
+        "updatedOn": "10-Aug 12:59"
       },
       "subscription": {
         "total": null,
@@ -102,10 +157,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 8.77,
-        "xLot": 1300.0,
-        "updatedOn": "10-Aug 6:56"
+        "value": 43.0,
+        "percent": 15.09,
+        "xLot": 2236.0,
+        "updatedOn": "10-Aug 13:02"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 6:54"
+        "updatedOn": "10-Aug 13:01"
       },
       "subscription": {
         "total": null,
@@ -212,10 +267,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 6.0,
-        "percent": 5.22,
-        "xLot": 7200.0,
-        "updatedOn": "10-Aug 6:58"
+        "value": 15.0,
+        "percent": 13.04,
+        "xLot": 18000.0,
+        "updatedOn": "10-Aug 12:53"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-08-18"
       },
       "gmp": {
-        "value": 26.0,
-        "percent": 18.57,
-        "xLot": 2782.0,
-        "updatedOn": "10-Aug 6:57"
+        "value": 26.5,
+        "percent": 18.93,
+        "xLot": 2835.5,
+        "updatedOn": "10-Aug 12:57"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 6:56"
+        "updatedOn": "10-Aug 12:59"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 6:54"
+        "updatedOn": "10-Aug 12:59"
       },
       "subscription": {
         "total": null,
