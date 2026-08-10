@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-09T18:46:30+00:00",
+  "scrapedAt": "2026-08-10T02:04:23+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,124 @@
     "limit": null
   },
   "summary": {
-    "open": 4,
+    "open": 6,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 6
   },
   "ipos": [
+    {
+      "slug": "molbio-diagnostics-ipo",
+      "ipoId": 2579,
+      "name": "Molbio Diagnostics",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 768.0,
+        "max": 807.0,
+        "display": "₹768–807"
+      },
+      "lotSize": 18,
+      "issueSize": "₹939.70 Cr",
+      "issueSizeCr": 939.7,
+      "freshIssueCr": 200.0,
+      "ofsCr": 739.7,
+      "dates": {
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "listing": "2026-08-17"
+      },
+      "gmp": {
+        "value": 132.0,
+        "percent": 16.36,
+        "xLot": 2376.0,
+        "updatedOn": "10-Aug 6:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/molbio-diagnostics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=molbio-diagnostics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/",
+        "gmp": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/"
+      },
+      "gmpId": 1865,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in October 2000, Molbio Diagnostics Limited is a global point-of-care (POC) molecular diagnostics company engaged in the research, development, manufacturing, and commercialization of rapid diagnostic solutions for infectious and non-communicable diseases. The company has developed its proprietary 'Truenat' platform, a portable, battery-operated PCR-based molecular diagnostics system designed for resource-limited settings, offering accurate test results within an hour.\n\nMolbio offer",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "dhoot-transmission-ipo",
+      "ipoId": 2859,
+      "name": "Dhoot Transmission",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 829.0,
+        "max": 871.0,
+        "display": "₹829–871"
+      },
+      "lotSize": 17,
+      "issueSize": "₹3066.89 Cr",
+      "issueSizeCr": 3066.89,
+      "freshIssueCr": 1400.0,
+      "ofsCr": 1666.89,
+      "dates": {
+        "open": "2026-08-10",
+        "close": "2026-08-12",
+        "allotment": "2026-08-13",
+        "listing": "2026-08-17"
+      },
+      "gmp": {
+        "value": 259.0,
+        "percent": 29.74,
+        "xLot": 4403.0,
+        "updatedOn": "10-Aug 7:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/dhoot-transmission-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=dhoot-transmission-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhoot-transmission-ipo/2859/",
+        "gmp": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/"
+      },
+      "gmpId": 2122,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in April 1998, Dhoot Transmission Limited is one of India's leading electrical and electronics (E&E) companies engaged in the design, engineering, manufacturing, and supply of wiring harnesses and electrical distribution systems for automotive and non-automotive applications. The company offers a diversified product portfolio comprising wiring harnesses, battery packs, sensors and electronic controllers, automotive switches, terminals, connectors, and power supply cords, catering to",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "technocraft-ventures-ipo",
       "ipoId": 2565,
@@ -50,7 +160,7 @@
         "value": 23.0,
         "percent": 10.85,
         "xLot": 1610.0,
-        "updatedOn": "9-Aug 23:28"
+        "updatedOn": "10-Aug 6:58"
       },
       "subscription": {
         "total": 2.59,
@@ -156,7 +266,7 @@
         "value": 16.0,
         "percent": 10.06,
         "xLot": 1504.0,
-        "updatedOn": "9-Aug 23:32"
+        "updatedOn": "10-Aug 6:59"
       },
       "subscription": {
         "total": 0.28,
@@ -269,7 +379,7 @@
         "value": 5.0,
         "percent": 2.86,
         "xLot": 4000.0,
-        "updatedOn": "9-Aug 23:31"
+        "updatedOn": "10-Aug 7:00"
       },
       "subscription": {
         "total": 0.73,
@@ -382,7 +492,7 @@
         "value": 37.0,
         "percent": 39.36,
         "xLot": 44400.0,
-        "updatedOn": "9-Aug 23:28"
+        "updatedOn": "10-Aug 6:56"
       },
       "subscription": {
         "total": 31.41,
