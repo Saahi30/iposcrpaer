@@ -374,9 +374,9 @@
     "source": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/"
   },
   "subscription": {
-    "summary": "Molbio Diagnostics IPO subscribed 0.83 times. The public issue subscribed 0.77 times in the retail category, 1.00 times in QIB (Ex Anchor), and 0.73 times in the NII category by August 10, 2026 5:07:00 PM (Day 1).",
-    "total": 0.83,
-    "applications": 145502.0,
+    "summary": "Molbio Diagnostics IPO subscribed 1.68 times. The public issue subscribed 1.84 times in the retail category, 1.01 times in QIB (Ex Anchor), and 2.18 times in the NII category by August 11, 2026 12:38:53 PM (Day 2).",
+    "total": 1.68,
+    "applications": 355992.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -387,52 +387,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.00",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "23,25,146",
-        "Shares bid for": "23,33,574",
-        "Total Amt* (₹ Cr.)": "188.319"
+        "Shares bid for": "23,38,578",
+        "Total Amt* (₹ Cr.)": "188.723"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.73",
+        "Subscription (x)": "2.18",
         "Shares Offered*": "17,43,859",
-        "Shares bid for": "12,77,352",
-        "Total Amt* (₹ Cr.)": "103.082"
+        "Shares bid for": "37,98,810",
+        "Total Amt* (₹ Cr.)": "306.564"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.70",
+        "Subscription (x)": "1.85",
         "Shares Offered*": "11,62,573",
-        "Shares bid for": "8,11,440",
-        "Total Amt* (₹ Cr.)": "65.483"
+        "Shares bid for": "21,56,058",
+        "Total Amt* (₹ Cr.)": "173.994"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "2.83",
         "Shares Offered*": "5,81,286",
-        "Shares bid for": "4,65,912",
-        "Total Amt* (₹ Cr.)": "37.599"
+        "Shares bid for": "16,42,752",
+        "Total Amt* (₹ Cr.)": "132.570"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.77",
+        "Subscription (x)": "1.84",
         "Shares Offered*": "40,69,004",
-        "Shares bid for": "31,31,028",
-        "Total Amt* (₹ Cr.)": "252.674"
+        "Shares bid for": "75,03,876",
+        "Total Amt* (₹ Cr.)": "605.563"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "2.12",
+        "Subscription (x)": "3.36",
         "Shares Offered*": "20,520",
-        "Shares bid for": "43,506",
-        "Total Amt* (₹ Cr.)": "3.511"
+        "Shares bid for": "69,030",
+        "Total Amt* (₹ Cr.)": "5.571"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.83",
+        "Subscription (x)": "1.68",
         "Shares Offered*": "81,58,529",
-        "Shares bid for": "67,85,460",
-        "Total Amt* (₹ Cr.)": "547.587"
+        "Shares bid for": "1,37,10,294",
+        "Total Amt* (₹ Cr.)": "1,106.421"
       }
     ],
     "dayWise": [
@@ -445,6 +445,16 @@
         "Retail": "0.77",
         "EMP": "2.12",
         "Total": "0.83"
+      },
+      {
+        "Date": "Aug 11 (Day 2)",
+        "QIB (Ex Anchor)": "1.01",
+        "NII": "2.18",
+        "NII (> ₹10L)": "1.85",
+        "NII (< ₹10L)": "2.83",
+        "Retail": "1.84",
+        "EMP": "3.36",
+        "Total": "1.68"
       }
     ]
   },
@@ -467,10 +477,10 @@
       "listing": "2026-08-17"
     },
     "gmp": {
-      "value": 127.0,
-      "percent": 15.74,
-      "xLot": 2286.0,
-      "updatedOn": "11-Aug 7:01"
+      "value": 118.0,
+      "percent": 14.62,
+      "xLot": 2124.0,
+      "updatedOn": "11-Aug 11:56"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
@@ -480,5 +490,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-11T01:59:15+00:00"
+  "scrapedAt": "2026-08-11T07:13:37+00:00"
 }

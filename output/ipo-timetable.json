@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-11T01:59:42+00:00",
+  "scrapedAt": "2026-08-11T07:14:15+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 165,
-    "mainboard": 49,
-    "sme": 116
+    "total": 168,
+    "mainboard": 50,
+    "sme": 118
   },
   "ipos": [
     {
@@ -3903,6 +3903,30 @@
       }
     },
     {
+      "ipoId": 2792,
+      "name": "ENS Enterprises Ltd.",
+      "slug": "ens-enterprises-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": "2026-08-19",
+        "refunds": "2026-08-20",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "14-Aug-2026",
+        "close": "18-Aug-2026",
+        "allotment": "19-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ens-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ens-enterprises-ipo/2792/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2739,
       "name": "Skytech Infinite Platform Ltd.",
       "slug": "skytech-infinite-platform-ipo",
@@ -3923,6 +3947,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/skytech-infinite-platform-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2840,
+      "name": "Technocrats Plasma Systems Ltd.",
+      "slug": "technocrats-plasma-systems-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": "2026-08-19",
+        "refunds": "2026-08-20",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "14-Aug-2026",
+        "close": "18-Aug-2026",
+        "allotment": "19-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/techno-crats-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/technocrats-plasma-systems-ipo/2840/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
@@ -3971,6 +4019,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2002,
+      "name": "Sunshine Pictures Ltd.",
+      "slug": "sunshine-pictures-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "refunds": "2026-08-24",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "18-Aug-2026",
+        "close": "20-Aug-2026",
+        "allotment": "21-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-11T01:59:36+00:00",
+  "scrapedAt": "2026-08-11T07:14:08+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,31 +15,31 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 11
   },
   "ipos": [
     {
-      "slug": "shankesh-jewellers-ipo",
-      "ipoId": 2663,
-      "name": "Shankesh Jewellers",
+      "slug": "sunshine-pictures-ipo",
+      "ipoId": 2002,
+      "name": "Sunshine Pictures",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 342.0,
+        "max": 360.0,
+        "display": "₹342–360"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
+      "lotSize": 41,
+      "issueSize": "₹282.14 Cr",
+      "issueSizeCr": 282.14,
+      "freshIssueCr": 172.8,
+      "ofsCr": 109.34,
       "dates": {
         "open": "2026-08-18",
         "close": "2026-08-20",
@@ -49,8 +49,63 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 11:58"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sunshine-pictures-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sunshine-pictures-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+        "gmp": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/"
+      },
+      "gmpId": 1612,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2007, Sunshine Pictures Limited is a production company engaged in the business of originating, creating, developing, producing, marketing, and distributing films, TV serials, and web series.\n\nThe company is a technology-driven content creator specializing in innovative commercial films, covering script development, production, intellectual property creation, rights monetization, and distribution.\n\nThe company has produced notable films like ‘Force’, ‘Commando’, ‘Holiday’, ‘Force",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "name": "Shankesh Jewellers",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 93.0,
+        "display": "₹88–93"
+      },
+      "lotSize": 160,
+      "issueSize": "₹367.18 Cr",
+      "issueSizeCr": 367.18,
+      "freshIssueCr": 274.18,
+      "ofsCr": 93.0,
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "listing": "2026-08-25"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -86,11 +141,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 190.0,
+        "max": 201.0,
+        "display": "₹190–201"
       },
-      "lotSize": null,
+      "lotSize": 74,
       "issueSize": "₹1700.00 Cr",
       "issueSizeCr": 1700.0,
       "freshIssueCr": 1200.0,
@@ -104,8 +159,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -141,14 +196,14 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 73.0,
+        "max": 77.0,
+        "display": "₹73–77"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹22.68 Cr",
+      "issueSizeCr": 22.68,
+      "freshIssueCr": 21.54,
       "ofsCr": null,
       "dates": {
         "open": "2026-08-14",
@@ -159,8 +214,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -186,6 +241,116 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2009, Skytech Infinite Platform Limited is engaged in providing turnkey industrial automation solutions, covering design, engineering, supply, installation & commissioning (I&C), and maintenance of a wide range of control panels.\n\nThe company specializes in manufacturing automation control panels that integrate PLCs, drive systems, switchgear, and sensors to enhance process efficiency and operational performance. Its panels function as centralized systems for managing and monitor",
       "registrar": "Integrated Registry Management Services Pvt.Ltd."
+    },
+    {
+      "slug": "ens-enterprises-ipo",
+      "ipoId": 2792,
+      "name": "ENS Enterprises",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 87.0,
+        "max": 92.0,
+        "display": "₹87–92"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹33.14 Cr",
+      "issueSizeCr": 33.14,
+      "freshIssueCr": 31.48,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": "2026-08-19",
+        "listing": "2026-08-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 12:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ens-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/ens-enterprises-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ens-enterprises-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ens-enterprises-ipo/2792/",
+        "gmp": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/"
+      },
+      "gmpId": 2046,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in January 2016, ENS Enterprises Limited provides end-to-end digital commerce enablement and software solutions.\n\nThe company has established a strong presence in domestic and international markets, supporting clients in 12+ countries with over 140 professionals.\n\nIt offers a broad service portfolio, successfully delivering IT projects and establishing itself as a trusted technology partner for corporations, SMEs, and government initiatives.\n\nThe majority of the company's revenues a",
+      "registrar": "Abhipra Capital Limited"
+    },
+    {
+      "slug": "technocrats-plasma-systems-ipo",
+      "ipoId": 2840,
+      "name": "Technocrats Plasma Systems",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 125.0,
+        "max": 132.0,
+        "display": "₹125–132"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹60.98 Cr",
+      "issueSizeCr": 60.98,
+      "freshIssueCr": 57.93,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-14",
+        "close": "2026-08-18",
+        "allotment": "2026-08-19",
+        "listing": "2026-08-21"
+      },
+      "gmp": {
+        "value": 25.0,
+        "percent": 18.94,
+        "xLot": 25000.0,
+        "updatedOn": "11-Aug 12:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Rarever Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/techno-crats-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/technocrats-plasma-systems-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=technocrats-plasma-systems-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/technocrats-plasma-systems-ipo/2840/",
+        "gmp": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/"
+      },
+      "gmpId": 2092,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Technocrats Plasma Systems Ltd. is an engineering-focused company engaged in providing plasma-based surface treatment and coating solutions for industrial applications.\n\nThe company designs, develops, and installs plasma systems used for surface cleaning, activation, coating, and modification across diverse manufacturing sectors.\n\nIts services include system customization, installation, commissioning, maintenance support, and technical consulting, helping clients improve product performance, dur",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "credent-connect-ipo",
@@ -215,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 6:53"
+        "updatedOn": "11-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -270,7 +435,7 @@
         "value": 27.0,
         "percent": 27.84,
         "xLot": 4158.0,
-        "updatedOn": "11-Aug 6:55"
+        "updatedOn": "11-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -322,10 +487,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 53.0,
-        "percent": 18.6,
-        "xLot": 2756.0,
-        "updatedOn": "11-Aug 6:53"
+        "value": 52.0,
+        "percent": 18.25,
+        "xLot": 2704.0,
+        "updatedOn": "11-Aug 12:02"
       },
       "subscription": {
         "total": null,
@@ -380,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 6:59"
+        "updatedOn": "11-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -435,7 +600,7 @@
         "value": 15.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "11-Aug 6:56"
+        "updatedOn": "11-Aug 11:58"
       },
       "subscription": {
         "total": null,
