@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T19:02:32+00:00",
+  "scrapedAt": "2026-08-11T01:59:36+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,179 @@
     "limit": null
   },
   "summary": {
-    "open": 6,
-    "upcoming": 11,
+    "open": 8,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 17
+    "total": 16
   },
   "ipos": [
+    {
+      "slug": "milky-mist-dairy-food-ipo",
+      "ipoId": 2541,
+      "name": "Milky Mist Dairy Food",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 133.0,
+        "max": 140.0,
+        "display": "₹133–140"
+      },
+      "lotSize": 107,
+      "issueSize": "₹1553.00 Cr",
+      "issueSizeCr": 1553.0,
+      "freshIssueCr": 1428.0,
+      "ofsCr": 125.0,
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "listing": "2026-08-18"
+      },
+      "gmp": {
+        "value": 20.5,
+        "percent": 14.64,
+        "xLot": 2193.5,
+        "updatedOn": "11-Aug 7:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/milky-mist-dairy-food-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=milky-mist-dairy-food-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/",
+        "gmp": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/"
+      },
+      "gmpId": 1838,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in July 2014, Milky Mist Dairy Food Limited is one of India's fastest-growing packaged food companies focused on premium value-added dairy products. The company manufactures and markets a diversified portfolio including cheese, paneer, butter, curd, ghee, yogurt, ice cream, UHT products, frozen foods, ready-to-eat (RTE), ready-to-cook (RTC) foods, and chocolates under its flagship brand 'Milky Mist' and sub-brands such as SmartChef, Capella, Misty Lite, Briyas, and Asal.\n\nThe compan",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "fascinate-textiles-ipo",
+      "ipoId": 2734,
+      "name": "Fascinate Textiles",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 148.0,
+        "max": 156.0,
+        "display": "₹148–156"
+      },
+      "lotSize": 800,
+      "issueSize": "₹66.98 Cr",
+      "issueSizeCr": 66.98,
+      "freshIssueCr": 50.58,
+      "ofsCr": 13.04,
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "listing": "2026-08-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 7:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Affinity Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fascinate-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/fascinate-textiles-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fascinate-textiles-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fascinate-textiles-ipo/2734/",
+        "gmp": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/"
+      },
+      "gmpId": 1992,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in February 2017, Fascinate Textiles Limited manufactures ready-made garments for men, women, and children, with a primary focus on children's apparel. Its product portfolio includes t-shirts, joggers, vests, leggings, shorts, infant wear, and other garments designed for different age groups and market segments. The company is ISO 9001:2015 certified, demonstrating its commitment to maintaining quality management standards and streamlined manufacturing processes.\n\nFascinate Textiles",
+      "registrar": "Cameo Corporate Services Ltd."
+    },
+    {
+      "slug": "sham-foam-ipo",
+      "ipoId": 2869,
+      "name": "Sham Foam",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 130.0,
+        "max": 130.0,
+        "display": "₹130"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹40.48 Cr",
+      "issueSizeCr": 40.48,
+      "freshIssueCr": 38.45,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-11",
+        "close": "2026-08-13",
+        "allotment": "2026-08-14",
+        "listing": "2026-08-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Aug 7:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sham-foam-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sham-foam-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sham-foam-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sham-foam-ipo/2869/",
+        "gmp": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/"
+      },
+      "gmpId": 2131,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2020, Sham Foam is engaged in the manufacturing, distribution, marketing, and sale of polyurethane foam (PU Foam), mattresses, and allied home comfort products, primarily for the Indian market. In addition, it produces industrial-grade PU foam used across multiple industries, including furniture, apparel, sports goods, and automotive applications.\n\nIts diversified product portfolio includes mattresses, pillows, cushions, furniture cushioning, and PU foam cores used in home comfor",
+      "registrar": "Alankit Assignments Ltd."
+    },
     {
       "slug": "molbio-diagnostics-ipo",
       "ipoId": 2579,
@@ -51,7 +216,7 @@
         "value": 127.0,
         "percent": 15.74,
         "xLot": 2286.0,
-        "updatedOn": "10-Aug 23:32"
+        "updatedOn": "11-Aug 7:01"
       },
       "subscription": {
         "total": 0.83,
@@ -164,7 +329,7 @@
         "value": 250.0,
         "percent": 28.7,
         "xLot": 4250.0,
-        "updatedOn": "10-Aug 23:35"
+        "updatedOn": "11-Aug 6:53"
       },
       "subscription": {
         "total": 0.62,
@@ -277,7 +442,7 @@
         "value": 30.0,
         "percent": 14.15,
         "xLot": 2100.0,
-        "updatedOn": "10-Aug 23:36"
+        "updatedOn": "11-Aug 7:00"
       },
       "subscription": {
         "total": 4.74,
@@ -383,7 +548,7 @@
         "value": 13.0,
         "percent": 8.18,
         "xLot": 1222.0,
-        "updatedOn": "10-Aug 23:34"
+        "updatedOn": "11-Aug 6:54"
       },
       "subscription": {
         "total": 0.52,
@@ -496,7 +661,7 @@
         "value": 5.0,
         "percent": 2.86,
         "xLot": 4000.0,
-        "updatedOn": "10-Aug 23:33"
+        "updatedOn": "11-Aug 6:59"
       },
       "subscription": {
         "total": 0.77,
@@ -590,127 +755,6 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
-      "slug": "lapl-automotive-ipo",
-      "ipoId": 2300,
-      "name": "LAPL Automotive",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 94.0,
-        "display": "₹88–94"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹32.40 Cr",
-      "issueSizeCr": 32.4,
-      "freshIssueCr": 30.77,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-06",
-        "close": "2026-08-10",
-        "allotment": "2026-08-11",
-        "listing": "2026-08-13"
-      },
-      "gmp": {
-        "value": 39.0,
-        "percent": 41.49,
-        "xLot": 46800.0,
-        "updatedOn": "10-Aug 23:35"
-      },
-      "subscription": {
-        "total": 344.31,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "9,76,800",
-            "Shares bid for": "9,76,800",
-            "Total Amt* (₹ Cr.)": "9.18",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,72,800",
-            "Shares bid for": "1,72,800",
-            "Total Amt* (₹ Cr.)": "1.62",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "200.23",
-            "Shares Offered*": "6,52,800",
-            "Shares bid for": "13,07,12,400",
-            "Total Amt* (₹ Cr.)": "1,228.70",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "433.26",
-            "Shares Offered*": "4,96,800",
-            "Shares bid for": "21,52,42,800",
-            "Total Amt* (₹ Cr.)": "2,023.28",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "477.05",
-            "Shares Offered*": "3,31,200",
-            "Shares bid for": "15,79,99,200",
-            "Total Amt* (₹ Cr.)": "1,485.19",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "345.67",
-            "Shares Offered*": "1,65,600",
-            "Shares bid for": "5,72,43,600",
-            "Total Amt* (₹ Cr.)": "538.09",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "387.78",
-            "Shares Offered*": "11,47,200",
-            "Shares bid for": "44,48,61,600",
-            "Total Amt* (₹ Cr.)": "4,181.70",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "344.31",
-            "Shares Offered*": "22,96,800",
-            "Shares bid for": "79,08,16,800",
-            "Total Amt* (₹ Cr.)": "7,433.68",
-            "Total Applications": "2,15,111"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "GYR Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/lapl-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/lapl-automotive-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=lapl-automotive-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/lapl-automotive-ipo/2300/",
-        "gmp": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/"
-      },
-      "gmpId": 1713,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2004, LAPL Automotive Pvt. Ltd. is engaged in the business of designing, manufacturing and supplying a wide range of automotive components and accessories.\n\nThe company specialises in the manufacturing of automotive lighting and signalling products.\n\nThe company operates as an ODM and OBM under its brand \" LAPL ,\" designing and manufacturing automotive components in Aurangabad, Maharashtra, delivering tailored, high-quality solutions to clients and vehicle manufacturers.\n\nThe man",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
       "slug": "shankesh-jewellers-ipo",
       "ipoId": 2663,
       "name": "Shankesh Jewellers",
@@ -736,9 +780,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 18:10"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -791,9 +835,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 13:50"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -846,9 +890,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 18:30"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -903,7 +947,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 23:35"
+        "updatedOn": "11-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -958,7 +1002,7 @@
         "value": 27.0,
         "percent": 27.84,
         "xLot": 4158.0,
-        "updatedOn": "10-Aug 23:36"
+        "updatedOn": "11-Aug 6:55"
       },
       "subscription": {
         "total": null,
@@ -1013,7 +1057,7 @@
         "value": 53.0,
         "percent": 18.6,
         "xLot": 2756.0,
-        "updatedOn": "10-Aug 23:37"
+        "updatedOn": "11-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -1068,7 +1112,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 23:29"
+        "updatedOn": "11-Aug 6:59"
       },
       "subscription": {
         "total": null,
@@ -1123,7 +1167,7 @@
         "value": 15.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "10-Aug 23:32"
+        "updatedOn": "11-Aug 6:56"
       },
       "subscription": {
         "total": null,
@@ -1149,171 +1193,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
       "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
-      "slug": "milky-mist-dairy-food-ipo",
-      "ipoId": 2541,
-      "name": "Milky Mist Dairy Food",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 133.0,
-        "max": 140.0,
-        "display": "₹133–140"
-      },
-      "lotSize": 107,
-      "issueSize": "₹1553.00 Cr",
-      "issueSizeCr": 1553.0,
-      "freshIssueCr": 1428.0,
-      "ofsCr": 125.0,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 20.5,
-        "percent": 14.64,
-        "xLot": 2193.5,
-        "updatedOn": "10-Aug 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/milky-mist-dairy-food-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=milky-mist-dairy-food-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/",
-        "gmp": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/"
-      },
-      "gmpId": 1838,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in July 2014, Milky Mist Dairy Food Limited is one of India's fastest-growing packaged food companies focused on premium value-added dairy products. The company manufactures and markets a diversified portfolio including cheese, paneer, butter, curd, ghee, yogurt, ice cream, UHT products, frozen foods, ready-to-eat (RTE), ready-to-cook (RTC) foods, and chocolates under its flagship brand 'Milky Mist' and sub-brands such as SmartChef, Capella, Misty Lite, Briyas, and Asal.\n\nThe compan",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "fascinate-textiles-ipo",
-      "ipoId": 2734,
-      "name": "Fascinate Textiles",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 148.0,
-        "max": 156.0,
-        "display": "₹148–156"
-      },
-      "lotSize": 800,
-      "issueSize": "₹66.98 Cr",
-      "issueSizeCr": 66.98,
-      "freshIssueCr": 50.58,
-      "ofsCr": 13.04,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Aug 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/fascinate-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/fascinate-textiles-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=fascinate-textiles-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fascinate-textiles-ipo/2734/",
-        "gmp": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/"
-      },
-      "gmpId": 1992,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in February 2017, Fascinate Textiles Limited manufactures ready-made garments for men, women, and children, with a primary focus on children's apparel. Its product portfolio includes t-shirts, joggers, vests, leggings, shorts, infant wear, and other garments designed for different age groups and market segments. The company is ISO 9001:2015 certified, demonstrating its commitment to maintaining quality management standards and streamlined manufacturing processes.\n\nFascinate Textiles",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "sham-foam-ipo",
-      "ipoId": 2869,
-      "name": "Sham Foam",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 130.0,
-        "max": 130.0,
-        "display": "₹130"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹40.48 Cr",
-      "issueSizeCr": 40.48,
-      "freshIssueCr": 38.45,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sham-foam-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sham-foam-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sham-foam-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sham-foam-ipo/2869/",
-        "gmp": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/"
-      },
-      "gmpId": 2131,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2020, Sham Foam is engaged in the manufacturing, distribution, marketing, and sale of polyurethane foam (PU Foam), mattresses, and allied home comfort products, primarily for the Indian market. In addition, it produces industrial-grade PU foam used across multiple industries, including furniture, apparel, sports goods, and automotive applications.\n\nIts diversified product portfolio includes mattresses, pillows, cushions, furniture cushioning, and PU foam cores used in home comfor",
-      "registrar": "Alankit Assignments Ltd."
     }
   ]
 }

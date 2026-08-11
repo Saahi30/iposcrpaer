@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-10T19:02:32+00:00",
+  "scrapedAt": "2026-08-11T01:59:36+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 8
   },
   "ipos": [
     {
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 18:10"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 13:50"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -158,9 +158,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Aug 18:30"
+        "updatedOn": "11-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 23:35"
+        "updatedOn": "11-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 27.0,
         "percent": 27.84,
         "xLot": 4158.0,
-        "updatedOn": "10-Aug 23:36"
+        "updatedOn": "11-Aug 6:55"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 53.0,
         "percent": 18.6,
         "xLot": 2756.0,
-        "updatedOn": "10-Aug 23:37"
+        "updatedOn": "11-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Aug 23:29"
+        "updatedOn": "11-Aug 6:59"
       },
       "subscription": {
         "total": null,
@@ -435,7 +435,7 @@
         "value": 15.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "10-Aug 23:32"
+        "updatedOn": "11-Aug 6:56"
       },
       "subscription": {
         "total": null,
@@ -461,171 +461,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
       "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
-      "slug": "milky-mist-dairy-food-ipo",
-      "ipoId": 2541,
-      "name": "Milky Mist Dairy Food",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 133.0,
-        "max": 140.0,
-        "display": "₹133–140"
-      },
-      "lotSize": 107,
-      "issueSize": "₹1553.00 Cr",
-      "issueSizeCr": 1553.0,
-      "freshIssueCr": 1428.0,
-      "ofsCr": 125.0,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 20.5,
-        "percent": 14.64,
-        "xLot": 2193.5,
-        "updatedOn": "10-Aug 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/milky-mist-dairy-food-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=milky-mist-dairy-food-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/",
-        "gmp": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/"
-      },
-      "gmpId": 1838,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in July 2014, Milky Mist Dairy Food Limited is one of India's fastest-growing packaged food companies focused on premium value-added dairy products. The company manufactures and markets a diversified portfolio including cheese, paneer, butter, curd, ghee, yogurt, ice cream, UHT products, frozen foods, ready-to-eat (RTE), ready-to-cook (RTC) foods, and chocolates under its flagship brand 'Milky Mist' and sub-brands such as SmartChef, Capella, Misty Lite, Briyas, and Asal.\n\nThe compan",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "fascinate-textiles-ipo",
-      "ipoId": 2734,
-      "name": "Fascinate Textiles",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 148.0,
-        "max": 156.0,
-        "display": "₹148–156"
-      },
-      "lotSize": 800,
-      "issueSize": "₹66.98 Cr",
-      "issueSizeCr": 66.98,
-      "freshIssueCr": 50.58,
-      "ofsCr": 13.04,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Aug 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/fascinate-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/fascinate-textiles-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=fascinate-textiles-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fascinate-textiles-ipo/2734/",
-        "gmp": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/"
-      },
-      "gmpId": 1992,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in February 2017, Fascinate Textiles Limited manufactures ready-made garments for men, women, and children, with a primary focus on children's apparel. Its product portfolio includes t-shirts, joggers, vests, leggings, shorts, infant wear, and other garments designed for different age groups and market segments. The company is ISO 9001:2015 certified, demonstrating its commitment to maintaining quality management standards and streamlined manufacturing processes.\n\nFascinate Textiles",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "sham-foam-ipo",
-      "ipoId": 2869,
-      "name": "Sham Foam",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 130.0,
-        "max": 130.0,
-        "display": "₹130"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹40.48 Cr",
-      "issueSizeCr": 40.48,
-      "freshIssueCr": 38.45,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-11",
-        "close": "2026-08-13",
-        "allotment": "2026-08-14",
-        "listing": "2026-08-18"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sham-foam-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sham-foam-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sham-foam-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sham-foam-ipo/2869/",
-        "gmp": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/"
-      },
-      "gmpId": 2131,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2020, Sham Foam is engaged in the manufacturing, distribution, marketing, and sale of polyurethane foam (PU Foam), mattresses, and allied home comfort products, primarily for the Indian market. In addition, it produces industrial-grade PU foam used across multiple industries, including furniture, apparel, sports goods, and automotive applications.\n\nIts diversified product portfolio includes mattresses, pillows, cushions, furniture cushioning, and PU foam cores used in home comfor",
-      "registrar": "Alankit Assignments Ltd."
     }
   ]
 }
