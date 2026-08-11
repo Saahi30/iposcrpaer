@@ -386,9 +386,9 @@
     "source": "https://www.chittorgarh.com/ipo/leap-india-ipo/2583/"
   },
   "subscription": {
-    "summary": "LEAP India IPO subscribed 1.23 times. The public issue subscribed 0.81 times in the retail category, 1.03 times in QIB (Ex Anchor), and 2.46 times in the NII category by August 11, 2026 12:39:09 PM (Day 3).",
-    "total": 1.23,
-    "applications": 428128.0,
+    "summary": "LEAP India IPO subscribed 8.82 times. The public issue subscribed 1.81 times in the retail category, 17.73 times in QIB (Ex Anchor), and 13.31 times in the NII category by August 11, 2026 6:39:10 PM (Day 3).",
+    "total": 8.82,
+    "applications": 987534.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -399,52 +399,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.03",
+        "Subscription (x)": "17.73",
         "Shares Offered*": "3,11,79,259",
-        "Shares bid for": "3,22,49,426",
-        "Total Amt* (₹ Cr.)": "512.766"
+        "Shares bid for": "55,28,45,866",
+        "Total Amt* (₹ Cr.)": "8,790.249"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.46",
+        "Subscription (x)": "13.31",
         "Shares Offered*": "2,33,84,434",
-        "Shares bid for": "5,75,45,202",
-        "Total Amt* (₹ Cr.)": "914.969"
+        "Shares bid for": "31,11,83,804",
+        "Total Amt* (₹ Cr.)": "4,947.822"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.47",
+        "Subscription (x)": "14.49",
         "Shares Offered*": "1,55,89,623",
-        "Shares bid for": "3,85,52,972",
-        "Total Amt* (₹ Cr.)": "612.992"
+        "Shares bid for": "22,59,71,018",
+        "Total Amt* (₹ Cr.)": "3,592.939"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.44",
+        "Subscription (x)": "10.93",
         "Shares Offered*": "77,94,811",
-        "Shares bid for": "1,89,92,230",
-        "Total Amt* (₹ Cr.)": "301.976"
+        "Shares bid for": "8,52,12,786",
+        "Total Amt* (₹ Cr.)": "1,354.883"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "1.81",
         "Shares Offered*": "5,45,63,679",
-        "Shares bid for": "4,43,64,804",
-        "Total Amt* (₹ Cr.)": "705.400"
+        "Shares bid for": "9,84,89,440",
+        "Total Amt* (₹ Cr.)": "1,565.982"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "5.78",
+        "Subscription (x)": "11.57",
         "Shares Offered*": "78,616",
-        "Shares bid for": "4,54,208",
-        "Total Amt* (₹ Cr.)": "7.222"
+        "Shares bid for": "9,09,356",
+        "Total Amt* (₹ Cr.)": "14.459"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.23",
+        "Subscription (x)": "8.82",
         "Shares Offered*": "10,92,05,988",
-        "Shares bid for": "13,46,13,640",
-        "Total Amt* (₹ Cr.)": "2,140.357"
+        "Shares bid for": "96,34,28,466",
+        "Total Amt* (₹ Cr.)": "15,318.513"
       }
     ],
     "dayWise": [
@@ -470,13 +470,13 @@
       },
       {
         "Date": "Aug 11 (Day 3)",
-        "QIB (Ex Anchor)": "1.03",
-        "NII": "2.46",
-        "NII (> ₹10L)": "2.47",
-        "NII (< ₹10L)": "2.44",
-        "Retail": "0.81",
-        "EMP": "5.78",
-        "Total": "1.23"
+        "QIB (Ex Anchor)": "17.73",
+        "NII": "13.31",
+        "NII (> ₹10L)": "14.49",
+        "NII (< ₹10L)": "10.93",
+        "Retail": "1.81",
+        "EMP": "11.57",
+        "Total": "8.82"
       }
     ]
   },
@@ -502,7 +502,7 @@
       "value": 10.0,
       "percent": 6.29,
       "xLot": 940.0,
-      "updatedOn": "11-Aug 12:01"
+      "updatedOn": "11-Aug 18:01"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/leap-ipo-logo.jpg",
@@ -512,5 +512,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-11T07:13:43+00:00"
+  "scrapedAt": "2026-08-11T13:13:15+00:00"
 }

@@ -361,8 +361,8 @@
     "source": "https://www.chittorgarh.com/ipo/optimystix-entertainment-ipo/2755/"
   },
   "subscription": {
-    "summary": "Optimystix Entertainment IPO subscribed 1.05 times. The public issue subscribed 1.29 times in the individual investors category, 1.02 times in QIB (Ex Anchor), and 0.54 times in the NII category by August 11, 2026 12:40:00 PM (Day 3).",
-    "total": 1.05,
+    "summary": "Optimystix Entertainment IPO subscribed 2.05 times. The public issue subscribed 2.26 times in the individual investors category, 1.84 times in QIB (Ex Anchor), and 1.85 times in the NII category by August 11, 2026 6:39:59 PM (Day 3).",
+    "total": 2.05,
     "applications": null,
     "byCategory": [
       {
@@ -383,80 +383,80 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.02",
+        "Subscription (x)": "1.84",
         "Shares Offered*": "11,16,000",
-        "Shares bid for": "11,34,400",
-        "Total Amt* (₹ Cr.)": "19.852",
-        "Total Applications": "5"
+        "Shares bid for": "20,56,000",
+        "Total Amt* (₹ Cr.)": "35.980",
+        "Total Applications": "12"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.54",
+        "Subscription (x)": "1.85",
         "Shares Offered*": "8,40,000",
-        "Shares bid for": "4,53,600",
-        "Total Amt* (₹ Cr.)": "7.938",
-        "Total Applications": "126"
+        "Shares bid for": "15,52,000",
+        "Total Amt* (₹ Cr.)": "27.160",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.37",
+        "Subscription (x)": "1.63",
         "Shares Offered*": "5,59,200",
-        "Shares bid for": "2,04,800",
-        "Total Amt* (₹ Cr.)": "3.584",
+        "Shares bid for": "9,13,600",
+        "Total Amt* (₹ Cr.)": "15.988",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.89",
+        "Subscription (x)": "2.27",
         "Shares Offered*": "2,80,800",
-        "Shares bid for": "2,48,800",
-        "Total Amt* (₹ Cr.)": "4.354",
+        "Shares bid for": "6,38,400",
+        "Total Amt* (₹ Cr.)": "11.172",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.29",
+        "Subscription (x)": "2.26",
         "Shares Offered*": "19,53,600",
-        "Shares bid for": "25,21,600",
-        "Total Amt* (₹ Cr.)": "44.128",
-        "Total Applications": "1,576"
+        "Shares bid for": "44,22,400",
+        "Total Amt* (₹ Cr.)": "77.392",
+        "Total Applications": "2,764"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.05",
+        "Subscription (x)": "2.05",
         "Shares Offered*": "39,09,600",
-        "Shares bid for": "41,09,600",
-        "Total Amt* (₹ Cr.)": "71.918",
-        "Total Applications": "1,707"
+        "Shares bid for": "80,30,400",
+        "Total Amt* (₹ Cr.)": "140.532",
+        "Total Applications": "3,167"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 7 (Day 1)",
         "QIB (Ex Anchor)": "1.02",
-        "NII*": "0.77",
-        "NII (> ₹10L)": "1.12",
-        "NII (< ₹10L)": "0.07",
+        "NII*": "0.44",
+        "NII (> ₹10L)": "0.07",
+        "NII (< ₹10L)": "0.53",
         "Individual Investors": "0.56",
-        "Total": "0.73"
+        "Total": "0.66"
       },
       {
         "Date": "Aug 10 (Day 2)",
         "QIB (Ex Anchor)": "1.02",
-        "NII*": "0.21",
-        "NII (> ₹10L)": "0.11",
-        "NII (< ₹10L)": "0.40",
-        "Individual Investors": "0.88",
-        "Total": "0.77"
+        "NII*": "0.54",
+        "NII (> ₹10L)": "0.40",
+        "NII (< ₹10L)": "0.58",
+        "Individual Investors": "0.90",
+        "Total": "0.86"
       },
       {
         "Date": "Aug 11 (Day 3)",
-        "QIB (Ex Anchor)": "1.02",
-        "NII*": "0.54",
-        "NII (> ₹10L)": "0.37",
-        "NII (< ₹10L)": "0.89",
-        "Individual Investors": "1.29",
-        "Total": "1.05"
+        "QIB (Ex Anchor)": "1.84",
+        "NII*": "1.85",
+        "NII (> ₹10L)": "1.63",
+        "NII (< ₹10L)": "2.27",
+        "Individual Investors": "2.26",
+        "Total": "2.05"
       }
     ]
   },
@@ -482,7 +482,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "11-Aug 11:57"
+      "updatedOn": "11-Aug 17:56"
     },
     "leadManager": "LSI Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/optimystix-entertainment-logo.jpeg",
@@ -492,5 +492,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-11T07:13:45+00:00"
+  "scrapedAt": "2026-08-11T13:13:17+00:00"
 }

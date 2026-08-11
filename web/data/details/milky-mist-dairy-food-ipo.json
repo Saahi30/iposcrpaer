@@ -427,9 +427,9 @@
     "source": "https://www.chittorgarh.com/ipo/milky-mist-dairy-food-ipo/2541/"
   },
   "subscription": {
-    "summary": "Milky Mist Dairy Food IPO subscribed 0.34 times. The public issue subscribed 0.52 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.38 times in the NII category by August 11, 2026 12:39:01 PM (Day 1).",
-    "total": 0.34,
-    "applications": 138317.0,
+    "summary": "Milky Mist Dairy Food IPO subscribed 0.84 times. The public issue subscribed 1.01 times in the retail category, 0.41 times in QIB (Ex Anchor), and 0.97 times in the NII category by August 11, 2026 5:07:02 PM (Day 1).",
+    "total": 0.84,
+    "applications": 286137.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -440,64 +440,64 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.41",
         "Shares Offered*": "2,21,57,144",
-        "Shares bid for": "10,914",
-        "Total Amt* (₹ Cr.)": "0.153"
+        "Shares bid for": "91,84,773",
+        "Total Amt* (₹ Cr.)": "128.587"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.38",
+        "Subscription (x)": "0.97",
         "Shares Offered*": "1,66,17,857",
-        "Shares bid for": "62,52,224",
-        "Total Amt* (₹ Cr.)": "87.531"
+        "Shares bid for": "1,60,88,306",
+        "Total Amt* (₹ Cr.)": "225.236"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.25",
+        "Subscription (x)": "0.63",
         "Shares Offered*": "1,10,78,571",
-        "Shares bid for": "27,92,058",
-        "Total Amt* (₹ Cr.)": "39.089"
+        "Shares bid for": "69,61,313",
+        "Total Amt* (₹ Cr.)": "97.458"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.62",
+        "Subscription (x)": "1.65",
         "Shares Offered*": "55,39,286",
-        "Shares bid for": "34,60,166",
-        "Total Amt* (₹ Cr.)": "48.442"
+        "Shares bid for": "91,26,993",
+        "Total Amt* (₹ Cr.)": "127.778"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.52",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "3,87,75,000",
-        "Shares bid for": "2,02,66,442",
-        "Total Amt* (₹ Cr.)": "283.730"
+        "Shares bid for": "3,93,07,948",
+        "Total Amt* (₹ Cr.)": "550.311"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "1.25",
+        "Subscription (x)": "2.19",
         "Shares Offered*": "1,57,480",
-        "Shares bid for": "1,96,666",
-        "Total Amt* (₹ Cr.)": "2.753"
+        "Shares bid for": "3,44,968",
+        "Total Amt* (₹ Cr.)": "4.830"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.34",
+        "Subscription (x)": "0.84",
         "Shares Offered*": "7,77,07,481",
-        "Shares bid for": "2,67,26,246",
-        "Total Amt* (₹ Cr.)": "374.167"
+        "Shares bid for": "6,49,25,995",
+        "Total Amt* (₹ Cr.)": "908.964"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 11 (Day 1)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII": "0.38",
-        "NII (> ₹10L)": "0.25",
-        "NII (< ₹10L)": "0.62",
-        "Retail": "0.52",
-        "EMP": "1.25",
-        "Total": "0.34"
+        "QIB (Ex Anchor)": "0.41",
+        "NII": "0.97",
+        "NII (> ₹10L)": "0.63",
+        "NII (< ₹10L)": "1.65",
+        "Retail": "1.01",
+        "EMP": "2.19",
+        "Total": "0.84"
       }
     ]
   },
@@ -520,10 +520,10 @@
       "listing": "2026-08-18"
     },
     "gmp": {
-      "value": 20.5,
-      "percent": 14.64,
-      "xLot": 2193.5,
-      "updatedOn": "11-Aug 12:00"
+      "value": 23.0,
+      "percent": 16.43,
+      "xLot": 2461.0,
+      "updatedOn": "11-Aug 17:55"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
@@ -533,5 +533,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-11T07:13:31+00:00"
+  "scrapedAt": "2026-08-11T13:13:02+00:00"
 }
