@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-12T02:12:21+00:00",
+  "scrapedAt": "2026-08-12T07:38:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 168,
-    "mainboard": 50,
+    "total": 169,
+    "mainboard": 51,
     "sme": 118
   },
   "ipos": [
@@ -3480,13 +3480,13 @@
         "close": "2026-08-07",
         "allotment": "2026-08-10",
         "refunds": "2026-08-11",
-        "listing": null
+        "listing": "2026-08-12"
       },
       "displayDates": {
         "open": "31-Jul-2026",
         "close": "07-Aug-2026",
         "allotment": "10-Aug-2026",
-        "listing": null
+        "listing": "12-Aug-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/gvelectricals_logo.png",
       "urls": {
@@ -3972,6 +3972,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/technocrats-plasma-systems-ipo/2840/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2826,
+      "name": "Horizon Industrial Parks Ltd.",
+      "slug": "horizon-industrial-parks-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "refunds": "2026-08-21",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "17-Aug-2026",
+        "close": "19-Aug-2026",
+        "allotment": "20-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/horizon-industrial-parks-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-12T02:12:20+00:00",
+  "scrapedAt": "2026-08-12T07:38:10+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 66,
-    "mainboard": 29,
+    "totalEvents": 68,
+    "mainboard": 31,
     "sme": 37,
     "byEventType": {
       "allotment": 12,
-      "close": 29,
-      "open": 23,
+      "close": 30,
+      "open": 24,
       "other": 2
     }
   },
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 64,
-        "mainboard": 28,
+        "total": 66,
+        "mainboard": 30,
         "sme": 36
       },
       "byDate": {
@@ -1090,6 +1090,25 @@
         ],
         "2026-08-17": [
           {
+            "title": "Horizon Industrial Parks IPO Opens on Aug 17, 2026",
+            "company": "Horizon Industrial Parks",
+            "eventType": "open",
+            "date": "2026-08-17",
+            "dateEnd": "2026-08-17",
+            "details": "Horizon Industrial Parks Ltd. is entering in the capital market with an IPO of 43.34 Equity Shares of Rs 10 aggregating up to Rs 2,600.00 Crore. The price for the issue has been set at Rs 57 - Rs 60 P",
+            "type": "mainboard",
+            "slug": "horizon-industrial-parks-ipo",
+            "ipoId": 2826,
+            "eventId": 15284,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15284",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Horizon%20Industrial%20Parks%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%2043.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%202%2C600.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2057%20-%20Rs%2060%20P"
+            }
+          },
+          {
             "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
             "company": "Lalithaa Jewellery Mart",
             "eventType": "open",
@@ -1226,6 +1245,25 @@
           }
         ],
         "2026-08-19": [
+          {
+            "title": "Horizon Industrial Parks IPO Closes on Aug 19, 2026",
+            "company": "Horizon Industrial Parks",
+            "eventType": "close",
+            "date": "2026-08-19",
+            "dateEnd": "2026-08-19",
+            "details": "The issue of Horizon Industrial Parks Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been",
+            "type": "mainboard",
+            "slug": "horizon-industrial-parks-ipo",
+            "ipoId": 2826,
+            "eventId": 15285,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15285",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Horizon%20Industrial%20Parks%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20"
+            }
+          },
           {
             "title": "Lalithaa Jewellery Mart IPO Closes on Aug 19, 2026",
             "company": "Lalithaa Jewellery Mart",
@@ -1707,6 +1745,25 @@
           }
         },
         {
+          "title": "Horizon Industrial Parks IPO Opens on Aug 17, 2026",
+          "company": "Horizon Industrial Parks",
+          "eventType": "open",
+          "date": "2026-08-17",
+          "dateEnd": "2026-08-17",
+          "details": "Horizon Industrial Parks Ltd. is entering in the capital market with an IPO of 43.34 Equity Shares of Rs 10 aggregating up to Rs 2,600.00 Crore. The price for the issue has been set at Rs 57 - Rs 60 P",
+          "type": "mainboard",
+          "slug": "horizon-industrial-parks-ipo",
+          "ipoId": 2826,
+          "eventId": 15284,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15284",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Horizon%20Industrial%20Parks%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%2043.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%202%2C600.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2057%20-%20Rs%2060%20P"
+          }
+        },
+        {
           "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
           "company": "Lalithaa Jewellery Mart",
           "eventType": "open",
@@ -1761,6 +1818,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15281",
             "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Opens%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=Sunshine%20Pictures%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.78%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20282.14%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20342%20-%20Rs%20360%20Per%20Equit"
+          }
+        },
+        {
+          "title": "Horizon Industrial Parks IPO Closes on Aug 19, 2026",
+          "company": "Horizon Industrial Parks",
+          "eventType": "close",
+          "date": "2026-08-19",
+          "dateEnd": "2026-08-19",
+          "details": "The issue of Horizon Industrial Parks Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been",
+          "type": "mainboard",
+          "slug": "horizon-industrial-parks-ipo",
+          "ipoId": 2826,
+          "eventId": 15285,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15285",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Horizon%20Industrial%20Parks%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20"
           }
         },
         {
@@ -3023,6 +3099,25 @@
       }
     },
     {
+      "title": "Horizon Industrial Parks IPO Opens on Aug 17, 2026",
+      "company": "Horizon Industrial Parks",
+      "eventType": "open",
+      "date": "2026-08-17",
+      "dateEnd": "2026-08-17",
+      "details": "Horizon Industrial Parks Ltd. is entering in the capital market with an IPO of 43.34 Equity Shares of Rs 10 aggregating up to Rs 2,600.00 Crore. The price for the issue has been set at Rs 57 - Rs 60 P",
+      "type": "mainboard",
+      "slug": "horizon-industrial-parks-ipo",
+      "ipoId": 2826,
+      "eventId": 15284,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15284",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Opens%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=Horizon%20Industrial%20Parks%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%2043.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%202%2C600.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2057%20-%20Rs%2060%20P"
+      }
+    },
+    {
       "title": "Lalithaa Jewellery Mart IPO Opens on Aug 17, 2026",
       "company": "Lalithaa Jewellery Mart",
       "eventType": "open",
@@ -3077,6 +3172,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15281",
         "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Opens%20on%20Aug%2018%2C%202026&location=&dates=20260818/20260819&details=Sunshine%20Pictures%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.78%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20282.14%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20342%20-%20Rs%20360%20Per%20Equit"
+      }
+    },
+    {
+      "title": "Horizon Industrial Parks IPO Closes on Aug 19, 2026",
+      "company": "Horizon Industrial Parks",
+      "eventType": "close",
+      "date": "2026-08-19",
+      "dateEnd": "2026-08-19",
+      "details": "The issue of Horizon Industrial Parks Ltd. opens on Aug 17, 2026 and closes for subscription on Aug 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been",
+      "type": "mainboard",
+      "slug": "horizon-industrial-parks-ipo",
+      "ipoId": 2826,
+      "eventId": 15285,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15285",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Closes%20on%20Aug%2019%2C%202026&location=&dates=20260819/20260820&details=The%20issue%20of%20Horizon%20Industrial%20Parks%20Ltd.%20opens%20on%20Aug%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-12T02:12:16+00:00",
+  "scrapedAt": "2026-08-12T07:38:06+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 6:53"
+        "updatedOn": "12-Aug 12:32"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 6:54"
+        "updatedOn": "12-Aug 12:33"
       },
       "subscription": {
         "total": null,
@@ -157,10 +157,10 @@
         "listing": "2026-08-24"
       },
       "gmp": {
-        "value": 17.0,
-        "percent": 8.46,
-        "xLot": 1258.0,
-        "updatedOn": "12-Aug 7:01"
+        "value": 21.0,
+        "percent": 10.45,
+        "xLot": 1554.0,
+        "updatedOn": "12-Aug 12:28"
       },
       "subscription": {
         "total": null,
@@ -186,6 +186,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in November 1985, Lalithaa Jewellery Mart Limited is a jewellery retail company with a strong regional presence across South India, catering primarily to the mass and value-conscious customer segment. The Company offers a diverse range of gold, silver, diamond, precious and semi-precious jewellery, with a focus on quality, craftsmanship and original designs. The Company has established strong brand acceptance in Tier II and Tier III cities across southern India.\n\nThe Company operate",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "horizon-industrial-parks-ipo",
+      "ipoId": 2826,
+      "name": "Horizon Industrial Parks",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 57.0,
+        "max": 60.0,
+        "display": "₹57–60"
+      },
+      "lotSize": 250,
+      "issueSize": "₹2600.00 Cr",
+      "issueSizeCr": 2600.0,
+      "freshIssueCr": 2600.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "listing": "2026-08-24"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "12-Aug 12:35"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/horizon-industrial-parks-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/horizon-industrial-parks-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=horizon-industrial-parks-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "gmp": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/"
+      },
+      "gmpId": 2080,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Horizon Industrial Parks, backed by Blackstone Group, is India’s largest industrial and logistics infrastructure developer, owner, and operator by total network, according to a JLL report. As of the DRHP date, the company owns 45 logistics and industrial assets across 10 major Indian cities, totaling 58.01 million square feet (msf).\n\nThe company develops and leases large, modern warehouses and industrial facilities to major companies. Its core asset types include:\n\nAddition",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "skytech-infinite-platform-ipo",
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 7:01"
+        "updatedOn": "12-Aug 12:29"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 6:56"
+        "updatedOn": "12-Aug 12:36"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 7:01"
+        "updatedOn": "12-Aug 12:28"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 35.0,
         "percent": 18.52,
         "xLot": 21000.0,
-        "updatedOn": "12-Aug 6:54"
+        "updatedOn": "12-Aug 12:29"
       },
       "subscription": {
         "total": null,
