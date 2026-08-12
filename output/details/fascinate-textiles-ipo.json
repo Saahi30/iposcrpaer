@@ -400,10 +400,18 @@
     "source": "https://www.chittorgarh.com/ipo/fascinate-textiles-ipo/2734/"
   },
   "subscription": {
-    "summary": "Fascinate Textiles IPO subscribed 0.10 times. The public issue subscribed 0.14 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 0.01 times in the NII category by August 12, 2026 1:05:01 PM (Day 2).",
-    "total": 0.1,
+    "summary": "Fascinate Textiles IPO subscribed 0.12 times. The public issue subscribed 0.17 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 0.02 times in the NII category by August 12, 2026 6:45:02 PM (Day 2).",
+    "total": 0.12,
     "applications": null,
     "byCategory": [
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "2,15,200",
+        "Shares bid for": "2,15,200",
+        "Total Amt* (₹ Cr.)": "3.357",
+        "Total Applications": "-"
+      },
       {
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "1.00",
@@ -414,11 +422,11 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.02",
         "Shares Offered*": "16,16,000",
-        "Shares bid for": "17,600",
-        "Total Amt* (₹ Cr.)": "0.275",
-        "Total Applications": "6"
+        "Shares bid for": "31,200",
+        "Total Amt* (₹ Cr.)": "0.487",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -430,27 +438,27 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.03",
+        "Subscription (x)": "0.06",
         "Shares Offered*": "5,37,600",
-        "Shares bid for": "17,600",
-        "Total Amt* (₹ Cr.)": "0.275",
+        "Shares bid for": "31,200",
+        "Total Amt* (₹ Cr.)": "0.487",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "0.17",
         "Shares Offered*": "24,19,200",
-        "Shares bid for": "3,34,400",
-        "Total Amt* (₹ Cr.)": "5.217",
-        "Total Applications": "209"
+        "Shares bid for": "4,19,200",
+        "Total Amt* (₹ Cr.)": "6.540",
+        "Total Applications": "262"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.10",
+        "Subscription (x)": "0.12",
         "Shares Offered*": "40,78,400",
-        "Shares bid for": "3,95,200",
-        "Total Amt* (₹ Cr.)": "6.165",
-        "Total Applications": "216"
+        "Shares bid for": "4,93,600",
+        "Total Amt* (₹ Cr.)": "7.700",
+        "Total Applications": "274"
       }
     ],
     "dayWise": [
@@ -466,11 +474,11 @@
       {
         "Date": "Aug 12 (Day 2)",
         "QIB (Ex Anchor)": "1.00",
-        "NII*": "0.01",
+        "NII*": "0.02",
         "NII (> ₹10L)": "0.00",
-        "NII (< ₹10L)": "0.03",
-        "Individual Investors": "0.14",
-        "Total": "0.10"
+        "NII (< ₹10L)": "0.06",
+        "Individual Investors": "0.17",
+        "Total": "0.12"
       }
     ]
   },
@@ -496,7 +504,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "12-Aug 12:37"
+      "updatedOn": "12-Aug 17:57"
     },
     "leadManager": "Affinity Global",
     "logo": "https://www.chittorgarh.net/images/ipo/fascinate-ipo-logo.jpg",
@@ -506,5 +514,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-12T07:37:48+00:00"
+  "scrapedAt": "2026-08-12T13:17:21+00:00"
 }

@@ -425,9 +425,9 @@
     "source": "https://www.chittorgarh.com/ipo/dhoot-transmission-ipo/2859/"
   },
   "subscription": {
-    "summary": "Dhoot Transmission IPO subscribed 11.97 times. The public issue subscribed 5.84 times in the retail category, 5.06 times in QIB (Ex Anchor), and 35.59 times in the NII category by August 12, 2026 1:03:36 PM (Day 3).",
-    "total": 11.97,
-    "applications": 3716092.0,
+    "summary": "Dhoot Transmission IPO subscribed 75.06 times. The public issue subscribed 8.32 times in the retail category, 209.02 times in QIB (Ex Anchor), and 53.13 times in the NII category by August 12, 2026 6:44:38 PM (Day 3).",
+    "total": 75.06,
+    "applications": 5307144.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -438,52 +438,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "5.06",
+        "Subscription (x)": "209.02",
         "Shares Offered*": "70,28,439",
-        "Shares bid for": "3,55,51,488",
-        "Total Amt* (₹ Cr.)": "3,096.53"
+        "Shares bid for": "1,46,90,58,281",
+        "Total Amt* (₹ Cr.)": "1,27,954.98"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "35.59",
+        "Subscription (x)": "53.13",
         "Shares Offered*": "52,71,330",
-        "Shares bid for": "18,75,86,772",
-        "Total Amt* (₹ Cr.)": "16,338.81"
+        "Shares bid for": "28,00,59,292",
+        "Total Amt* (₹ Cr.)": "24,393.16"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "39.49",
+        "Subscription (x)": "59.41",
         "Shares Offered*": "35,14,220",
-        "Shares bid for": "13,87,66,325",
-        "Total Amt* (₹ Cr.)": "12,086.55"
+        "Shares bid for": "20,87,93,082",
+        "Total Amt* (₹ Cr.)": "18,185.88"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "27.78",
+        "Subscription (x)": "40.56",
         "Shares Offered*": "17,57,110",
-        "Shares bid for": "4,88,20,447",
-        "Total Amt* (₹ Cr.)": "4,252.26"
+        "Shares bid for": "7,12,66,210",
+        "Total Amt* (₹ Cr.)": "6,207.29"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "5.84",
+        "Subscription (x)": "8.32",
         "Shares Offered*": "1,22,99,768",
-        "Shares bid for": "7,18,06,776",
-        "Total Amt* (₹ Cr.)": "6,254.37"
+        "Shares bid for": "10,23,58,122",
+        "Total Amt* (₹ Cr.)": "8,915.39"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "6.30",
+        "Subscription (x)": "8.60",
         "Shares Offered*": "75,853",
-        "Shares bid for": "4,77,802",
-        "Total Amt* (₹ Cr.)": "41.62"
+        "Shares bid for": "6,52,392",
+        "Total Amt* (₹ Cr.)": "56.82"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "11.97",
+        "Subscription (x)": "75.06",
         "Shares Offered*": "2,46,75,390",
-        "Shares bid for": "29,54,22,838",
-        "Total Amt* (₹ Cr.)": "25,731.33"
+        "Shares bid for": "1,85,21,28,087",
+        "Total Amt* (₹ Cr.)": "1,61,320.36"
       }
     ],
     "dayWise": [
@@ -509,13 +509,13 @@
       },
       {
         "Date": "Aug 12 (Day 3)",
-        "QIB (Ex Anchor)": "5.06",
-        "NII": "35.59",
-        "NII (> ₹10L)": "39.49",
-        "NII (< ₹10L)": "27.78",
-        "Retail": "5.84",
-        "EMP": "6.30",
-        "Total": "11.97"
+        "QIB (Ex Anchor)": "209.02",
+        "NII": "53.13",
+        "NII (> ₹10L)": "59.41",
+        "NII (< ₹10L)": "40.56",
+        "Retail": "8.32",
+        "EMP": "8.60",
+        "Total": "75.06"
       }
     ]
   },
@@ -538,10 +538,10 @@
       "listing": "2026-08-17"
     },
     "gmp": {
-      "value": 252.0,
-      "percent": 28.93,
-      "xLot": 4284.0,
-      "updatedOn": "12-Aug 12:29"
+      "value": 250.0,
+      "percent": 28.7,
+      "xLot": 4250.0,
+      "updatedOn": "12-Aug 17:59"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
@@ -551,5 +551,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-12T07:37:53+00:00"
+  "scrapedAt": "2026-08-12T13:17:26+00:00"
 }

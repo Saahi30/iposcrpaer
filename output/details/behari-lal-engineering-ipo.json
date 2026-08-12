@@ -389,9 +389,9 @@
     "source": "https://www.chittorgarh.com/ipo/behari-lal-engineering-ipo/2659/"
   },
   "subscription": {
-    "summary": "Behari Lal Engineering IPO subscribed 1.04 times. The public issue subscribed 1.42 times in the retail category, 0.23 times in QIB (Ex Anchor), and 0.93 times in the NII category by August 12, 2026 1:04:16 PM (Day 1).",
-    "total": 1.04,
-    "applications": 79419.0,
+    "summary": "Behari Lal Engineering IPO subscribed 2.21 times. The public issue subscribed 2.74 times in the retail category, 0.98 times in QIB (Ex Anchor), and 2.14 times in the NII category by August 12, 2026 5:07:13 PM (Day 1).",
+    "total": 2.21,
+    "applications": 158005.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -402,56 +402,56 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.23",
+        "Subscription (x)": "0.98",
         "Shares Offered*": "15,16,633",
-        "Shares bid for": "3,54,536",
-        "Total Amt* (₹ Cr.)": "10.104"
+        "Shares bid for": "14,82,832",
+        "Total Amt* (₹ Cr.)": "42.261"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.93",
+        "Subscription (x)": "2.14",
         "Shares Offered*": "15,87,474",
-        "Shares bid for": "14,72,588",
-        "Total Amt* (₹ Cr.)": "41.969"
+        "Shares bid for": "33,98,928",
+        "Total Amt* (₹ Cr.)": "96.869"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.56",
+        "Subscription (x)": "1.28",
         "Shares Offered*": "10,58,316",
-        "Shares bid for": "5,95,868",
-        "Total Amt* (₹ Cr.)": "16.982"
+        "Shares bid for": "13,50,388",
+        "Total Amt* (₹ Cr.)": "38.486"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.66",
+        "Subscription (x)": "3.87",
         "Shares Offered*": "5,29,158",
-        "Shares bid for": "8,76,720",
-        "Total Amt* (₹ Cr.)": "24.987"
+        "Shares bid for": "20,48,540",
+        "Total Amt* (₹ Cr.)": "58.383"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.42",
+        "Subscription (x)": "2.74",
         "Shares Offered*": "37,04,105",
-        "Shares bid for": "52,65,520",
-        "Total Amt* (₹ Cr.)": "150.067"
+        "Shares bid for": "1,01,63,036",
+        "Total Amt* (₹ Cr.)": "289.647"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.04",
+        "Subscription (x)": "2.21",
         "Shares Offered*": "68,08,212",
-        "Shares bid for": "70,92,644",
-        "Total Amt* (₹ Cr.)": "202.140"
+        "Shares bid for": "1,50,44,796",
+        "Total Amt* (₹ Cr.)": "428.777"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 12 (Day 1)",
-        "QIB (Ex Anchor)": "0.23",
-        "NII": "0.93",
-        "NII (> ₹10L)": "0.56",
-        "NII (< ₹10L)": "1.66",
-        "Retail": "1.42",
-        "Total": "1.04"
+        "QIB (Ex Anchor)": "0.98",
+        "NII": "2.14",
+        "NII (> ₹10L)": "1.28",
+        "NII (< ₹10L)": "3.87",
+        "Retail": "2.74",
+        "Total": "2.21"
       }
     ]
   },
@@ -474,10 +474,10 @@
       "listing": "2026-08-19"
     },
     "gmp": {
-      "value": 66.0,
-      "percent": 23.16,
-      "xLot": 3432.0,
-      "updatedOn": "12-Aug 12:33"
+      "value": 72.0,
+      "percent": 25.26,
+      "xLot": 3744.0,
+      "updatedOn": "12-Aug 18:00"
     },
     "leadManager": "Emkay Global",
     "logo": "https://www.chittorgarh.net/images/ipo/behari-lal-logo.png",
@@ -487,5 +487,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-12T07:37:41+00:00"
+  "scrapedAt": "2026-08-12T13:17:14+00:00"
 }
