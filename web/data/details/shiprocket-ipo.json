@@ -407,7 +407,7 @@
   "subscription": {
     "summary": "Shiprocket IPO subscribed 1.00 times. The public issue subscribed 3.49 times in the retail category, 0.02 times in QIB (Ex Anchor), and 1.28 times in the NII category by August 12, 2026 5:06:54 PM (Day 1).",
     "total": 1.0,
-    "applications": 299790.0,
+    "applications": 300079.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -498,10 +498,10 @@
       "listing": "2026-08-19"
     },
     "gmp": {
-      "value": 33.0,
-      "percent": 34.02,
-      "xLot": 5082.0,
-      "updatedOn": "12-Aug 17:59"
+      "value": 34.0,
+      "percent": 35.05,
+      "xLot": 5236.0,
+      "updatedOn": "12-Aug 23:33"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
@@ -511,5 +511,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-12T13:17:12+00:00"
+  "scrapedAt": "2026-08-12T19:05:09+00:00"
 }

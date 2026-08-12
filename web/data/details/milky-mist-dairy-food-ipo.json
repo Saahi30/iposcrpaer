@@ -429,7 +429,7 @@
   "subscription": {
     "summary": "Milky Mist Dairy Food IPO subscribed 2.29 times. The public issue subscribed 2.57 times in the retail category, 0.69 times in QIB (Ex Anchor), and 3.75 times in the NII category by August 12, 2026 5:07:03 PM (Day 2).",
     "total": 2.29,
-    "applications": 759839.0,
+    "applications": 760167.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -517,9 +517,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 133.0,
+      "min": 140.0,
       "max": 140.0,
-      "display": "₹133–140"
+      "display": "₹140"
     },
     "lotSize": 107,
     "issueSize": "₹1553.00 Cr",
@@ -530,10 +530,10 @@
       "listing": "2026-08-18"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 14.29,
-      "xLot": 2140.0,
-      "updatedOn": "12-Aug 18:01"
+      "value": 21.5,
+      "percent": 15.36,
+      "xLot": 2300.5,
+      "updatedOn": "12-Aug 23:29"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/milky-mist-dairy-logo.png",
@@ -543,5 +543,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-12T13:17:19+00:00"
+  "scrapedAt": "2026-08-12T19:05:17+00:00"
 }
