@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-11T13:13:40+00:00",
+  "scrapedAt": "2026-08-12T02:12:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 17:55"
+        "updatedOn": "12-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 18:01"
+        "updatedOn": "12-Aug 6:54"
       },
       "subscription": {
         "total": null,
@@ -157,10 +157,10 @@
         "listing": "2026-08-24"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "11-Aug 18:01"
+        "value": 17.0,
+        "percent": 8.46,
+        "xLot": 1258.0,
+        "updatedOn": "12-Aug 7:01"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 17:54"
+        "updatedOn": "12-Aug 7:01"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 18:02"
+        "updatedOn": "12-Aug 6:56"
       },
       "subscription": {
         "total": null,
@@ -322,10 +322,10 @@
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 20.45,
-        "xLot": 27000.0,
-        "updatedOn": "11-Aug 17:53"
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "12-Aug 7:01"
       },
       "subscription": {
         "total": null,
@@ -377,10 +377,10 @@
         "listing": "2026-08-20"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 10.58,
-        "xLot": 12000.0,
-        "updatedOn": "11-Aug 17:53"
+        "value": 35.0,
+        "percent": 18.52,
+        "xLot": 21000.0,
+        "updatedOn": "12-Aug 6:54"
       },
       "subscription": {
         "total": null,
@@ -406,226 +406,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 2015 as Credent Cold Chain Logistics Private Limited. Credent Connect N Care Limited is an integrated healthcare services and logistics provider offering technology-enabled operational, workforce and supply chain solutions to healthcare institutions across India. The company primarily operates on a B2B model, serving diagnostic laboratories, IVD companies, pharmaceutical companies, hospitals, clinics and other healthcare enterprises\n\nThe company offers a comprehensive portfo",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "shiprocket-ipo",
-      "ipoId": 2450,
-      "name": "Shiprocket",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 92.0,
-        "max": 97.0,
-        "display": "₹92–97"
-      },
-      "lotSize": 154,
-      "issueSize": "₹1617.48 Cr",
-      "issueSizeCr": 1617.48,
-      "freshIssueCr": 885.5,
-      "ofsCr": 731.98,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 27.0,
-        "percent": 27.84,
-        "xLot": 4158.0,
-        "updatedOn": "11-Aug 17:53"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shiprocket-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shiprocket-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
-        "gmp": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/"
-      },
-      "gmpId": 1790,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2011, Shiprocket is an Indian e-commerce enablement company. It provides technology-driven solutions that help micro, small and medium enterprises (MSMEs), direct-to-consumer (D2C) brands, and large retailers manage and grow their online and offline businesses. According to the Redseer Report, Shiprocket was India's largest new-age end-to-end e-commerce enablement platform by revenue in FY25.\n\nThe company initially started as a shipping platform. Its core services include domesti",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "behari-lal-engineering-ipo",
-      "ipoId": 2659,
-      "name": "Behari Lal Engineering",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 271.0,
-        "max": 285.0,
-        "display": "₹271–285"
-      },
-      "lotSize": 52,
-      "issueSize": "₹301.62 Cr",
-      "issueSizeCr": 301.62,
-      "freshIssueCr": 93.0,
-      "ofsCr": 208.62,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 54.0,
-        "percent": 18.95,
-        "xLot": 2808.0,
-        "updatedOn": "11-Aug 17:55"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Emkay Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/behari-lal-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/behari-lal-engineering-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=behari-lal-engineering-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/behari-lal-engineering-ipo/2659/",
-        "gmp": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/"
-      },
-      "gmpId": 1928,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1995, Behari Lal Engineering Ltd. is an integrated iron and steel manufacturing company specialising in customised engineering solutions. The company manufactures precision-engineered components for critical industrial applications, including metal rolls, engineering castings, alloy steel products, forging ingots and shafts.\n\nAs of March 31, 2026, the company has catered to 1825 domestic and international customers. Its customer base includes Amba Shakti Industries, BMW Industrie",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "pramodini-medicare-ipo",
-      "ipoId": 3088,
-      "name": "Pramodini Medicare",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 110.0,
-        "max": 118.0,
-        "display": "₹110–118"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹69.04 Cr",
-      "issueSizeCr": 69.04,
-      "freshIssueCr": 59.17,
-      "ofsCr": 5.9,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "11-Aug 17:56"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/pramodini-medicare-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=pramodini-medicare-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
-        "gmp": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/"
-      },
-      "gmpId": 2275,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2000, Pramodini Medicare Limited is a diagnostic service provider in India offering technology-enabled diagnostic services across radiology, clinical laboratory, and nuclear medicine segments. The company provides services to public hospitals, private hospitals, public sector undertakings (PSUs), medical colleges, and private diagnostic centres across tier I, II, and III cities.\n\nIts service portfolio includes radiology services such as MRI, CT scans, X-ray, ultrasound with colou",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "qt-foods-ipo",
-      "ipoId": 3145,
-      "name": "Q&T Foods",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 115.0,
-        "max": 115.0,
-        "display": "₹115"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹26.25 Cr",
-      "issueSizeCr": 26.25,
-      "freshIssueCr": 24.92,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 15.0,
-        "percent": 13.04,
-        "xLot": 18000.0,
-        "updatedOn": "11-Aug 18:00"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/qt-foods-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=qt-foods-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
-        "gmp": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/"
-      },
-      "gmpId": 2299,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
-      "registrar": "Skyline Financial Services Pvt.Ltd."
     }
   ]
 }

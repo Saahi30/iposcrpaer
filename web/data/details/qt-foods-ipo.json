@@ -334,7 +334,7 @@
   "overview": {
     "name": "Q&T Foods",
     "type": "sme",
-    "status": "upcoming",
+    "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
       "min": 115.0,
@@ -350,10 +350,10 @@
       "listing": "2026-08-19"
     },
     "gmp": {
-      "value": 15.0,
-      "percent": 13.04,
-      "xLot": 18000.0,
-      "updatedOn": "11-Aug 18:00"
+      "value": 21.0,
+      "percent": 18.26,
+      "xLot": 25200.0,
+      "updatedOn": "12-Aug 7:01"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
@@ -363,5 +363,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-11T13:13:39+00:00"
+  "scrapedAt": "2026-08-12T02:11:57+00:00"
 }

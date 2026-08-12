@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-11T13:13:40+00:00",
+  "scrapedAt": "2026-08-12T02:12:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,234 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
+    "open": 9,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 9
   },
   "ipos": [
+    {
+      "slug": "shiprocket-ipo",
+      "ipoId": 2450,
+      "name": "Shiprocket",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 92.0,
+        "max": 97.0,
+        "display": "₹92–97"
+      },
+      "lotSize": 154,
+      "issueSize": "₹1617.48 Cr",
+      "issueSizeCr": 1617.48,
+      "freshIssueCr": 885.5,
+      "ofsCr": 731.98,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 30.0,
+        "percent": 30.93,
+        "xLot": 4620.0,
+        "updatedOn": "12-Aug 6:59"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shiprocket-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shiprocket-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
+        "gmp": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/"
+      },
+      "gmpId": 1790,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2011, Shiprocket is an Indian e-commerce enablement company. It provides technology-driven solutions that help micro, small and medium enterprises (MSMEs), direct-to-consumer (D2C) brands, and large retailers manage and grow their online and offline businesses. According to the Redseer Report, Shiprocket was India's largest new-age end-to-end e-commerce enablement platform by revenue in FY25.\n\nThe company initially started as a shipping platform. Its core services include domesti",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "behari-lal-engineering-ipo",
+      "ipoId": 2659,
+      "name": "Behari Lal Engineering",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 271.0,
+        "max": 285.0,
+        "display": "₹271–285"
+      },
+      "lotSize": 52,
+      "issueSize": "₹301.62 Cr",
+      "issueSizeCr": 301.62,
+      "freshIssueCr": 93.0,
+      "ofsCr": 208.62,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 67.0,
+        "percent": 23.51,
+        "xLot": 3484.0,
+        "updatedOn": "12-Aug 6:58"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Emkay Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/behari-lal-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/behari-lal-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=behari-lal-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/behari-lal-engineering-ipo/2659/",
+        "gmp": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/"
+      },
+      "gmpId": 1928,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1995, Behari Lal Engineering Ltd. is an integrated iron and steel manufacturing company specialising in customised engineering solutions. The company manufactures precision-engineered components for critical industrial applications, including metal rolls, engineering castings, alloy steel products, forging ingots and shafts.\n\nAs of March 31, 2026, the company has catered to 1825 domestic and international customers. Its customer base includes Amba Shakti Industries, BMW Industrie",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "pramodini-medicare-ipo",
+      "ipoId": 3088,
+      "name": "Pramodini Medicare",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 110.0,
+        "max": 118.0,
+        "display": "₹110–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹69.04 Cr",
+      "issueSizeCr": 69.04,
+      "freshIssueCr": 59.17,
+      "ofsCr": 5.9,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "12-Aug 6:59"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pramodini-medicare-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pramodini-medicare-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
+        "gmp": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/"
+      },
+      "gmpId": 2275,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2000, Pramodini Medicare Limited is a diagnostic service provider in India offering technology-enabled diagnostic services across radiology, clinical laboratory, and nuclear medicine segments. The company provides services to public hospitals, private hospitals, public sector undertakings (PSUs), medical colleges, and private diagnostic centres across tier I, II, and III cities.\n\nIts service portfolio includes radiology services such as MRI, CT scans, X-ray, ultrasound with colou",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
+    {
+      "slug": "qt-foods-ipo",
+      "ipoId": 3145,
+      "name": "Q&T Foods",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 115.0,
+        "max": 115.0,
+        "display": "₹115"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹26.25 Cr",
+      "issueSizeCr": 26.25,
+      "freshIssueCr": 24.92,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-12",
+        "close": "2026-08-14",
+        "allotment": "2026-08-17",
+        "listing": "2026-08-19"
+      },
+      "gmp": {
+        "value": 21.0,
+        "percent": 18.26,
+        "xLot": 25200.0,
+        "updatedOn": "12-Aug 7:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/qt-foods-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=qt-foods-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
+        "gmp": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/"
+      },
+      "gmpId": 2299,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
+      "registrar": "Skyline Financial Services Pvt.Ltd."
+    },
     {
       "slug": "milky-mist-dairy-food-ipo",
       "ipoId": 2541,
@@ -47,10 +267,10 @@
         "listing": "2026-08-18"
       },
       "gmp": {
-        "value": 23.0,
-        "percent": 16.43,
-        "xLot": 2461.0,
-        "updatedOn": "11-Aug 17:55"
+        "value": 22.5,
+        "percent": 16.07,
+        "xLot": 2407.5,
+        "updatedOn": "12-Aug 6:54"
       },
       "subscription": {
         "total": 0.84,
@@ -112,7 +332,7 @@
             "Total Amt* (₹ Cr.)": "908.964"
           }
         ],
-        "applications": 286137.0
+        "applications": 286571.0
       },
       "leadManager": "JM Financial",
       "symbols": {
@@ -163,7 +383,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 17:58"
+        "updatedOn": "12-Aug 6:53"
       },
       "subscription": {
         "total": 0.05,
@@ -204,17 +424,17 @@
             "Category": "Individual Investors",
             "Subscription (x)": "0.07",
             "Shares Offered*": "24,19,200",
-            "Shares bid for": "1,61,600",
-            "Total Amt* (₹ Cr.)": "2.521",
-            "Total Applications": "101"
+            "Shares bid for": "1,63,200",
+            "Total Amt* (₹ Cr.)": "2.546",
+            "Total Applications": "102"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "0.05",
             "Shares Offered*": "40,78,400",
-            "Shares bid for": "2,11,200",
-            "Total Amt* (₹ Cr.)": "3.295",
-            "Total Applications": "104"
+            "Shares bid for": "2,12,800",
+            "Total Amt* (₹ Cr.)": "3.320",
+            "Total Applications": "105"
           }
         ],
         "applications": null
@@ -268,7 +488,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Aug 18:02"
+        "updatedOn": "12-Aug 7:02"
       },
       "subscription": {
         "total": 0.02,
@@ -346,10 +566,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 130.0,
-        "percent": 16.11,
-        "xLot": 2340.0,
-        "updatedOn": "11-Aug 17:55"
+        "value": 138.0,
+        "percent": 17.1,
+        "xLot": 2484.0,
+        "updatedOn": "12-Aug 6:59"
       },
       "subscription": {
         "total": 2.95,
@@ -411,7 +631,7 @@
             "Total Amt* (₹ Cr.)": "1,945.060"
           }
         ],
-        "applications": 634991.0
+        "applications": 635524.0
       },
       "leadManager": "Kotak Mahindra Capital",
       "symbols": {
@@ -459,10 +679,10 @@
         "listing": "2026-08-17"
       },
       "gmp": {
-        "value": 253.0,
-        "percent": 29.05,
-        "xLot": 4301.0,
-        "updatedOn": "11-Aug 17:54"
+        "value": 255.0,
+        "percent": 29.28,
+        "xLot": 4335.0,
+        "updatedOn": "12-Aug 6:53"
       },
       "subscription": {
         "total": 3.99,
@@ -524,7 +744,7 @@
             "Total Amt* (₹ Cr.)": "8,580.351"
           }
         ],
-        "applications": 1906489.0
+        "applications": 1908141.0
       },
       "leadManager": "Axis Capital",
       "symbols": {
@@ -546,346 +766,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in April 1998, Dhoot Transmission Limited is one of India's leading electrical and electronics (E&E) companies engaged in the design, engineering, manufacturing, and supply of wiring harnesses and electrical distribution systems for automotive and non-automotive applications. The company offers a diversified product portfolio comprising wiring harnesses, battery packs, sensors and electronic controllers, automotive switches, terminals, connectors, and power supply cords, catering to",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "technocraft-ventures-ipo",
-      "ipoId": 2565,
-      "name": "Technocraft Ventures",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 200.0,
-        "max": 212.0,
-        "display": "₹200–212"
-      },
-      "lotSize": 70,
-      "issueSize": "₹251.88 Cr",
-      "issueSizeCr": 251.88,
-      "freshIssueCr": 201.51,
-      "ofsCr": 50.37,
-      "dates": {
-        "open": "2026-08-07",
-        "close": "2026-08-11",
-        "allotment": "2026-08-12",
-        "listing": "2026-08-14"
-      },
-      "gmp": {
-        "value": 27.0,
-        "percent": 12.74,
-        "xLot": 1890.0,
-        "updatedOn": "11-Aug 18:01"
-      },
-      "subscription": {
-        "total": 38.69,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "35,63,810",
-            "Shares bid for": "35,63,810",
-            "Total Amt* (₹ Cr.)": "75.55"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "42.26",
-            "Shares Offered*": "23,76,690",
-            "Shares bid for": "10,04,39,010",
-            "Total Amt* (₹ Cr.)": "2,129.31"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "65.06",
-            "Shares Offered*": "17,82,150",
-            "Shares bid for": "11,59,44,080",
-            "Total Amt* (₹ Cr.)": "2,458.01"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "63.97",
-            "Shares Offered*": "11,88,100",
-            "Shares bid for": "7,60,00,680",
-            "Total Amt* (₹ Cr.)": "1,611.21"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "67.24",
-            "Shares Offered*": "5,94,050",
-            "Shares bid for": "3,99,43,400",
-            "Total Amt* (₹ Cr.)": "846.80"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "25.35",
-            "Shares Offered*": "41,58,350",
-            "Shares bid for": "10,53,97,950",
-            "Total Amt* (₹ Cr.)": "2,234.44"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "38.69",
-            "Shares Offered*": "83,17,190",
-            "Shares bid for": "32,17,81,040",
-            "Total Amt* (₹ Cr.)": "6,821.76"
-          }
-        ],
-        "applications": 1347999.0
-      },
-      "leadManager": "Khambatta Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/technocraft-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/technocraft-ventures-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=technocraft-ventures-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/technocraft-ventures-ipo/2565/",
-        "gmp": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/"
-      },
-      "gmpId": 1854,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in October 1998, Technocraft Ventures Ltd., is a public infrastructure development company that undertakes turnkey Engineering, Procurement, and Construction (EPC) projects. The company works across multiple infrastructure sectors, delivering projects mainly for state governments and government agencies in northern India, including Uttar Pradesh, Uttarakhand, Rajasthan, and the National Capital Territory of Delhi.\n\nWater & Wastewater Infrastructure – Designing and building water sup",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "leap-india-ipo",
-      "ipoId": 2583,
-      "name": "LEAP India",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 151.0,
-        "max": 159.0,
-        "display": "₹151–159"
-      },
-      "lotSize": 94,
-      "issueSize": "₹2480.00 Cr",
-      "issueSizeCr": 2480.0,
-      "freshIssueCr": 480.0,
-      "ofsCr": 2000.0,
-      "dates": {
-        "open": "2026-08-07",
-        "close": "2026-08-11",
-        "allotment": "2026-08-12",
-        "listing": "2026-08-14"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 6.29,
-        "xLot": 940.0,
-        "updatedOn": "11-Aug 18:01"
-      },
-      "subscription": {
-        "total": 8.82,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "4,67,68,854",
-            "Shares bid for": "4,67,68,854",
-            "Total Amt* (₹ Cr.)": "743.625"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "17.73",
-            "Shares Offered*": "3,11,79,259",
-            "Shares bid for": "55,28,45,866",
-            "Total Amt* (₹ Cr.)": "8,790.249"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "13.31",
-            "Shares Offered*": "2,33,84,434",
-            "Shares bid for": "31,11,83,804",
-            "Total Amt* (₹ Cr.)": "4,947.822"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "14.49",
-            "Shares Offered*": "1,55,89,623",
-            "Shares bid for": "22,59,71,018",
-            "Total Amt* (₹ Cr.)": "3,592.939"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "10.93",
-            "Shares Offered*": "77,94,811",
-            "Shares bid for": "8,52,12,786",
-            "Total Amt* (₹ Cr.)": "1,354.883"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "1.81",
-            "Shares Offered*": "5,45,63,679",
-            "Shares bid for": "9,84,89,440",
-            "Total Amt* (₹ Cr.)": "1,565.982"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "11.57",
-            "Shares Offered*": "78,616",
-            "Shares bid for": "9,09,356",
-            "Total Amt* (₹ Cr.)": "14.459"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "8.82",
-            "Shares Offered*": "10,92,05,988",
-            "Shares bid for": "96,34,28,466",
-            "Total Amt* (₹ Cr.)": "15,318.513"
-          }
-        ],
-        "applications": 987534.0
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/leap-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/leap-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=leap-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/leap-india-ipo/2583/",
-        "gmp": "https://www.investorgain.com/gmp/leap-india-ipo/1868/"
-      },
-      "gmpId": 1868,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2013, LEAP India Ltd specializes in sustainable supply chain and asset-pooling solutions. It offers services including equipment pooling, returnable packaging, inventory management, transportation, and repair & maintenance across industries like e-commerce, FMCG, automotive, and consumer durables. Global investment firm KKR acquired a majority stake in LEAP India in 2023 , aligning with its Asia infrastructure strategy\n\nThe company serve a diverse customer base spanning sectors s",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "optimystix-entertainment-ipo",
-      "ipoId": 2755,
-      "name": "Optimystix Entertainment",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 166.0,
-        "max": 175.0,
-        "display": "₹166–175"
-      },
-      "lotSize": 800,
-      "issueSize": "₹108.50 Cr",
-      "issueSizeCr": 108.5,
-      "freshIssueCr": 76.65,
-      "ofsCr": 21.0,
-      "dates": {
-        "open": "2026-08-07",
-        "close": "2026-08-11",
-        "allotment": "2026-08-12",
-        "listing": "2026-08-14"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "11-Aug 17:56"
-      },
-      "subscription": {
-        "total": 2.05,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "16,70,400",
-            "Shares bid for": "16,70,400",
-            "Total Amt* (₹ Cr.)": "29.232",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "6,20,000",
-            "Shares bid for": "6,20,000",
-            "Total Amt* (₹ Cr.)": "10.850",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.84",
-            "Shares Offered*": "11,16,000",
-            "Shares bid for": "20,56,000",
-            "Total Amt* (₹ Cr.)": "35.980",
-            "Total Applications": "12"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.85",
-            "Shares Offered*": "8,40,000",
-            "Shares bid for": "15,52,000",
-            "Total Amt* (₹ Cr.)": "27.160",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.63",
-            "Shares Offered*": "5,59,200",
-            "Shares bid for": "9,13,600",
-            "Total Amt* (₹ Cr.)": "15.988",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "2.27",
-            "Shares Offered*": "2,80,800",
-            "Shares bid for": "6,38,400",
-            "Total Amt* (₹ Cr.)": "11.172",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.26",
-            "Shares Offered*": "19,53,600",
-            "Shares bid for": "44,22,400",
-            "Total Amt* (₹ Cr.)": "77.392",
-            "Total Applications": "2,764"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.05",
-            "Shares Offered*": "39,09,600",
-            "Shares bid for": "80,30,400",
-            "Total Amt* (₹ Cr.)": "140.532",
-            "Total Applications": "3,167"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "LSI Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/optimystix-entertainment-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/optimystix-entertainment-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=optimystix-entertainment-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/optimystix-entertainment-ipo/2755/",
-        "gmp": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/"
-      },
-      "gmpId": 2012,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2000, Optimystix Entertainment India Limited is engaged in the business of content creation and production for television, films, and digital platforms. The company has produced over 150 television shows, delivering more than 7,500 hours of original programming across major national broadcasters.\n\nIt operates across both fiction and non-fiction formats, with popular shows such as Laughter Chefs, Baalveer, Rising Star, Saas Bina Sasural, and Ladies Special. The company’s franchise",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }
