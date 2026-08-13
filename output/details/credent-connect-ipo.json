@@ -345,7 +345,7 @@
     "source": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/"
   },
   "subscription": {
-    "summary": "Credent Connect IPO subscribed 2.18 times. The public issue subscribed 3.11 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.59 times in the NII category by August 13, 2026 6:45:02 PM (Day 1).",
+    "summary": "Credent Connect IPO subscribed 2.18 times. The public issue subscribed 3.11 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.59 times in the NII category by August 13, 2026 6:54:04 PM (Day 1).",
     "total": 2.18,
     "applications": null,
     "byCategory": [
@@ -371,7 +371,7 @@
         "Shares Offered*": "7,08,000",
         "Shares bid for": "11,25,000",
         "Total Amt* (₹ Cr.)": "21.263",
-        "Total Applications": "268"
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -393,17 +393,17 @@
         "Category": "Individual Investors",
         "Subscription (x)": "3.11",
         "Shares Offered*": "16,56,000",
-        "Shares bid for": "51,49,200",
-        "Total Amt* (₹ Cr.)": "97.320",
-        "Total Applications": "4,291"
+        "Shares bid for": "51,51,600",
+        "Total Amt* (₹ Cr.)": "97.365",
+        "Total Applications": "4,293"
       },
       {
         "Category": "Total **",
         "Subscription (x)": "2.18",
         "Shares Offered*": "33,12,000",
-        "Shares bid for": "72,22,200",
-        "Total Amt* (₹ Cr.)": "136.500",
-        "Total Applications": "4,560"
+        "Shares bid for": "72,24,600",
+        "Total Amt* (₹ Cr.)": "136.545",
+        "Total Applications": "4,562"
       }
     ],
     "dayWise": [
@@ -424,9 +424,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 179.0,
+      "min": 189.0,
       "max": 189.0,
-      "display": "₹179–189"
+      "display": "₹189"
     },
     "lotSize": 600,
     "issueSize": "₹93.90 Cr",
@@ -440,7 +440,7 @@
       "value": 75.0,
       "percent": 39.68,
       "xLot": 45000.0,
-      "updatedOn": "13-Aug 18:37"
+      "updatedOn": "13-Aug 23:32"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
@@ -450,5 +450,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-13T13:19:15+00:00"
+  "scrapedAt": "2026-08-13T19:06:22+00:00"
 }

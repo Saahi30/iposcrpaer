@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-13T13:19:46+00:00",
+  "scrapedAt": "2026-08-13T19:06:50+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -51,7 +51,7 @@
         "value": 75.0,
         "percent": 39.68,
         "xLot": 45000.0,
-        "updatedOn": "13-Aug 18:37"
+        "updatedOn": "13-Aug 23:32"
       },
       "subscription": {
         "total": 2.18,
@@ -78,7 +78,7 @@
             "Shares Offered*": "7,08,000",
             "Shares bid for": "11,25,000",
             "Total Amt* (₹ Cr.)": "21.263",
-            "Total Applications": "268"
+            "Total Applications": "0"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -100,17 +100,17 @@
             "Category": "Individual Investors",
             "Subscription (x)": "3.11",
             "Shares Offered*": "16,56,000",
-            "Shares bid for": "51,49,200",
-            "Total Amt* (₹ Cr.)": "97.320",
-            "Total Applications": "4,291"
+            "Shares bid for": "51,51,600",
+            "Total Amt* (₹ Cr.)": "97.365",
+            "Total Applications": "4,293"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "2.18",
             "Shares Offered*": "33,12,000",
-            "Shares bid for": "72,22,200",
-            "Total Amt* (₹ Cr.)": "136.500",
-            "Total Applications": "4,560"
+            "Shares bid for": "72,24,600",
+            "Total Amt* (₹ Cr.)": "136.545",
+            "Total Applications": "4,562"
           }
         ],
         "applications": null
@@ -161,10 +161,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 34.0,
-        "percent": 35.05,
-        "xLot": 5236.0,
-        "updatedOn": "13-Aug 18:30"
+        "value": 36.5,
+        "percent": 37.63,
+        "xLot": 5621.0,
+        "updatedOn": "13-Aug 23:32"
       },
       "subscription": {
         "total": 3.26,
@@ -226,7 +226,7 @@
             "Total Amt* (₹ Cr.)": "2,899.164"
           }
         ],
-        "applications": 904972.0
+        "applications": 905634.0
       },
       "leadManager": "Axis Capital",
       "symbols": {
@@ -274,10 +274,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 78.0,
-        "percent": 27.37,
-        "xLot": 4056.0,
-        "updatedOn": "13-Aug 18:33"
+        "value": 80.0,
+        "percent": 28.07,
+        "xLot": 4160.0,
+        "updatedOn": "13-Aug 23:29"
       },
       "subscription": {
         "total": 8.47,
@@ -332,7 +332,7 @@
             "Total Amt* (₹ Cr.)": "1,644.20"
           }
         ],
-        "applications": 559012.0
+        "applications": 559264.0
       },
       "leadManager": "Emkay Global",
       "symbols": {
@@ -383,7 +383,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 18:37"
+        "updatedOn": "13-Aug 23:31"
       },
       "subscription": {
         "total": 0.91,
@@ -501,10 +501,10 @@
         "listing": "2026-08-19"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 4.35,
-        "xLot": 6000.0,
-        "updatedOn": "13-Aug 18:28"
+        "value": 3.0,
+        "percent": 2.61,
+        "xLot": 3600.0,
+        "updatedOn": "13-Aug 23:31"
       },
       "subscription": {
         "total": 0.94,
@@ -579,13 +579,13 @@
         "open": "2026-08-11",
         "close": "2026-08-19",
         "allotment": null,
-        "listing": "2026-08-18"
+        "listing": null
       },
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 18:32"
+        "updatedOn": "13-Aug 23:29"
       },
       "subscription": {
         "total": 0.41,
@@ -698,7 +698,7 @@
         "value": 26.0,
         "percent": 18.57,
         "xLot": 2782.0,
-        "updatedOn": "13-Aug 18:29"
+        "updatedOn": "13-Aug 23:34"
       },
       "subscription": {
         "total": 59.08,
@@ -721,8 +721,8 @@
             "Category": "NII",
             "Subscription (x)": "36.75",
             "Shares Offered*": "1,66,17,857",
-            "Shares bid for": "61,07,41,769",
-            "Total Amt* (₹ Cr.)": "8,550.38"
+            "Shares bid for": "61,07,43,267",
+            "Total Amt* (₹ Cr.)": "8,550.41"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -735,15 +735,15 @@
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "32.08",
             "Shares Offered*": "55,39,286",
-            "Shares bid for": "17,77,13,732",
-            "Total Amt* (₹ Cr.)": "2,487.99"
+            "Shares bid for": "17,77,15,230",
+            "Total Amt* (₹ Cr.)": "2,488.01"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "8.86",
             "Shares Offered*": "3,87,75,000",
-            "Shares bid for": "34,34,68,074",
-            "Total Amt* (₹ Cr.)": "4,808.55"
+            "Shares bid for": "34,34,70,321",
+            "Total Amt* (₹ Cr.)": "4,808.58"
           },
           {
             "Category": "Employees",
@@ -756,8 +756,8 @@
             "Category": "Total **",
             "Subscription (x)": "59.08",
             "Shares Offered*": "7,77,07,481",
-            "Shares bid for": "4,59,07,98,727",
-            "Total Amt* (₹ Cr.)": "64,271.18"
+            "Shares bid for": "4,59,08,02,472",
+            "Total Amt* (₹ Cr.)": "64,271.23"
           }
         ],
         "applications": 2860413.0
@@ -811,7 +811,7 @@
         "value": 4.0,
         "percent": 3.08,
         "xLot": 4000.0,
-        "updatedOn": "13-Aug 18:30"
+        "updatedOn": "13-Aug 23:34"
       },
       "subscription": {
         "total": 2.4,
@@ -900,7 +900,7 @@
         "value": 19.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "13-Aug 18:33"
+        "updatedOn": "13-Aug 23:29"
       },
       "subscription": {
         "total": null,
@@ -955,7 +955,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 18:29"
+        "updatedOn": "13-Aug 23:30"
       },
       "subscription": {
         "total": null,
@@ -1007,10 +1007,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 6.94,
-        "xLot": 1025.0,
-        "updatedOn": "13-Aug 18:33"
+        "value": 30.0,
+        "percent": 8.33,
+        "xLot": 1230.0,
+        "updatedOn": "13-Aug 23:33"
       },
       "subscription": {
         "total": null,
@@ -1062,10 +1062,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 3.0,
-        "percent": 3.23,
-        "xLot": 480.0,
-        "updatedOn": "13-Aug 18:28"
+        "value": 8.0,
+        "percent": 8.6,
+        "xLot": 1280.0,
+        "updatedOn": "13-Aug 23:35"
       },
       "subscription": {
         "total": null,
@@ -1120,7 +1120,7 @@
         "value": 38.0,
         "percent": 18.91,
         "xLot": 2812.0,
-        "updatedOn": "13-Aug 18:30"
+        "updatedOn": "13-Aug 23:32"
       },
       "subscription": {
         "total": null,
@@ -1175,7 +1175,7 @@
         "value": 4.5,
         "percent": 7.5,
         "xLot": 1125.0,
-        "updatedOn": "13-Aug 18:34"
+        "updatedOn": "13-Aug 23:30"
       },
       "subscription": {
         "total": null,
@@ -1227,10 +1227,10 @@
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "13-Aug 18:29"
+        "value": 13.0,
+        "percent": 16.88,
+        "xLot": 20800.0,
+        "updatedOn": "13-Aug 23:33"
       },
       "subscription": {
         "total": null,
@@ -1285,7 +1285,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 18:28"
+        "updatedOn": "13-Aug 23:33"
       },
       "subscription": {
         "total": null,
@@ -1337,10 +1337,10 @@
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 20.45,
-        "xLot": 27000.0,
-        "updatedOn": "13-Aug 18:30"
+        "value": 22.0,
+        "percent": 16.67,
+        "xLot": 22000.0,
+        "updatedOn": "13-Aug 23:35"
       },
       "subscription": {
         "total": null,
