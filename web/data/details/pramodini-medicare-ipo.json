@@ -381,8 +381,8 @@
     "source": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/"
   },
   "subscription": {
-    "summary": "Pramodini Medicare IPO subscribed 0.86 times. The public issue subscribed 0.57 times in the individual investors category, 1.81 times in QIB (Ex Anchor), and 0.30 times in the NII category by August 13, 2026 1:04:59 PM (Day 2).",
-    "total": 0.86,
+    "summary": "Pramodini Medicare IPO subscribed 0.91 times. The public issue subscribed 0.72 times in the individual investors category, 1.81 times in QIB (Ex Anchor), and 0.21 times in the NII category by August 13, 2026 6:44:59 PM (Day 2).",
+    "total": 0.91,
     "applications": null,
     "byCategory": [
       {
@@ -394,52 +394,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "3,36,000",
+        "Shares bid for": "3,36,000",
+        "Total Amt* (₹ Cr.)": "3.965",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "1.81",
         "Shares Offered*": "11,71,200",
-        "Shares bid for": "21,18,000",
-        "Total Amt* (₹ Cr.)": "24.992",
-        "Total Applications": "4"
+        "Shares bid for": "21,21,600",
+        "Total Amt* (₹ Cr.)": "25.035",
+        "Total Applications": "5"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.30",
+        "Subscription (x)": "0.21",
         "Shares Offered*": "9,60,000",
-        "Shares bid for": "2,89,200",
-        "Total Amt* (₹ Cr.)": "3.413",
+        "Shares bid for": "1,99,200",
+        "Total Amt* (₹ Cr.)": "2.351",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.28",
+        "Subscription (x)": "0.11",
         "Shares Offered*": "6,39,600",
-        "Shares bid for": "1,77,600",
-        "Total Amt* (₹ Cr.)": "2.096",
+        "Shares bid for": "67,200",
+        "Total Amt* (₹ Cr.)": "0.793",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "0.41",
         "Shares Offered*": "3,20,400",
-        "Shares bid for": "1,11,600",
-        "Total Amt* (₹ Cr.)": "1.317",
+        "Shares bid for": "1,32,000",
+        "Total Amt* (₹ Cr.)": "1.558",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.57",
+        "Subscription (x)": "0.72",
         "Shares Offered*": "20,23,200",
-        "Shares bid for": "11,59,200",
-        "Total Amt* (₹ Cr.)": "13.679",
-        "Total Applications": "483"
+        "Shares bid for": "14,49,600",
+        "Total Amt* (₹ Cr.)": "17.105",
+        "Total Applications": "604"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.86",
+        "Subscription (x)": "0.91",
         "Shares Offered*": "41,54,400",
-        "Shares bid for": "35,66,400",
-        "Total Amt* (₹ Cr.)": "42.084",
-        "Total Applications": "515"
+        "Shares bid for": "37,70,400",
+        "Total Amt* (₹ Cr.)": "44.491",
+        "Total Applications": "649"
       }
     ],
     "dayWise": [
@@ -455,11 +463,11 @@
       {
         "Date": "Aug 13 (Day 2)",
         "QIB (Ex Anchor)": "1.81",
-        "NII*": "0.30",
-        "NII (> ₹10L)": "0.28",
-        "NII (< ₹10L)": "0.35",
-        "Individual Investors": "0.57",
-        "Total": "0.86"
+        "NII*": "0.21",
+        "NII (> ₹10L)": "0.11",
+        "NII (< ₹10L)": "0.41",
+        "Individual Investors": "0.72",
+        "Total": "0.91"
       }
     ]
   },
@@ -485,7 +493,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "13-Aug 12:32"
+      "updatedOn": "13-Aug 18:37"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
@@ -495,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-13T07:39:44+00:00"
+  "scrapedAt": "2026-08-13T13:19:22+00:00"
 }

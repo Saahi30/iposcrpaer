@@ -405,9 +405,9 @@
     "source": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/"
   },
   "subscription": {
-    "summary": "Shiprocket IPO subscribed 2.14 times. The public issue subscribed 7.16 times in the retail category, 0.03 times in QIB (Ex Anchor), and 2.98 times in the NII category by August 13, 2026 1:04:35 PM (Day 2).",
-    "total": 2.14,
-    "applications": 618531.0,
+    "summary": "Shiprocket IPO subscribed 3.26 times. The public issue subscribed 10.19 times in the retail category, 0.03 times in QIB (Ex Anchor), and 5.04 times in the NII category by August 13, 2026 5:06:35 PM (Day 2).",
+    "total": 3.26,
+    "applications": 904972.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -420,50 +420,50 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.03",
         "Shares Offered*": "4,99,94,385",
-        "Shares bid for": "12,61,260",
-        "Total Amt* (₹ Cr.)": "12.234"
+        "Shares bid for": "14,81,326",
+        "Total Amt* (₹ Cr.)": "14.369"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.98",
+        "Subscription (x)": "5.04",
         "Shares Offered*": "2,49,97,191",
-        "Shares bid for": "7,43,80,922",
-        "Total Amt* (₹ Cr.)": "721.495"
+        "Shares bid for": "12,59,48,592",
+        "Total Amt* (₹ Cr.)": "1,221.701"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.98",
+        "Subscription (x)": "3.59",
         "Shares Offered*": "1,66,64,794",
-        "Shares bid for": "3,29,45,990",
-        "Total Amt* (₹ Cr.)": "319.576"
+        "Shares bid for": "5,98,22,378",
+        "Total Amt* (₹ Cr.)": "580.277"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "4.97",
+        "Subscription (x)": "7.94",
         "Shares Offered*": "83,32,397",
-        "Shares bid for": "4,14,34,932",
-        "Total Amt* (₹ Cr.)": "401.919"
+        "Shares bid for": "6,61,26,214",
+        "Total Amt* (₹ Cr.)": "641.424"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "7.16",
+        "Subscription (x)": "10.19",
         "Shares Offered*": "1,66,64,794",
-        "Shares bid for": "11,93,28,286",
-        "Total Amt* (₹ Cr.)": "1,157.484"
+        "Shares bid for": "16,98,50,604",
+        "Total Amt* (₹ Cr.)": "1,647.551"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "10.59",
+        "Subscription (x)": "14.10",
         "Shares Offered*": "1,13,636",
-        "Shares bid for": "12,03,818",
-        "Total Amt* (₹ Cr.)": "11.677"
+        "Shares bid for": "16,02,370",
+        "Total Amt* (₹ Cr.)": "15.543"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "2.14",
+        "Subscription (x)": "3.26",
         "Shares Offered*": "9,17,70,006",
-        "Shares bid for": "19,61,74,286",
-        "Total Amt* (₹ Cr.)": "1,902.891"
+        "Shares bid for": "29,88,82,892",
+        "Total Amt* (₹ Cr.)": "2,899.164"
       }
     ],
     "dayWise": [
@@ -480,12 +480,12 @@
       {
         "Date": "Aug 13 (Day 2)",
         "QIB (Ex Anchor)": "0.03",
-        "NII": "2.98",
-        "NII (> ₹10L)": "1.98",
-        "NII (< ₹10L)": "4.97",
-        "Retail": "7.16",
-        "EMP": "10.59",
-        "Total": "2.14"
+        "NII": "5.04",
+        "NII (> ₹10L)": "3.59",
+        "NII (< ₹10L)": "7.94",
+        "Retail": "10.19",
+        "EMP": "14.10",
+        "Total": "3.26"
       }
     ]
   },
@@ -511,7 +511,7 @@
       "value": 34.0,
       "percent": 35.05,
       "xLot": 5236.0,
-      "updatedOn": "13-Aug 12:31"
+      "updatedOn": "13-Aug 18:30"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
@@ -521,5 +521,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-13T07:39:41+00:00"
+  "scrapedAt": "2026-08-13T13:19:17+00:00"
 }

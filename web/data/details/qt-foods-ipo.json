@@ -325,33 +325,33 @@
     "source": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/"
   },
   "subscription": {
-    "summary": "Q&T Foods IPO subscribed 0.82 times. The public issue subscribed 1.56 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.08 times in the NII category by August 13, 2026 1:04:12 PM (Day 2).",
-    "total": 0.82,
+    "summary": "Q&T Foods IPO subscribed 0.94 times. The public issue subscribed 1.79 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.09 times in the NII category by August 13, 2026 5:07:09 PM (Day 2).",
+    "total": 0.94,
     "applications": null,
     "byCategory": [
       {
         "Category": "NII***",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.09",
         "Shares Offered*": "10,83,600",
-        "Shares bid for": "90,000",
-        "Total Amt* (₹ Cr.)": "1.04",
+        "Shares bid for": "1,00,800",
+        "Total Amt* (₹ Cr.)": "1.16",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.56",
+        "Subscription (x)": "1.79",
         "Shares Offered*": "10,83,600",
-        "Shares bid for": "16,87,200",
-        "Total Amt* (₹ Cr.)": "19.40",
+        "Shares bid for": "19,44,000",
+        "Total Amt* (₹ Cr.)": "22.36",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.82",
+        "Subscription (x)": "0.94",
         "Shares Offered*": "21,67,200",
-        "Shares bid for": "17,77,200",
-        "Total Amt* (₹ Cr.)": "20.44",
-        "Total Applications": "736"
+        "Shares bid for": "20,44,800",
+        "Total Amt* (₹ Cr.)": "23.52",
+        "Total Applications": "846"
       }
     ],
     "dayWise": [
@@ -363,9 +363,9 @@
       },
       {
         "Date": "Aug 13 (Day 2)",
-        "NII*": "0.08",
-        "Individual Investors": "1.56",
-        "Total": "0.82"
+        "NII*": "0.09",
+        "Individual Investors": "1.79",
+        "Total": "0.94"
       }
     ]
   },
@@ -388,10 +388,10 @@
       "listing": "2026-08-19"
     },
     "gmp": {
-      "value": 6.0,
-      "percent": 5.22,
-      "xLot": 7200.0,
-      "updatedOn": "13-Aug 12:37"
+      "value": 5.0,
+      "percent": 4.35,
+      "xLot": 6000.0,
+      "updatedOn": "13-Aug 18:28"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
@@ -401,5 +401,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-13T07:39:46+00:00"
+  "scrapedAt": "2026-08-13T13:19:23+00:00"
 }

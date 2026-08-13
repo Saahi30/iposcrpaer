@@ -307,8 +307,8 @@
     "source": "https://www.chittorgarh.com/ipo/sham-foam-ipo/2869/"
   },
   "subscription": {
-    "summary": "Sham Foam IPO subscribed 0.97 times. The public issue subscribed 1.05 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.89 times in the NII category by August 13, 2026 1:04:04 PM (Day 3).",
-    "total": 0.97,
+    "summary": "Sham Foam IPO subscribed 2.40 times. The public issue subscribed 2.62 times in the individual investors category, [.] times in QIB (Ex Anchor), and 2.17 times in the NII category by August 13, 2026 6:44:03 PM (Day 3).",
+    "total": 2.4,
     "applications": null,
     "byCategory": [
       {
@@ -321,27 +321,27 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.89",
+        "Subscription (x)": "2.17",
         "Shares Offered*": "14,79,000",
-        "Shares bid for": "13,09,000",
-        "Total Amt* (₹ Cr.)": "17.02",
+        "Shares bid for": "32,10,000",
+        "Total Amt* (₹ Cr.)": "41.73",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.05",
+        "Subscription (x)": "2.62",
         "Shares Offered*": "14,79,000",
-        "Shares bid for": "15,48,000",
-        "Total Amt* (₹ Cr.)": "20.12",
+        "Shares bid for": "38,74,000",
+        "Total Amt* (₹ Cr.)": "50.36",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.97",
+        "Subscription (x)": "2.40",
         "Shares Offered*": "29,58,000",
-        "Shares bid for": "28,57,000",
-        "Total Amt* (₹ Cr.)": "37.14",
-        "Total Applications": "1,148"
+        "Shares bid for": "70,91,000",
+        "Total Amt* (₹ Cr.)": "92.18",
+        "Total Applications": "2,893"
       }
     ],
     "dayWise": [
@@ -359,9 +359,9 @@
       },
       {
         "Date": "Aug 13 (Day 3)",
-        "NII*": "0.89",
-        "Individual Investors": "1.05",
-        "Total": "0.97"
+        "NII*": "2.17",
+        "Individual Investors": "2.62",
+        "Total": "2.40"
       }
     ]
   },
@@ -384,10 +384,10 @@
       "listing": "2026-08-18"
     },
     "gmp": {
-      "value": 12.0,
-      "percent": 9.23,
-      "xLot": 12000.0,
-      "updatedOn": "13-Aug 12:36"
+      "value": 4.0,
+      "percent": 3.08,
+      "xLot": 4000.0,
+      "updatedOn": "13-Aug 18:30"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/sham-foam-logo.png",
@@ -397,5 +397,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-13T07:39:51+00:00"
+  "scrapedAt": "2026-08-13T13:19:29+00:00"
 }
