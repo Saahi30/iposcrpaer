@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-13T02:16:30+00:00",
+  "scrapedAt": "2026-08-13T07:40:06+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,123 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 9
   },
   "ipos": [
+    {
+      "slug": "skyways-air-ipo",
+      "ipoId": 2510,
+      "name": "Skyways Air",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "listing": "2026-09-01"
+      },
+      "gmp": {
+        "value": 19.0,
+        "percent": 0.0,
+        "xLot": null,
+        "updatedOn": "13-Aug 12:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Holani Consultants",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/skyways-air-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=skyways-air-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/",
+        "gmp": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/"
+      },
+      "gmpId": 1820,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in December 1984, Skyways Air Services Limited (SASL) is a well-established logistics and freight forwarding company with over four decades of experience in India’s air freight forwarding and logistics sector. The Company provides a comprehensive range of logistics solutions, including air and ocean freight forwarding, trucking, warehousing, customs broking, technology-driven express cargo and parcel delivery, and other value-added services. It has evolved from a Custom House Agent ",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "gaja-alternative-asset-management-ipo",
+      "ipoId": 2527,
+      "name": "Gaja Alternative Asset Management",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 152.0,
+        "max": 160.0,
+        "display": "₹152–160"
+      },
+      "lotSize": 93,
+      "issueSize": "₹550.00 Cr",
+      "issueSizeCr": 550.0,
+      "freshIssueCr": 450.0,
+      "ofsCr": 100.0,
+      "dates": {
+        "open": "2026-08-19",
+        "close": "2026-08-21",
+        "allotment": "2026-08-24",
+        "listing": "2026-08-26"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "13-Aug 12:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/gaja-alternative-asset-management-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=gaja-alternative-asset-management-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
+        "gmp": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/"
+      },
+      "gmpId": 1828,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Gaja Alternative Asset Management has built a strong track record through multiple fund cycles, with the Gaja Capital Funds comprising Fund II, Fund III and Fund IV, supported by long-standing relationships with investors across more than 20 countries. The Company had committed approximately ₹274 crore as Sponsor Commitment, representing 6.41% of the total size of the Gaja Capital Funds as of March 31, 2026.\n\nThe Company generates income through management fees, carried interest and gains from s",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "sunshine-pictures-ipo",
       "ipoId": 2002,
@@ -47,10 +157,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 17.0,
-        "percent": 4.72,
-        "xLot": 697.0,
-        "updatedOn": "13-Aug 6:57"
+        "value": 21.0,
+        "percent": 5.83,
+        "xLot": 861.0,
+        "updatedOn": "13-Aug 12:28"
       },
       "subscription": {
         "total": null,
@@ -105,7 +215,7 @@
         "value": 7.0,
         "percent": 7.53,
         "xLot": 1120.0,
-        "updatedOn": "13-Aug 6:59"
+        "updatedOn": "13-Aug 12:35"
       },
       "subscription": {
         "total": null,
@@ -157,10 +267,10 @@
         "listing": "2026-08-24"
       },
       "gmp": {
-        "value": 41.0,
-        "percent": 20.4,
-        "xLot": 3034.0,
-        "updatedOn": "13-Aug 6:56"
+        "value": 25.0,
+        "percent": 12.44,
+        "xLot": 1850.0,
+        "updatedOn": "13-Aug 12:36"
       },
       "subscription": {
         "total": null,
@@ -215,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 6:59"
+        "updatedOn": "13-Aug 12:28"
       },
       "subscription": {
         "total": null,
@@ -270,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 6:58"
+        "updatedOn": "13-Aug 12:29"
       },
       "subscription": {
         "total": null,
@@ -325,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Aug 6:53"
+        "updatedOn": "13-Aug 12:33"
       },
       "subscription": {
         "total": null,
@@ -349,7 +459,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in January 2016, ENS Enterprises Limited provides end-to-end digital commerce enablement and software solutions.\n\nThe company has established a strong presence in domestic and international markets, supporting clients in 12+ countries with over 140 professionals.\n\nIt offers a broad service portfolio, successfully delivering IT projects and establishing itself as a trusted technology partner for corporations, SMEs, and government initiatives.\n\nThe majority of the company's revenues a",
+      "about": "Incorporated in January 2016, ENS Enterprises Limited is an ISO 27001:2022 and ISO 9001:2015 certified technology company engaged in providing end-to-end digital commerce enablement and software solutions. Headquartered in Uttar Pradesh, India, the Company serves clients across 12+ countries and operates at the intersection of e-commerce, digital engineering and cloud technologies.\n\nThe Company offers a diversified portfolio of technology services, including e-commerce platforms, ONDC integratio",
       "registrar": "Abhipra Capital Limited"
     },
     {
@@ -377,10 +487,10 @@
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 13.64,
-        "xLot": 18000.0,
-        "updatedOn": "13-Aug 7:01"
+        "value": 22.0,
+        "percent": 16.67,
+        "xLot": 22000.0,
+        "updatedOn": "13-Aug 12:33"
       },
       "subscription": {
         "total": null,
@@ -404,7 +514,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Technocrats Plasma Systems Ltd. is an engineering-focused company engaged in providing plasma-based surface treatment and coating solutions for industrial applications.\n\nThe company designs, develops, and installs plasma systems used for surface cleaning, activation, coating, and modification across diverse manufacturing sectors.\n\nIts services include system customization, installation, commissioning, maintenance support, and technical consulting, helping clients improve product performance, dur",
+      "about": "Incorporated in 1994, Technocrats Plasma Systems Ltd. is an engineering-focused company engaged in providing plasma-based surface treatment and coating solutions for industrial applications. The company designs, develops, and installs plasma systems used for surface cleaning, activation, coating, and modification across diverse manufacturing sectors. Its services include system customization, installation, commissioning, maintenance support, and technical consulting, helping clients improve prod",
       "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]

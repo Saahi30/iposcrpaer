@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-13T02:17:01+00:00",
+  "scrapedAt": "2026-08-13T07:40:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 169,
-    "mainboard": 51,
+    "total": 171,
+    "mainboard": 53,
     "sme": 118
   },
   "ipos": [
@@ -4067,6 +4067,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2527,
+      "name": "Gaja Alternative Asset Management Ltd.",
+      "slug": "gaja-alternative-asset-management-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-19",
+        "close": "2026-08-21",
+        "allotment": "2026-08-24",
+        "refunds": "2026-08-25",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "19-Aug-2026",
+        "close": "21-Aug-2026",
+        "allotment": "24-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2510,
+      "name": "Skyways Air Services Ltd.",
+      "slug": "skyways-air-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "refunds": "2026-08-31",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Aug-2026",
+        "close": "27-Aug-2026",
+        "allotment": "28-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
