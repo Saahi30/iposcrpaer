@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-12T19:05:38+00:00",
+  "scrapedAt": "2026-08-13T02:16:30+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,69 @@
     "limit": null
   },
   "summary": {
-    "open": 9,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "credent-connect-ipo",
+      "ipoId": 2991,
+      "name": "Credent Connect",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 179.0,
+        "max": 189.0,
+        "display": "₹179–189"
+      },
+      "lotSize": 600,
+      "issueSize": "₹93.90 Cr",
+      "issueSizeCr": 93.9,
+      "freshIssueCr": 89.13,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-13",
+        "close": "2026-08-17",
+        "allotment": "2026-08-18",
+        "listing": "2026-08-20"
+      },
+      "gmp": {
+        "value": 50.0,
+        "percent": 26.46,
+        "xLot": 30000.0,
+        "updatedOn": "13-Aug 6:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/credent-connect-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=credent-connect-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "gmp": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/"
+      },
+      "gmpId": 2252,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 2015 as Credent Cold Chain Logistics Private Limited. Credent Connect N Care Limited is an integrated healthcare services and logistics provider offering technology-enabled operational, workforce and supply chain solutions to healthcare institutions across India. The company primarily operates on a B2B model, serving diagnostic laboratories, IVD companies, pharmaceutical companies, hospitals, clinics and other healthcare enterprises\n\nThe company offers a comprehensive portfo",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "shiprocket-ipo",
       "ipoId": 2450,
@@ -50,7 +105,7 @@
         "value": 34.0,
         "percent": 35.05,
         "xLot": 5236.0,
-        "updatedOn": "12-Aug 23:33"
+        "updatedOn": "13-Aug 6:57"
       },
       "subscription": {
         "total": 1.0,
@@ -163,7 +218,7 @@
         "value": 74.0,
         "percent": 25.96,
         "xLot": 3848.0,
-        "updatedOn": "12-Aug 23:34"
+        "updatedOn": "13-Aug 6:54"
       },
       "subscription": {
         "total": 2.21,
@@ -269,7 +324,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 23:28"
+        "updatedOn": "13-Aug 6:57"
       },
       "subscription": {
         "total": 0.75,
@@ -382,7 +437,7 @@
         "value": 10.0,
         "percent": 8.7,
         "xLot": 12000.0,
-        "updatedOn": "12-Aug 23:37"
+        "updatedOn": "13-Aug 7:02"
       },
       "subscription": {
         "total": 0.63,
@@ -463,7 +518,7 @@
         "value": 21.5,
         "percent": 15.36,
         "xLot": 2300.5,
-        "updatedOn": "12-Aug 23:29"
+        "updatedOn": "13-Aug 6:54"
       },
       "subscription": {
         "total": 2.29,
@@ -576,7 +631,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 23:28"
+        "updatedOn": "13-Aug 7:02"
       },
       "subscription": {
         "total": 0.12,
@@ -689,7 +744,7 @@
         "value": 9.0,
         "percent": 6.92,
         "xLot": 9000.0,
-        "updatedOn": "12-Aug 23:31"
+        "updatedOn": "13-Aug 6:59"
       },
       "subscription": {
         "total": 0.1,
@@ -749,232 +804,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2020, Sham Foam is engaged in the manufacturing, distribution, marketing, and sale of polyurethane foam (PU Foam), mattresses, and allied home comfort products, primarily for the Indian market. In addition, it produces industrial-grade PU foam used across multiple industries, including furniture, apparel, sports goods, and automotive applications.\n\nIts diversified product portfolio includes mattresses, pillows, cushions, furniture cushioning, and PU foam cores used in home comfor",
       "registrar": "Alankit Assignments Ltd."
-    },
-    {
-      "slug": "molbio-diagnostics-ipo",
-      "ipoId": 2579,
-      "name": "Molbio Diagnostics",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 768.0,
-        "max": 807.0,
-        "display": "₹768–807"
-      },
-      "lotSize": 18,
-      "issueSize": "₹939.70 Cr",
-      "issueSizeCr": 939.7,
-      "freshIssueCr": 200.0,
-      "ofsCr": 739.7,
-      "dates": {
-        "open": "2026-08-10",
-        "close": "2026-08-12",
-        "allotment": "2026-08-13",
-        "listing": "2026-08-17"
-      },
-      "gmp": {
-        "value": 154.0,
-        "percent": 19.08,
-        "xLot": 2772.0,
-        "updatedOn": "12-Aug 23:32"
-      },
-      "subscription": {
-        "total": 70.27,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "34,87,717",
-            "Shares bid for": "34,87,717",
-            "Total Amt* (₹ Cr.)": "281.46"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "186.39",
-            "Shares Offered*": "23,25,146",
-            "Shares bid for": "43,33,82,148",
-            "Total Amt* (₹ Cr.)": "34,973.94"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "49.80",
-            "Shares Offered*": "17,43,859",
-            "Shares bid for": "8,68,40,604",
-            "Total Amt* (₹ Cr.)": "7,008.04"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "50.82",
-            "Shares Offered*": "11,62,573",
-            "Shares bid for": "5,90,76,594",
-            "Total Amt* (₹ Cr.)": "4,767.48"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "47.76",
-            "Shares Offered*": "5,81,286",
-            "Shares bid for": "2,77,64,010",
-            "Total Amt* (₹ Cr.)": "2,240.56"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "12.97",
-            "Shares Offered*": "40,69,004",
-            "Shares bid for": "5,27,70,906",
-            "Total Amt* (₹ Cr.)": "4,258.61"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "13.28",
-            "Shares Offered*": "20,520",
-            "Shares bid for": "2,72,466",
-            "Total Amt* (₹ Cr.)": "21.99"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "70.27",
-            "Shares Offered*": "81,58,529",
-            "Shares bid for": "57,32,66,124",
-            "Total Amt* (₹ Cr.)": "46,262.58"
-          }
-        ],
-        "applications": 2685091.0
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/molbio-diagnostics-ltd-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/molbio-diagnostics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=molbio-diagnostics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/molbio-diagnostics-ipo/2579/",
-        "gmp": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/"
-      },
-      "gmpId": 1865,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in October 2000, Molbio Diagnostics Limited is a global point-of-care (POC) molecular diagnostics company engaged in the research, development, manufacturing, and commercialization of rapid diagnostic solutions for infectious and non-communicable diseases. The company has developed its proprietary 'Truenat' platform, a portable, battery-operated PCR-based molecular diagnostics system designed for resource-limited settings, offering accurate test results within an hour.\n\nMolbio offer",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "dhoot-transmission-ipo",
-      "ipoId": 2859,
-      "name": "Dhoot Transmission",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 829.0,
-        "max": 871.0,
-        "display": "₹829–871"
-      },
-      "lotSize": 17,
-      "issueSize": "₹3066.89 Cr",
-      "issueSizeCr": 3066.89,
-      "freshIssueCr": 1400.0,
-      "ofsCr": 1666.89,
-      "dates": {
-        "open": "2026-08-10",
-        "close": "2026-08-12",
-        "allotment": "2026-08-13",
-        "listing": "2026-08-17"
-      },
-      "gmp": {
-        "value": 276.0,
-        "percent": 31.69,
-        "xLot": 4692.0,
-        "updatedOn": "12-Aug 23:36"
-      },
-      "subscription": {
-        "total": 75.06,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,05,42,657",
-            "Shares bid for": "1,05,42,657",
-            "Total Amt* (₹ Cr.)": "918.27"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "209.02",
-            "Shares Offered*": "70,28,439",
-            "Shares bid for": "1,46,90,58,281",
-            "Total Amt* (₹ Cr.)": "1,27,954.98"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "53.13",
-            "Shares Offered*": "52,71,330",
-            "Shares bid for": "28,00,59,292",
-            "Total Amt* (₹ Cr.)": "24,393.16"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "59.41",
-            "Shares Offered*": "35,14,220",
-            "Shares bid for": "20,87,93,082",
-            "Total Amt* (₹ Cr.)": "18,185.88"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "40.56",
-            "Shares Offered*": "17,57,110",
-            "Shares bid for": "7,12,66,210",
-            "Total Amt* (₹ Cr.)": "6,207.29"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "8.32",
-            "Shares Offered*": "1,22,99,768",
-            "Shares bid for": "10,23,58,122",
-            "Total Amt* (₹ Cr.)": "8,915.39"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "8.60",
-            "Shares Offered*": "75,853",
-            "Shares bid for": "6,52,392",
-            "Total Amt* (₹ Cr.)": "56.82"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "75.06",
-            "Shares Offered*": "2,46,75,390",
-            "Shares bid for": "1,85,21,28,087",
-            "Total Amt* (₹ Cr.)": "1,61,320.36"
-          }
-        ],
-        "applications": 5307144.0
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dhoot-transmission-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/dhoot-transmission-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=dhoot-transmission-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/dhoot-transmission-ipo/2859/",
-        "gmp": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/"
-      },
-      "gmpId": 2122,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in April 1998, Dhoot Transmission Limited is one of India's leading electrical and electronics (E&E) companies engaged in the design, engineering, manufacturing, and supply of wiring harnesses and electrical distribution systems for automotive and non-automotive applications. The company offers a diversified product portfolio comprising wiring harnesses, battery packs, sensors and electronic controllers, automotive switches, terminals, connectors, and power supply cords, catering to",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }

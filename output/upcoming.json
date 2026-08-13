@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-12T19:05:38+00:00",
+  "scrapedAt": "2026-08-13T02:16:30+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 17.0,
         "percent": 4.72,
         "xLot": 697.0,
-        "updatedOn": "12-Aug 23:29"
+        "updatedOn": "13-Aug 6:57"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 7.0,
         "percent": 7.53,
         "xLot": 1120.0,
-        "updatedOn": "12-Aug 23:29"
+        "updatedOn": "13-Aug 6:59"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 41.0,
         "percent": 20.4,
         "xLot": 3034.0,
-        "updatedOn": "12-Aug 23:37"
+        "updatedOn": "13-Aug 6:56"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 23:35"
+        "updatedOn": "13-Aug 6:59"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 23:32"
+        "updatedOn": "13-Aug 6:58"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Aug 23:37"
+        "updatedOn": "13-Aug 6:53"
       },
       "subscription": {
         "total": null,
@@ -377,10 +377,10 @@
         "listing": "2026-08-21"
       },
       "gmp": {
-        "value": 12.0,
-        "percent": 9.09,
-        "xLot": 12000.0,
-        "updatedOn": "12-Aug 23:30"
+        "value": 18.0,
+        "percent": 13.64,
+        "xLot": 18000.0,
+        "updatedOn": "13-Aug 7:01"
       },
       "subscription": {
         "total": null,
@@ -406,61 +406,6 @@
       "saleType": "Fresh capital only",
       "about": "Technocrats Plasma Systems Ltd. is an engineering-focused company engaged in providing plasma-based surface treatment and coating solutions for industrial applications.\n\nThe company designs, develops, and installs plasma systems used for surface cleaning, activation, coating, and modification across diverse manufacturing sectors.\n\nIts services include system customization, installation, commissioning, maintenance support, and technical consulting, helping clients improve product performance, dur",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "credent-connect-ipo",
-      "ipoId": 2991,
-      "name": "Credent Connect",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 179.0,
-        "max": 189.0,
-        "display": "₹179–189"
-      },
-      "lotSize": 600,
-      "issueSize": "₹93.90 Cr",
-      "issueSizeCr": 93.9,
-      "freshIssueCr": 89.13,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-13",
-        "close": "2026-08-17",
-        "allotment": "2026-08-18",
-        "listing": "2026-08-20"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 26.46,
-        "xLot": 30000.0,
-        "updatedOn": "12-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/credent-connect-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=credent-connect-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
-        "gmp": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/"
-      },
-      "gmpId": 2252,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2015 as Credent Cold Chain Logistics Private Limited. Credent Connect N Care Limited is an integrated healthcare services and logistics provider offering technology-enabled operational, workforce and supply chain solutions to healthcare institutions across India. The company primarily operates on a B2B model, serving diagnostic laboratories, IVD companies, pharmaceutical companies, hospitals, clinics and other healthcare enterprises\n\nThe company offers a comprehensive portfo",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
