@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-13T19:06:56+00:00",
+  "scrapedAt": "2026-08-14T07:37:46+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 171,
+    "total": 173,
     "mainboard": 53,
-    "sme": 118
+    "sme": 120
   },
   "ipos": [
     {
@@ -4071,6 +4071,30 @@
       }
     },
     {
+      "ipoId": 2846,
+      "name": "Dhanwel Hybrid Seeds Ltd.",
+      "slug": "dhanwel-hybrid-seeds-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-19",
+        "close": "2026-08-21",
+        "allotment": "2026-08-24",
+        "refunds": "2026-08-25",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "19-Aug-2026",
+        "close": "21-Aug-2026",
+        "allotment": "24-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dhanwel-seeds-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dhanwel-hybrid-seeds-ipo/2846/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2527,
       "name": "Gaja Alternative Asset Management Ltd.",
       "slug": "gaja-alternative-asset-management-ipo",
@@ -4092,6 +4116,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2769,
+      "name": "Mopshop Distribution Ltd.",
+      "slug": "mopshop-distribution-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-19",
+        "close": "2026-08-21",
+        "allotment": "2026-08-24",
+        "refunds": "2026-08-25",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "19-Aug-2026",
+        "close": "21-Aug-2026",
+        "allotment": "24-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mopshops-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mopshop-distribution-ipo/2769/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {
