@@ -406,9 +406,9 @@
     "source": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/"
   },
   "subscription": {
-    "summary": "Shiprocket IPO subscribed 26.58 times. The public issue subscribed 30.22 times in the retail category, 12.49 times in QIB (Ex Anchor), and 52.30 times in the NII category by August 14, 2026 1:04:36 PM (Day 3).",
-    "total": 26.58,
-    "applications": 2942183.0,
+    "summary": "Shiprocket IPO subscribed 102.28 times. The public issue subscribed 48.38 times in the retail category, 125.20 times in QIB (Ex Anchor), and 92.58 times in the NII category by August 14, 2026 6:39:36 PM (Day 3).",
+    "total": 102.28,
+    "applications": 4791733.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -419,52 +419,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "12.49",
+        "Subscription (x)": "125.20",
         "Shares Offered*": "4,99,94,385",
-        "Shares bid for": "62,42,59,636",
-        "Total Amt* (₹ Cr.)": "6,055.32"
+        "Shares bid for": "6,25,93,38,316",
+        "Total Amt* (₹ Cr.)": "60,715.58"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "52.30",
+        "Subscription (x)": "92.58",
         "Shares Offered*": "2,49,97,191",
-        "Shares bid for": "1,30,72,74,892",
-        "Total Amt* (₹ Cr.)": "12,680.57"
+        "Shares bid for": "2,31,43,57,892",
+        "Total Amt* (₹ Cr.)": "22,449.27"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "57.90",
+        "Subscription (x)": "103.18",
         "Shares Offered*": "1,66,64,794",
-        "Shares bid for": "96,49,45,982",
-        "Total Amt* (₹ Cr.)": "9,359.98"
+        "Shares bid for": "1,71,95,35,048",
+        "Total Amt* (₹ Cr.)": "16,679.49"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "41.08",
+        "Subscription (x)": "71.39",
         "Shares Offered*": "83,32,397",
-        "Shares bid for": "34,23,28,910",
-        "Total Amt* (₹ Cr.)": "3,320.59"
+        "Shares bid for": "59,48,22,844",
+        "Total Amt* (₹ Cr.)": "5,769.78"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "30.22",
+        "Subscription (x)": "48.38",
         "Shares Offered*": "1,66,64,794",
-        "Shares bid for": "50,35,50,740",
-        "Total Amt* (₹ Cr.)": "4,884.44"
+        "Shares bid for": "80,61,66,284",
+        "Total Amt* (₹ Cr.)": "7,819.81"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "36.53",
+        "Subscription (x)": "58.85",
         "Shares Offered*": "1,13,636",
-        "Shares bid for": "41,51,378",
-        "Total Amt* (₹ Cr.)": "40.27"
+        "Shares bid for": "66,87,450",
+        "Total Amt* (₹ Cr.)": "64.87"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "26.58",
+        "Subscription (x)": "102.28",
         "Shares Offered*": "9,17,70,006",
-        "Shares bid for": "2,43,92,36,646",
-        "Total Amt* (₹ Cr.)": "23,660.60"
+        "Shares bid for": "9,38,65,49,942",
+        "Total Amt* (₹ Cr.)": "91,049.53"
       }
     ],
     "dayWise": [
@@ -490,13 +490,13 @@
       },
       {
         "Date": "Aug 14 (Day 3)",
-        "QIB (Ex Anchor)": "12.49",
-        "NII": "52.30",
-        "NII (> ₹10L)": "57.90",
-        "NII (< ₹10L)": "41.08",
-        "Retail": "30.22",
-        "EMP": "36.53",
-        "Total": "26.58"
+        "QIB (Ex Anchor)": "125.20",
+        "NII": "92.58",
+        "NII (> ₹10L)": "103.18",
+        "NII (< ₹10L)": "71.39",
+        "Retail": "48.38",
+        "EMP": "58.85",
+        "Total": "102.28"
       }
     ]
   },
@@ -522,7 +522,7 @@
       "value": 35.0,
       "percent": 36.08,
       "xLot": 5390.0,
-      "updatedOn": "14-Aug 12:33"
+      "updatedOn": "14-Aug 17:53"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
@@ -532,5 +532,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-14T07:37:20+00:00"
+  "scrapedAt": "2026-08-14T13:13:56+00:00"
 }

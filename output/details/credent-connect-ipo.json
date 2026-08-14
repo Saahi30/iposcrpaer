@@ -346,8 +346,8 @@
     "source": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/"
   },
   "subscription": {
-    "summary": "Credent Connect IPO subscribed 7.39 times. The public issue subscribed 10.05 times in the individual investors category, 4.49 times in QIB (Ex Anchor), and 5.03 times in the NII category by August 14, 2026 1:05:01 PM (Day 2).",
-    "total": 7.39,
+    "summary": "Credent Connect IPO subscribed 12.13 times. The public issue subscribed 16.41 times in the individual investors category, 6.45 times in QIB (Ex Anchor), and 9.73 times in the NII category by August 14, 2026 6:40:00 PM (Day 2).",
+    "total": 12.13,
     "applications": null,
     "byCategory": [
       {
@@ -368,51 +368,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "4.49",
+        "Subscription (x)": "6.45",
         "Shares Offered*": "9,48,000",
-        "Shares bid for": "42,60,000",
-        "Total Amt* (₹ Cr.)": "80.51",
-        "Total Applications": "2"
+        "Shares bid for": "61,11,600",
+        "Total Amt* (₹ Cr.)": "115.51",
+        "Total Applications": "3"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "5.03",
+        "Subscription (x)": "9.73",
         "Shares Offered*": "7,08,000",
-        "Shares bid for": "35,63,400",
-        "Total Amt* (₹ Cr.)": "67.35",
-        "Total Applications": "0"
+        "Shares bid for": "68,87,400",
+        "Total Amt* (₹ Cr.)": "130.17",
+        "Total Applications": "2,123"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.64",
+        "Subscription (x)": "8.10",
         "Shares Offered*": "4,72,000",
-        "Shares bid for": "17,17,200",
-        "Total Amt* (₹ Cr.)": "32.46",
+        "Shares bid for": "38,22,000",
+        "Total Amt* (₹ Cr.)": "72.24",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "7.82",
+        "Subscription (x)": "12.99",
         "Shares Offered*": "2,36,000",
-        "Shares bid for": "18,46,200",
-        "Total Amt* (₹ Cr.)": "34.89",
+        "Shares bid for": "30,65,400",
+        "Total Amt* (₹ Cr.)": "57.94",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "10.05",
+        "Subscription (x)": "16.41",
         "Shares Offered*": "16,56,000",
-        "Shares bid for": "1,66,42,800",
-        "Total Amt* (₹ Cr.)": "314.55",
-        "Total Applications": "13,835"
+        "Shares bid for": "2,71,72,800",
+        "Total Amt* (₹ Cr.)": "513.57",
+        "Total Applications": "22,644"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "7.39",
+        "Subscription (x)": "12.13",
         "Shares Offered*": "33,12,000",
-        "Shares bid for": "2,44,66,200",
-        "Total Amt* (₹ Cr.)": "462.41",
-        "Total Applications": "15,028"
+        "Shares bid for": "4,01,71,800",
+        "Total Amt* (₹ Cr.)": "759.25",
+        "Total Applications": "24,770"
       }
     ],
     "dayWise": [
@@ -427,12 +427,12 @@
       },
       {
         "Date": "Aug 14 (Day 2)",
-        "QIB (Ex Anchor)": "4.49",
-        "NII*": "5.03",
-        "NII (> ₹10L)": "3.64",
-        "NII (< ₹10L)": "7.82",
-        "Individual Investors": "10.05",
-        "Total": "7.39"
+        "QIB (Ex Anchor)": "6.45",
+        "NII*": "9.73",
+        "NII (> ₹10L)": "8.10",
+        "NII (< ₹10L)": "12.99",
+        "Individual Investors": "16.41",
+        "Total": "12.13"
       }
     ]
   },
@@ -455,10 +455,10 @@
       "listing": "2026-08-20"
     },
     "gmp": {
-      "value": 75.0,
-      "percent": 39.68,
-      "xLot": 45000.0,
-      "updatedOn": "14-Aug 12:28"
+      "value": 65.0,
+      "percent": 34.39,
+      "xLot": 39000.0,
+      "updatedOn": "14-Aug 17:56"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
@@ -468,5 +468,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-14T07:37:18+00:00"
+  "scrapedAt": "2026-08-14T13:13:54+00:00"
 }
