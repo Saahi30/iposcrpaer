@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-14T18:59:19+00:00",
+  "scrapedAt": "2026-08-15T01:25:04+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 9,
+    "open": 5,
     "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 17
+    "total": 13
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 10.0,
         "percent": 12.99,
         "xLot": 16000.0,
-        "updatedOn": "14-Aug 23:32"
+        "updatedOn": "15-Aug 6:32"
       },
       "subscription": {
         "total": 0.46,
@@ -156,7 +156,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Aug 23:29"
+        "updatedOn": "15-Aug 6:30"
       },
       "subscription": {
         "total": 0.63,
@@ -269,7 +269,7 @@
         "value": 30.0,
         "percent": 22.73,
         "xLot": 30000.0,
-        "updatedOn": "14-Aug 23:31"
+        "updatedOn": "15-Aug 6:35"
       },
       "subscription": {
         "total": 0.42,
@@ -382,7 +382,7 @@
         "value": 65.0,
         "percent": 34.39,
         "xLot": 39000.0,
-        "updatedOn": "14-Aug 23:30"
+        "updatedOn": "15-Aug 6:37"
       },
       "subscription": {
         "total": 12.14,
@@ -476,435 +476,6 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "shiprocket-ipo",
-      "ipoId": 2450,
-      "name": "Shiprocket",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 92.0,
-        "max": 97.0,
-        "display": "₹92–97"
-      },
-      "lotSize": 154,
-      "issueSize": "₹1617.48 Cr",
-      "issueSizeCr": 1617.48,
-      "freshIssueCr": 885.5,
-      "ofsCr": 731.98,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 34.0,
-        "percent": 35.05,
-        "xLot": 5236.0,
-        "updatedOn": "14-Aug 23:31"
-      },
-      "subscription": {
-        "total": 102.28,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "7,49,91,568",
-            "Shares bid for": "7,49,91,568",
-            "Total Amt* (₹ Cr.)": "727.42"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "125.20",
-            "Shares Offered*": "4,99,94,385",
-            "Shares bid for": "6,25,93,38,316",
-            "Total Amt* (₹ Cr.)": "60,715.58"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "92.58",
-            "Shares Offered*": "2,49,97,191",
-            "Shares bid for": "2,31,43,57,892",
-            "Total Amt* (₹ Cr.)": "22,449.27"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "103.18",
-            "Shares Offered*": "1,66,64,794",
-            "Shares bid for": "1,71,95,35,048",
-            "Total Amt* (₹ Cr.)": "16,679.49"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "71.39",
-            "Shares Offered*": "83,32,397",
-            "Shares bid for": "59,48,22,844",
-            "Total Amt* (₹ Cr.)": "5,769.78"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "48.38",
-            "Shares Offered*": "1,66,64,794",
-            "Shares bid for": "80,61,67,208",
-            "Total Amt* (₹ Cr.)": "7,819.82"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "58.85",
-            "Shares Offered*": "1,13,636",
-            "Shares bid for": "66,87,450",
-            "Total Amt* (₹ Cr.)": "64.87"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "102.28",
-            "Shares Offered*": "9,17,70,006",
-            "Shares bid for": "9,38,65,50,866",
-            "Total Amt* (₹ Cr.)": "91,049.54"
-          }
-        ],
-        "applications": 4791739.0
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shiprocket_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shiprocket-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shiprocket-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shiprocket-ipo/2450/",
-        "gmp": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/"
-      },
-      "gmpId": 1790,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2011, Shiprocket is an Indian e-commerce enablement company. It provides technology-driven solutions that help micro, small and medium enterprises (MSMEs), direct-to-consumer (D2C) brands, and large retailers manage and grow their online and offline businesses. According to the Redseer Report, Shiprocket was India's largest new-age end-to-end e-commerce enablement platform by revenue in FY25.\n\nThe company initially started as a shipping platform. Its core services include domesti",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "behari-lal-engineering-ipo",
-      "ipoId": 2659,
-      "name": "Behari Lal Engineering",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 271.0,
-        "max": 285.0,
-        "display": "₹271–285"
-      },
-      "lotSize": 52,
-      "issueSize": "₹301.62 Cr",
-      "issueSizeCr": 301.62,
-      "freshIssueCr": 93.0,
-      "ofsCr": 208.62,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 83.0,
-        "percent": 29.12,
-        "xLot": 4316.0,
-        "updatedOn": "14-Aug 23:34"
-      },
-      "subscription": {
-        "total": 118.07,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "31,74,946",
-            "Shares bid for": "31,74,946",
-            "Total Amt* (₹ Cr.)": "90.49"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "222.04",
-            "Shares Offered*": "15,16,633",
-            "Shares bid for": "33,67,52,156",
-            "Total Amt* (₹ Cr.)": "9,597.44"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "167.95",
-            "Shares Offered*": "15,87,474",
-            "Shares bid for": "26,66,13,412",
-            "Total Amt* (₹ Cr.)": "7,598.48"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "162.29",
-            "Shares Offered*": "10,58,316",
-            "Shares bid for": "17,17,57,300",
-            "Total Amt* (₹ Cr.)": "4,895.08"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "179.26",
-            "Shares Offered*": "5,29,158",
-            "Shares bid for": "9,48,56,112",
-            "Total Amt* (₹ Cr.)": "2,703.40"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "54.12",
-            "Shares Offered*": "37,04,105",
-            "Shares bid for": "20,04,62,756",
-            "Total Amt* (₹ Cr.)": "5,713.19"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "118.07",
-            "Shares Offered*": "68,08,212",
-            "Shares bid for": "80,38,28,324",
-            "Total Amt* (₹ Cr.)": "22,909.11"
-          }
-        ],
-        "applications": 3366853.0
-      },
-      "leadManager": "Emkay Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/behari-lal-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/behari-lal-engineering-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=behari-lal-engineering-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/behari-lal-engineering-ipo/2659/",
-        "gmp": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/"
-      },
-      "gmpId": 1928,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1995, Behari Lal Engineering Ltd. is an integrated iron and steel manufacturing company specialising in customised engineering solutions. The company manufactures precision-engineered components for critical industrial applications, including metal rolls, engineering castings, alloy steel products, forging ingots and shafts.\n\nAs of March 31, 2026, the company has catered to 1825 domestic and international customers. Its customer base includes Amba Shakti Industries, BMW Industrie",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "pramodini-medicare-ipo",
-      "ipoId": 3088,
-      "name": "Pramodini Medicare",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 110.0,
-        "max": 118.0,
-        "display": "₹110–118"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹69.04 Cr",
-      "issueSizeCr": 69.04,
-      "freshIssueCr": 59.17,
-      "ofsCr": 5.9,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "14-Aug 23:32"
-      },
-      "subscription": {
-        "total": 3.87,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "13,60,800",
-            "Shares bid for": "13,60,800",
-            "Total Amt* (₹ Cr.)": "16.057",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,36,000",
-            "Shares bid for": "3,36,000",
-            "Total Amt* (₹ Cr.)": "3.965",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "3.66",
-            "Shares Offered*": "11,71,200",
-            "Shares bid for": "42,82,800",
-            "Total Amt* (₹ Cr.)": "50.537",
-            "Total Applications": "13"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "4.96",
-            "Shares Offered*": "9,60,000",
-            "Shares bid for": "47,59,200",
-            "Total Amt* (₹ Cr.)": "56.159",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "5.03",
-            "Shares Offered*": "6,39,600",
-            "Shares bid for": "32,16,000",
-            "Total Amt* (₹ Cr.)": "37.949",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.82",
-            "Shares Offered*": "3,20,400",
-            "Shares bid for": "15,43,200",
-            "Total Amt* (₹ Cr.)": "18.210",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "3.49",
-            "Shares Offered*": "20,23,200",
-            "Shares bid for": "70,53,600",
-            "Total Amt* (₹ Cr.)": "83.232",
-            "Total Applications": "2,939"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.87",
-            "Shares Offered*": "41,54,400",
-            "Shares bid for": "1,60,95,600",
-            "Total Amt* (₹ Cr.)": "189.928",
-            "Total Applications": "3,689"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/pramodini-medicare-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/pramodini-medicare-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=pramodini-medicare-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pramodini-medicare-ipo/3088/",
-        "gmp": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/"
-      },
-      "gmpId": 2275,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2000, Pramodini Medicare Limited is a diagnostic service provider in India offering technology-enabled diagnostic services across radiology, clinical laboratory, and nuclear medicine segments. The company provides services to public hospitals, private hospitals, public sector undertakings (PSUs), medical colleges, and private diagnostic centres across tier I, II, and III cities.\n\nIts service portfolio includes radiology services such as MRI, CT scans, X-ray, ultrasound with colou",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "qt-foods-ipo",
-      "ipoId": 3145,
-      "name": "Q&T Foods",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 115.0,
-        "max": 115.0,
-        "display": "₹115"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹26.25 Cr",
-      "issueSizeCr": 26.25,
-      "freshIssueCr": 24.92,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-12",
-        "close": "2026-08-14",
-        "allotment": "2026-08-17",
-        "listing": "2026-08-19"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 0.87,
-        "xLot": 1200.0,
-        "updatedOn": "14-Aug 23:31"
-      },
-      "subscription": {
-        "total": 1.42,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,15,200",
-            "Shares bid for": "1,15,200",
-            "Total Amt* (₹ Cr.)": "1.32",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.20",
-            "Shares Offered*": "10,83,600",
-            "Shares bid for": "2,18,400",
-            "Total Amt* (₹ Cr.)": "2.51",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.64",
-            "Shares Offered*": "10,83,600",
-            "Shares bid for": "28,65,600",
-            "Total Amt* (₹ Cr.)": "32.95",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.42",
-            "Shares Offered*": "21,67,200",
-            "Shares bid for": "30,84,000",
-            "Total Amt* (₹ Cr.)": "35.47",
-            "Total Applications": "1,265"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/qt-foods-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/qt-foods-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=qt-foods-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
-        "gmp": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/"
-      },
-      "gmpId": 2299,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2018, Q&T Foods Limited is a bakery products manufacturer engaged in the production, distribution, marketing, and sale of breads, buns, pizza bases, kulchas, pav, and other bakery products under its flagship brand \"American Bakers\".\n\nThe company primarily operates in Uttar Pradesh and nearby regions, offering a diversified portfolio of bakery products including Milk Bread, White Bread, Brown Bread, Multigrain Bread, Burger Buns, Pav, Kulcha, and Pizza Bases. Its products a",
-      "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
       "slug": "fascinate-textiles-ipo",
       "ipoId": 2734,
       "name": "Fascinate Textiles",
@@ -932,7 +503,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Aug 23:29"
+        "updatedOn": "15-Aug 6:30"
       },
       "subscription": {
         "total": 0.51,
@@ -1045,7 +616,7 @@
         "value": 28.0,
         "percent": 20.29,
         "xLot": 2800.0,
-        "updatedOn": "14-Aug 23:31"
+        "updatedOn": "15-Aug 6:30"
       },
       "subscription": {
         "total": null,
@@ -1100,7 +671,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Aug 23:33"
+        "updatedOn": "15-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -1155,7 +726,7 @@
         "value": 10.0,
         "percent": 7.25,
         "xLot": 10000.0,
-        "updatedOn": "14-Aug 23:34"
+        "updatedOn": "15-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -1210,7 +781,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Aug 23:30"
+        "updatedOn": "15-Aug 6:37"
       },
       "subscription": {
         "total": null,
@@ -1265,7 +836,7 @@
         "value": 50.0,
         "percent": 13.89,
         "xLot": 2050.0,
-        "updatedOn": "14-Aug 23:30"
+        "updatedOn": "15-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -1320,7 +891,7 @@
         "value": 6.0,
         "percent": 6.45,
         "xLot": 960.0,
-        "updatedOn": "14-Aug 23:32"
+        "updatedOn": "15-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -1375,7 +946,7 @@
         "value": 24.0,
         "percent": 11.94,
         "xLot": 1776.0,
-        "updatedOn": "14-Aug 23:28"
+        "updatedOn": "15-Aug 6:35"
       },
       "subscription": {
         "total": null,
@@ -1430,7 +1001,7 @@
         "value": 4.0,
         "percent": 6.67,
         "xLot": 1000.0,
-        "updatedOn": "14-Aug 23:33"
+        "updatedOn": "15-Aug 6:33"
       },
       "subscription": {
         "total": null,
