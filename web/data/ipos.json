@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-15T01:25:04+00:00",
+  "scrapedAt": "2026-08-15T06:42:59+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 5,
-    "upcoming": 8,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 14
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 10.0,
         "percent": 12.99,
         "xLot": 16000.0,
-        "updatedOn": "15-Aug 6:32"
+        "updatedOn": "15-Aug 11:34"
       },
       "subscription": {
         "total": 0.46,
@@ -156,7 +156,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Aug 6:30"
+        "updatedOn": "15-Aug 11:33"
       },
       "subscription": {
         "total": 0.63,
@@ -269,7 +269,7 @@
         "value": 30.0,
         "percent": 22.73,
         "xLot": 30000.0,
-        "updatedOn": "15-Aug 6:35"
+        "updatedOn": "15-Aug 11:30"
       },
       "subscription": {
         "total": 0.42,
@@ -379,10 +379,10 @@
         "listing": "2026-08-20"
       },
       "gmp": {
-        "value": 65.0,
-        "percent": 34.39,
-        "xLot": 39000.0,
-        "updatedOn": "15-Aug 6:37"
+        "value": 55.0,
+        "percent": 29.1,
+        "xLot": 33000.0,
+        "updatedOn": "15-Aug 11:35"
       },
       "subscription": {
         "total": 12.14,
@@ -503,7 +503,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Aug 6:30"
+        "updatedOn": "15-Aug 11:37"
       },
       "subscription": {
         "total": 0.51,
@@ -616,7 +616,7 @@
         "value": 28.0,
         "percent": 20.29,
         "xLot": 2800.0,
-        "updatedOn": "15-Aug 6:30"
+        "updatedOn": "15-Aug 11:30"
       },
       "subscription": {
         "total": null,
@@ -642,6 +642,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in December 1984, Skyways Air Services Limited (SASL) is a well-established logistics and freight forwarding company with over four decades of experience in India’s air freight forwarding and logistics sector. The Company provides a comprehensive range of logistics solutions, including air and ocean freight forwarding, trucking, warehousing, customs broking, technology-driven express cargo and parcel delivery, and other value-added services. It has evolved from a Custom House Agent ",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "tempsens-instruments-india-ipo",
+      "ipoId": 2668,
+      "name": "Tempsens Instruments (India)",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 95.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-20",
+        "close": "2026-08-24",
+        "allotment": "2026-08-25",
+        "listing": "2026-08-27"
+      },
+      "gmp": {
+        "value": 85.0,
+        "percent": 0.0,
+        "xLot": null,
+        "updatedOn": "15-Aug 11:28"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/tempsens-instruments-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=tempsens-instruments-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tempsens-instruments-india-ipo/2668/",
+        "gmp": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/"
+      },
+      "gmpId": 1934,
+      "faceValue": "₹4 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "gaja-alternative-asset-management-ipo",
@@ -671,7 +726,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Aug 6:31"
+        "updatedOn": "15-Aug 11:34"
       },
       "subscription": {
         "total": null,
@@ -726,7 +781,7 @@
         "value": 10.0,
         "percent": 7.25,
         "xLot": 10000.0,
-        "updatedOn": "15-Aug 6:31"
+        "updatedOn": "15-Aug 11:30"
       },
       "subscription": {
         "total": null,
@@ -781,7 +836,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Aug 6:37"
+        "updatedOn": "15-Aug 11:35"
       },
       "subscription": {
         "total": null,
@@ -833,10 +888,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 50.0,
-        "percent": 13.89,
-        "xLot": 2050.0,
-        "updatedOn": "15-Aug 6:33"
+        "value": 47.0,
+        "percent": 13.06,
+        "xLot": 1927.0,
+        "updatedOn": "15-Aug 11:35"
       },
       "subscription": {
         "total": null,
@@ -891,7 +946,7 @@
         "value": 6.0,
         "percent": 6.45,
         "xLot": 960.0,
-        "updatedOn": "15-Aug 6:34"
+        "updatedOn": "15-Aug 11:31"
       },
       "subscription": {
         "total": null,
@@ -943,10 +998,10 @@
         "listing": "2026-08-24"
       },
       "gmp": {
-        "value": 24.0,
-        "percent": 11.94,
-        "xLot": 1776.0,
-        "updatedOn": "15-Aug 6:35"
+        "value": 23.0,
+        "percent": 11.44,
+        "xLot": 1702.0,
+        "updatedOn": "15-Aug 11:30"
       },
       "subscription": {
         "total": null,
@@ -1001,7 +1056,7 @@
         "value": 4.0,
         "percent": 6.67,
         "xLot": 1000.0,
-        "updatedOn": "15-Aug 6:33"
+        "updatedOn": "15-Aug 11:35"
       },
       "subscription": {
         "total": null,
