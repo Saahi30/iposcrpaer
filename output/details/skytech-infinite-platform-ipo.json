@@ -407,57 +407,65 @@
     "source": "https://www.chittorgarh.com/ipo/skytech-infinite-platform-ipo/2739/"
   },
   "subscription": {
-    "summary": "Skytech Infinite Platform IPO subscribed 0.46 times. The public issue subscribed 0.71 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.21 times in the NII category by August 14, 2026 6:54:02 PM (Day 1).",
-    "total": 0.46,
+    "summary": "Skytech Infinite Platform IPO subscribed 0.94 times. The public issue subscribed 1.63 times in the individual investors category, 1.06 times in QIB (Ex Anchor), and 0.24 times in the NII category by August 17, 2026 6:20:00 PM (Day 2).",
+    "total": 0.94,
     "applications": null,
     "byCategory": [
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,48,800",
+        "Shares bid for": "1,48,800",
+        "Total Amt* (₹ Cr.)": "1.146",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.06",
         "Shares Offered*": "28,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
-        "Total Applications": "0"
+        "Shares bid for": "30,400",
+        "Total Amt* (₹ Cr.)": "0.234",
+        "Total Applications": "1"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.21",
+        "Subscription (x)": "0.24",
         "Shares Offered*": "13,72,800",
-        "Shares bid for": "2,84,800",
-        "Total Amt* (₹ Cr.)": "2.193",
+        "Shares bid for": "3,31,200",
+        "Total Amt* (₹ Cr.)": "2.550",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "0.10",
         "Shares Offered*": "9,15,200",
-        "Shares bid for": "1,79,200",
-        "Total Amt* (₹ Cr.)": "1.380",
+        "Shares bid for": "88,000",
+        "Total Amt* (₹ Cr.)": "0.678",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.23",
+        "Subscription (x)": "0.53",
         "Shares Offered*": "4,57,600",
-        "Shares bid for": "1,05,600",
-        "Total Amt* (₹ Cr.)": "0.813",
+        "Shares bid for": "2,43,200",
+        "Total Amt* (₹ Cr.)": "1.873",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.71",
+        "Subscription (x)": "1.63",
         "Shares Offered*": "13,95,200",
-        "Shares bid for": "9,88,800",
-        "Total Amt* (₹ Cr.)": "7.614",
-        "Total Applications": "309"
+        "Shares bid for": "22,75,200",
+        "Total Amt* (₹ Cr.)": "17.519",
+        "Total Applications": "711"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "0.94",
         "Shares Offered*": "27,96,800",
-        "Shares bid for": "12,73,600",
-        "Total Amt* (₹ Cr.)": "9.807",
-        "Total Applications": "337"
+        "Shares bid for": "26,36,800",
+        "Total Amt* (₹ Cr.)": "20.303",
+        "Total Applications": "769"
       }
     ],
     "dayWise": [
@@ -469,6 +477,15 @@
         "NII (< ₹10L)": "0.23",
         "Individual Investors": "0.71",
         "Total": "0.46"
+      },
+      {
+        "Date": "Aug 17 (Day 2)",
+        "QIB (Ex Anchor)": "1.06",
+        "NII*": "0.24",
+        "NII (> ₹10L)": "0.10",
+        "NII (< ₹10L)": "0.53",
+        "Individual Investors": "1.63",
+        "Total": "0.94"
       }
     ]
   },
@@ -491,10 +508,10 @@
       "listing": "2026-08-21"
     },
     "gmp": {
-      "value": 7.0,
-      "percent": 9.09,
-      "xLot": 11200.0,
-      "updatedOn": "17-Aug 6:30"
+      "value": 1.0,
+      "percent": 1.3,
+      "xLot": 1600.0,
+      "updatedOn": "17-Aug 17:54"
     },
     "leadManager": "Finshore Management",
     "logo": "https://www.chittorgarh.net/images/ipo/skytech-infinite-platform-logo.png",
@@ -504,5 +521,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-17T01:26:55+00:00"
+  "scrapedAt": "2026-08-17T12:50:56+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-17T01:27:14+00:00",
+  "scrapedAt": "2026-08-17T12:51:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 28.0,
-        "percent": 20.29,
-        "xLot": 2800.0,
-        "updatedOn": "17-Aug 6:31"
+        "value": 31.0,
+        "percent": 22.46,
+        "xLot": 3100.0,
+        "updatedOn": "17-Aug 17:55"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "abh-healthcare-ipo",
+      "ipoId": 2517,
+      "name": "ABH Healthcare",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 96.0,
+        "max": 102.0,
+        "display": "₹96–102"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹34.98 Cr",
+      "issueSizeCr": 34.98,
+      "freshIssueCr": 33.22,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-26",
+        "allotment": "2026-08-27",
+        "listing": "2026-08-31"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "17-Aug 17:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Fedex Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/abh-healthcare-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/abh-healthcare-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=abh-healthcare-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/abh-healthcare-ipo/2517/",
+        "gmp": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/"
+      },
+      "gmpId": 1824,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "ABH Healthcare Ltd provides healthcare services, operates under the name \"Anil Baghi Hospital\". The company has 150 beds and offer 25 medical specialities, including cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc. The hospital has empaneled with 30 private and public health insurance providers and third-party administrators. We",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "tempsens-instruments-india-ipo",
       "ipoId": 2668,
       "name": "Tempsens Instruments (India)",
@@ -86,26 +141,26 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 285.0,
+        "max": 300.0,
+        "display": "₹285–300"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 50,
+      "issueSize": "₹650.00 Cr",
+      "issueSizeCr": 650.0,
       "freshIssueCr": 95.0,
-      "ofsCr": null,
+      "ofsCr": 555.0,
       "dates": {
         "open": "2026-08-20",
         "close": "2026-08-24",
         "allotment": "2026-08-25",
-        "listing": "2026-08-27"
+        "listing": "2026-08-28"
       },
       "gmp": {
-        "value": 65.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "17-Aug 6:29"
+        "value": 140.0,
+        "percent": 46.67,
+        "xLot": 7000.0,
+        "updatedOn": "17-Aug 17:56"
       },
       "subscription": {
         "total": null,
@@ -157,10 +212,10 @@
         "listing": "2026-08-26"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "17-Aug 6:30"
+        "value": 9.1,
+        "percent": 5.69,
+        "xLot": 846.3,
+        "updatedOn": "17-Aug 17:59"
       },
       "subscription": {
         "total": null,
@@ -212,10 +267,10 @@
         "listing": "2026-08-26"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 7.25,
-        "xLot": 10000.0,
-        "updatedOn": "17-Aug 6:28"
+        "value": 14.0,
+        "percent": 10.14,
+        "xLot": 14000.0,
+        "updatedOn": "17-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Aug 6:36"
+        "updatedOn": "17-Aug 17:57"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 54.0,
-        "percent": 15.0,
-        "xLot": 2214.0,
-        "updatedOn": "17-Aug 6:33"
+        "value": 62.0,
+        "percent": 17.22,
+        "xLot": 2542.0,
+        "updatedOn": "17-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-08-25"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 5.38,
-        "xLot": 800.0,
-        "updatedOn": "17-Aug 6:29"
+        "value": 3.0,
+        "percent": 3.23,
+        "xLot": 480.0,
+        "updatedOn": "17-Aug 17:57"
       },
       "subscription": {
         "total": null,

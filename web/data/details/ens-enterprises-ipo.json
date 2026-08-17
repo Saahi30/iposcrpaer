@@ -381,8 +381,8 @@
     "source": "https://www.chittorgarh.com/ipo/ens-enterprises-ipo/2792/"
   },
   "subscription": {
-    "summary": "ENS Enterprises IPO subscribed 0.63 times. The public issue subscribed 0.31 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 2.22 times in the NII category by August 14, 2026 5:06:04 PM (Day 1).",
-    "total": 0.63,
+    "summary": "ENS Enterprises IPO subscribed 1.43 times. The public issue subscribed 1.24 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 2.47 times in the NII category by August 17, 2026 6:19:44 PM (Day 2).",
+    "total": 1.43,
     "applications": null,
     "byCategory": [
       {
@@ -394,52 +394,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,81,200",
+        "Shares bid for": "1,81,200",
+        "Total Amt* (₹ Cr.)": "1.667",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "6,84,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "6,84,000",
+        "Total Amt* (₹ Cr.)": "6.293",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "2.22",
+        "Subscription (x)": "2.47",
         "Shares Offered*": "5,13,600",
-        "Shares bid for": "11,42,400",
-        "Total Amt* (₹ Cr.)": "10.510",
+        "Shares bid for": "12,67,200",
+        "Total Amt* (₹ Cr.)": "11.658",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.38",
+        "Subscription (x)": "2.12",
         "Shares Offered*": "3,42,000",
-        "Shares bid for": "8,14,800",
-        "Total Amt* (₹ Cr.)": "7.496",
+        "Shares bid for": "7,24,800",
+        "Total Amt* (₹ Cr.)": "6.668",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.91",
+        "Subscription (x)": "3.16",
         "Shares Offered*": "1,71,600",
-        "Shares bid for": "3,27,600",
-        "Total Amt* (₹ Cr.)": "3.014",
+        "Shares bid for": "5,42,400",
+        "Total Amt* (₹ Cr.)": "4.990",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.31",
+        "Subscription (x)": "1.24",
         "Shares Offered*": "11,97,600",
-        "Shares bid for": "3,67,200",
-        "Total Amt* (₹ Cr.)": "3.378",
+        "Shares bid for": "14,83,200",
+        "Total Amt* (₹ Cr.)": "13.645",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.63",
+        "Subscription (x)": "1.43",
         "Shares Offered*": "23,95,200",
-        "Shares bid for": "15,09,600",
-        "Total Amt* (₹ Cr.)": "13.888",
-        "Total Applications": "271"
+        "Shares bid for": "34,34,400",
+        "Total Amt* (₹ Cr.)": "31.596",
+        "Total Applications": "781"
       }
     ],
     "dayWise": [
@@ -451,6 +459,15 @@
         "NII (< ₹10L)": "1.91",
         "Individual Investors": "0.31",
         "Total": "0.63"
+      },
+      {
+        "Date": "Aug 17 (Day 2)",
+        "QIB (Ex Anchor)": "1.00",
+        "NII*": "2.47",
+        "NII (> ₹10L)": "2.12",
+        "NII (< ₹10L)": "3.16",
+        "Individual Investors": "1.24",
+        "Total": "1.43"
       }
     ]
   },
@@ -476,7 +493,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "17-Aug 6:31"
+      "updatedOn": "17-Aug 17:55"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/ens-logo.jpg",
@@ -486,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-17T01:26:56+00:00"
+  "scrapedAt": "2026-08-17T12:50:57+00:00"
 }

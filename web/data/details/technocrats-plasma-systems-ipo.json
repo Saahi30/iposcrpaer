@@ -381,8 +381,8 @@
     "source": "https://www.chittorgarh.com/ipo/technocrats-plasma-systems-ipo/2840/"
   },
   "subscription": {
-    "summary": "Technocrats Plasma Systems IPO subscribed 0.42 times. The public issue subscribed 0.59 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.60 times in the NII category by August 14, 2026 5:06:12 PM (Day 1).",
-    "total": 0.42,
+    "summary": "Technocrats Plasma Systems IPO subscribed 5.71 times. The public issue subscribed 8.44 times in the individual investors category, 0.89 times in QIB (Ex Anchor), and 5.75 times in the NII category by August 17, 2026 6:19:52 PM (Day 2).",
+    "total": 5.71,
     "applications": null,
     "byCategory": [
       {
@@ -394,52 +394,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "2,31,000",
+        "Shares bid for": "2,31,000",
+        "Total Amt* (₹ Cr.)": "3.049",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.89",
         "Shares Offered*": "8,77,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "7,82,000",
+        "Total Amt* (₹ Cr.)": "10.322",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.60",
+        "Subscription (x)": "5.75",
         "Shares Offered*": "6,60,000",
-        "Shares bid for": "3,99,000",
-        "Total Amt* (₹ Cr.)": "5.267",
+        "Shares bid for": "37,93,000",
+        "Total Amt* (₹ Cr.)": "50.068",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.60",
+        "Subscription (x)": "5.74",
         "Shares Offered*": "4,40,000",
-        "Shares bid for": "2,65,000",
-        "Total Amt* (₹ Cr.)": "3.498",
+        "Shares bid for": "25,25,000",
+        "Total Amt* (₹ Cr.)": "33.330",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.61",
+        "Subscription (x)": "5.76",
         "Shares Offered*": "2,20,000",
-        "Shares bid for": "1,34,000",
-        "Total Amt* (₹ Cr.)": "1.769",
+        "Shares bid for": "12,68,000",
+        "Total Amt* (₹ Cr.)": "16.738",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "8.44",
         "Shares Offered*": "15,38,000",
-        "Shares bid for": "9,00,000",
-        "Total Amt* (₹ Cr.)": "11.880",
+        "Shares bid for": "1,29,78,000",
+        "Total Amt* (₹ Cr.)": "171.310",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.42",
+        "Subscription (x)": "5.71",
         "Shares Offered*": "30,75,000",
-        "Shares bid for": "12,99,000",
-        "Total Amt* (₹ Cr.)": "17.147",
-        "Total Applications": "531"
+        "Shares bid for": "1,75,53,000",
+        "Total Amt* (₹ Cr.)": "231.700",
+        "Total Applications": "7,250"
       }
     ],
     "dayWise": [
@@ -451,6 +459,15 @@
         "NII (< ₹10L)": "0.61",
         "Individual Investors": "0.59",
         "Total": "0.42"
+      },
+      {
+        "Date": "Aug 17 (Day 2)",
+        "QIB (Ex Anchor)": "0.89",
+        "NII*": "5.75",
+        "NII (> ₹10L)": "5.74",
+        "NII (< ₹10L)": "5.76",
+        "Individual Investors": "8.44",
+        "Total": "5.71"
       }
     ]
   },
@@ -473,10 +490,10 @@
       "listing": "2026-08-21"
     },
     "gmp": {
-      "value": 32.0,
-      "percent": 24.24,
-      "xLot": 32000.0,
-      "updatedOn": "17-Aug 6:32"
+      "value": 30.0,
+      "percent": 22.73,
+      "xLot": 30000.0,
+      "updatedOn": "17-Aug 17:56"
     },
     "leadManager": "Rarever Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/techno-crats-ipo-logo.png",
@@ -486,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-17T01:26:58+00:00"
+  "scrapedAt": "2026-08-17T12:50:59+00:00"
 }
