@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-16T18:33:48+00:00",
+  "scrapedAt": "2026-08-17T01:27:14+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,124 @@
     "limit": null
   },
   "summary": {
-    "open": 5,
+    "open": 7,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 7
   },
   "ipos": [
+    {
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "ipoId": 2469,
+      "name": "Lalithaa Jewellery Mart",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 190.0,
+        "max": 201.0,
+        "display": "₹190–201"
+      },
+      "lotSize": 74,
+      "issueSize": "₹1700.00 Cr",
+      "issueSizeCr": 1700.0,
+      "freshIssueCr": 1200.0,
+      "ofsCr": 500.0,
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "listing": "2026-08-24"
+      },
+      "gmp": {
+        "value": 29.5,
+        "percent": 14.68,
+        "xLot": 2183.0,
+        "updatedOn": "17-Aug 6:32"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Anand Rathi Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lalithaa-jewellery-mart-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lalithaa-jewellery-mart-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lalithaa-jewellery-mart-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "gmp": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/"
+      },
+      "gmpId": 1799,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in November 1985, Lalithaa Jewellery Mart Limited is a jewellery retail company with a strong regional presence across South India, catering primarily to the mass and value-conscious customer segment. The Company offers a diverse range of gold, silver, diamond, precious and semi-precious jewellery, with a focus on quality, craftsmanship and original designs. The Company has established strong brand acceptance in Tier II and Tier III cities across southern India.\n\nThe Company operate",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "horizon-industrial-parks-ipo",
+      "ipoId": 2826,
+      "name": "Horizon Industrial Parks",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 57.0,
+        "max": 60.0,
+        "display": "₹57–60"
+      },
+      "lotSize": 250,
+      "issueSize": "₹2600.00 Cr",
+      "issueSizeCr": 2600.0,
+      "freshIssueCr": 2600.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-17",
+        "close": "2026-08-19",
+        "allotment": "2026-08-20",
+        "listing": "2026-08-24"
+      },
+      "gmp": {
+        "value": 3.5,
+        "percent": 5.83,
+        "xLot": 875.0,
+        "updatedOn": "17-Aug 6:32"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/horizon-industrial-parks-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/horizon-industrial-parks-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=horizon-industrial-parks-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "gmp": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/"
+      },
+      "gmpId": 2080,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Horizon Industrial Parks, backed by Blackstone Group, is India’s largest industrial and logistics infrastructure developer, owner, and operator by total network, according to a JLL report. As of the DRHP date, the company owns 45 logistics and industrial assets across 10 major Indian cities, totaling 58.01 million square feet (msf).\n\nThe company develops and leases large, modern warehouses and industrial facilities to major companies. Its core asset types include:\n\nAddition",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "skytech-infinite-platform-ipo",
       "ipoId": 2739,
@@ -50,7 +160,7 @@
         "value": 7.0,
         "percent": 9.09,
         "xLot": 11200.0,
-        "updatedOn": "16-Aug 23:37"
+        "updatedOn": "17-Aug 6:30"
       },
       "subscription": {
         "total": 0.46,
@@ -155,7 +265,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Aug 23:30"
+        "updatedOn": "17-Aug 6:31"
       },
       "subscription": {
         "total": 0.63,
@@ -268,7 +378,7 @@
         "value": 32.0,
         "percent": 24.24,
         "xLot": 32000.0,
-        "updatedOn": "16-Aug 23:36"
+        "updatedOn": "17-Aug 6:32"
       },
       "subscription": {
         "total": 0.42,
@@ -381,7 +491,7 @@
         "value": 55.0,
         "percent": 29.1,
         "xLot": 33000.0,
-        "updatedOn": "16-Aug 23:34"
+        "updatedOn": "17-Aug 6:28"
       },
       "subscription": {
         "total": 12.14,
@@ -502,7 +612,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Aug 23:29"
+        "updatedOn": "17-Aug 6:29"
       },
       "subscription": {
         "total": 0.51,
