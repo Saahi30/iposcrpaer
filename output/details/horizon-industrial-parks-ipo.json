@@ -365,7 +365,7 @@
   "subscription": {
     "summary": "Horizon Industrial Parks IPO subscribed 0.25 times. The public issue subscribed 0.46 times in the retail category, 0.22 times in QIB (Ex Anchor), and 0.16 times in the NII category by August 18, 2026 5:05:21 PM (Day 2).",
     "total": 0.25,
-    "applications": 64397.0,
+    "applications": 64538.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -466,10 +466,10 @@
       "listing": "2026-08-24"
     },
     "gmp": {
-      "value": 1.25,
-      "percent": 2.08,
-      "xLot": 312.5,
-      "updatedOn": "18-Aug 17:57"
+      "value": 1.0,
+      "percent": 1.67,
+      "xLot": 250.0,
+      "updatedOn": "18-Aug 23:36"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/horizon-industrial-parks-logo.jpg",
@@ -479,5 +479,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-18T12:52:24+00:00"
+  "scrapedAt": "2026-08-18T18:42:04+00:00"
 }
