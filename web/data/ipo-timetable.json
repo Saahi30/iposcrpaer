@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T01:24:06+00:00",
+  "scrapedAt": "2026-08-18T06:50:21+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 176,
+    "total": 178,
     "mainboard": 55,
-    "sme": 121
+    "sme": 123
   },
   "ipos": [
     {
@@ -4215,6 +4215,30 @@
       }
     },
     {
+      "ipoId": 2783,
+      "name": "Madhur Knit Crafts Ltd.",
+      "slug": "madhur-knit-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "refunds": "2026-08-31",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Aug-2026",
+        "close": "27-Aug-2026",
+        "allotment": "28-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/madhur-knit-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2510,
       "name": "Skyways Air Services Ltd.",
       "slug": "skyways-air-ipo",
@@ -4236,6 +4260,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2977,
+      "name": "Sumax Engineering Ltd.",
+      "slug": "sumax-engineering-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-25",
+        "close": "2026-08-28",
+        "allotment": "2026-08-31",
+        "refunds": "2026-09-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Aug-2026",
+        "close": "28-Aug-2026",
+        "allotment": "31-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sumax-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sumax-engineering-ipo/2977/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]

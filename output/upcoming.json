@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T01:24:00+00:00",
+  "scrapedAt": "2026-08-18T06:50:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 9
   },
   "ipos": [
+    {
+      "slug": "sumax-engineering-ipo",
+      "ipoId": 2977,
+      "name": "Sumax Engineering",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 95.0,
+        "max": 101.0,
+        "display": "₹95–101"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹53.40 Cr",
+      "issueSizeCr": 53.4,
+      "freshIssueCr": 40.65,
+      "ofsCr": 10.06,
+      "dates": {
+        "open": "2026-08-25",
+        "close": "2026-08-28",
+        "allotment": "2026-08-31",
+        "listing": "2026-09-02"
+      },
+      "gmp": {
+        "value": 10.0,
+        "percent": 9.9,
+        "xLot": 12000.0,
+        "updatedOn": "18-Aug 11:58"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sumax-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sumax-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sumax-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sumax-engineering-ipo/2977/",
+        "gmp": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/"
+      },
+      "gmpId": 2238,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1994, Sumax Engineering Ltd. is engaged in the manufacturing and trading of products for the Automotive OEM (Original Equipment Manufacturer) and Auto Refinish markets. The company operates through two segments: manufacturing and trading.\n\nIts manufacturing portfolio includes adhesive tapes and die-cuts, pre-taped masking films, rubbing and polishing compounds, buffing and foam pads, reflective tapes, domes and graphics, and car care products.\n\nThrough its trading business, the c",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "skyways-air-ipo",
       "ipoId": 2510,
@@ -50,7 +105,7 @@
         "value": 31.0,
         "percent": 22.46,
         "xLot": 3100.0,
-        "updatedOn": "18-Aug 6:34"
+        "updatedOn": "18-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -76,6 +131,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in December 1984, Skyways Air Services Limited (SASL) is a well-established logistics and freight forwarding company with over four decades of experience in India’s air freight forwarding and logistics sector. The Company provides a comprehensive range of logistics solutions, including air and ocean freight forwarding, trucking, warehousing, customs broking, technology-driven express cargo and parcel delivery, and other value-added services. It has evolved from a Custom House Agent ",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "madhur-knit-ipo",
+      "ipoId": 2783,
+      "name": "Madhur Knit",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 95.0,
+        "max": 100.0,
+        "display": "₹95–100"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹27.00 Cr",
+      "issueSizeCr": 27.0,
+      "freshIssueCr": 25.64,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "listing": "2026-09-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Aug 11:59"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "SKI Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/madhur-knit-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/madhur-knit-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=madhur-knit-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/",
+        "gmp": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/"
+      },
+      "gmpId": 2037,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on August 21, 1997, Madhur Knit Crafts Limited operates in the textile space, principally manufacturing home-furnishing products and knitted & crocheted fabrics.\n\nThe company’s product portfolio includes blankets (acrylic, woollen, printed, designer), mink blankets, and related home-textile offerings. It services domestic markets through dealer networks and engages in export too.\n\nThe Company operates from a state-of-the-art manufacturing facility equipped with textile machinery imp",
+      "registrar": "Skyline Financial Services Pvt.Ltd."
     },
     {
       "slug": "abh-healthcare-ipo",
@@ -105,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 6:28"
+        "updatedOn": "18-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -135,7 +245,7 @@
     {
       "slug": "augmont-enterprises-ipo",
       "ipoId": 2673,
-      "name": "Augmont Enterprises Ltd.",
+      "name": "Augmont Enterprises",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -145,22 +255,22 @@
         "max": 788.0,
         "display": "₹750–788"
       },
-      "lotSize": null,
-      "issueSize": "₹825.0 Cr",
+      "lotSize": 19,
+      "issueSize": "₹825.00 Cr",
       "issueSizeCr": 825.0,
       "freshIssueCr": 620.0,
       "ofsCr": 205.0,
       "dates": {
         "open": "2026-08-21",
         "close": "2026-08-25",
-        "allotment": null,
-        "listing": "2026-08-28"
+        "allotment": "2026-08-26",
+        "listing": "2026-08-31"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 160.0,
+        "percent": 20.3,
+        "xLot": 3040.0,
+        "updatedOn": "18-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -178,12 +288,13 @@
       "urls": {
         "local": "./ipo.html?slug=augmont-enterprises-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/"
       },
+      "gmpId": 1938,
       "faceValue": "₹5 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, Augmont Enterprises Ltd. is engaged in the business of precious metals, primarily focusing on gold and silver.\n\nIt operates across the value chain, offering services such as refining, minting, trading, and selling bullion in physical and digital formats. The company also provides investment products like digital gold, enabling customers to buy and accumulate gold through online platforms.\n\nThe company offers integrated gold and silver platform in India serving businesses an",
+      "about": "Incorporated in October 2012, Augmont Enterprises Limited is an integrated gold and silver platform serving businesses and consumers across India and international markets. The Company operates across multiple segments of the gold and silver value chain, including procurement and refining, bullion trading, digital gold, jewellery manufacturing, international sales and technology support for gold-backed financial services. Its business is operated through the Augmont SPOT platform for enterprise ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -214,7 +325,7 @@
         "value": 154.0,
         "percent": 51.33,
         "xLot": 7700.0,
-        "updatedOn": "18-Aug 6:30"
+        "updatedOn": "18-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -269,7 +380,7 @@
         "value": 7.0,
         "percent": 4.38,
         "xLot": 651.0,
-        "updatedOn": "18-Aug 6:32"
+        "updatedOn": "18-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -324,7 +435,7 @@
         "value": 18.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "18-Aug 6:31"
+        "updatedOn": "18-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -379,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 6:33"
+        "updatedOn": "18-Aug 12:02"
       },
       "subscription": {
         "total": null,

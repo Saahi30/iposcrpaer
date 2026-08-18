@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T01:24:05+00:00",
+  "scrapedAt": "2026-08-18T06:50:20+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 89,
+    "totalEvents": 90,
     "mainboard": 43,
-    "sme": 46,
+    "sme": 47,
     "byEventType": {
-      "allotment": 21,
+      "allotment": 22,
       "close": 36,
       "open": 30,
       "other": 2
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 87,
+        "total": 88,
         "mainboard": 42,
-        "sme": 45
+        "sme": 46
       },
       "byDate": {
         "2026-08-03": [
@@ -1296,6 +1296,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15267",
               "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Closes%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=The%20issue%20of%20Credent%20Connect%20N%20Care%20Ltd.%20opens%20on%20Aug%2013%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
+            }
+          },
+          {
+            "title": "Q&T Foods IPO Allotment Status",
+            "company": "Q&T Foods",
+            "eventType": "allotment",
+            "date": "2026-08-17",
+            "dateEnd": "2026-08-17",
+            "details": "The allotment status of Q&T Foods Ltd. IPO is now available online. The public issue of Q&T Foods IPO was open on Aug 12, 2026 and closed for subscription on Aug 14, 2026. The equity shares of the com",
+            "type": "sme",
+            "slug": "qt-foods-ipo",
+            "ipoId": 3145,
+            "eventId": 15310,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15310",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Allotment%20Status&location=&dates=20260817/20260818&details=The%20allotment%20status%20of%20Q%26T%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Q%26T%20Foods%20IPO%20was%20open%20on%20Aug%2012%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20com"
             }
           }
         ],
@@ -3197,6 +3216,25 @@
           }
         },
         {
+          "title": "Q&T Foods IPO Allotment Status",
+          "company": "Q&T Foods",
+          "eventType": "allotment",
+          "date": "2026-08-17",
+          "dateEnd": "2026-08-17",
+          "details": "The allotment status of Q&T Foods Ltd. IPO is now available online. The public issue of Q&T Foods IPO was open on Aug 12, 2026 and closed for subscription on Aug 14, 2026. The equity shares of the com",
+          "type": "sme",
+          "slug": "qt-foods-ipo",
+          "ipoId": 3145,
+          "eventId": 15310,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15310",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Allotment%20Status&location=&dates=20260817/20260818&details=The%20allotment%20status%20of%20Q%26T%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Q%26T%20Foods%20IPO%20was%20open%20on%20Aug%2012%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20com"
+          }
+        },
+        {
           "title": "ENS Enterprises IPO Closes on Aug 18, 2026",
           "company": "ENS Enterprises",
           "eventType": "close",
@@ -4947,6 +4985,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15267",
         "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Closes%20on%20Aug%2017%2C%202026&location=&dates=20260817/20260818&details=The%20issue%20of%20Credent%20Connect%20N%20Care%20Ltd.%20opens%20on%20Aug%2013%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
+      }
+    },
+    {
+      "title": "Q&T Foods IPO Allotment Status",
+      "company": "Q&T Foods",
+      "eventType": "allotment",
+      "date": "2026-08-17",
+      "dateEnd": "2026-08-17",
+      "details": "The allotment status of Q&T Foods Ltd. IPO is now available online. The public issue of Q&T Foods IPO was open on Aug 12, 2026 and closed for subscription on Aug 14, 2026. The equity shares of the com",
+      "type": "sme",
+      "slug": "qt-foods-ipo",
+      "ipoId": 3145,
+      "eventId": 15310,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/qt-foods-ipo/3145/#15310",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qt-foods-ipo/3145/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Q%26T%20Foods%20IPO%20Allotment%20Status&location=&dates=20260817/20260818&details=The%20allotment%20status%20of%20Q%26T%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Q%26T%20Foods%20IPO%20was%20open%20on%20Aug%2012%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2014%2C%202026.%20The%20equity%20shares%20of%20the%20com"
       }
     },
     {
