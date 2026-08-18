@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-17T18:44:25+00:00",
+  "scrapedAt": "2026-08-18T01:24:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 31.0,
         "percent": 22.46,
         "xLot": 3100.0,
-        "updatedOn": "17-Aug 23:37"
+        "updatedOn": "18-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Aug 23:29"
+        "updatedOn": "18-Aug 6:28"
       },
       "subscription": {
         "total": null,
@@ -131,6 +131,60 @@
       "saleType": "Fresh capital only",
       "about": "ABH Healthcare Ltd provides healthcare services, operates under the name \"Anil Baghi Hospital\". The company has 150 beds and offer 25 medical specialities, including cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc.\n\nThe hospital has empaneled with 30 private and public health insurance providers and third-party administrators. T",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "augmont-enterprises-ipo",
+      "ipoId": 2673,
+      "name": "Augmont Enterprises Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 750.0,
+        "max": 788.0,
+        "display": "₹750–788"
+      },
+      "lotSize": null,
+      "issueSize": "₹825.0 Cr",
+      "issueSizeCr": 825.0,
+      "freshIssueCr": 620.0,
+      "ofsCr": 205.0,
+      "dates": {
+        "open": "2026-08-21",
+        "close": "2026-08-25",
+        "allotment": null,
+        "listing": "2026-08-28"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Nuvama Wealth Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/augmont-enterprises-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=augmont-enterprises-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/",
+        "gmp": null
+      },
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2012, Augmont Enterprises Ltd. is engaged in the business of precious metals, primarily focusing on gold and silver.\n\nIt operates across the value chain, offering services such as refining, minting, trading, and selling bullion in physical and digital formats. The company also provides investment products like digital gold, enabling customers to buy and accumulate gold through online platforms.\n\nThe company offers integrated gold and silver platform in India serving businesses an",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "tempsens-instruments-india-ipo",
@@ -160,7 +214,7 @@
         "value": 154.0,
         "percent": 51.33,
         "xLot": 7700.0,
-        "updatedOn": "17-Aug 23:33"
+        "updatedOn": "18-Aug 6:30"
       },
       "subscription": {
         "total": null,
@@ -215,7 +269,7 @@
         "value": 7.0,
         "percent": 4.38,
         "xLot": 651.0,
-        "updatedOn": "17-Aug 23:37"
+        "updatedOn": "18-Aug 6:32"
       },
       "subscription": {
         "total": null,
@@ -270,7 +324,7 @@
         "value": 18.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "17-Aug 23:37"
+        "updatedOn": "18-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -325,7 +379,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Aug 23:33"
+        "updatedOn": "18-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -351,116 +405,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2018, Dhanwel Hybrid Seeds is engaged in the business of seed manufacturing and supply for various field crops and vegetables. It develops and produces quality seeds by sourcing improved genetic seed material from recognised institutions, research organisations, and the open market. Seed production is carried out through a well-planned process that includes cultivation, processing, quality control, and packaging.\n\nIts products include Groundnut Seeds, Soybean Seeds, Gram Seeds, S",
       "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "sunshine-pictures-ipo",
-      "ipoId": 2002,
-      "name": "Sunshine Pictures",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 342.0,
-        "max": 360.0,
-        "display": "₹342–360"
-      },
-      "lotSize": 41,
-      "issueSize": "₹282.14 Cr",
-      "issueSizeCr": 282.14,
-      "freshIssueCr": 172.8,
-      "ofsCr": 109.34,
-      "dates": {
-        "open": "2026-08-18",
-        "close": "2026-08-20",
-        "allotment": "2026-08-21",
-        "listing": "2026-08-25"
-      },
-      "gmp": {
-        "value": 73.0,
-        "percent": 20.28,
-        "xLot": 2993.0,
-        "updatedOn": "17-Aug 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "GYR Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/sunshine-pictures-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sunshine-pictures-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
-        "gmp": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/"
-      },
-      "gmpId": 1612,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2007, Sunshine Pictures Limited is a production company engaged in the business of originating, creating, developing, producing, marketing, and distributing films, TV serials, and web series.\n\nThe company is a technology-driven content creator specializing in innovative commercial films, covering script development, production, intellectual property creation, rights monetization, and distribution.\n\nThe company has produced notable films like ‘Force’, ‘Commando’, ‘Holiday’, ‘Force",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "shankesh-jewellers-ipo",
-      "ipoId": 2663,
-      "name": "Shankesh Jewellers",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 93.0,
-        "display": "₹88–93"
-      },
-      "lotSize": 160,
-      "issueSize": "₹367.18 Cr",
-      "issueSizeCr": 367.18,
-      "freshIssueCr": 274.18,
-      "ofsCr": 93.0,
-      "dates": {
-        "open": "2026-08-18",
-        "close": "2026-08-20",
-        "allotment": "2026-08-21",
-        "listing": "2026-08-25"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 2.15,
-        "xLot": 320.0,
-        "updatedOn": "17-Aug 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Aryaman Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/shankesh-jewellers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shankesh-jewellers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
-        "gmp": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/"
-      },
-      "gmpId": 1932,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2005, Shankesh Jewellers Limited is engaged in the business of manufacturing and providing customised handcrafted gold jewellery. The company specialises in 22-karat and 18-karat gold jewellery, offering a wide product portfolio including bangles, bridal jewellery, chokers, jhumkas, necklace sets, mangalsutras, rings, and combined sets across categories such as antique, semi-antique, Calcutta, temple, gheru polish, and yellow/rodium/rose gold jewellery.\n\nThe company distributes p",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }

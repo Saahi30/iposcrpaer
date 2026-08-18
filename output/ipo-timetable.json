@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-17T18:44:30+00:00",
+  "scrapedAt": "2026-08-18T01:24:06+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 175,
-    "mainboard": 54,
+    "total": 176,
+    "mainboard": 55,
     "sme": 121
   },
   "ipos": [
@@ -4163,6 +4163,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/tempsens-instruments-india-ipo/2668/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2673,
+      "name": "Augmont Enterprises Ltd.",
+      "slug": "augmont-enterprises-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-21",
+        "close": "2026-08-25",
+        "allotment": "2026-08-26",
+        "refunds": "2026-08-27",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "21-Aug-2026",
+        "close": "25-Aug-2026",
+        "allotment": "26-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

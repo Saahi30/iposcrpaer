@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-17T18:44:25+00:00",
+  "scrapedAt": "2026-08-18T01:24:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,124 @@
     "limit": null
   },
   "summary": {
-    "open": 7,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "sunshine-pictures-ipo",
+      "ipoId": 2002,
+      "name": "Sunshine Pictures",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 342.0,
+        "max": 360.0,
+        "display": "₹342–360"
+      },
+      "lotSize": 41,
+      "issueSize": "₹282.14 Cr",
+      "issueSizeCr": 282.14,
+      "freshIssueCr": 172.8,
+      "ofsCr": 109.34,
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "listing": "2026-08-25"
+      },
+      "gmp": {
+        "value": 73.0,
+        "percent": 20.28,
+        "xLot": 2993.0,
+        "updatedOn": "18-Aug 6:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sunshine-pictures-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sunshine-pictures-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+        "gmp": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/"
+      },
+      "gmpId": 1612,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2007, Sunshine Pictures Limited is a production company engaged in the business of originating, creating, developing, producing, marketing, and distributing films, TV serials, and web series.\n\nThe company is a technology-driven content creator specializing in innovative commercial films, covering script development, production, intellectual property creation, rights monetization, and distribution.\n\nThe company has produced notable films like ‘Force’, ‘Commando’, ‘Holiday’, ‘Force",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "name": "Shankesh Jewellers",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 93.0,
+        "display": "₹88–93"
+      },
+      "lotSize": 160,
+      "issueSize": "₹367.18 Cr",
+      "issueSizeCr": 367.18,
+      "freshIssueCr": 274.18,
+      "ofsCr": 93.0,
+      "dates": {
+        "open": "2026-08-18",
+        "close": "2026-08-20",
+        "allotment": "2026-08-21",
+        "listing": "2026-08-25"
+      },
+      "gmp": {
+        "value": 2.0,
+        "percent": 2.15,
+        "xLot": 320.0,
+        "updatedOn": "18-Aug 6:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aryaman Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/shankesh-jewellers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shankesh-jewellers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "gmp": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/"
+      },
+      "gmpId": 1932,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2005, Shankesh Jewellers Limited is engaged in the business of manufacturing and providing customised handcrafted gold jewellery. The company specialises in 22-karat and 18-karat gold jewellery, offering a wide product portfolio including bangles, bridal jewellery, chokers, jhumkas, necklace sets, mangalsutras, rings, and combined sets across categories such as antique, semi-antique, Calcutta, temple, gheru polish, and yellow/rodium/rose gold jewellery.\n\nThe company distributes p",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "lalithaa-jewellery-mart-ipo",
       "ipoId": 2469,
@@ -50,7 +160,7 @@
         "value": 30.0,
         "percent": 14.93,
         "xLot": 2220.0,
-        "updatedOn": "17-Aug 23:29"
+        "updatedOn": "18-Aug 6:35"
       },
       "subscription": {
         "total": 0.75,
@@ -163,7 +273,7 @@
         "value": 1.7,
         "percent": 2.83,
         "xLot": 425.0,
-        "updatedOn": "17-Aug 23:36"
+        "updatedOn": "18-Aug 6:28"
       },
       "subscription": {
         "total": 0.15,
@@ -276,7 +386,7 @@
         "value": 1.0,
         "percent": 1.3,
         "xLot": 1600.0,
-        "updatedOn": "17-Aug 23:30"
+        "updatedOn": "18-Aug 6:31"
       },
       "subscription": {
         "total": 0.94,
@@ -389,7 +499,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Aug 23:37"
+        "updatedOn": "18-Aug 6:36"
       },
       "subscription": {
         "total": 1.43,
@@ -510,7 +620,7 @@
         "value": 30.0,
         "percent": 22.73,
         "xLot": 30000.0,
-        "updatedOn": "17-Aug 23:30"
+        "updatedOn": "18-Aug 6:37"
       },
       "subscription": {
         "total": 5.71,
@@ -604,127 +714,6 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
-      "slug": "credent-connect-ipo",
-      "ipoId": 2991,
-      "name": "Credent Connect",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 179.0,
-        "max": 189.0,
-        "display": "₹179–189"
-      },
-      "lotSize": 600,
-      "issueSize": "₹93.90 Cr",
-      "issueSizeCr": 93.9,
-      "freshIssueCr": 89.13,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-13",
-        "close": "2026-08-17",
-        "allotment": "2026-08-18",
-        "listing": "2026-08-20"
-      },
-      "gmp": {
-        "value": 45.0,
-        "percent": 23.81,
-        "xLot": 27000.0,
-        "updatedOn": "17-Aug 23:28"
-      },
-      "subscription": {
-        "total": 153.13,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "14,04,000",
-            "Shares bid for": "14,04,000",
-            "Total Amt* (₹ Cr.)": "26.54",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,52,000",
-            "Shares bid for": "2,52,000",
-            "Total Amt* (₹ Cr.)": "4.76",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "130.40",
-            "Shares Offered*": "9,48,000",
-            "Shares bid for": "12,36,15,600",
-            "Total Amt* (₹ Cr.)": "2,336.33",
-            "Total Applications": "194"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "216.97",
-            "Shares Offered*": "7,08,000",
-            "Shares bid for": "15,36,15,000",
-            "Total Amt* (₹ Cr.)": "2,903.32",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "255.58",
-            "Shares Offered*": "4,72,000",
-            "Shares bid for": "12,06,32,400",
-            "Total Amt* (₹ Cr.)": "2,279.95",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "139.76",
-            "Shares Offered*": "2,36,000",
-            "Shares bid for": "3,29,82,600",
-            "Total Amt* (₹ Cr.)": "623.37",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "138.86",
-            "Shares Offered*": "16,56,000",
-            "Shares bid for": "22,99,52,400",
-            "Total Amt* (₹ Cr.)": "4,346.10",
-            "Total Applications": "1,91,627"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "153.13",
-            "Shares Offered*": "33,12,000",
-            "Shares bid for": "50,71,83,000",
-            "Total Amt* (₹ Cr.)": "9,585.76",
-            "Total Applications": "2,30,223"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/credent-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/credent-connect-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=credent-connect-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
-        "gmp": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/"
-      },
-      "gmpId": 2252,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2015 as Credent Cold Chain Logistics Private Limited. Credent Connect N Care Limited is an integrated healthcare services and logistics provider offering technology-enabled operational, workforce and supply chain solutions to healthcare institutions across India. The company primarily operates on a B2B model, serving diagnostic laboratories, IVD companies, pharmaceutical companies, hospitals, clinics and other healthcare enterprises\n\nThe company offers a comprehensive portfo",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "fascinate-textiles-ipo",
       "ipoId": 2734,
       "name": "Fascinate Textiles",
@@ -752,7 +741,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Aug 23:29"
+        "updatedOn": "18-Aug 6:31"
       },
       "subscription": {
         "total": 0.86,
