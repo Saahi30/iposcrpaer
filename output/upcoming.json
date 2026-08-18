@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T06:50:16+00:00",
+  "scrapedAt": "2026-08-18T12:52:46+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 10,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 10
   },
   "ipos": [
+    {
+      "slug": "kwick-forensic-solutions-ipo",
+      "ipoId": 2757,
+      "name": "Kwick Forensic Solutions",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-27",
+        "close": "2026-08-31",
+        "allotment": "2026-09-01",
+        "listing": "2026-09-03"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "18-Aug 13:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Capitalventures",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kwick-forensic-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/kwick-forensic-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=kwick-forensic-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/",
+        "gmp": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/"
+      },
+      "gmpId": 2013,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2005, Kwick Forensic Solutions Limited (formerly Kwick Soft Solutions Private Limited) is engaged in providing forensic science, evidence management, cyber and digital forensics, DNA forensics and law-enforcement solutions across India. The Company initially focused on software development, including 3D rendering, animation and simulation, and subsequently expanded into forensic science and training technologies. Since FY2015, it has developed and supplied end-to-end forens",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
     {
       "slug": "sumax-engineering-ipo",
       "ipoId": 2977,
@@ -50,7 +105,7 @@
         "value": 10.0,
         "percent": 9.9,
         "xLot": 12000.0,
-        "updatedOn": "18-Aug 11:58"
+        "updatedOn": "18-Aug 17:55"
       },
       "subscription": {
         "total": null,
@@ -102,10 +157,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 31.0,
-        "percent": 22.46,
-        "xLot": 3100.0,
-        "updatedOn": "18-Aug 11:57"
+        "value": 33.0,
+        "percent": 23.91,
+        "xLot": 3300.0,
+        "updatedOn": "18-Aug 17:55"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 11:59"
+        "updatedOn": "18-Aug 17:54"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 12:00"
+        "updatedOn": "18-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-08-31"
       },
       "gmp": {
-        "value": 160.0,
-        "percent": 20.3,
-        "xLot": 3040.0,
-        "updatedOn": "18-Aug 12:01"
+        "value": 180.0,
+        "percent": 22.84,
+        "xLot": 3420.0,
+        "updatedOn": "18-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-08-28"
       },
       "gmp": {
-        "value": 154.0,
-        "percent": 51.33,
-        "xLot": 7700.0,
-        "updatedOn": "18-Aug 11:54"
+        "value": 160.0,
+        "percent": 53.33,
+        "xLot": 8000.0,
+        "updatedOn": "18-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-08-26"
       },
       "gmp": {
-        "value": 7.0,
-        "percent": 4.38,
-        "xLot": 651.0,
-        "updatedOn": "18-Aug 11:57"
+        "value": 5.0,
+        "percent": 3.12,
+        "xLot": 465.0,
+        "updatedOn": "18-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 18.0,
         "percent": 13.04,
         "xLot": 18000.0,
-        "updatedOn": "18-Aug 12:01"
+        "updatedOn": "18-Aug 17:55"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 12:02"
+        "updatedOn": "18-Aug 18:01"
       },
       "subscription": {
         "total": null,

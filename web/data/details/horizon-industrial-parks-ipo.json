@@ -363,9 +363,9 @@
     "source": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/"
   },
   "subscription": {
-    "summary": "Horizon Industrial Parks IPO subscribed 0.18 times. The public issue subscribed 0.35 times in the retail category, 0.19 times in QIB (Ex Anchor), and 0.06 times in the NII category by August 18, 2026 12:14:19 PM (Day 2).",
-    "total": 0.18,
-    "applications": 47558.0,
+    "summary": "Horizon Industrial Parks IPO subscribed 0.25 times. The public issue subscribed 0.46 times in the retail category, 0.22 times in QIB (Ex Anchor), and 0.16 times in the NII category by August 18, 2026 5:05:21 PM (Day 2).",
+    "total": 0.25,
+    "applications": 64397.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -376,52 +376,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.19",
+        "Subscription (x)": "0.22",
         "Shares Offered*": "12,98,06,819",
-        "Shares bid for": "2,41,36,500",
-        "Total Amt* (₹ Cr.)": "144.819"
+        "Shares bid for": "2,85,73,750",
+        "Total Amt* (₹ Cr.)": "171.443"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "0.16",
         "Shares Offered*": "6,48,86,363",
-        "Shares bid for": "37,23,500",
-        "Total Amt* (₹ Cr.)": "22.341"
+        "Shares bid for": "1,06,39,750",
+        "Total Amt* (₹ Cr.)": "63.839"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.05",
+        "Subscription (x)": "0.19",
         "Shares Offered*": "4,32,57,576",
-        "Shares bid for": "22,61,000",
-        "Total Amt* (₹ Cr.)": "13.566"
+        "Shares bid for": "82,79,500",
+        "Total Amt* (₹ Cr.)": "49.677"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "0.11",
         "Shares Offered*": "2,16,28,788",
-        "Shares bid for": "14,62,500",
-        "Total Amt* (₹ Cr.)": "8.775"
+        "Shares bid for": "23,60,250",
+        "Total Amt* (₹ Cr.)": "14.162"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "0.46",
         "Shares Offered*": "4,32,57,576",
-        "Shares bid for": "1,50,43,500",
-        "Total Amt* (₹ Cr.)": "90.261"
+        "Shares bid for": "1,97,92,000",
+        "Total Amt* (₹ Cr.)": "118.752"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.50",
+        "Subscription (x)": "0.71",
         "Shares Offered*": "8,33,332",
-        "Shares bid for": "4,16,750",
-        "Total Amt* (₹ Cr.)": "2.501"
+        "Shares bid for": "5,89,250",
+        "Total Amt* (₹ Cr.)": "3.536"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.18",
+        "Subscription (x)": "0.25",
         "Shares Offered*": "23,87,84,090",
-        "Shares bid for": "4,33,20,250",
-        "Total Amt* (₹ Cr.)": "259.922"
+        "Shares bid for": "5,95,94,750",
+        "Total Amt* (₹ Cr.)": "357.569"
       }
     ],
     "dayWise": [
@@ -437,13 +437,13 @@
       },
       {
         "Date": "Aug 18 (Day 2)",
-        "QIB (Ex Anchor)": "0.19",
-        "NII": "0.06",
-        "NII (> ₹10L)": "0.05",
-        "NII (< ₹10L)": "0.07",
-        "Retail": "0.35",
-        "EMP": "0.50",
-        "Total": "0.18"
+        "QIB (Ex Anchor)": "0.22",
+        "NII": "0.16",
+        "NII (> ₹10L)": "0.19",
+        "NII (< ₹10L)": "0.11",
+        "Retail": "0.46",
+        "EMP": "0.71",
+        "Total": "0.25"
       }
     ]
   },
@@ -469,7 +469,7 @@
       "value": 1.25,
       "percent": 2.08,
       "xLot": 312.5,
-      "updatedOn": "18-Aug 11:56"
+      "updatedOn": "18-Aug 17:57"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/horizon-industrial-parks-logo.jpg",
@@ -479,5 +479,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-18T06:49:52+00:00"
+  "scrapedAt": "2026-08-18T12:52:24+00:00"
 }
