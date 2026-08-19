@@ -403,7 +403,7 @@
   "subscription": {
     "summary": "Shankesh Jewellers IPO subscribed 0.94 times. The public issue subscribed 1.13 times in the retail category, 0.76 times in QIB (Ex Anchor), and 0.76 times in the NII category by August 19, 2026 5:05:47 PM (Day 2).",
     "total": 0.94,
-    "applications": 70479.0,
+    "applications": 70596.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -495,10 +495,10 @@
       "listing": "2026-08-25"
     },
     "gmp": {
-      "value": 3.5,
-      "percent": 3.76,
-      "xLot": 560.0,
-      "updatedOn": "19-Aug 18:00"
+      "value": 2.5,
+      "percent": 2.69,
+      "xLot": 400.0,
+      "updatedOn": "19-Aug 23:33"
     },
     "leadManager": "Aryaman Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
@@ -508,5 +508,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-19T12:53:40+00:00"
+  "scrapedAt": "2026-08-19T18:39:41+00:00"
 }
