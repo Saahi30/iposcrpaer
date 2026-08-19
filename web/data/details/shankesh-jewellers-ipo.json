@@ -401,9 +401,9 @@
     "source": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/"
   },
   "subscription": {
-    "summary": "Shankesh Jewellers IPO subscribed 0.61 times. The public issue subscribed 0.81 times in the retail category, 0.34 times in QIB (Ex Anchor), and 0.50 times in the NII category by August 19, 2026 12:13:46 PM (Day 2).",
-    "total": 0.61,
-    "applications": 47831.0,
+    "summary": "Shankesh Jewellers IPO subscribed 0.94 times. The public issue subscribed 1.13 times in the retail category, 0.76 times in QIB (Ex Anchor), and 0.76 times in the NII category by August 19, 2026 5:05:47 PM (Day 2).",
+    "total": 0.94,
+    "applications": 70479.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -414,45 +414,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.34",
+        "Subscription (x)": "0.76",
         "Shares Offered*": "78,97,000",
-        "Shares bid for": "27,19,040",
-        "Total Amt* (₹ Cr.)": "25.287"
+        "Shares bid for": "60,01,120",
+        "Total Amt* (₹ Cr.)": "55.810"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.50",
+        "Subscription (x)": "0.76",
         "Shares Offered*": "59,22,300",
-        "Shares bid for": "29,85,600",
-        "Total Amt* (₹ Cr.)": "27.766"
+        "Shares bid for": "45,09,920",
+        "Total Amt* (₹ Cr.)": "41.942"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.49",
+        "Subscription (x)": "0.65",
         "Shares Offered*": "39,48,200",
-        "Shares bid for": "19,28,320",
-        "Total Amt* (₹ Cr.)": "17.933"
+        "Shares bid for": "25,60,800",
+        "Total Amt* (₹ Cr.)": "23.815"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.54",
+        "Subscription (x)": "0.99",
         "Shares Offered*": "19,74,100",
-        "Shares bid for": "10,57,280",
-        "Total Amt* (₹ Cr.)": "9.833"
+        "Shares bid for": "19,49,120",
+        "Total Amt* (₹ Cr.)": "18.127"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "1.13",
         "Shares Offered*": "1,38,18,700",
-        "Shares bid for": "1,12,37,600",
-        "Total Amt* (₹ Cr.)": "104.510"
+        "Shares bid for": "1,55,77,920",
+        "Total Amt* (₹ Cr.)": "144.875"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.61",
+        "Subscription (x)": "0.94",
         "Shares Offered*": "2,76,38,000",
-        "Shares bid for": "1,69,42,240",
-        "Total Amt* (₹ Cr.)": "157.563"
+        "Shares bid for": "2,60,88,960",
+        "Total Amt* (₹ Cr.)": "242.627"
       }
     ],
     "dayWise": [
@@ -467,12 +467,12 @@
       },
       {
         "Date": "Aug 19 (Day 2)",
-        "QIB (Ex Anchor)": "0.34",
-        "NII": "0.50",
-        "NII (> ₹10L)": "0.49",
-        "NII (< ₹10L)": "0.54",
-        "Retail": "0.81",
-        "Total": "0.61"
+        "QIB (Ex Anchor)": "0.76",
+        "NII": "0.76",
+        "NII (> ₹10L)": "0.65",
+        "NII (< ₹10L)": "0.99",
+        "Retail": "1.13",
+        "Total": "0.94"
       }
     ]
   },
@@ -495,10 +495,10 @@
       "listing": "2026-08-25"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 5.38,
-      "xLot": 800.0,
-      "updatedOn": "19-Aug 11:59"
+      "value": 3.5,
+      "percent": 3.76,
+      "xLot": 560.0,
+      "updatedOn": "19-Aug 18:00"
     },
     "leadManager": "Aryaman Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/shankesh-jewellers-ltd-logo.png",
@@ -508,5 +508,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-19T06:50:01+00:00"
+  "scrapedAt": "2026-08-19T12:53:40+00:00"
 }

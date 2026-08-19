@@ -354,9 +354,9 @@
     "source": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/"
   },
   "subscription": {
-    "summary": "Sunshine Pictures IPO subscribed 10.42 times. The public issue subscribed 13.09 times in the retail category, 0.07 times in QIB (Ex Anchor), and 18.01 times in the NII category by August 19, 2026 12:13:55 PM (Day 2).",
-    "total": 10.42,
-    "applications": 770665.0,
+    "summary": "Sunshine Pictures IPO subscribed 18.47 times. The public issue subscribed 21.61 times in the retail category, 0.14 times in QIB (Ex Anchor), and 35.59 times in the NII category by August 19, 2026 5:05:56 PM (Day 2).",
+    "total": 18.47,
+    "applications": 1290067.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -367,45 +367,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "0.14",
         "Shares Offered*": "15,67,436",
-        "Shares bid for": "1,02,664",
-        "Total Amt* (₹ Cr.)": "3.70"
+        "Shares bid for": "2,25,623",
+        "Total Amt* (₹ Cr.)": "8.12"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "18.01",
+        "Subscription (x)": "35.59",
         "Shares Offered*": "11,75,592",
-        "Shares bid for": "2,11,71,129",
-        "Total Amt* (₹ Cr.)": "762.16"
+        "Shares bid for": "4,18,40,049",
+        "Total Amt* (₹ Cr.)": "1,506.24"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "14.46",
+        "Subscription (x)": "29.07",
         "Shares Offered*": "7,83,728",
-        "Shares bid for": "1,13,32,277",
-        "Total Amt* (₹ Cr.)": "407.96"
+        "Shares bid for": "2,27,83,126",
+        "Total Amt* (₹ Cr.)": "820.19"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "25.11",
+        "Subscription (x)": "48.63",
         "Shares Offered*": "3,91,864",
-        "Shares bid for": "98,38,852",
-        "Total Amt* (₹ Cr.)": "354.20"
+        "Shares bid for": "1,90,56,923",
+        "Total Amt* (₹ Cr.)": "686.05"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "13.09",
+        "Subscription (x)": "21.61",
         "Shares Offered*": "27,43,023",
-        "Shares bid for": "3,59,05,791",
-        "Total Amt* (₹ Cr.)": "1,292.61"
+        "Shares bid for": "5,92,78,866",
+        "Total Amt* (₹ Cr.)": "2,134.04"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "10.42",
+        "Subscription (x)": "18.47",
         "Shares Offered*": "54,86,051",
-        "Shares bid for": "5,71,79,584",
-        "Total Amt* (₹ Cr.)": "2,058.47"
+        "Shares bid for": "10,13,44,538",
+        "Total Amt* (₹ Cr.)": "3,648.40"
       }
     ],
     "dayWise": [
@@ -420,12 +420,12 @@
       },
       {
         "Date": "Aug 19 (Day 2)",
-        "QIB (Ex Anchor)": "0.07",
-        "NII": "18.01",
-        "NII (> ₹10L)": "14.46",
-        "NII (< ₹10L)": "25.11",
-        "Retail": "13.09",
-        "Total": "10.42"
+        "QIB (Ex Anchor)": "0.14",
+        "NII": "35.59",
+        "NII (> ₹10L)": "29.07",
+        "NII (< ₹10L)": "48.63",
+        "Retail": "21.61",
+        "Total": "18.47"
       }
     ]
   },
@@ -448,10 +448,10 @@
       "listing": "2026-08-25"
     },
     "gmp": {
-      "value": 77.0,
-      "percent": 21.39,
-      "xLot": 3157.0,
-      "updatedOn": "19-Aug 11:56"
+      "value": 78.0,
+      "percent": 21.67,
+      "xLot": 3198.0,
+      "updatedOn": "19-Aug 17:53"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/sunshine-pictures-ipo-logo.jpg",
@@ -461,5 +461,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-19T06:50:00+00:00"
+  "scrapedAt": "2026-08-19T12:53:37+00:00"
 }

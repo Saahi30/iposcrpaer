@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-19T06:50:21+00:00",
+  "scrapedAt": "2026-08-19T12:54:02+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -105,7 +105,7 @@
         "value": 20.0,
         "percent": 19.8,
         "xLot": 24000.0,
-        "updatedOn": "19-Aug 11:54"
+        "updatedOn": "19-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 40.0,
         "percent": 28.99,
         "xLot": 4000.0,
-        "updatedOn": "19-Aug 11:57"
+        "updatedOn": "19-Aug 17:53"
       },
       "subscription": {
         "total": null,
@@ -188,6 +188,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "abh-healthcare-ipo",
+      "ipoId": 2517,
+      "name": "ABH Healthcare",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 96.0,
+        "max": 102.0,
+        "display": "₹96–102"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹34.98 Cr",
+      "issueSizeCr": 34.98,
+      "freshIssueCr": 33.22,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "listing": "2026-09-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "19-Aug 17:58"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Fedex Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/abh-healthcare-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/abh-healthcare-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=abh-healthcare-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/abh-healthcare-ipo/2517/",
+        "gmp": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/"
+      },
+      "gmpId": 1824,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2021, ABH Healthcare Ltd provides healthcare services, operates under the name \"Anil Baghi Hospital\". The company has 150 beds and offer 25 medical specialities, including cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc.\n\nThe hospital has empaneled with 30 private and public health insurance providers and third-p",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "hy-tech-engineers-ipo",
       "ipoId": 2591,
       "name": "Hy-Tech Engineers",
@@ -212,10 +267,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "19-Aug 12:00"
+        "value": 5.0,
+        "percent": 9.43,
+        "xLot": 1415.0,
+        "updatedOn": "19-Aug 17:54"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Aug 11:54"
+        "updatedOn": "19-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "19-Aug 11:56"
+        "value": 220.0,
+        "percent": 22.27,
+        "xLot": 3300.0,
+        "updatedOn": "19-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -353,61 +408,6 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
-      "slug": "abh-healthcare-ipo",
-      "ipoId": 2517,
-      "name": "ABH Healthcare",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 96.0,
-        "max": 102.0,
-        "display": "₹96–102"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹34.98 Cr",
-      "issueSizeCr": 34.98,
-      "freshIssueCr": 33.22,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-24",
-        "close": "2026-08-26",
-        "allotment": "2026-08-27",
-        "listing": "2026-08-31"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "19-Aug 12:00"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Fedex Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/abh-healthcare-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/abh-healthcare-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=abh-healthcare-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/abh-healthcare-ipo/2517/",
-        "gmp": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/"
-      },
-      "gmpId": 1824,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "ABH Healthcare Ltd provides healthcare services, operates under the name \"Anil Baghi Hospital\". The company has 150 beds and offer 25 medical specialities, including cardiac sciences, neurology, minimally invasive spine and brain surgeries, medical and surgical gastroenterology, laparoscopic and bariatric surgery, urology, pulmonology, nephrology, ENT, maxillofacial surgeries, etc.\n\nThe hospital has empaneled with 30 private and public health insurance providers and third-party administrators. T",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
       "slug": "augmont-enterprises-ipo",
       "ipoId": 2673,
       "name": "Augmont Enterprises",
@@ -428,14 +428,14 @@
       "dates": {
         "open": "2026-08-21",
         "close": "2026-08-25",
-        "allotment": "2026-08-26",
+        "allotment": "2026-08-27",
         "listing": "2026-08-31"
       },
       "gmp": {
-        "value": 190.0,
-        "percent": 24.11,
-        "xLot": 3610.0,
-        "updatedOn": "19-Aug 11:59"
+        "value": 232.0,
+        "percent": 29.44,
+        "xLot": 4408.0,
+        "updatedOn": "19-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -487,10 +487,10 @@
         "listing": "2026-08-28"
       },
       "gmp": {
-        "value": 185.0,
-        "percent": 61.67,
-        "xLot": 9250.0,
-        "updatedOn": "19-Aug 11:54"
+        "value": 200.0,
+        "percent": 66.67,
+        "xLot": 10000.0,
+        "updatedOn": "19-Aug 18:00"
       },
       "subscription": {
         "total": null,
