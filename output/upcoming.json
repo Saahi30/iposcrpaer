@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T18:42:28+00:00",
+  "scrapedAt": "2026-08-19T01:25:35+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 10,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 7
   },
   "ipos": [
     {
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "18-Aug 13:00"
+        "updatedOn": "19-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 20.0,
         "percent": 19.8,
         "xLot": 24000.0,
-        "updatedOn": "18-Aug 23:33"
+        "updatedOn": "19-Aug 6:36"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 40.0,
         "percent": 28.99,
         "xLot": 4000.0,
-        "updatedOn": "18-Aug 23:34"
+        "updatedOn": "19-Aug 6:35"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 23:32"
+        "updatedOn": "19-Aug 6:35"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Aug 23:33"
+        "updatedOn": "19-Aug 6:28"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 190.0,
         "percent": 24.11,
         "xLot": 3610.0,
-        "updatedOn": "18-Aug 23:31"
+        "updatedOn": "19-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 172.0,
         "percent": 57.33,
         "xLot": 8600.0,
-        "updatedOn": "18-Aug 23:35"
+        "updatedOn": "19-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -406,171 +406,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "gaja-alternative-asset-management-ipo",
-      "ipoId": 2527,
-      "name": "Gaja Alternative Asset Management",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 152.0,
-        "max": 160.0,
-        "display": "₹152–160"
-      },
-      "lotSize": 93,
-      "issueSize": "₹550.00 Cr",
-      "issueSizeCr": 550.0,
-      "freshIssueCr": 450.0,
-      "ofsCr": 100.0,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 30.0,
-        "percent": 18.75,
-        "xLot": 2790.0,
-        "updatedOn": "18-Aug 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/gaja-alternative-asset-management-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=gaja-alternative-asset-management-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
-        "gmp": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/"
-      },
-      "gmpId": 1828,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in April 1999, Gaja Alternative Asset Management Limited is an independent, home-grown alternative asset management company with over two decades of experience in managing and advising India-focused funds, including Category I and Category II AIFs, as well as offshore funds investing in India. The Company focuses on alternative investments across sectors such as education, energy and environment, financial services, consumer and digital technology, with a differentiated investment a",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "mopshop-distribution-ipo",
-      "ipoId": 2769,
-      "name": "Mopshop Distribution",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 138.0,
-        "max": 138.0,
-        "display": "₹138"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹27.26 Cr",
-      "issueSizeCr": 27.26,
-      "freshIssueCr": 20.71,
-      "ofsCr": 5.18,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 22.0,
-        "percent": 15.94,
-        "xLot": 22000.0,
-        "updatedOn": "18-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Khandwala Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/mopshops-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/mopshop-distribution-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=mopshop-distribution-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/mopshop-distribution-ipo/2769/",
-        "gmp": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/"
-      },
-      "gmpId": 2024,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated on 2018, Mopshop Distribution Limited is engaged in the business of providing Facility Management Supplies (FMS). The company serves an extensive and diversified client base, spanning across various industries like Banking, Financials and Insurance (BFSI), construction and real estate, healthcare and also caters to the needs and requirements of various facility management companies with an operational footprint across multiple geographical locations and a growing roster of over 300 ",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "dhanwel-hybrid-seeds-ipo",
-      "ipoId": 2846,
-      "name": "Dhanwel Hybrid Seeds",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 95.0,
-        "max": 99.0,
-        "display": "₹95–99"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹26.73 Cr",
-      "issueSizeCr": 26.73,
-      "freshIssueCr": 25.38,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "18-Aug 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Wealth Mine Networks",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dhanwel-seeds-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/dhanwel-hybrid-seeds-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=dhanwel-hybrid-seeds-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/dhanwel-hybrid-seeds-ipo/2846/",
-        "gmp": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/"
-      },
-      "gmpId": 2098,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2018, Dhanwel Hybrid Seeds is engaged in the business of seed manufacturing and supply for various field crops and vegetables. It develops and produces quality seeds by sourcing improved genetic seed material from recognised institutions, research organisations, and the open market. Seed production is carried out through a well-planned process that includes cultivation, processing, quality control, and packaging.\n\nIts products include Groundnut Seeds, Soybean Seeds, Gram Seeds, S",
-      "registrar": "Cameo Corporate Services Ltd."
     }
   ]
 }
