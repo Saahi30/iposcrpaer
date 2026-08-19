@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-19T01:25:39+00:00",
+  "scrapedAt": "2026-08-19T06:50:27+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 179,
-    "mainboard": 55,
+    "total": 181,
+    "mainboard": 57,
     "sme": 124
   },
   "ipos": [
@@ -4215,6 +4215,30 @@
       }
     },
     {
+      "ipoId": 2591,
+      "name": "Hy-Tech Engineers Ltd.",
+      "slug": "hy-tech-engineers-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "refunds": "2026-08-31",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Aug-2026",
+        "close": "27-Aug-2026",
+        "allotment": "28-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hytech-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hy-tech-engineers-ipo/2591/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2783,
       "name": "Madhur Knit Crafts Ltd.",
       "slug": "madhur-knit-ipo",
@@ -4259,6 +4283,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2815,
+      "name": "Symbiotec Pharmalab Ltd.",
+      "slug": "symbiotec-pharmalab-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "refunds": "2026-08-31",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Aug-2026",
+        "close": "27-Aug-2026",
+        "allotment": "28-Aug-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/symbiotec-pharmalab-ipo/2815/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

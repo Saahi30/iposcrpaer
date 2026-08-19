@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-19T01:25:35+00:00",
+  "scrapedAt": "2026-08-19T06:50:21+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 9
   },
   "ipos": [
     {
@@ -105,7 +105,7 @@
         "value": 20.0,
         "percent": 19.8,
         "xLot": 24000.0,
-        "updatedOn": "19-Aug 6:36"
+        "updatedOn": "19-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 40.0,
         "percent": 28.99,
         "xLot": 4000.0,
-        "updatedOn": "19-Aug 6:35"
+        "updatedOn": "19-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -188,6 +188,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "hy-tech-engineers-ipo",
+      "ipoId": 2591,
+      "name": "Hy-Tech Engineers",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 50.0,
+        "max": 53.0,
+        "display": "₹50–53"
+      },
+      "lotSize": 283,
+      "issueSize": "₹135.73 Cr",
+      "issueSizeCr": 135.73,
+      "freshIssueCr": 60.0,
+      "ofsCr": 75.73,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "listing": "2026-09-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "19-Aug 12:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "New Berry Capitals",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hytech-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hy-tech-engineers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hy-tech-engineers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hy-tech-engineers-ipo/2591/",
+        "gmp": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/"
+      },
+      "gmpId": 1876,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in December 1978, Hy-Tech Engineers Limited is an engineering company engaged in the design, manufacture and supply of hydraulic fittings for diverse industrial applications. With over four decades of experience in the hydraulics industry, the Company offers a portfolio of more than 11,000 SKUs, including DIN-metric fittings, JIC flared and flareless fittings, O-Ring Face Seal (ORFS) fittings, conversion fittings and customized hydraulic fittings.\n\nThe Company operates on a B2B mode",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "madhur-knit-ipo",
       "ipoId": 2783,
       "name": "Madhur Knit",
@@ -201,9 +256,9 @@
         "display": "₹95–100"
       },
       "lotSize": 1200,
-      "issueSize": "₹27.00 Cr",
-      "issueSizeCr": 27.0,
-      "freshIssueCr": 25.64,
+      "issueSize": "₹53.27 Cr",
+      "issueSizeCr": 53.27,
+      "freshIssueCr": 50.6,
       "ofsCr": null,
       "dates": {
         "open": "2026-08-24",
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Aug 6:35"
+        "updatedOn": "19-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -239,8 +294,63 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated on August 21, 1997, Madhur Knit Crafts Limited operates in the textile space, principally manufacturing home-furnishing products and knitted & crocheted fabrics.\n\nThe company’s product portfolio includes blankets (acrylic, woollen, printed, designer), mink blankets, and related home-textile offerings. It services domestic markets through dealer networks and engages in export too.\n\nThe Company operates from a state-of-the-art manufacturing facility equipped with textile machinery imp",
+      "about": "Incorporated in August 1997, Madhur Knit Crafts Limited is a textile manufacturing company engaged in the production of fabrics, blankets, winter textiles, garments and other textile products. The Company commenced commercial operations in 2013 with a focus on manufacturing blankets and has since diversified its product portfolio to cater to consumer, industrial and institutional textile requirements.\n\nThe Company operates an integrated yarn-to-cloth manufacturing model, undertaking processes in",
       "registrar": "Skyline Financial Services Pvt.Ltd."
+    },
+    {
+      "slug": "symbiotec-pharmalab-ipo",
+      "ipoId": 2815,
+      "name": "Symbiotec Pharmalab",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 938.0,
+        "max": 988.0,
+        "display": "₹938–988"
+      },
+      "lotSize": 15,
+      "issueSize": "₹1757.00 Cr",
+      "issueSizeCr": 1757.0,
+      "freshIssueCr": 150.0,
+      "ofsCr": 1607.0,
+      "dates": {
+        "open": "2026-08-24",
+        "close": "2026-08-27",
+        "allotment": "2026-08-28",
+        "listing": "2026-09-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "19-Aug 11:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/symbiotec-pharmalab-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=symbiotec-pharmalab-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/symbiotec-pharmalab-ipo/2815/",
+        "gmp": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/"
+      },
+      "gmpId": 2069,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2002, Symbiotec Pharmalab Ltd. is a pharmaceutical and biotechnology company engaged in the development and manufacturing of active pharmaceutical ingredients (APIs), nutritional ingredients, and specialty products. The company serves domestic and international markets across regulated and emerging regions.\n\nWith over 30 years of industry experience, Symbiotec Pharmalab has evolved from a lab-scale steroidal hormone API manufacturer in 1995 into an industrial-scale, backward-inte",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "abh-healthcare-ipo",
@@ -270,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Aug 6:28"
+        "updatedOn": "19-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -325,7 +435,7 @@
         "value": 190.0,
         "percent": 24.11,
         "xLot": 3610.0,
-        "updatedOn": "19-Aug 6:33"
+        "updatedOn": "19-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -377,10 +487,10 @@
         "listing": "2026-08-28"
       },
       "gmp": {
-        "value": 172.0,
-        "percent": 57.33,
-        "xLot": 8600.0,
-        "updatedOn": "19-Aug 6:31"
+        "value": 185.0,
+        "percent": 61.67,
+        "xLot": 9250.0,
+        "updatedOn": "19-Aug 11:54"
       },
       "subscription": {
         "total": null,

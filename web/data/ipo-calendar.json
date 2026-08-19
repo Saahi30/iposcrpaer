@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-19T01:25:38+00:00",
+  "scrapedAt": "2026-08-19T06:50:26+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 99,
+    "totalEvents": 100,
     "mainboard": 46,
-    "sme": 53,
+    "sme": 54,
     "byEventType": {
-      "allotment": 23,
+      "allotment": 24,
       "close": 40,
       "open": 34,
       "other": 2
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 97,
+        "total": 98,
         "mainboard": 45,
-        "sme": 52
+        "sme": 53
       },
       "byDate": {
         "2026-08-03": [
@@ -1377,6 +1377,25 @@
             }
           },
           {
+            "title": "Credent Connect IPO Allotment Status",
+            "company": "Credent Connect",
+            "eventType": "allotment",
+            "date": "2026-08-18",
+            "dateEnd": "2026-08-18",
+            "details": "The allotment status of Credent Connect N Care Ltd. IPO is now available online. The public issue of Credent Connect IPO was open on Aug 13, 2026 and closed for subscription on Aug 17, 2026. The equit",
+            "type": "sme",
+            "slug": "credent-connect-ipo",
+            "ipoId": 2991,
+            "eventId": 15329,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15329",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Allotment%20Status&location=&dates=20260818/20260819&details=The%20allotment%20status%20of%20Credent%20Connect%20N%20Care%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Credent%20Connect%20IPO%20was%20open%20on%20Aug%2013%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equit"
+            }
+          },
+          {
             "title": "ENS Enterprises IPO Closes on Aug 18, 2026",
             "company": "ENS Enterprises",
             "eventType": "close",
@@ -1751,7 +1770,7 @@
             "eventType": "open",
             "date": "2026-08-24",
             "dateEnd": "2026-08-24",
-            "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.26 Equity Shares of Rs 10 aggregating up to Rs 25.64 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
+            "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.51 Equity Shares of Rs 10 aggregating up to Rs 50.60 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
             "type": "sme",
             "slug": "madhur-knit-ipo",
             "ipoId": 2783,
@@ -1761,7 +1780,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/madhur-knit-ipo/2783/#15319",
               "chittorgarh": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.26%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.64%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.51%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2050.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
             }
           }
         ],
@@ -3469,6 +3488,25 @@
           }
         },
         {
+          "title": "Credent Connect IPO Allotment Status",
+          "company": "Credent Connect",
+          "eventType": "allotment",
+          "date": "2026-08-18",
+          "dateEnd": "2026-08-18",
+          "details": "The allotment status of Credent Connect N Care Ltd. IPO is now available online. The public issue of Credent Connect IPO was open on Aug 13, 2026 and closed for subscription on Aug 17, 2026. The equit",
+          "type": "sme",
+          "slug": "credent-connect-ipo",
+          "ipoId": 2991,
+          "eventId": 15329,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15329",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Allotment%20Status&location=&dates=20260818/20260819&details=The%20allotment%20status%20of%20Credent%20Connect%20N%20Care%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Credent%20Connect%20IPO%20was%20open%20on%20Aug%2013%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equit"
+          }
+        },
+        {
           "title": "ENS Enterprises IPO Closes on Aug 18, 2026",
           "company": "ENS Enterprises",
           "eventType": "close",
@@ -3645,7 +3683,7 @@
           "eventType": "open",
           "date": "2026-08-24",
           "dateEnd": "2026-08-24",
-          "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.26 Equity Shares of Rs 10 aggregating up to Rs 25.64 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
+          "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.51 Equity Shares of Rs 10 aggregating up to Rs 50.60 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
           "type": "sme",
           "slug": "madhur-knit-ipo",
           "ipoId": 2783,
@@ -3655,7 +3693,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/madhur-knit-ipo/2783/#15319",
             "chittorgarh": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.26%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.64%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.51%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2050.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
           }
         },
         {
@@ -5412,6 +5450,25 @@
       }
     },
     {
+      "title": "Credent Connect IPO Allotment Status",
+      "company": "Credent Connect",
+      "eventType": "allotment",
+      "date": "2026-08-18",
+      "dateEnd": "2026-08-18",
+      "details": "The allotment status of Credent Connect N Care Ltd. IPO is now available online. The public issue of Credent Connect IPO was open on Aug 13, 2026 and closed for subscription on Aug 17, 2026. The equit",
+      "type": "sme",
+      "slug": "credent-connect-ipo",
+      "ipoId": 2991,
+      "eventId": 15329,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/credent-connect-ipo/2991/#15329",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/credent-connect-ipo/2991/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Credent%20Connect%20IPO%20Allotment%20Status&location=&dates=20260818/20260819&details=The%20allotment%20status%20of%20Credent%20Connect%20N%20Care%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Credent%20Connect%20IPO%20was%20open%20on%20Aug%2013%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2017%2C%202026.%20The%20equit"
+      }
+    },
+    {
       "title": "ENS Enterprises IPO Closes on Aug 18, 2026",
       "company": "ENS Enterprises",
       "eventType": "close",
@@ -5588,7 +5645,7 @@
       "eventType": "open",
       "date": "2026-08-24",
       "dateEnd": "2026-08-24",
-      "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.26 Equity Shares of Rs 10 aggregating up to Rs 25.64 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
+      "details": "Madhur Knit Crafts Ltd. is entering in the capital market with an IPO of 0.51 Equity Shares of Rs 10 aggregating up to Rs 50.60 Crore. The price for the issue has been set at Rs 95 - Rs 100 Per Equity",
       "type": "sme",
       "slug": "madhur-knit-ipo",
       "ipoId": 2783,
@@ -5598,7 +5655,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/madhur-knit-ipo/2783/#15319",
         "chittorgarh": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.26%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.64%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Madhur%20Knit%20IPO%20Opens%20on%20Aug%2024%2C%202026&location=&dates=20260824/20260825&details=Madhur%20Knit%20Crafts%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.51%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2050.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2095%20-%20Rs%20100%20Per%20Equity"
       }
     },
     {
