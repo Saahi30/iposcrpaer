@@ -364,7 +364,7 @@
   "subscription": {
     "summary": "Gaja Alternative Asset Management IPO subscribed 2.56 times. The public issue subscribed 3.30 times in the retail category, 0.10 times in QIB (Ex Anchor), and 4.14 times in the NII category by August 20, 2026 5:06:01 PM (Day 2).",
     "total": 2.56,
-    "applications": 383364.0,
+    "applications": 383823.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -443,9 +443,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 152.0,
+      "min": 160.0,
       "max": 160.0,
-      "display": "₹152–160"
+      "display": "₹160"
     },
     "lotSize": 93,
     "issueSize": "₹550.00 Cr",
@@ -459,7 +459,7 @@
       "value": 18.0,
       "percent": 11.25,
       "xLot": 1674.0,
-      "updatedOn": "20-Aug 17:55"
+      "updatedOn": "20-Aug 23:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
@@ -469,5 +469,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-20T12:55:19+00:00"
+  "scrapedAt": "2026-08-20T18:44:10+00:00"
 }
