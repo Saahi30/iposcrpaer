@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-20T06:52:25+00:00",
+  "scrapedAt": "2026-08-20T12:55:50+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 182,
-    "mainboard": 58,
+    "total": 183,
+    "mainboard": 59,
     "sme": 124
   },
   "ipos": [
@@ -4380,6 +4380,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2787,
+      "name": "Rays of Belief Ltd.",
+      "slug": "rays-of-belief-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "refunds": "2026-09-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "01-Sep-2026",
+        "close": "03-Sep-2026",
+        "allotment": "04-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]
