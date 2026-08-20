@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-19T18:40:02+00:00",
+  "scrapedAt": "2026-08-20T01:24:59+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 8
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "19-Aug 5:55"
+        "updatedOn": "20-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 30.0,
         "percent": 29.7,
         "xLot": 36000.0,
-        "updatedOn": "19-Aug 23:35"
+        "updatedOn": "20-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 42.0,
         "percent": 30.43,
         "xLot": 4200.0,
-        "updatedOn": "19-Aug 23:28"
+        "updatedOn": "20-Aug 6:36"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Aug 23:28"
+        "updatedOn": "20-Aug 6:32"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 5.0,
         "percent": 9.43,
         "xLot": 1415.0,
-        "updatedOn": "19-Aug 23:37"
+        "updatedOn": "20-Aug 6:36"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Aug 23:32"
+        "updatedOn": "20-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 220.0,
         "percent": 22.27,
         "xLot": 3300.0,
-        "updatedOn": "19-Aug 23:36"
+        "updatedOn": "20-Aug 6:35"
       },
       "subscription": {
         "total": null,
@@ -435,7 +435,7 @@
         "value": 280.0,
         "percent": 35.53,
         "xLot": 5320.0,
-        "updatedOn": "19-Aug 23:30"
+        "updatedOn": "20-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -461,61 +461,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in October 2012, Augmont Enterprises Limited is an integrated gold and silver platform serving businesses and consumers across India and international markets. The Company operates across multiple segments of the gold and silver value chain, including procurement and refining, bullion trading, digital gold, jewellery manufacturing, international sales and technology support for gold-backed financial services. Its business is operated through the Augmont SPOT platform for enterprise ",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "tempsens-instruments-india-ipo",
-      "ipoId": 2668,
-      "name": "Tempsens Instruments (India)",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 285.0,
-        "max": 300.0,
-        "display": "₹285–300"
-      },
-      "lotSize": 50,
-      "issueSize": "₹650.00 Cr",
-      "issueSizeCr": 650.0,
-      "freshIssueCr": 95.0,
-      "ofsCr": 555.0,
-      "dates": {
-        "open": "2026-08-20",
-        "close": "2026-08-24",
-        "allotment": "2026-08-25",
-        "listing": "2026-08-28"
-      },
-      "gmp": {
-        "value": 220.0,
-        "percent": 73.33,
-        "xLot": 11000.0,
-        "updatedOn": "19-Aug 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "ICICI Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/tempsens-instruments-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=tempsens-instruments-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/tempsens-instruments-india-ipo/2668/",
-        "gmp": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/"
-      },
-      "gmpId": 1934,
-      "faceValue": "₹4 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
