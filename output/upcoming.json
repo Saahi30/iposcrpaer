@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-20T01:24:59+00:00",
+  "scrapedAt": "2026-08-20T06:52:19+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 9
   },
   "ipos": [
     {
@@ -31,9 +31,9 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
       },
       "lotSize": null,
       "issueSize": "-",
@@ -47,10 +47,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 0.0,
+        "value": 15.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "20-Aug 5:55"
+        "updatedOn": "20-Aug 11:53"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in March 2005, Kwick Forensic Solutions Limited (formerly Kwick Soft Solutions Private Limited) is engaged in providing forensic science, evidence management, cyber and digital forensics, DNA forensics and law-enforcement solutions across India. The Company initially focused on software development, including 3D rendering, animation and simulation, and subsequently expanded into forensic science and training technologies. Since FY2015, it has developed and supplied end-to-end forens",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "annu-projects-ipo",
+      "ipoId": 2500,
+      "name": "Annu Projects",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 94.0,
+        "max": 99.0,
+        "display": "₹94–99"
+      },
+      "lotSize": 151,
+      "issueSize": "₹175.06 Cr",
+      "issueSizeCr": 175.06,
+      "freshIssueCr": 175.06,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-25",
+        "close": "2026-08-28",
+        "allotment": "2026-08-31",
+        "listing": "2026-09-02"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "20-Aug 11:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/annu-projects-logo1.png",
+      "hasDetail": true,
+      "detailPath": "details/annu-projects-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=annu-projects-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/annu-projects-ipo/2500/",
+        "gmp": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/"
+      },
+      "gmpId": 1815,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Annu Projects Limited is an engineering, procurement, and construction (EPC) company. It is engaged in the design, development, implementation, operations and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure vertical and gas pipeline vertical.\n\nAs on June 30, 2026, it has 23 ongoing projects worth Rs 19,593.48 million, including 4 telecom infra projects, 14 sewerage, 4 gas pipeline projects and 1 (one) comprised of ",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "sumax-engineering-ipo",
@@ -105,7 +160,7 @@
         "value": 30.0,
         "percent": 29.7,
         "xLot": 36000.0,
-        "updatedOn": "20-Aug 6:33"
+        "updatedOn": "20-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 42.0,
         "percent": 30.43,
         "xLot": 4200.0,
-        "updatedOn": "20-Aug 6:36"
+        "updatedOn": "20-Aug 11:58"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Aug 6:32"
+        "updatedOn": "20-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 9.43,
-        "xLot": 1415.0,
-        "updatedOn": "20-Aug 6:36"
+        "value": 2.0,
+        "percent": 3.77,
+        "xLot": 566.0,
+        "updatedOn": "20-Aug 11:53"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Aug 6:34"
+        "updatedOn": "20-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 220.0,
         "percent": 22.27,
         "xLot": 3300.0,
-        "updatedOn": "20-Aug 6:35"
+        "updatedOn": "20-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 280.0,
         "percent": 35.53,
         "xLot": 5320.0,
-        "updatedOn": "20-Aug 6:31"
+        "updatedOn": "20-Aug 11:59"
       },
       "subscription": {
         "total": null,
