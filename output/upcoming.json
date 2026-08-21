@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-21T01:35:26+00:00",
+  "scrapedAt": "2026-08-21T06:53:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 10,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 10
   },
   "ipos": [
     {
@@ -78,6 +78,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "lumino-industries-ipo",
+      "ipoId": 2013,
+      "name": "Lumino Industries",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 78.0,
+        "max": 82.0,
+        "display": "₹78–82"
+      },
+      "lotSize": 182,
+      "issueSize": "₹700.00 Cr",
+      "issueSizeCr": 700.0,
+      "freshIssueCr": 500.0,
+      "ofsCr": 200.0,
+      "dates": {
+        "open": "2026-08-27",
+        "close": "2026-08-31",
+        "allotment": "2026-09-01",
+        "listing": "2026-09-03"
+      },
+      "gmp": {
+        "value": 28.0,
+        "percent": 34.15,
+        "xLot": 5096.0,
+        "updatedOn": "21-Aug 11:54"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lumino-industries-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lumino-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lumino-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/",
+        "gmp": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/"
+      },
+      "gmpId": 1619,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2005, Lumino Industries Ltd. is an integrated engineering, procurement and construction (EPC) company in India, with a focus on manufacturing and supplying conductors, power cables, electrical wires and specialised products for the power transmission and distribution industry.\n\nThe Company also manufactures high-temperature low-sag (HTLS) conductors used in transmission and distribution lines.\n\nThe Company operates through two key segments: Manufacturing and EPC. Its manufacturin",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "kwick-forensic-solutions-ipo",
       "ipoId": 2757,
       "name": "Kwick Forensic Solutions",
@@ -105,7 +160,7 @@
         "value": 15.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "21-Aug 6:34"
+        "updatedOn": "21-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Aug 6:34"
+        "updatedOn": "21-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 32.0,
         "percent": 31.68,
         "xLot": 38400.0,
-        "updatedOn": "21-Aug 6:36"
+        "updatedOn": "21-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 42.0,
-        "percent": 30.43,
-        "xLot": 4200.0,
-        "updatedOn": "21-Aug 6:34"
+        "value": 45.0,
+        "percent": 32.61,
+        "xLot": 4500.0,
+        "updatedOn": "21-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Aug 6:32"
+        "updatedOn": "21-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 22.0,
         "percent": 41.51,
         "xLot": 6226.0,
-        "updatedOn": "21-Aug 6:31"
+        "updatedOn": "21-Aug 11:56"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Aug 6:33"
+        "updatedOn": "21-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 320.0,
         "percent": 32.39,
         "xLot": 4800.0,
-        "updatedOn": "21-Aug 6:31"
+        "updatedOn": "21-Aug 11:58"
       },
       "subscription": {
         "total": null,

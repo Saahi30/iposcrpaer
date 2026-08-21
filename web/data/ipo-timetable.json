@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-21T01:35:32+00:00",
+  "scrapedAt": "2026-08-21T06:53:31+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 183,
-    "mainboard": 59,
+    "total": 184,
+    "mainboard": 60,
     "sme": 124
   },
   "ipos": [
@@ -4380,6 +4380,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2013,
+      "name": "Lumino Industries Ltd.",
+      "slug": "lumino-industries-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-27",
+        "close": "2026-08-31",
+        "allotment": "2026-09-01",
+        "refunds": "2026-09-02",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "27-Aug-2026",
+        "close": "31-Aug-2026",
+        "allotment": "01-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lumino-industries-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {
