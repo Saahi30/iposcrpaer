@@ -419,9 +419,9 @@
     "source": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/"
   },
   "subscription": {
-    "summary": "Augmont Enterprises IPO subscribed 0.98 times. The public issue subscribed 1.35 times in the retail category, 0.01 times in QIB (Ex Anchor), and 1.43 times in the NII category by August 21, 2026 12:19:17 PM (Day 1).",
-    "total": 0.98,
-    "applications": 207148.0,
+    "summary": "Augmont Enterprises IPO subscribed 2.88 times. The public issue subscribed 2.94 times in the retail category, 1.85 times in QIB (Ex Anchor), and 4.18 times in the NII category by August 21, 2026 5:06:16 PM (Day 1).",
+    "total": 2.88,
+    "applications": 465620.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -432,64 +432,64 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "1.85",
         "Shares Offered*": "20,83,757",
-        "Shares bid for": "12,065",
-        "Total Amt* (₹ Cr.)": "0.951"
+        "Shares bid for": "38,47,557",
+        "Total Amt* (₹ Cr.)": "303.187"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.43",
+        "Subscription (x)": "4.18",
         "Shares Offered*": "15,62,817",
-        "Shares bid for": "22,27,294",
-        "Total Amt* (₹ Cr.)": "175.511"
+        "Shares bid for": "65,28,229",
+        "Total Amt* (₹ Cr.)": "514.424"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.98",
+        "Subscription (x)": "3.21",
         "Shares Offered*": "10,41,878",
-        "Shares bid for": "10,22,694",
-        "Total Amt* (₹ Cr.)": "80.588"
+        "Shares bid for": "33,39,991",
+        "Total Amt* (₹ Cr.)": "263.191"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.31",
+        "Subscription (x)": "6.12",
         "Shares Offered*": "5,20,939",
-        "Shares bid for": "12,04,600",
-        "Total Amt* (₹ Cr.)": "94.922"
+        "Shares bid for": "31,88,238",
+        "Total Amt* (₹ Cr.)": "251.233"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.35",
+        "Subscription (x)": "2.94",
         "Shares Offered*": "36,46,575",
-        "Shares bid for": "49,19,480",
-        "Total Amt* (₹ Cr.)": "387.655"
+        "Shares bid for": "1,07,19,762",
+        "Total Amt* (₹ Cr.)": "844.717"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "1.48",
         "Shares Offered*": "50,759",
-        "Shares bid for": "29,792",
-        "Total Amt* (₹ Cr.)": "2.348"
+        "Shares bid for": "75,221",
+        "Total Amt* (₹ Cr.)": "5.927"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.98",
+        "Subscription (x)": "2.88",
         "Shares Offered*": "73,43,908",
-        "Shares bid for": "71,88,631",
-        "Total Amt* (₹ Cr.)": "566.464"
+        "Shares bid for": "2,11,70,769",
+        "Total Amt* (₹ Cr.)": "1,668.257"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 21 (Day 1)",
-        "QIB (Ex Anchor)": "0.01",
-        "NII": "1.43",
-        "NII (> ₹10L)": "0.98",
-        "NII (< ₹10L)": "2.31",
-        "Retail": "1.35",
-        "EMP": "0.59",
-        "Total": "0.98"
+        "QIB (Ex Anchor)": "1.85",
+        "NII": "4.18",
+        "NII (> ₹10L)": "3.21",
+        "NII (< ₹10L)": "6.12",
+        "Retail": "2.94",
+        "EMP": "1.48",
+        "Total": "2.88"
       }
     ]
   },
@@ -512,10 +512,10 @@
       "listing": "2026-08-31"
     },
     "gmp": {
-      "value": 300.0,
-      "percent": 38.07,
-      "xLot": 5700.0,
-      "updatedOn": "21-Aug 12:01"
+      "value": 310.0,
+      "percent": 39.34,
+      "xLot": 5890.0,
+      "updatedOn": "21-Aug 17:58"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
@@ -525,5 +525,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-21T06:53:02+00:00"
+  "scrapedAt": "2026-08-21T12:54:34+00:00"
 }

@@ -363,9 +363,9 @@
     "source": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/"
   },
   "subscription": {
-    "summary": "Gaja Alternative Asset Management IPO subscribed 6.95 times. The public issue subscribed 6.08 times in the retail category, 0.14 times in QIB (Ex Anchor), and 18.08 times in the NII category by August 21, 2026 12:19:37 PM (Day 3).",
-    "total": 6.95,
-    "applications": 721534.0,
+    "summary": "Gaja Alternative Asset Management IPO subscribed 32.98 times. The public issue subscribed 11.61 times in the retail category, 45.87 times in QIB (Ex Anchor), and 65.63 times in the NII category by August 21, 2026 6:19:36 PM (Day 3).",
+    "total": 32.98,
+    "applications": 1436077.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -376,45 +376,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "45.87",
         "Shares Offered*": "68,75,000",
-        "Shares bid for": "9,48,693",
-        "Total Amt* (₹ Cr.)": "15.18"
+        "Shares bid for": "31,53,82,716",
+        "Total Amt* (₹ Cr.)": "5,046.12"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "18.08",
+        "Subscription (x)": "65.63",
         "Shares Offered*": "51,56,250",
-        "Shares bid for": "9,32,16,783",
-        "Total Amt* (₹ Cr.)": "1,491.47"
+        "Shares bid for": "33,84,15,375",
+        "Total Amt* (₹ Cr.)": "5,414.65"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "18.94",
+        "Subscription (x)": "76.03",
         "Shares Offered*": "34,37,500",
-        "Shares bid for": "6,51,03,441",
-        "Total Amt* (₹ Cr.)": "1,041.66"
+        "Shares bid for": "26,13,36,138",
+        "Total Amt* (₹ Cr.)": "4,181.38"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "16.36",
+        "Subscription (x)": "44.85",
         "Shares Offered*": "17,18,750",
-        "Shares bid for": "2,81,13,342",
-        "Total Amt* (₹ Cr.)": "449.81"
+        "Shares bid for": "7,70,79,237",
+        "Total Amt* (₹ Cr.)": "1,233.27"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "6.08",
+        "Subscription (x)": "11.61",
         "Shares Offered*": "1,20,31,250",
-        "Shares bid for": "7,31,76,957",
-        "Total Amt* (₹ Cr.)": "1,170.83"
+        "Shares bid for": "13,97,35,104",
+        "Total Amt* (₹ Cr.)": "2,235.76"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "6.95",
+        "Subscription (x)": "32.98",
         "Shares Offered*": "2,40,62,500",
-        "Shares bid for": "16,73,42,433",
-        "Total Amt* (₹ Cr.)": "2,677.48"
+        "Shares bid for": "79,35,33,195",
+        "Total Amt* (₹ Cr.)": "12,696.53"
       }
     ],
     "dayWise": [
@@ -438,12 +438,12 @@
       },
       {
         "Date": "Aug 21 (Day 3)",
-        "QIB (Ex Anchor)": "0.14",
-        "NII": "18.08",
-        "NII (> ₹10L)": "18.94",
-        "NII (< ₹10L)": "16.36",
-        "Retail": "6.08",
-        "Total": "6.95"
+        "QIB (Ex Anchor)": "45.87",
+        "NII": "65.63",
+        "NII (> ₹10L)": "76.03",
+        "NII (< ₹10L)": "44.85",
+        "Retail": "11.61",
+        "Total": "32.98"
       }
     ]
   },
@@ -466,10 +466,10 @@
       "listing": "2026-08-26"
     },
     "gmp": {
-      "value": 13.0,
-      "percent": 8.12,
-      "xLot": 1209.0,
-      "updatedOn": "21-Aug 12:01"
+      "value": 16.5,
+      "percent": 10.31,
+      "xLot": 1534.5,
+      "updatedOn": "21-Aug 18:02"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
@@ -479,5 +479,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-21T06:53:05+00:00"
+  "scrapedAt": "2026-08-21T12:54:39+00:00"
 }

@@ -380,8 +380,8 @@
     "source": "https://www.chittorgarh.com/ipo/dhanwel-hybrid-seeds-ipo/2846/"
   },
   "subscription": {
-    "summary": "Dhanwel Hybrid Seeds IPO subscribed 1.16 times. The public issue subscribed 2.20 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.15 times in the NII category by August 21, 2026 12:19:55 PM (Day 3).",
-    "total": 1.16,
+    "summary": "Dhanwel Hybrid Seeds IPO subscribed 1.65 times. The public issue subscribed 3.08 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 0.24 times in the NII category by August 21, 2026 6:19:55 PM (Day 3).",
+    "total": 1.65,
     "applications": null,
     "byCategory": [
       {
@@ -394,51 +394,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "28,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "28,800",
+        "Total Amt* (₹ Cr.)": "0.285",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.15",
+        "Subscription (x)": "0.24",
         "Shares Offered*": "12,67,200",
-        "Shares bid for": "1,94,400",
-        "Total Amt* (₹ Cr.)": "1.925",
+        "Shares bid for": "3,03,600",
+        "Total Amt* (₹ Cr.)": "3.006",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.03",
+        "Subscription (x)": "0.05",
         "Shares Offered*": "8,44,800",
-        "Shares bid for": "21,600",
-        "Total Amt* (₹ Cr.)": "0.214",
+        "Shares bid for": "44,400",
+        "Total Amt* (₹ Cr.)": "0.440",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "0.61",
         "Shares Offered*": "4,22,400",
-        "Shares bid for": "1,72,800",
-        "Total Amt* (₹ Cr.)": "1.711",
+        "Shares bid for": "2,59,200",
+        "Total Amt* (₹ Cr.)": "2.566",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "2.20",
+        "Subscription (x)": "3.08",
         "Shares Offered*": "12,67,200",
-        "Shares bid for": "27,88,800",
-        "Total Amt* (₹ Cr.)": "27.609",
+        "Shares bid for": "39,02,400",
+        "Total Amt* (₹ Cr.)": "38.634",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.16",
+        "Subscription (x)": "1.65",
         "Shares Offered*": "25,63,200",
-        "Shares bid for": "29,83,200",
-        "Total Amt* (₹ Cr.)": "29.534",
-        "Total Applications": "1,213"
+        "Shares bid for": "42,34,800",
+        "Total Amt* (₹ Cr.)": "41.925",
+        "Total Applications": "1,700"
       }
     ],
     "dayWise": [
@@ -462,12 +462,12 @@
       },
       {
         "Date": "Aug 21 (Day 3)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.15",
-        "NII (> ₹10L)": "0.03",
-        "NII (< ₹10L)": "0.41",
-        "Individual Investors": "2.20",
-        "Total": "1.16"
+        "QIB (Ex Anchor)": "1.00",
+        "NII*": "0.24",
+        "NII (> ₹10L)": "0.05",
+        "NII (< ₹10L)": "0.61",
+        "Individual Investors": "3.08",
+        "Total": "1.65"
       }
     ]
   },
@@ -493,7 +493,7 @@
       "value": 1.0,
       "percent": 1.01,
       "xLot": 1200.0,
-      "updatedOn": "21-Aug 11:55"
+      "updatedOn": "21-Aug 17:53"
     },
     "leadManager": "Wealth Mine Networks",
     "logo": "https://www.chittorgarh.net/images/ipo/dhanwel-seeds-logo.png",
@@ -503,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-21T06:53:09+00:00"
+  "scrapedAt": "2026-08-21T12:54:44+00:00"
 }
