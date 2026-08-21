@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-21T12:55:07+00:00",
+  "scrapedAt": "2026-08-21T18:41:21+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -50,7 +50,7 @@
         "value": 310.0,
         "percent": 39.34,
         "xLot": 5890.0,
-        "updatedOn": "21-Aug 17:58"
+        "updatedOn": "21-Aug 23:36"
       },
       "subscription": {
         "total": 2.88,
@@ -112,7 +112,7 @@
             "Total Amt* (₹ Cr.)": "1,668.257"
           }
         ],
-        "applications": 465620.0
+        "applications": 467264.0
       },
       "leadManager": "Nuvama Wealth Management",
       "symbols": {
@@ -160,10 +160,10 @@
         "listing": "2026-08-28"
       },
       "gmp": {
-        "value": 277.0,
-        "percent": 92.33,
-        "xLot": 13850.0,
-        "updatedOn": "21-Aug 17:54"
+        "value": 290.0,
+        "percent": 96.67,
+        "xLot": 14500.0,
+        "updatedOn": "21-Aug 23:33"
       },
       "subscription": {
         "total": 21.69,
@@ -225,7 +225,7 @@
             "Total Amt* (₹ Cr.)": "9,879.20"
           }
         ],
-        "applications": 2221586.0
+        "applications": 2225599.0
       },
       "leadManager": "ICICI Securities",
       "symbols": {
@@ -273,10 +273,10 @@
         "listing": "2026-08-26"
       },
       "gmp": {
-        "value": 16.5,
-        "percent": 10.31,
-        "xLot": 1534.5,
-        "updatedOn": "21-Aug 18:02"
+        "value": 19.0,
+        "percent": 11.88,
+        "xLot": 1767.0,
+        "updatedOn": "21-Aug 23:30"
       },
       "subscription": {
         "total": 32.98,
@@ -320,18 +320,18 @@
             "Category": "Retail",
             "Subscription (x)": "11.61",
             "Shares Offered*": "1,20,31,250",
-            "Shares bid for": "13,97,35,104",
-            "Total Amt* (₹ Cr.)": "2,235.76"
+            "Shares bid for": "13,97,36,127",
+            "Total Amt* (₹ Cr.)": "2,235.78"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "32.98",
             "Shares Offered*": "2,40,62,500",
-            "Shares bid for": "79,35,33,195",
-            "Total Amt* (₹ Cr.)": "12,696.53"
+            "Shares bid for": "79,35,34,218",
+            "Total Amt* (₹ Cr.)": "12,696.55"
           }
         ],
-        "applications": 1436077.0
+        "applications": 1436184.0
       },
       "leadManager": "JM Financial",
       "symbols": {
@@ -382,7 +382,7 @@
         "value": 1.0,
         "percent": 0.72,
         "xLot": 1000.0,
-        "updatedOn": "21-Aug 18:01"
+        "updatedOn": "21-Aug 23:31"
       },
       "subscription": {
         "total": 1.59,
@@ -471,7 +471,7 @@
         "value": 1.0,
         "percent": 1.01,
         "xLot": 1200.0,
-        "updatedOn": "21-Aug 17:53"
+        "updatedOn": "21-Aug 23:31"
       },
       "subscription": {
         "total": 1.65,

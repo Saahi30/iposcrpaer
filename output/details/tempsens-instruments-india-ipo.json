@@ -381,7 +381,7 @@
   "subscription": {
     "summary": "Tempsens Instruments (India) IPO subscribed 21.69 times. The public issue subscribed 18.73 times in the retail category, 3.31 times in QIB (Ex Anchor), and 52.98 times in the NII category by August 21, 2026 5:06:06 PM (Day 2).",
     "total": 21.69,
-    "applications": 2221586.0,
+    "applications": 2225599.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -482,10 +482,10 @@
       "listing": "2026-08-28"
     },
     "gmp": {
-      "value": 277.0,
-      "percent": 92.33,
-      "xLot": 13850.0,
-      "updatedOn": "21-Aug 17:54"
+      "value": 290.0,
+      "percent": 96.67,
+      "xLot": 14500.0,
+      "updatedOn": "21-Aug 23:33"
     },
     "leadManager": "ICICI Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
@@ -495,5 +495,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-21T12:54:37+00:00"
+  "scrapedAt": "2026-08-21T18:40:58+00:00"
 }
