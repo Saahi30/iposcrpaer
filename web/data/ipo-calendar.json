@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-20T18:44:38+00:00",
+  "scrapedAt": "2026-08-21T01:35:31+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 109,
-    "mainboard": 54,
+    "totalEvents": 111,
+    "mainboard": 56,
     "sme": 55,
     "byEventType": {
-      "allotment": 25,
+      "allotment": 27,
       "close": 44,
       "open": 38,
       "other": 2
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 105,
-        "mainboard": 51,
+        "total": 107,
+        "mainboard": 53,
         "sme": 54
       },
       "byDate": {
@@ -1590,6 +1590,25 @@
         ],
         "2026-08-20": [
           {
+            "title": "Horizon Industrial Parks IPO Allotment Status",
+            "company": "Horizon Industrial Parks",
+            "eventType": "allotment",
+            "date": "2026-08-20",
+            "dateEnd": "2026-08-20",
+            "details": "The allotment status of Horizon Industrial Parks Ltd. IPO is now available online. The public issue of Horizon Industrial Parks IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026",
+            "type": "mainboard",
+            "slug": "horizon-industrial-parks-ipo",
+            "ipoId": 2826,
+            "eventId": 15343,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15343",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Allotment%20Status&location=&dates=20260820/20260821&details=The%20allotment%20status%20of%20Horizon%20Industrial%20Parks%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Horizon%20Industrial%20Parks%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026"
+            }
+          },
+          {
             "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
             "company": "Shankesh Jewellers",
             "eventType": "close",
@@ -1684,6 +1703,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15292",
               "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Closes%20on%20Aug%2021%2C%202026&location=&dates=20260821/20260822&details=The%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20opens%20on%20Aug%2019%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2021%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20"
+            }
+          },
+          {
+            "title": "Lalithaa Jewellery Mart IPO Allotment Status",
+            "company": "Lalithaa Jewellery Mart",
+            "eventType": "allotment",
+            "date": "2026-08-21",
+            "dateEnd": "2026-08-21",
+            "details": "The allotment status of Lalithaa Jewellery Mart Ltd. IPO is now available online. The public issue of Lalithaa Jewellery Mart IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026.",
+            "type": "mainboard",
+            "slug": "lalithaa-jewellery-mart-ipo",
+            "ipoId": 2469,
+            "eventId": 15344,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15344",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Lalithaa%20Jewellery%20Mart%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026.%20"
             }
           },
           {
@@ -2764,6 +2802,25 @@
           }
         },
         {
+          "title": "Horizon Industrial Parks IPO Allotment Status",
+          "company": "Horizon Industrial Parks",
+          "eventType": "allotment",
+          "date": "2026-08-20",
+          "dateEnd": "2026-08-20",
+          "details": "The allotment status of Horizon Industrial Parks Ltd. IPO is now available online. The public issue of Horizon Industrial Parks IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026",
+          "type": "mainboard",
+          "slug": "horizon-industrial-parks-ipo",
+          "ipoId": 2826,
+          "eventId": 15343,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15343",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Allotment%20Status&location=&dates=20260820/20260821&details=The%20allotment%20status%20of%20Horizon%20Industrial%20Parks%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Horizon%20Industrial%20Parks%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026"
+          }
+        },
+        {
           "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
           "company": "Shankesh Jewellers",
           "eventType": "close",
@@ -2856,6 +2913,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15292",
             "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Closes%20on%20Aug%2021%2C%202026&location=&dates=20260821/20260822&details=The%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20opens%20on%20Aug%2019%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2021%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20"
+          }
+        },
+        {
+          "title": "Lalithaa Jewellery Mart IPO Allotment Status",
+          "company": "Lalithaa Jewellery Mart",
+          "eventType": "allotment",
+          "date": "2026-08-21",
+          "dateEnd": "2026-08-21",
+          "details": "The allotment status of Lalithaa Jewellery Mart Ltd. IPO is now available online. The public issue of Lalithaa Jewellery Mart IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026.",
+          "type": "mainboard",
+          "slug": "lalithaa-jewellery-mart-ipo",
+          "ipoId": 2469,
+          "eventId": 15344,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15344",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Lalithaa%20Jewellery%20Mart%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026.%20"
           }
         },
         {
@@ -4939,6 +5015,25 @@
       }
     },
     {
+      "title": "Horizon Industrial Parks IPO Allotment Status",
+      "company": "Horizon Industrial Parks",
+      "eventType": "allotment",
+      "date": "2026-08-20",
+      "dateEnd": "2026-08-20",
+      "details": "The allotment status of Horizon Industrial Parks Ltd. IPO is now available online. The public issue of Horizon Industrial Parks IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026",
+      "type": "mainboard",
+      "slug": "horizon-industrial-parks-ipo",
+      "ipoId": 2826,
+      "eventId": 15343,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/horizon-industrial-parks-ipo/2826/#15343",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/horizon-industrial-parks-ipo/2826/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Horizon%20Industrial%20Parks%20IPO%20Allotment%20Status&location=&dates=20260820/20260821&details=The%20allotment%20status%20of%20Horizon%20Industrial%20Parks%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Horizon%20Industrial%20Parks%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026"
+      }
+    },
+    {
       "title": "Shankesh Jewellers IPO Closes on Aug 20, 2026",
       "company": "Shankesh Jewellers",
       "eventType": "close",
@@ -5031,6 +5126,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15292",
         "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Closes%20on%20Aug%2021%2C%202026&location=&dates=20260821/20260822&details=The%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20opens%20on%20Aug%2019%2C%202026%20and%20closes%20for%20subscription%20on%20Aug%2021%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20"
+      }
+    },
+    {
+      "title": "Lalithaa Jewellery Mart IPO Allotment Status",
+      "company": "Lalithaa Jewellery Mart",
+      "eventType": "allotment",
+      "date": "2026-08-21",
+      "dateEnd": "2026-08-21",
+      "details": "The allotment status of Lalithaa Jewellery Mart Ltd. IPO is now available online. The public issue of Lalithaa Jewellery Mart IPO was open on Aug 17, 2026 and closed for subscription on Aug 19, 2026.",
+      "type": "mainboard",
+      "slug": "lalithaa-jewellery-mart-ipo",
+      "ipoId": 2469,
+      "eventId": 15344,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15344",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Lalithaa%20Jewellery%20Mart%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026.%20"
       }
     },
     {

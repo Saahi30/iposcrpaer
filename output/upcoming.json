@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-20T18:44:34+00:00",
+  "scrapedAt": "2026-08-21T01:35:26+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 10,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 9
   },
   "ipos": [
     {
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "20-Aug 13:30"
+        "updatedOn": "21-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 15.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "20-Aug 23:32"
+        "updatedOn": "21-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Aug 23:37"
+        "updatedOn": "21-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 32.0,
         "percent": 31.68,
         "xLot": 38400.0,
-        "updatedOn": "20-Aug 23:28"
+        "updatedOn": "21-Aug 6:36"
       },
       "subscription": {
         "total": null,
@@ -267,10 +267,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 50.0,
-        "percent": 36.23,
-        "xLot": 5000.0,
-        "updatedOn": "20-Aug 23:30"
+        "value": 42.0,
+        "percent": 30.43,
+        "xLot": 4200.0,
+        "updatedOn": "21-Aug 6:34"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Aug 23:29"
+        "updatedOn": "21-Aug 6:32"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 22.0,
         "percent": 41.51,
         "xLot": 6226.0,
-        "updatedOn": "20-Aug 23:33"
+        "updatedOn": "21-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -435,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Aug 23:32"
+        "updatedOn": "21-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -487,10 +487,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 300.0,
-        "percent": 30.36,
-        "xLot": 4500.0,
-        "updatedOn": "20-Aug 23:30"
+        "value": 320.0,
+        "percent": 32.39,
+        "xLot": 4800.0,
+        "updatedOn": "21-Aug 6:31"
       },
       "subscription": {
         "total": null,
@@ -515,61 +515,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2002, Symbiotec Pharmalab Ltd. is a pharmaceutical and biotechnology company engaged in the development and manufacturing of active pharmaceutical ingredients (APIs), nutritional ingredients, and specialty products. The company serves domestic and international markets across regulated and emerging regions.\n\nWith over 30 years of industry experience, Symbiotec Pharmalab has evolved from a lab-scale steroidal hormone API manufacturer in 1995 into an industrial-scale, backward-inte",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "augmont-enterprises-ipo",
-      "ipoId": 2673,
-      "name": "Augmont Enterprises",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 750.0,
-        "max": 788.0,
-        "display": "₹750–788"
-      },
-      "lotSize": 19,
-      "issueSize": "₹825.00 Cr",
-      "issueSizeCr": 825.0,
-      "freshIssueCr": 620.0,
-      "ofsCr": 205.0,
-      "dates": {
-        "open": "2026-08-21",
-        "close": "2026-08-25",
-        "allotment": "2026-08-27",
-        "listing": "2026-08-31"
-      },
-      "gmp": {
-        "value": 300.0,
-        "percent": 38.07,
-        "xLot": 5700.0,
-        "updatedOn": "20-Aug 23:28"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/augmont-enterprises-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=augmont-enterprises-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/",
-        "gmp": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/"
-      },
-      "gmpId": 1938,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in October 2012, Augmont Enterprises Limited is an integrated gold and silver platform serving businesses and consumers across India and international markets. The Company operates across multiple segments of the gold and silver value chain, including procurement and refining, bullion trading, digital gold, jewellery manufacturing, international sales and technology support for gold-backed financial services. Its business is operated through the Augmont SPOT platform for enterprise ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
