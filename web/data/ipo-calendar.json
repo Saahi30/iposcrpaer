@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-22T01:24:22+00:00",
+  "scrapedAt": "2026-08-22T06:45:28+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 114,
-    "mainboard": 58,
+    "totalEvents": 116,
+    "mainboard": 60,
     "sme": 56,
     "byEventType": {
-      "allotment": 28,
+      "allotment": 30,
       "close": 45,
       "open": 39,
       "other": 2
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 110,
-        "mainboard": 55,
+        "total": 112,
+        "mainboard": 57,
         "sme": 55
       },
       "byDate": {
@@ -1725,6 +1725,44 @@
             }
           },
           {
+            "title": "Shankesh Jewellers IPO Allotment Status",
+            "company": "Shankesh Jewellers",
+            "eventType": "allotment",
+            "date": "2026-08-21",
+            "dateEnd": "2026-08-21",
+            "details": "The allotment status of Shankesh Jewellers Ltd. IPO is now available online. The public issue of Shankesh Jewellers IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity",
+            "type": "mainboard",
+            "slug": "shankesh-jewellers-ipo",
+            "ipoId": 2663,
+            "eventId": 15349,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15349",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Shankesh%20Jewellers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Shankesh%20Jewellers%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity"
+            }
+          },
+          {
+            "title": "Sunshine Pictures IPO Allotment Status",
+            "company": "Sunshine Pictures",
+            "eventType": "allotment",
+            "date": "2026-08-21",
+            "dateEnd": "2026-08-21",
+            "details": "The allotment status of Sunshine Pictures Ltd. IPO is now available online. The public issue of Sunshine Pictures IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity s",
+            "type": "mainboard",
+            "slug": "sunshine-pictures-ipo",
+            "ipoId": 2002,
+            "eventId": 15348,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15348",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Sunshine%20Pictures%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sunshine%20Pictures%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20s"
+            }
+          },
+          {
             "title": "Dhanwel Hybrid Seeds IPO Closes on Aug 21, 2026",
             "company": "Dhanwel Hybrid Seeds",
             "eventType": "close",
@@ -2989,6 +3027,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15344",
             "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Lalithaa%20Jewellery%20Mart%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026.%20"
+          }
+        },
+        {
+          "title": "Shankesh Jewellers IPO Allotment Status",
+          "company": "Shankesh Jewellers",
+          "eventType": "allotment",
+          "date": "2026-08-21",
+          "dateEnd": "2026-08-21",
+          "details": "The allotment status of Shankesh Jewellers Ltd. IPO is now available online. The public issue of Shankesh Jewellers IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity",
+          "type": "mainboard",
+          "slug": "shankesh-jewellers-ipo",
+          "ipoId": 2663,
+          "eventId": 15349,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15349",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Shankesh%20Jewellers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Shankesh%20Jewellers%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity"
+          }
+        },
+        {
+          "title": "Sunshine Pictures IPO Allotment Status",
+          "company": "Sunshine Pictures",
+          "eventType": "allotment",
+          "date": "2026-08-21",
+          "dateEnd": "2026-08-21",
+          "details": "The allotment status of Sunshine Pictures Ltd. IPO is now available online. The public issue of Sunshine Pictures IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity s",
+          "type": "mainboard",
+          "slug": "sunshine-pictures-ipo",
+          "ipoId": 2002,
+          "eventId": 15348,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15348",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Sunshine%20Pictures%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sunshine%20Pictures%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20s"
           }
         },
         {
@@ -5259,6 +5335,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/lalithaa-jewellery-mart-ipo/2469/#15344",
         "chittorgarh": "https://www.chittorgarh.com/ipo/lalithaa-jewellery-mart-ipo/2469/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Lalithaa%20Jewellery%20Mart%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Lalithaa%20Jewellery%20Mart%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Lalithaa%20Jewellery%20Mart%20IPO%20was%20open%20on%20Aug%2017%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2019%2C%202026.%20"
+      }
+    },
+    {
+      "title": "Shankesh Jewellers IPO Allotment Status",
+      "company": "Shankesh Jewellers",
+      "eventType": "allotment",
+      "date": "2026-08-21",
+      "dateEnd": "2026-08-21",
+      "details": "The allotment status of Shankesh Jewellers Ltd. IPO is now available online. The public issue of Shankesh Jewellers IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity",
+      "type": "mainboard",
+      "slug": "shankesh-jewellers-ipo",
+      "ipoId": 2663,
+      "eventId": 15349,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/shankesh-jewellers-ipo/2663/#15349",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shankesh-jewellers-ipo/2663/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shankesh%20Jewellers%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Shankesh%20Jewellers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Shankesh%20Jewellers%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity"
+      }
+    },
+    {
+      "title": "Sunshine Pictures IPO Allotment Status",
+      "company": "Sunshine Pictures",
+      "eventType": "allotment",
+      "date": "2026-08-21",
+      "dateEnd": "2026-08-21",
+      "details": "The allotment status of Sunshine Pictures Ltd. IPO is now available online. The public issue of Sunshine Pictures IPO was open on Aug 18, 2026 and closed for subscription on Aug 20, 2026. The equity s",
+      "type": "mainboard",
+      "slug": "sunshine-pictures-ipo",
+      "ipoId": 2002,
+      "eventId": 15348,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15348",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Sunshine%20Pictures%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sunshine%20Pictures%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20s"
       }
     },
     {
