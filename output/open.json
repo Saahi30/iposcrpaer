@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-21T18:41:21+00:00",
+  "scrapedAt": "2026-08-22T01:24:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 5,
+    "open": 2,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 2
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 310.0,
         "percent": 39.34,
         "xLot": 5890.0,
-        "updatedOn": "21-Aug 23:36"
+        "updatedOn": "22-Aug 6:36"
       },
       "subscription": {
         "total": 2.88,
@@ -163,7 +163,7 @@
         "value": 290.0,
         "percent": 96.67,
         "xLot": 14500.0,
-        "updatedOn": "21-Aug 23:33"
+        "updatedOn": "22-Aug 6:32"
       },
       "subscription": {
         "total": 21.69,
@@ -247,314 +247,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "gaja-alternative-asset-management-ipo",
-      "ipoId": 2527,
-      "name": "Gaja Alternative Asset Management",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 152.0,
-        "max": 160.0,
-        "display": "₹152–160"
-      },
-      "lotSize": 93,
-      "issueSize": "₹550.00 Cr",
-      "issueSizeCr": 550.0,
-      "freshIssueCr": 450.0,
-      "ofsCr": 100.0,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 19.0,
-        "percent": 11.88,
-        "xLot": 1767.0,
-        "updatedOn": "21-Aug 23:30"
-      },
-      "subscription": {
-        "total": 32.98,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,03,12,500",
-            "Shares bid for": "1,03,12,500",
-            "Total Amt* (₹ Cr.)": "165.00"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "45.87",
-            "Shares Offered*": "68,75,000",
-            "Shares bid for": "31,53,82,716",
-            "Total Amt* (₹ Cr.)": "5,046.12"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "65.63",
-            "Shares Offered*": "51,56,250",
-            "Shares bid for": "33,84,15,375",
-            "Total Amt* (₹ Cr.)": "5,414.65"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "76.03",
-            "Shares Offered*": "34,37,500",
-            "Shares bid for": "26,13,36,138",
-            "Total Amt* (₹ Cr.)": "4,181.38"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "44.85",
-            "Shares Offered*": "17,18,750",
-            "Shares bid for": "7,70,79,237",
-            "Total Amt* (₹ Cr.)": "1,233.27"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "11.61",
-            "Shares Offered*": "1,20,31,250",
-            "Shares bid for": "13,97,36,127",
-            "Total Amt* (₹ Cr.)": "2,235.78"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "32.98",
-            "Shares Offered*": "2,40,62,500",
-            "Shares bid for": "79,35,34,218",
-            "Total Amt* (₹ Cr.)": "12,696.55"
-          }
-        ],
-        "applications": 1436184.0
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/gaja-capital-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/gaja-alternative-asset-management-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=gaja-alternative-asset-management-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
-        "gmp": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/"
-      },
-      "gmpId": 1828,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in April 1999, Gaja Alternative Asset Management Limited is an independent, home-grown alternative asset management company with over two decades of experience in managing and advising India-focused funds, including Category I and Category II AIFs, as well as offshore funds investing in India. The Company focuses on alternative investments across sectors such as education, energy and environment, financial services, consumer and digital technology, with a differentiated investment a",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "mopshop-distribution-ipo",
-      "ipoId": 2769,
-      "name": "Mopshop Distribution",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 138.0,
-        "max": 138.0,
-        "display": "₹138"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹27.26 Cr",
-      "issueSizeCr": 27.26,
-      "freshIssueCr": 20.71,
-      "ofsCr": 5.18,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 0.72,
-        "xLot": 1000.0,
-        "updatedOn": "21-Aug 23:31"
-      },
-      "subscription": {
-        "total": 1.59,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "99,000",
-            "Shares bid for": "99,000",
-            "Total Amt* (₹ Cr.)": "1.37",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.27",
-            "Shares Offered*": "9,38,000",
-            "Shares bid for": "2,57,000",
-            "Total Amt* (₹ Cr.)": "3.55",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.91",
-            "Shares Offered*": "9,38,000",
-            "Shares bid for": "27,30,000",
-            "Total Amt* (₹ Cr.)": "37.67",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.59",
-            "Shares Offered*": "18,76,000",
-            "Shares bid for": "29,87,000",
-            "Total Amt* (₹ Cr.)": "41.22",
-            "Total Applications": "1,445"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Khandwala Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/mopshops-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/mopshop-distribution-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=mopshop-distribution-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/mopshop-distribution-ipo/2769/",
-        "gmp": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/"
-      },
-      "gmpId": 2024,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated on 2018, Mopshop Distribution Limited is engaged in the business of providing Facility Management Supplies (FMS). The company serves an extensive and diversified client base, spanning across various industries like Banking, Financials and Insurance (BFSI), construction and real estate, healthcare and also caters to the needs and requirements of various facility management companies with an operational footprint across multiple geographical locations and a growing roster of over 300 ",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "dhanwel-hybrid-seeds-ipo",
-      "ipoId": 2846,
-      "name": "Dhanwel Hybrid Seeds",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 95.0,
-        "max": 99.0,
-        "display": "₹95–99"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹26.73 Cr",
-      "issueSizeCr": 26.73,
-      "freshIssueCr": 25.38,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-19",
-        "close": "2026-08-21",
-        "allotment": "2026-08-24",
-        "listing": "2026-08-26"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 1.01,
-        "xLot": 1200.0,
-        "updatedOn": "21-Aug 23:31"
-      },
-      "subscription": {
-        "total": 1.65,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,36,800",
-            "Shares bid for": "1,36,800",
-            "Total Amt* (₹ Cr.)": "1.354",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.00",
-            "Shares Offered*": "28,800",
-            "Shares bid for": "28,800",
-            "Total Amt* (₹ Cr.)": "0.285",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.24",
-            "Shares Offered*": "12,67,200",
-            "Shares bid for": "3,03,600",
-            "Total Amt* (₹ Cr.)": "3.006",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.05",
-            "Shares Offered*": "8,44,800",
-            "Shares bid for": "44,400",
-            "Total Amt* (₹ Cr.)": "0.440",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.61",
-            "Shares Offered*": "4,22,400",
-            "Shares bid for": "2,59,200",
-            "Total Amt* (₹ Cr.)": "2.566",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "3.08",
-            "Shares Offered*": "12,67,200",
-            "Shares bid for": "39,02,400",
-            "Total Amt* (₹ Cr.)": "38.634",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.65",
-            "Shares Offered*": "25,63,200",
-            "Shares bid for": "42,34,800",
-            "Total Amt* (₹ Cr.)": "41.925",
-            "Total Applications": "1,700"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Wealth Mine Networks",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dhanwel-seeds-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/dhanwel-hybrid-seeds-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=dhanwel-hybrid-seeds-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/dhanwel-hybrid-seeds-ipo/2846/",
-        "gmp": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/"
-      },
-      "gmpId": 2098,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2018, Dhanwel Hybrid Seeds is engaged in the business of seed manufacturing and supply for various field crops and vegetables. It develops and produces quality seeds by sourcing improved genetic seed material from recognised institutions, research organisations, and the open market. Seed production is carried out through a well-planned process that includes cultivation, processing, quality control, and packaging.\n\nIts products include Groundnut Seeds, Soybean Seeds, Gram Seeds, S",
-      "registrar": "Cameo Corporate Services Ltd."
     }
   ]
 }
