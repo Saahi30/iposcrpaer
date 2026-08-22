@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-22T06:45:23+00:00",
+  "scrapedAt": "2026-08-22T12:45:35+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 10,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 11
   },
   "ipos": [
     {
@@ -78,6 +78,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "complete-sports-and-management-ipo",
+      "ipoId": 3182,
+      "name": "Complete Sports and Management",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-28",
+        "close": "2026-09-01",
+        "allotment": "2026-09-02",
+        "listing": "2026-09-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "22-Aug 16:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/csml-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/complete-sports-and-management-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=complete-sports-and-management-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
+        "gmp": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/"
+      },
+      "gmpId": 2339,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2002, Complete Sports and Management India Limited is engaged in the business of sourcing, trading and distribution of a diversified portfolio of amusement and leisure equipment, along with providing installation, commissioning, maintenance and related consulting services. The company operate across the amusement, entertainment and leisure infrastructure value chain and provide end-to-end solutions to customers for the development and operation of entertainment destinations.\n\nThe",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "lumino-industries-ipo",
       "ipoId": 2013,
       "name": "Lumino Industries",
@@ -102,10 +157,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 46.0,
-        "percent": 56.1,
-        "xLot": 8372.0,
-        "updatedOn": "22-Aug 11:31"
+        "value": 51.0,
+        "percent": 62.2,
+        "xLot": 9282.0,
+        "updatedOn": "22-Aug 17:36"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 43.0,
         "percent": 47.78,
         "xLot": 68800.0,
-        "updatedOn": "22-Aug 11:37"
+        "updatedOn": "22-Aug 17:29"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 4.0,
         "percent": 4.04,
         "xLot": 604.0,
-        "updatedOn": "22-Aug 11:28"
+        "updatedOn": "22-Aug 17:37"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 32.0,
         "percent": 31.68,
         "xLot": 38400.0,
-        "updatedOn": "22-Aug 11:30"
+        "updatedOn": "22-Aug 17:28"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 43.0,
-        "percent": 31.16,
-        "xLot": 4300.0,
-        "updatedOn": "22-Aug 11:37"
+        "value": 37.0,
+        "percent": 26.81,
+        "xLot": 3700.0,
+        "updatedOn": "22-Aug 17:36"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Aug 11:33"
+        "updatedOn": "22-Aug 17:33"
       },
       "subscription": {
         "total": null,
@@ -432,10 +487,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 22.0,
-        "percent": 41.51,
-        "xLot": 6226.0,
-        "updatedOn": "22-Aug 11:31"
+        "value": 25.0,
+        "percent": 47.17,
+        "xLot": 7075.0,
+        "updatedOn": "22-Aug 17:31"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Aug 11:28"
+        "updatedOn": "22-Aug 17:36"
       },
       "subscription": {
         "total": null,
@@ -542,10 +597,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 350.0,
-        "percent": 35.43,
-        "xLot": 5250.0,
-        "updatedOn": "22-Aug 11:36"
+        "value": 400.0,
+        "percent": 40.49,
+        "xLot": 6000.0,
+        "updatedOn": "22-Aug 17:35"
       },
       "subscription": {
         "total": null,

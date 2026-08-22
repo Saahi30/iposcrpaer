@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-22T06:45:29+00:00",
+  "scrapedAt": "2026-08-22T12:45:41+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 184,
+    "total": 185,
     "mainboard": 60,
-    "sme": 124
+    "sme": 125
   },
   "ipos": [
     {
@@ -4404,6 +4404,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3182,
+      "name": "Complete Sports & Management India Ltd.",
+      "slug": "complete-sports-and-management-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-08-28",
+        "close": "2026-09-01",
+        "allotment": "2026-09-02",
+        "refunds": "2026-09-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Aug-2026",
+        "close": "01-Sep-2026",
+        "allotment": "02-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/csml-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {
