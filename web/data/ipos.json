@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-23T06:47:08+00:00",
+  "scrapedAt": "2026-08-23T12:46:35+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 2,
-    "upcoming": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 14
   },
   "ipos": [
     {
@@ -48,10 +48,10 @@
         "listing": "2026-08-31"
       },
       "gmp": {
-        "value": 395.0,
-        "percent": 50.13,
-        "xLot": 7505.0,
-        "updatedOn": "23-Aug 11:36"
+        "value": 380.0,
+        "percent": 48.22,
+        "xLot": 7220.0,
+        "updatedOn": "23-Aug 17:36"
       },
       "subscription": {
         "total": 2.88,
@@ -164,7 +164,7 @@
         "value": 321.0,
         "percent": 107.0,
         "xLot": 16050.0,
-        "updatedOn": "23-Aug 11:37"
+        "updatedOn": "23-Aug 17:35"
       },
       "subscription": {
         "total": 21.69,
@@ -248,6 +248,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "priority-jewels-ipo",
+      "ipoId": 2435,
+      "name": "Priority Jewels",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-12-01",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "23-Aug 13:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/priority_jewels_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/priority-jewels-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=priority-jewels-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
+        "gmp": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/"
+      },
+      "gmpId": 1783,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2007, Priority Jewels designs, manufactures, and sells diamond-studded gold and platinum fine jewellery. It offers a variety of daily wear jewellery products, like rings, earrings, pendants, neckware, bracelets, and occasion couture jewellery.\n\nThe company sells products to independent jewellers and jewellery chains in India and globally, like CaratLane Trading Pvt Ltd, Kalyan Jewellers, Reliance Retail, Malabar Gold & Diamonds, Thribhovandas Bhimji Zaveri Ltd, and Senco Gold Ltd",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "rays-of-belief-ipo",
@@ -384,10 +439,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 52.0,
-        "percent": 63.41,
-        "xLot": 9464.0,
-        "updatedOn": "23-Aug 11:37"
+        "value": 49.0,
+        "percent": 59.76,
+        "xLot": 8918.0,
+        "updatedOn": "23-Aug 17:29"
       },
       "subscription": {
         "total": null,
@@ -442,7 +497,7 @@
         "value": 61.0,
         "percent": 67.78,
         "xLot": 97600.0,
-        "updatedOn": "23-Aug 11:36"
+        "updatedOn": "23-Aug 17:36"
       },
       "subscription": {
         "total": null,
@@ -497,7 +552,7 @@
         "value": 4.0,
         "percent": 4.04,
         "xLot": 604.0,
-        "updatedOn": "23-Aug 11:33"
+        "updatedOn": "23-Aug 17:35"
       },
       "subscription": {
         "total": null,
@@ -552,7 +607,7 @@
         "value": 32.0,
         "percent": 31.68,
         "xLot": 38400.0,
-        "updatedOn": "23-Aug 11:32"
+        "updatedOn": "23-Aug 17:37"
       },
       "subscription": {
         "total": null,
@@ -604,10 +659,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 37.0,
-        "percent": 26.81,
-        "xLot": 3700.0,
-        "updatedOn": "23-Aug 11:35"
+        "value": 35.0,
+        "percent": 25.36,
+        "xLot": 3500.0,
+        "updatedOn": "23-Aug 17:33"
       },
       "subscription": {
         "total": null,
@@ -662,7 +717,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Aug 11:37"
+        "updatedOn": "23-Aug 17:35"
       },
       "subscription": {
         "total": null,
@@ -714,10 +769,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 50.94,
-        "xLot": 7641.0,
-        "updatedOn": "23-Aug 11:35"
+        "value": 29.0,
+        "percent": 54.72,
+        "xLot": 8207.0,
+        "updatedOn": "23-Aug 17:29"
       },
       "subscription": {
         "total": null,
@@ -772,7 +827,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Aug 11:33"
+        "updatedOn": "23-Aug 17:29"
       },
       "subscription": {
         "total": null,
@@ -824,10 +879,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 405.0,
-        "percent": 40.99,
-        "xLot": 6075.0,
-        "updatedOn": "23-Aug 11:35"
+        "value": 409.0,
+        "percent": 41.4,
+        "xLot": 6135.0,
+        "updatedOn": "23-Aug 17:30"
       },
       "subscription": {
         "total": null,
