@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-23T12:46:40+00:00",
+  "scrapedAt": "2026-08-23T18:34:48+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 185,
-    "mainboard": 60,
+    "total": 186,
+    "mainboard": 61,
     "sme": 125
   },
   "ipos": [
@@ -4428,6 +4428,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2435,
+      "name": "Priority Jewels Ltd.",
+      "slug": "priority-jewels-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-08-28",
+        "close": "2026-09-01",
+        "allotment": "2026-09-02",
+        "refunds": "2026-09-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Aug-2026",
+        "close": "01-Sep-2026",
+        "allotment": "02-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/priority_jewels_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {
