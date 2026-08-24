@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T01:35:58+00:00",
+  "scrapedAt": "2026-08-24T07:05:09+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 9
   },
   "ipos": [
     {
@@ -31,14 +31,14 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 227.0,
+        "max": 239.0,
+        "display": "₹227–239"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 62,
+      "issueSize": "₹125.00 Cr",
+      "issueSizeCr": 125.0,
+      "freshIssueCr": 125.0,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-01",
@@ -49,8 +49,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "24-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "24-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "shanti-inorganics-ipo",
+      "ipoId": 2736,
+      "name": "Shanti Inorganics",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 79.0,
+        "max": 83.0,
+        "display": "₹79–83"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹41.50 Cr",
+      "issueSizeCr": 41.5,
+      "freshIssueCr": 41.5,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "24-Aug 8:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Vivro Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shanti-inorganics-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shanti-inorganics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shanti-inorganics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shanti-inorganics-ipo/2736/",
+        "gmp": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/"
+      },
+      "gmpId": 1994,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Shanti Inorganics Ltd. is engaged in the business of manufacturing and trading of sulphur based inorganic chemicals. The product portfolio consists of ammonium bisulphite, sodium bisulphite solutions, sodium meta/ bisulphite, and sodium sulphite powder, which are primarily used as preservatives, reducing agents, oxygen scavengers and process intermediates across multiple industries such as oil drilling, pharmaceuticals, food and beverages, pulp & paper and water treatment.\n\nThe company's manufac",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "priority-jewels-ipo",
       "ipoId": 2435,
       "name": "Priority Jewels",
@@ -86,14 +141,14 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 190.0,
+        "max": 200.0,
+        "display": "₹190–200"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 75,
+      "issueSize": "₹91.50 Cr",
+      "issueSizeCr": 91.5,
+      "freshIssueCr": 91.5,
       "ofsCr": null,
       "dates": {
         "open": "2026-08-28",
@@ -104,8 +159,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "24-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "24-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -133,6 +188,61 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "paluck-technologies-ipo",
+      "ipoId": 2702,
+      "name": "Paluck Technologies",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 46.0,
+        "max": 48.0,
+        "display": "₹46–48"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹33.00 Cr",
+      "issueSizeCr": 33.0,
+      "freshIssueCr": 31.35,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-28",
+        "close": "2026-09-01",
+        "allotment": "2026-09-02",
+        "listing": "2026-09-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "24-Aug 8:20"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Horizon Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/paluck-technologies-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/paluck-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=paluck-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paluck-technologies-ipo/2702/",
+        "gmp": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/"
+      },
+      "gmpId": 1963,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in April 2010, Paluck Technologies Limited is a diversified engineering services and infrastructure support company with operations across Automobile & Engineering Services, Construction Equipment Rental, Logistics & Fleet Management, and Telecom Engineering Services. The Company was originally founded in 2009 as a proprietorship firm providing diesel generator services and has since expanded into multiple infrastructure and engineering segments.\n\nIn the Construction Equipment Renta",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "complete-sports-and-management-ipo",
       "ipoId": 3182,
       "name": "Complete Sports and Management",
@@ -141,14 +251,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 128.0,
+        "max": 135.0,
+        "display": "₹128–135"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1000,
+      "issueSize": "₹74.93 Cr",
+      "issueSizeCr": 74.93,
+      "freshIssueCr": 71.15,
       "ofsCr": null,
       "dates": {
         "open": "2026-08-28",
@@ -159,8 +269,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "24-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "24-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -212,10 +322,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 49.0,
-        "percent": 59.76,
-        "xLot": 8918.0,
-        "updatedOn": "24-Aug 6:29"
+        "value": 47.0,
+        "percent": 57.32,
+        "xLot": 8554.0,
+        "updatedOn": "24-Aug 11:59"
       },
       "subscription": {
         "total": null,
@@ -270,7 +380,7 @@
         "value": 61.0,
         "percent": 67.78,
         "xLot": 97600.0,
-        "updatedOn": "24-Aug 6:34"
+        "updatedOn": "24-Aug 11:58"
       },
       "subscription": {
         "total": null,
@@ -325,7 +435,7 @@
         "value": 4.0,
         "percent": 4.04,
         "xLot": 604.0,
-        "updatedOn": "24-Aug 6:33"
+        "updatedOn": "24-Aug 12:02"
       },
       "subscription": {
         "total": null,
@@ -380,7 +490,7 @@
         "value": 32.0,
         "percent": 31.68,
         "xLot": 38400.0,
-        "updatedOn": "24-Aug 6:35"
+        "updatedOn": "24-Aug 12:00"
       },
       "subscription": {
         "total": null,
