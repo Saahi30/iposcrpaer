@@ -407,8 +407,8 @@
     "source": "https://www.chittorgarh.com/ipo/abh-healthcare-ipo/2517/"
   },
   "subscription": {
-    "summary": "ABH Healthcare IPO subscribed 0.27 times. The public issue subscribed 0.16 times in the individual investors category, 3.45 times in QIB (Ex Anchor), and 0.08 times in the NII category by August 24, 2026 12:30:00 PM (Day 1).",
-    "total": 0.27,
+    "summary": "ABH Healthcare IPO subscribed 0.36 times. The public issue subscribed 0.32 times in the individual investors category, 3.45 times in QIB (Ex Anchor), and 0.27 times in the NII category by August 24, 2026 6:24:59 PM (Day 1).",
+    "total": 0.36,
     "applications": null,
     "byCategory": [
       {
@@ -421,54 +421,54 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.27",
         "Shares Offered*": "1,70,600",
-        "Shares bid for": "13,200",
-        "Total Amt* (₹ Cr.)": "0.135",
+        "Shares bid for": "46,800",
+        "Total Amt* (₹ Cr.)": "0.477",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.01",
         "Shares Offered*": "10,18,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "10,800",
+        "Total Amt* (₹ Cr.)": "0.110",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.03",
+        "Subscription (x)": "0.07",
         "Shares Offered*": "5,10,000",
-        "Shares bid for": "13,200",
-        "Total Amt* (₹ Cr.)": "0.135",
+        "Shares bid for": "36,000",
+        "Total Amt* (₹ Cr.)": "0.367",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "0.32",
         "Shares Offered*": "15,28,800",
-        "Shares bid for": "2,37,600",
-        "Total Amt* (₹ Cr.)": "2.424",
-        "Total Applications": "99"
+        "Shares bid for": "4,92,000",
+        "Total Amt* (₹ Cr.)": "5.018",
+        "Total Applications": "205"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "0.36",
         "Shares Offered*": "34,29,600",
-        "Shares bid for": "9,37,200",
-        "Total Amt* (₹ Cr.)": "9.559",
-        "Total Applications": "103"
+        "Shares bid for": "12,25,200",
+        "Total Amt* (₹ Cr.)": "12.497",
+        "Total Applications": "215"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 24 (Day 1)",
         "QIB (Ex Anchor)": "3.45",
-        "NII*": "0.08",
-        "NII (> ₹10L)": "0.00",
-        "NII (< ₹10L)": "0.03",
-        "Individual Investors": "0.16",
-        "Total": "0.27"
+        "NII*": "0.27",
+        "NII (> ₹10L)": "0.01",
+        "NII (< ₹10L)": "0.07",
+        "Individual Investors": "0.32",
+        "Total": "0.36"
       }
     ]
   },
@@ -494,7 +494,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "24-Aug 12:01"
+      "updatedOn": "24-Aug 17:55"
     },
     "leadManager": "Fedex Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/abh-healthcare-logo.png",
@@ -504,5 +504,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T07:04:45+00:00"
+  "scrapedAt": "2026-08-24T12:56:19+00:00"
 }

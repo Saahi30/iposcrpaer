@@ -420,9 +420,9 @@
     "source": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/"
   },
   "subscription": {
-    "summary": "Augmont Enterprises IPO subscribed 9.21 times. The public issue subscribed 8.96 times in the retail category, 1.93 times in QIB (Ex Anchor), and 19.62 times in the NII category by August 24, 2026 12:29:56 PM (Day 2).",
-    "total": 9.21,
-    "applications": 1439817.0,
+    "summary": "Augmont Enterprises IPO subscribed 15.21 times. The public issue subscribed 14.08 times in the retail category, 2.22 times in QIB (Ex Anchor), and 35.36 times in the NII category by August 24, 2026 5:05:55 PM (Day 2).",
+    "total": 15.21,
+    "applications": 2310145.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -433,52 +433,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.93",
+        "Subscription (x)": "2.22",
         "Shares Offered*": "20,83,757",
-        "Shares bid for": "40,22,718",
-        "Total Amt* (₹ Cr.)": "316.99"
+        "Shares bid for": "46,24,068",
+        "Total Amt* (₹ Cr.)": "364.38"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "19.62",
+        "Subscription (x)": "35.36",
         "Shares Offered*": "15,62,817",
-        "Shares bid for": "3,06,60,699",
-        "Total Amt* (₹ Cr.)": "2,416.06"
+        "Shares bid for": "5,52,64,179",
+        "Total Amt* (₹ Cr.)": "4,354.82"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "17.05",
+        "Subscription (x)": "31.45",
         "Shares Offered*": "10,41,878",
-        "Shares bid for": "1,77,69,085",
-        "Total Amt* (₹ Cr.)": "1,400.20"
+        "Shares bid for": "3,27,66,621",
+        "Total Amt* (₹ Cr.)": "2,582.01"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "24.75",
+        "Subscription (x)": "43.19",
         "Shares Offered*": "5,20,939",
-        "Shares bid for": "1,28,91,614",
-        "Total Amt* (₹ Cr.)": "1,015.86"
+        "Shares bid for": "2,24,97,558",
+        "Total Amt* (₹ Cr.)": "1,772.81"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "8.96",
+        "Subscription (x)": "14.08",
         "Shares Offered*": "36,46,575",
-        "Shares bid for": "3,26,88,265",
-        "Total Amt* (₹ Cr.)": "2,575.84"
+        "Shares bid for": "5,13,59,394",
+        "Total Amt* (₹ Cr.)": "4,047.12"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "5.43",
+        "Subscription (x)": "9.22",
         "Shares Offered*": "50,759",
-        "Shares bid for": "2,75,728",
-        "Total Amt* (₹ Cr.)": "21.73"
+        "Shares bid for": "4,68,141",
+        "Total Amt* (₹ Cr.)": "36.89"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "9.21",
+        "Subscription (x)": "15.21",
         "Shares Offered*": "73,43,908",
-        "Shares bid for": "6,76,47,410",
-        "Total Amt* (₹ Cr.)": "5,330.62"
+        "Shares bid for": "11,17,15,782",
+        "Total Amt* (₹ Cr.)": "8,803.20"
       }
     ],
     "dayWise": [
@@ -494,13 +494,13 @@
       },
       {
         "Date": "Aug 24 (Day 2)",
-        "QIB (Ex Anchor)": "1.93",
-        "NII": "19.62",
-        "NII (> ₹10L)": "17.05",
-        "NII (< ₹10L)": "24.75",
-        "Retail": "8.96",
-        "EMP": "5.43",
-        "Total": "9.21"
+        "QIB (Ex Anchor)": "2.22",
+        "NII": "35.36",
+        "NII (> ₹10L)": "31.45",
+        "NII (< ₹10L)": "43.19",
+        "Retail": "14.08",
+        "EMP": "9.22",
+        "Total": "15.21"
       }
     ]
   },
@@ -523,10 +523,10 @@
       "listing": "2026-08-31"
     },
     "gmp": {
-      "value": 390.0,
-      "percent": 49.49,
-      "xLot": 7410.0,
-      "updatedOn": "24-Aug 12:01"
+      "value": 372.0,
+      "percent": 47.21,
+      "xLot": 7068.0,
+      "updatedOn": "24-Aug 17:59"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
@@ -536,5 +536,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T07:04:52+00:00"
+  "scrapedAt": "2026-08-24T12:56:27+00:00"
 }

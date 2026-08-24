@@ -451,9 +451,9 @@
     "source": "https://www.chittorgarh.com/ipo/symbiotec-pharmalab-ipo/2815/"
   },
   "subscription": {
-    "summary": "Symbiotec Pharmalab IPO subscribed 0.33 times. The public issue subscribed 0.48 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.41 times in the NII category by August 24, 2026 12:29:16 PM (Day 1).",
-    "total": 0.33,
-    "applications": 162763.0,
+    "summary": "Symbiotec Pharmalab IPO subscribed 0.85 times. The public issue subscribed 1.01 times in the retail category, 0.37 times in QIB (Ex Anchor), and 1.10 times in the NII category by August 24, 2026 5:06:17 PM (Day 1).",
+    "total": 0.85,
+    "applications": 342760.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -464,64 +464,64 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.37",
         "Shares Offered*": "35,50,608",
-        "Shares bid for": "210",
-        "Total Amt* (₹ Cr.)": "0.021"
+        "Shares bid for": "13,26,390",
+        "Total Amt* (₹ Cr.)": "131.047"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "1.10",
         "Shares Offered*": "26,62,955",
-        "Shares bid for": "11,02,560",
-        "Total Amt* (₹ Cr.)": "108.933"
+        "Shares bid for": "29,27,160",
+        "Total Amt* (₹ Cr.)": "289.203"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.28",
+        "Subscription (x)": "0.82",
         "Shares Offered*": "17,75,303",
-        "Shares bid for": "4,98,630",
-        "Total Amt* (₹ Cr.)": "49.265"
+        "Shares bid for": "14,51,265",
+        "Total Amt* (₹ Cr.)": "143.385"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.68",
+        "Subscription (x)": "1.66",
         "Shares Offered*": "8,87,652",
-        "Shares bid for": "6,03,930",
-        "Total Amt* (₹ Cr.)": "59.668"
+        "Shares bid for": "14,75,895",
+        "Total Amt* (₹ Cr.)": "145.818"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.48",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "62,13,562",
-        "Shares bid for": "29,98,920",
-        "Total Amt* (₹ Cr.)": "296.293"
+        "Shares bid for": "62,47,950",
+        "Total Amt* (₹ Cr.)": "617.297"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.78",
+        "Subscription (x)": "1.65",
         "Shares Offered*": "33,408",
-        "Shares bid for": "25,980",
-        "Total Amt* (₹ Cr.)": "2.567"
+        "Shares bid for": "55,035",
+        "Total Amt* (₹ Cr.)": "5.437"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.33",
+        "Subscription (x)": "0.85",
         "Shares Offered*": "1,24,60,533",
-        "Shares bid for": "41,27,670",
-        "Total Amt* (₹ Cr.)": "407.814"
+        "Shares bid for": "1,05,56,535",
+        "Total Amt* (₹ Cr.)": "1,042.986"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 24 (Day 1)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII": "0.41",
-        "NII (> ₹10L)": "0.28",
-        "NII (< ₹10L)": "0.68",
-        "Retail": "0.48",
-        "EMP": "0.78",
-        "Total": "0.33"
+        "QIB (Ex Anchor)": "0.37",
+        "NII": "1.10",
+        "NII (> ₹10L)": "0.82",
+        "NII (< ₹10L)": "1.66",
+        "Retail": "1.01",
+        "EMP": "1.65",
+        "Total": "0.85"
       }
     ]
   },
@@ -544,10 +544,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 403.0,
-      "percent": 40.79,
-      "xLot": 6045.0,
-      "updatedOn": "24-Aug 11:56"
+      "value": 388.0,
+      "percent": 39.27,
+      "xLot": 5820.0,
+      "updatedOn": "24-Aug 17:59"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
@@ -557,5 +557,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T07:04:50+00:00"
+  "scrapedAt": "2026-08-24T12:56:25+00:00"
 }
