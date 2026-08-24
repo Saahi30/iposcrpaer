@@ -406,7 +406,7 @@
   "subscription": {
     "summary": "Skyways Air IPO subscribed 1.16 times. The public issue subscribed 1.66 times in the retail category, 0.46 times in QIB (Ex Anchor), and 0.92 times in the NII category by August 24, 2026 5:05:35 PM (Day 1).",
     "total": 1.16,
-    "applications": 203744.0,
+    "applications": 204890.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -489,10 +489,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 33.0,
-      "percent": 23.91,
-      "xLot": 3300.0,
-      "updatedOn": "24-Aug 17:58"
+      "value": 32.0,
+      "percent": 23.19,
+      "xLot": 3200.0,
+      "updatedOn": "24-Aug 23:28"
     },
     "leadManager": "Holani Consultants",
     "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
@@ -502,5 +502,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T12:56:17+00:00"
+  "scrapedAt": "2026-08-24T18:45:09+00:00"
 }

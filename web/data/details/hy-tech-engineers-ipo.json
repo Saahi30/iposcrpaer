@@ -398,7 +398,7 @@
   "subscription": {
     "summary": "Hy-Tech Engineers IPO subscribed 7.84 times. The public issue subscribed 11.53 times in the retail category, 0.50 times in QIB (Ex Anchor), and 9.02 times in the NII category by August 24, 2026 5:06:08 PM (Day 1).",
     "total": 7.84,
-    "applications": 299851.0,
+    "applications": 301098.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -468,9 +468,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 50.0,
+      "min": 53.0,
       "max": 53.0,
-      "display": "₹50–53"
+      "display": "₹53"
     },
     "lotSize": 283,
     "issueSize": "₹135.73 Cr",
@@ -484,7 +484,7 @@
       "value": 30.0,
       "percent": 56.6,
       "xLot": 8490.0,
-      "updatedOn": "24-Aug 17:54"
+      "updatedOn": "24-Aug 23:35"
     },
     "leadManager": "New Berry Capitals",
     "logo": "https://www.chittorgarh.net/images/ipo/hytech-ipo-logo.png",
@@ -494,5 +494,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T12:56:21+00:00"
+  "scrapedAt": "2026-08-24T18:45:14+00:00"
 }

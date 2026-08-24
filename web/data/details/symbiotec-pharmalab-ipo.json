@@ -453,7 +453,7 @@
   "subscription": {
     "summary": "Symbiotec Pharmalab IPO subscribed 0.85 times. The public issue subscribed 1.01 times in the retail category, 0.37 times in QIB (Ex Anchor), and 1.10 times in the NII category by August 24, 2026 5:06:17 PM (Day 1).",
     "total": 0.85,
-    "applications": 342760.0,
+    "applications": 344314.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -544,10 +544,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 388.0,
-      "percent": 39.27,
-      "xLot": 5820.0,
-      "updatedOn": "24-Aug 17:59"
+      "value": 335.0,
+      "percent": 33.91,
+      "xLot": 5025.0,
+      "updatedOn": "24-Aug 23:28"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
@@ -557,5 +557,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T12:56:25+00:00"
+  "scrapedAt": "2026-08-24T18:45:18+00:00"
 }

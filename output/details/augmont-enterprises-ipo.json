@@ -422,7 +422,7 @@
   "subscription": {
     "summary": "Augmont Enterprises IPO subscribed 15.21 times. The public issue subscribed 14.08 times in the retail category, 2.22 times in QIB (Ex Anchor), and 35.36 times in the NII category by August 24, 2026 5:05:55 PM (Day 2).",
     "total": 15.21,
-    "applications": 2310145.0,
+    "applications": 2313241.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -523,10 +523,10 @@
       "listing": "2026-08-31"
     },
     "gmp": {
-      "value": 372.0,
-      "percent": 47.21,
-      "xLot": 7068.0,
-      "updatedOn": "24-Aug 17:59"
+      "value": 325.0,
+      "percent": 41.24,
+      "xLot": 6175.0,
+      "updatedOn": "24-Aug 23:30"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
@@ -536,5 +536,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-24T12:56:27+00:00"
+  "scrapedAt": "2026-08-24T18:45:20+00:00"
 }
