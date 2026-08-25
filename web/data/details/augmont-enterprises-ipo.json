@@ -426,9 +426,9 @@
     "source": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/"
   },
   "subscription": {
-    "summary": "Augmont Enterprises IPO subscribed 28.62 times. The public issue subscribed 22.35 times in the retail category, 3.36 times in QIB (Ex Anchor), and 77.39 times in the NII category by August 25, 2026 12:19:47 PM (Day 3).",
-    "total": 28.62,
-    "applications": 3716346.0,
+    "summary": "Augmont Enterprises IPO subscribed 111.18 times. The public issue subscribed 32.64 times in the retail category, 238.46 times in QIB (Ex Anchor), and 127.63 times in the NII category by August 25, 2026 6:19:46 PM (Day 3).",
+    "total": 111.18,
+    "applications": 5497662.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -439,52 +439,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "3.36",
+        "Subscription (x)": "238.46",
         "Shares Offered*": "20,83,757",
-        "Shares bid for": "70,10,715",
-        "Total Amt* (₹ Cr.)": "552.44"
+        "Shares bid for": "49,68,89,976",
+        "Total Amt* (₹ Cr.)": "39,154.93"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "77.39",
+        "Subscription (x)": "127.63",
         "Shares Offered*": "15,62,817",
-        "Shares bid for": "12,09,41,650",
-        "Total Amt* (₹ Cr.)": "9,530.20"
+        "Shares bid for": "19,94,61,563",
+        "Total Amt* (₹ Cr.)": "15,717.57"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "77.73",
+        "Subscription (x)": "133.36",
         "Shares Offered*": "10,41,878",
-        "Shares bid for": "8,09,81,667",
-        "Total Amt* (₹ Cr.)": "6,381.36"
+        "Shares bid for": "13,89,39,951",
+        "Total Amt* (₹ Cr.)": "10,948.47"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "76.71",
+        "Subscription (x)": "116.18",
         "Shares Offered*": "5,20,939",
-        "Shares bid for": "3,99,59,983",
-        "Total Amt* (₹ Cr.)": "3,148.85"
+        "Shares bid for": "6,05,21,612",
+        "Total Amt* (₹ Cr.)": "4,769.10"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "22.35",
+        "Subscription (x)": "32.64",
         "Shares Offered*": "36,46,575",
-        "Shares bid for": "8,14,97,251",
-        "Total Amt* (₹ Cr.)": "6,421.98"
+        "Shares bid for": "11,90,18,660",
+        "Total Amt* (₹ Cr.)": "9,378.67"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "14.62",
+        "Subscription (x)": "22.22",
         "Shares Offered*": "50,759",
-        "Shares bid for": "7,42,349",
-        "Total Amt* (₹ Cr.)": "58.50"
+        "Shares bid for": "11,27,631",
+        "Total Amt* (₹ Cr.)": "88.86"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "28.62",
+        "Subscription (x)": "111.18",
         "Shares Offered*": "73,43,908",
-        "Shares bid for": "21,01,91,965",
-        "Total Amt* (₹ Cr.)": "16,563.13"
+        "Shares bid for": "81,64,97,830",
+        "Total Amt* (₹ Cr.)": "64,340.03"
       }
     ],
     "dayWise": [
@@ -510,13 +510,13 @@
       },
       {
         "Date": "Aug 25 (Day 3)",
-        "QIB (Ex Anchor)": "3.36",
-        "NII": "77.39",
-        "NII (> ₹10L)": "77.73",
-        "NII (< ₹10L)": "76.71",
-        "Retail": "22.35",
-        "EMP": "14.62",
-        "Total": "28.62"
+        "QIB (Ex Anchor)": "238.46",
+        "NII": "127.63",
+        "NII (> ₹10L)": "133.36",
+        "NII (< ₹10L)": "116.18",
+        "Retail": "32.64",
+        "EMP": "22.22",
+        "Total": "111.18"
       }
     ]
   },
@@ -539,10 +539,10 @@
       "listing": "2026-08-31"
     },
     "gmp": {
-      "value": 325.0,
-      "percent": 41.24,
-      "xLot": 6175.0,
-      "updatedOn": "25-Aug 11:54"
+      "value": 330.0,
+      "percent": 41.88,
+      "xLot": 6270.0,
+      "updatedOn": "25-Aug 17:56"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
@@ -552,5 +552,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-25T06:54:09+00:00"
+  "scrapedAt": "2026-08-25T12:53:27+00:00"
 }

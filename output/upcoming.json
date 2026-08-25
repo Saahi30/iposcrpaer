@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T06:54:29+00:00",
+  "scrapedAt": "2026-08-25T12:53:49+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 10,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 11
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 11:53"
+        "updatedOn": "25-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -75,6 +75,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "pernias-pop-up-studio-ipo",
+      "ipoId": 2622,
+      "name": "Pernia's Pop-up Studio",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹680.00 Cr",
+      "issueSizeCr": 680.0,
+      "freshIssueCr": 680.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "25-Aug 14:51"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/pernias-pop-up-studio-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pernias-pop-up-studio-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+        "gmp": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/"
+      },
+      "gmpId": 1897,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2015, Purple Style Labs Limited is a multi-brand luxury omni-channel fashion platform operating under Pernia’s Pop-Up Shop (PPUS), offering a curated portfolio of luxury fashion products across womenswear, menswear, jewellery, accessories and kidswear, with a focus on wedding and occasion wear. The Company sources products from 1,109 active designer brands as of March 31, 2026, including Seema Gujral, Anushree Reddy, Amit Aggarwal and Rohit Gandhi & Rahul Khanna.\n\nThe Comp",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 11:56"
+        "updatedOn": "25-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 25.0,
         "percent": 30.12,
         "xLot": 40000.0,
-        "updatedOn": "25-Aug 12:02"
+        "updatedOn": "25-Aug 18:02"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 290.0,
-        "percent": 67.6,
-        "xLot": 9860.0,
-        "updatedOn": "25-Aug 12:01"
+        "value": 250.0,
+        "percent": 58.28,
+        "xLot": 8500.0,
+        "updatedOn": "25-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 28.0,
-        "percent": 14.0,
-        "xLot": 2100.0,
-        "updatedOn": "25-Aug 11:55"
+        "value": 30.0,
+        "percent": 15.0,
+        "xLot": 2250.0,
+        "updatedOn": "25-Aug 17:59"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 10.0,
         "percent": 20.83,
         "xLot": 30000.0,
-        "updatedOn": "25-Aug 11:58"
+        "updatedOn": "25-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 12:00"
+        "updatedOn": "25-Aug 17:58"
       },
       "subscription": {
         "total": null,
@@ -487,10 +542,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 47.0,
-        "percent": 57.32,
-        "xLot": 8554.0,
-        "updatedOn": "25-Aug 12:00"
+        "value": 49.0,
+        "percent": 59.76,
+        "xLot": 8918.0,
+        "updatedOn": "25-Aug 17:57"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 64.0,
         "percent": 71.11,
         "xLot": 102400.0,
-        "updatedOn": "25-Aug 12:02"
+        "updatedOn": "25-Aug 17:56"
       },
       "subscription": {
         "total": null,

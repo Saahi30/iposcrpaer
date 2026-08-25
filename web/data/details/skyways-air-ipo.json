@@ -404,9 +404,9 @@
     "source": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/"
   },
   "subscription": {
-    "summary": "Skyways Air IPO subscribed 1.75 times. The public issue subscribed 2.58 times in the retail category, 0.46 times in QIB (Ex Anchor), and 1.51 times in the NII category by August 25, 2026 12:19:36 PM (Day 2).",
-    "total": 1.75,
-    "applications": 319050.0,
+    "summary": "Skyways Air IPO subscribed 2.46 times. The public issue subscribed 3.54 times in the retail category, 0.47 times in QIB (Ex Anchor), and 2.58 times in the NII category by August 25, 2026 5:07:35 PM (Day 2).",
+    "total": 2.46,
+    "applications": 447989.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -417,45 +417,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "0.47",
         "Shares Offered*": "84,32,000",
-        "Shares bid for": "39,10,500",
-        "Total Amt* (₹ Cr.)": "53.965"
+        "Shares bid for": "39,77,200",
+        "Total Amt* (₹ Cr.)": "54.885"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.51",
+        "Subscription (x)": "2.58",
         "Shares Offered*": "63,51,600",
-        "Shares bid for": "95,62,100",
-        "Total Amt* (₹ Cr.)": "131.957"
+        "Shares bid for": "1,63,62,000",
+        "Total Amt* (₹ Cr.)": "225.796"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.98",
+        "Subscription (x)": "1.86",
         "Shares Offered*": "42,34,400",
-        "Shares bid for": "41,60,800",
-        "Total Amt* (₹ Cr.)": "57.419"
+        "Shares bid for": "78,65,600",
+        "Total Amt* (₹ Cr.)": "108.545"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.55",
+        "Subscription (x)": "4.01",
         "Shares Offered*": "21,17,200",
-        "Shares bid for": "54,01,300",
-        "Total Amt* (₹ Cr.)": "74.538"
+        "Shares bid for": "84,96,400",
+        "Total Amt* (₹ Cr.)": "117.250"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.58",
+        "Subscription (x)": "3.54",
         "Shares Offered*": "1,48,00,000",
-        "Shares bid for": "3,82,29,400",
-        "Total Amt* (₹ Cr.)": "527.566"
+        "Shares bid for": "5,23,51,300",
+        "Total Amt* (₹ Cr.)": "722.448"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.75",
+        "Subscription (x)": "2.46",
         "Shares Offered*": "2,95,83,600",
-        "Shares bid for": "5,17,02,000",
-        "Total Amt* (₹ Cr.)": "713.488"
+        "Shares bid for": "7,26,90,500",
+        "Total Amt* (₹ Cr.)": "1,003.129"
       }
     ],
     "dayWise": [
@@ -470,12 +470,12 @@
       },
       {
         "Date": "Aug 25 (Day 2)",
-        "QIB (Ex Anchor)": "0.46",
-        "NII": "1.51",
-        "NII (> ₹10L)": "0.98",
-        "NII (< ₹10L)": "2.55",
-        "Retail": "2.58",
-        "Total": "1.75"
+        "QIB (Ex Anchor)": "0.47",
+        "NII": "2.58",
+        "NII (> ₹10L)": "1.86",
+        "NII (< ₹10L)": "4.01",
+        "Retail": "3.54",
+        "Total": "2.46"
       }
     ]
   },
@@ -498,10 +498,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 29.0,
-      "percent": 21.01,
-      "xLot": 2900.0,
-      "updatedOn": "25-Aug 11:59"
+      "value": 29.4,
+      "percent": 21.3,
+      "xLot": 2940.0,
+      "updatedOn": "25-Aug 17:55"
     },
     "leadManager": "Holani Consultants",
     "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
@@ -511,5 +511,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-25T06:53:58+00:00"
+  "scrapedAt": "2026-08-25T12:53:16+00:00"
 }

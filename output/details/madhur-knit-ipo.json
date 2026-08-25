@@ -449,8 +449,8 @@
     "source": "https://www.chittorgarh.com/ipo/madhur-knit-ipo/2783/"
   },
   "subscription": {
-    "summary": "Madhur Knit IPO subscribed 0.35 times. The public issue subscribed 0.42 times in the individual investors category, 0.99 times in QIB (Ex Anchor), and 0.22 times in the NII category by August 25, 2026 12:20:01 PM (Day 2).",
-    "total": 0.35,
+    "summary": "Madhur Knit IPO subscribed 0.42 times. The public issue subscribed 0.55 times in the individual investors category, 1.01 times in QIB (Ex Anchor), and 0.23 times in the NII category by August 25, 2026 6:19:01 PM (Day 2).",
+    "total": 0.42,
     "applications": null,
     "byCategory": [
       {
@@ -471,51 +471,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.99",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "2,02,800",
-        "Shares bid for": "2,00,400",
-        "Total Amt* (₹ Cr.)": "2.004",
-        "Total Applications": "1"
+        "Shares bid for": "2,04,000",
+        "Total Amt* (₹ Cr.)": "2.040",
+        "Total Applications": "2"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.22",
+        "Subscription (x)": "0.23",
         "Shares Offered*": "22,77,600",
-        "Shares bid for": "4,93,200",
-        "Total Amt* (₹ Cr.)": "4.932",
-        "Total Applications": "26"
+        "Shares bid for": "5,29,200",
+        "Total Amt* (₹ Cr.)": "5.292",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.36",
+        "Subscription (x)": "0.38",
         "Shares Offered*": "12,52,000",
-        "Shares bid for": "4,48,800",
-        "Total Amt* (₹ Cr.)": "4.488",
+        "Shares bid for": "4,70,400",
+        "Total Amt* (₹ Cr.)": "4.704",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "0.08",
         "Shares Offered*": "7,59,200",
-        "Shares bid for": "44,400",
-        "Total Amt* (₹ Cr.)": "0.444",
+        "Shares bid for": "58,800",
+        "Total Amt* (₹ Cr.)": "0.588",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.42",
+        "Subscription (x)": "0.55",
         "Shares Offered*": "22,77,600",
-        "Shares bid for": "9,52,800",
-        "Total Amt* (₹ Cr.)": "9.528",
-        "Total Applications": "397"
+        "Shares bid for": "12,57,600",
+        "Total Amt* (₹ Cr.)": "12.576",
+        "Total Applications": "524"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "0.42",
         "Shares Offered*": "47,58,000",
-        "Shares bid for": "16,46,400",
-        "Total Amt* (₹ Cr.)": "16.464",
-        "Total Applications": "424"
+        "Shares bid for": "19,90,800",
+        "Total Amt* (₹ Cr.)": "19.908",
+        "Total Applications": "558"
       }
     ],
     "dayWise": [
@@ -530,12 +530,12 @@
       },
       {
         "Date": "Aug 25 (Day 2)",
-        "QIB (Ex Anchor)": "0.99",
-        "NII*": "0.22",
-        "NII (> ₹10L)": "0.36",
-        "NII (< ₹10L)": "0.06",
-        "Individual Investors": "0.42",
-        "Total": "0.35"
+        "QIB (Ex Anchor)": "1.01",
+        "NII*": "0.23",
+        "NII (> ₹10L)": "0.38",
+        "NII (< ₹10L)": "0.08",
+        "Individual Investors": "0.55",
+        "Total": "0.42"
       }
     ]
   },
@@ -561,7 +561,7 @@
       "value": 16.0,
       "percent": 16.0,
       "xLot": 19200.0,
-      "updatedOn": "25-Aug 11:56"
+      "updatedOn": "25-Aug 17:57"
     },
     "leadManager": "SKI Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/madhur-knit-ipo-logo.png",
@@ -571,5 +571,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-25T06:54:05+00:00"
+  "scrapedAt": "2026-08-25T12:53:22+00:00"
 }
