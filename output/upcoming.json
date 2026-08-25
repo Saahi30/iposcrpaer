@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T01:26:19+00:00",
+  "scrapedAt": "2026-08-25T06:54:29+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 10,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 10
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 6:37"
+        "updatedOn": "25-Aug 11:53"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "phychem-technologies-ipo",
+      "ipoId": 2730,
+      "name": "Phychem Technologies",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹14.58 Cr",
+      "issueSizeCr": 14.58,
+      "freshIssueCr": 13.83,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "25-Aug 11:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/phychem-technologies-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/phychem-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=phychem-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/phychem-technologies-ipo/2730/",
+        "gmp": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/"
+      },
+      "gmpId": 1988,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Phychem Technologies is engaged in manufacturing rotational molding (roto molding) compounds, which are key raw materials used to produce various hollow plastic products through the rotational molding process.\n\nIts products mainly include customized polyethylene-based compounds made from LLDPE, HDPE, and special additives. These are supplied in powder or granule form to manufacturers who make items like water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "shanti-inorganics-ipo",
@@ -105,7 +160,7 @@
         "value": 25.0,
         "percent": 30.12,
         "xLot": 40000.0,
-        "updatedOn": "25-Aug 6:30"
+        "updatedOn": "25-Aug 12:02"
       },
       "subscription": {
         "total": null,
@@ -131,6 +186,116 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in January 2010, Shanti Inorganics Ltd. manufactures and trades sulfur-based inorganic chemicals. Its main products include sodium metabisulphite, sodium sulfite powder, ammonium bisulfite solution, and sodium bisulfite powder/solution.\n\nThese products are mainly used as preservatives, reducing agents, oxygen scavengers, and process intermediates across industries such as oil drilling, pharmaceuticals, food and beverages, pulp and paper, and water treatment.\n\nThe company operates tw",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "ashutosh-fibre-ipo",
+      "ipoId": 2751,
+      "name": "Ashutosh Fibre",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 87.0,
+        "max": 92.0,
+        "display": "₹87–92"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹56.35 Cr",
+      "issueSizeCr": 56.35,
+      "freshIssueCr": 53.52,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "25-Aug 9:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ashutosh-fibre-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/ashutosh-fibre-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ashutosh-fibre-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
+        "gmp": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/"
+      },
+      "gmpId": 2009,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1985, Ashutosh Fibre Limited is engaged in the manufacturing and trading of technical textile products, primarily focusing on polypropylene (PP) spun yarns used across industrial and household applications. The company operates under a business-to-business (B2B) model, supplying yarns and fabrics to industrial manufacturers, processors, and institutional buyers.\n\nAshutosh Fibre operates across four major categories of technical textiles — Indutech, Protech, Hometech, and Mobiltec",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "esds-software-ipo",
+      "ipoId": 1198,
+      "name": "ESDS Software Solution",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 408.0,
+        "max": 429.0,
+        "display": "₹408–429"
+      },
+      "lotSize": 34,
+      "issueSize": "₹720.00 Cr",
+      "issueSizeCr": 720.0,
+      "freshIssueCr": 720.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-28",
+        "close": "2026-09-01",
+        "allotment": "2026-09-02",
+        "listing": "2026-09-04"
+      },
+      "gmp": {
+        "value": 290.0,
+        "percent": 67.6,
+        "xLot": 9860.0,
+        "updatedOn": "25-Aug 12:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Dam Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/esds-solution-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/esds-software-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=esds-software-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
+        "gmp": "https://www.investorgain.com/gmp/esds-software-ipo/1607/"
+      },
+      "gmpId": 1607,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2005, ESDS Software Solution Limited is an AI-enabled provider of cloud, managed services, Data Centre infrastructure and software solutions in India. The Company offers an end-to-end portfolio comprising Infrastructure-as-a-Service (IaaS), managed services and Software-as-a-Service (SaaS), serving customers across BFSI, Government and enterprise segments. In Fiscal 2026, the Company served 2,501 customers and reported revenue from operations of ₹4,722.10 million.\n\nThe Com",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "priority-jewels-ipo",
@@ -160,7 +325,7 @@
         "value": 28.0,
         "percent": 14.0,
         "xLot": 2100.0,
-        "updatedOn": "25-Aug 6:37"
+        "updatedOn": "25-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +380,7 @@
         "value": 10.0,
         "percent": 20.83,
         "xLot": 30000.0,
-        "updatedOn": "25-Aug 6:37"
+        "updatedOn": "25-Aug 11:58"
       },
       "subscription": {
         "total": null,
@@ -270,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 6:30"
+        "updatedOn": "25-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -325,7 +490,7 @@
         "value": 47.0,
         "percent": 57.32,
         "xLot": 8554.0,
-        "updatedOn": "25-Aug 6:36"
+        "updatedOn": "25-Aug 12:00"
       },
       "subscription": {
         "total": null,
@@ -380,7 +545,7 @@
         "value": 64.0,
         "percent": 71.11,
         "xLot": 102400.0,
-        "updatedOn": "25-Aug 6:31"
+        "updatedOn": "25-Aug 12:02"
       },
       "subscription": {
         "total": null,
