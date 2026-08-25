@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T18:45:41+00:00",
+  "scrapedAt": "2026-08-25T01:26:19+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,124 @@
     "limit": null
   },
   "summary": {
-    "open": 7,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "annu-projects-ipo",
+      "ipoId": 2500,
+      "name": "Annu Projects",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 94.0,
+        "max": 99.0,
+        "display": "₹94–99"
+      },
+      "lotSize": 151,
+      "issueSize": "₹175.06 Cr",
+      "issueSizeCr": 175.06,
+      "freshIssueCr": 175.06,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-25",
+        "close": "2026-08-28",
+        "allotment": "2026-08-31",
+        "listing": "2026-09-02"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "25-Aug 6:29"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/annu-projects-logo1.png",
+      "hasDetail": true,
+      "detailPath": "details/annu-projects-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=annu-projects-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/annu-projects-ipo/2500/",
+        "gmp": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/"
+      },
+      "gmpId": 1815,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Annu Projects Limited is an engineering, procurement, and construction (EPC) company. It is engaged in the design, development, implementation, operations and maintenance of essential overhead and underground utilities infrastructure across telecom infrastructure, sewerage infrastructure vertical and gas pipeline vertical.\n\nAs on June 30, 2026, it has 23 ongoing projects worth Rs 19,593.48 million, including 4 telecom infra projects, 14 sewerage, 4 gas pipeline projects and 1 (one) comprised of ",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "sumax-engineering-ipo",
+      "ipoId": 2977,
+      "name": "Sumax Engineering",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 95.0,
+        "max": 101.0,
+        "display": "₹95–101"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹53.40 Cr",
+      "issueSizeCr": 53.4,
+      "freshIssueCr": 40.65,
+      "ofsCr": 10.06,
+      "dates": {
+        "open": "2026-08-25",
+        "close": "2026-08-28",
+        "allotment": "2026-08-31",
+        "listing": "2026-09-02"
+      },
+      "gmp": {
+        "value": 32.0,
+        "percent": 31.68,
+        "xLot": 38400.0,
+        "updatedOn": "25-Aug 6:35"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sumax-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sumax-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sumax-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sumax-engineering-ipo/2977/",
+        "gmp": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/"
+      },
+      "gmpId": 2238,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1994, Sumax Engineering Ltd. is engaged in the manufacturing and trading of products for the Automotive OEM (Original Equipment Manufacturer) and Auto Refinish markets. The company operates through two segments: manufacturing and trading.\n\nIts manufacturing portfolio includes adhesive tapes and die-cuts, pre-taped masking films, rubbing and polishing compounds, buffing and foam pads, reflective tapes, domes and graphics, and car care products.\n\nThrough its trading business, the c",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "skyways-air-ipo",
       "ipoId": 2510,
@@ -50,7 +160,7 @@
         "value": 32.0,
         "percent": 23.19,
         "xLot": 3200.0,
-        "updatedOn": "24-Aug 23:28"
+        "updatedOn": "25-Aug 6:35"
       },
       "subscription": {
         "total": 1.16,
@@ -156,7 +266,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Aug 23:28"
+        "updatedOn": "25-Aug 6:32"
       },
       "subscription": {
         "total": 0.36,
@@ -261,7 +371,7 @@
         "value": 30.0,
         "percent": 56.6,
         "xLot": 8490.0,
-        "updatedOn": "24-Aug 23:35"
+        "updatedOn": "25-Aug 6:33"
       },
       "subscription": {
         "total": 7.84,
@@ -367,7 +477,7 @@
         "value": 16.0,
         "percent": 16.0,
         "xLot": 19200.0,
-        "updatedOn": "24-Aug 23:33"
+        "updatedOn": "25-Aug 6:32"
       },
       "subscription": {
         "total": 0.32,
@@ -477,10 +587,10 @@
         "listing": "2026-09-01"
       },
       "gmp": {
-        "value": 335.0,
-        "percent": 33.91,
-        "xLot": 5025.0,
-        "updatedOn": "24-Aug 23:28"
+        "value": 340.0,
+        "percent": 34.41,
+        "xLot": 5100.0,
+        "updatedOn": "25-Aug 6:32"
       },
       "subscription": {
         "total": 0.85,
@@ -593,7 +703,7 @@
         "value": 325.0,
         "percent": 41.24,
         "xLot": 6175.0,
-        "updatedOn": "24-Aug 23:30"
+        "updatedOn": "25-Aug 6:30"
       },
       "subscription": {
         "total": 15.21,
@@ -677,119 +787,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in October 2012, Augmont Enterprises Limited is an integrated gold and silver platform serving businesses and consumers across India and international markets. The Company operates across multiple segments of the gold and silver value chain, including procurement and refining, bullion trading, digital gold, jewellery manufacturing, international sales and technology support for gold-backed financial services. Its business is operated through the Augmont SPOT platform for enterprise ",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "tempsens-instruments-india-ipo",
-      "ipoId": 2668,
-      "name": "Tempsens Instruments (India)",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 285.0,
-        "max": 300.0,
-        "display": "₹285–300"
-      },
-      "lotSize": 50,
-      "issueSize": "₹650.00 Cr",
-      "issueSizeCr": 650.0,
-      "freshIssueCr": 95.0,
-      "ofsCr": 555.0,
-      "dates": {
-        "open": "2026-08-20",
-        "close": "2026-08-24",
-        "allotment": "2026-08-25",
-        "listing": "2026-08-28"
-      },
-      "gmp": {
-        "value": 313.0,
-        "percent": 104.33,
-        "xLot": 15650.0,
-        "updatedOn": "24-Aug 23:32"
-      },
-      "subscription": {
-        "total": 184.22,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "64,84,999",
-            "Shares bid for": "64,84,999",
-            "Total Amt* (₹ Cr.)": "194.55"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "302.88",
-            "Shares Offered*": "43,23,335",
-            "Shares bid for": "1,30,94,62,300",
-            "Total Amt* (₹ Cr.)": "39,283.87"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "314.44",
-            "Shares Offered*": "32,42,500",
-            "Shares bid for": "1,01,95,83,800",
-            "Total Amt* (₹ Cr.)": "30,587.51"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "331.34",
-            "Shares Offered*": "21,61,667",
-            "Shares bid for": "71,62,41,200",
-            "Total Amt* (₹ Cr.)": "21,487.24"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "280.66",
-            "Shares Offered*": "10,80,833",
-            "Shares bid for": "30,33,42,600",
-            "Total Amt* (₹ Cr.)": "9,100.28"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "61.00",
-            "Shares Offered*": "75,65,833",
-            "Shares bid for": "46,15,26,600",
-            "Total Amt* (₹ Cr.)": "13,845.80"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "124.95",
-            "Shares Offered*": "50,000",
-            "Shares bid for": "62,47,300",
-            "Total Amt* (₹ Cr.)": "187.42"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "184.22",
-            "Shares Offered*": "1,51,81,668",
-            "Shares bid for": "2,79,68,20,000",
-            "Total Amt* (₹ Cr.)": "83,904.60"
-          }
-        ],
-        "applications": 7519511.0
-      },
-      "leadManager": "ICICI Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/tempsens-instruments-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=tempsens-instruments-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/tempsens-instruments-india-ipo/2668/",
-        "gmp": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/"
-      },
-      "gmpId": 1934,
-      "faceValue": "₹4 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1990, Tempsens Instruments (India) Limited a thermal engineering and specialised cable manufacturer, engaged in the design and manufacture of customized temperature sensing solutions, electrical heating solutions and specialised cables. Its product portfolio includes temperature sensing solutions, electrical heating solutions, and specialized cables.\n\nThey manufactures of contact and non-contact temperature sensors in India in terms of revenue with a market share of approximately",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }

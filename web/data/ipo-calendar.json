@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-24T18:45:47+00:00",
+  "scrapedAt": "2026-08-25T01:26:25+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 127,
-    "mainboard": 62,
+    "totalEvents": 128,
+    "mainboard": 63,
     "sme": 65,
     "byEventType": {
-      "allotment": 33,
+      "allotment": 34,
       "close": 49,
       "open": 43,
       "other": 2
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=8&year=2026"
       },
       "summary": {
-        "total": 119,
-        "mainboard": 58,
+        "total": 120,
+        "mainboard": 59,
         "sme": 61
       },
       "byDate": {
@@ -1862,6 +1862,25 @@
         ],
         "2026-08-24": [
           {
+            "title": "Gaja Alternative Asset Management IPO Allotment Status",
+            "company": "Gaja Alternative Asset Management",
+            "eventType": "allotment",
+            "date": "2026-08-24",
+            "dateEnd": "2026-08-24",
+            "details": "The allotment status of Gaja Alternative Asset Management Ltd. IPO is now available online. The public issue of Gaja Alternative Asset Management IPO was open on Aug 19, 2026 and closed for subscripti",
+            "type": "mainboard",
+            "slug": "gaja-alternative-asset-management-ipo",
+            "ipoId": 2527,
+            "eventId": 15367,
+            "month": 8,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15367",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Allotment%20Status&location=&dates=20260824/20260825&details=The%20allotment%20status%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20IPO%20was%20open%20on%20Aug%2019%2C%202026%20and%20closed%20for%20subscripti"
+            }
+          },
+          {
             "title": "Hy-Tech Engineers IPO Opens on Aug 24, 2026",
             "company": "Hy-Tech Engineers",
             "eventType": "open",
@@ -3200,6 +3219,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15348",
             "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Sunshine%20Pictures%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sunshine%20Pictures%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20s"
+          }
+        },
+        {
+          "title": "Gaja Alternative Asset Management IPO Allotment Status",
+          "company": "Gaja Alternative Asset Management",
+          "eventType": "allotment",
+          "date": "2026-08-24",
+          "dateEnd": "2026-08-24",
+          "details": "The allotment status of Gaja Alternative Asset Management Ltd. IPO is now available online. The public issue of Gaja Alternative Asset Management IPO was open on Aug 19, 2026 and closed for subscripti",
+          "type": "mainboard",
+          "slug": "gaja-alternative-asset-management-ipo",
+          "ipoId": 2527,
+          "eventId": 15367,
+          "month": 8,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15367",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Allotment%20Status&location=&dates=20260824/20260825&details=The%20allotment%20status%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20IPO%20was%20open%20on%20Aug%2019%2C%202026%20and%20closed%20for%20subscripti"
           }
         },
         {
@@ -5795,6 +5833,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/sunshine-pictures-ipo/2002/#15348",
         "chittorgarh": "https://www.chittorgarh.com/ipo/sunshine-pictures-ipo/2002/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sunshine%20Pictures%20IPO%20Allotment%20Status&location=&dates=20260821/20260822&details=The%20allotment%20status%20of%20Sunshine%20Pictures%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sunshine%20Pictures%20IPO%20was%20open%20on%20Aug%2018%2C%202026%20and%20closed%20for%20subscription%20on%20Aug%2020%2C%202026.%20The%20equity%20s"
+      }
+    },
+    {
+      "title": "Gaja Alternative Asset Management IPO Allotment Status",
+      "company": "Gaja Alternative Asset Management",
+      "eventType": "allotment",
+      "date": "2026-08-24",
+      "dateEnd": "2026-08-24",
+      "details": "The allotment status of Gaja Alternative Asset Management Ltd. IPO is now available online. The public issue of Gaja Alternative Asset Management IPO was open on Aug 19, 2026 and closed for subscripti",
+      "type": "mainboard",
+      "slug": "gaja-alternative-asset-management-ipo",
+      "ipoId": 2527,
+      "eventId": 15367,
+      "month": 8,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/gaja-alternative-asset-management-ipo/2527/#15367",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/gaja-alternative-asset-management-ipo/2527/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Gaja%20Alternative%20Asset%20Management%20IPO%20Allotment%20Status&location=&dates=20260824/20260825&details=The%20allotment%20status%20of%20Gaja%20Alternative%20Asset%20Management%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Gaja%20Alternative%20Asset%20Management%20IPO%20was%20open%20on%20Aug%2019%2C%202026%20and%20closed%20for%20subscripti"
       }
     },
     {
