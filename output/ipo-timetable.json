@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T06:55:37+00:00",
+  "scrapedAt": "2026-08-26T12:58:56+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 192,
-    "mainboard": 63,
+    "total": 193,
+    "mainboard": 64,
     "sme": 129
   },
   "ipos": [
@@ -4596,6 +4596,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/shanti-inorganics-ipo/2736/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2827,
+      "name": "Deepa Jewellers Ltd.",
+      "slug": "deepa-jewellers-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "refunds": "2026-09-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "01-Sep-2026",
+        "close": "03-Sep-2026",
+        "allotment": "04-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

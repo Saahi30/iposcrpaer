@@ -451,9 +451,9 @@
     "source": "https://www.chittorgarh.com/ipo/symbiotec-pharmalab-ipo/2815/"
   },
   "subscription": {
-    "summary": "Symbiotec Pharmalab IPO subscribed 3.38 times. The public issue subscribed 3.61 times in the retail category, 0.58 times in QIB (Ex Anchor), and 6.56 times in the NII category by August 26, 2026 12:24:54 PM (Day 3).",
-    "total": 3.38,
-    "applications": 1298343.0,
+    "summary": "Symbiotec Pharmalab IPO subscribed 5.62 times. The public issue subscribed 5.37 times in the retail category, 0.62 times in QIB (Ex Anchor), and 12.85 times in the NII category by August 26, 2026 6:24:53 PM (Day 3).",
+    "total": 5.62,
+    "applications": 1983074.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -464,52 +464,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "0.62",
         "Shares Offered*": "35,50,608",
-        "Shares bid for": "20,51,850",
-        "Total Amt* (₹ Cr.)": "202.723"
+        "Shares bid for": "22,13,355",
+        "Total Amt* (₹ Cr.)": "218.679"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "6.56",
+        "Subscription (x)": "12.85",
         "Shares Offered*": "26,62,955",
-        "Shares bid for": "1,74,69,195",
-        "Total Amt* (₹ Cr.)": "1,725.956"
+        "Shares bid for": "3,42,29,265",
+        "Total Amt* (₹ Cr.)": "3,381.851"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "5.66",
+        "Subscription (x)": "11.90",
         "Shares Offered*": "17,75,303",
-        "Shares bid for": "1,00,39,815",
-        "Total Amt* (₹ Cr.)": "991.934"
+        "Shares bid for": "2,11,24,395",
+        "Total Amt* (₹ Cr.)": "2,087.090"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "8.37",
+        "Subscription (x)": "14.76",
         "Shares Offered*": "8,87,652",
-        "Shares bid for": "74,29,380",
-        "Total Amt* (₹ Cr.)": "734.023"
+        "Shares bid for": "1,31,04,870",
+        "Total Amt* (₹ Cr.)": "1,294.761"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "3.61",
+        "Subscription (x)": "5.37",
         "Shares Offered*": "62,13,562",
-        "Shares bid for": "2,24,11,620",
-        "Total Amt* (₹ Cr.)": "2,214.268"
+        "Shares bid for": "3,33,78,255",
+        "Total Amt* (₹ Cr.)": "3,297.772"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "4.66",
+        "Subscription (x)": "6.24",
         "Shares Offered*": "33,408",
-        "Shares bid for": "1,55,715",
-        "Total Amt* (₹ Cr.)": "15.385"
+        "Shares bid for": "2,08,575",
+        "Total Amt* (₹ Cr.)": "20.607"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.38",
+        "Subscription (x)": "5.62",
         "Shares Offered*": "1,24,60,533",
-        "Shares bid for": "4,20,88,380",
-        "Total Amt* (₹ Cr.)": "4,158.332"
+        "Shares bid for": "7,00,29,450",
+        "Total Amt* (₹ Cr.)": "6,918.910"
       }
     ],
     "dayWise": [
@@ -535,13 +535,13 @@
       },
       {
         "Date": "Aug 26 (Day 3)",
-        "QIB (Ex Anchor)": "0.58",
-        "NII": "6.56",
-        "NII (> ₹10L)": "5.66",
-        "NII (< ₹10L)": "8.37",
-        "Retail": "3.61",
-        "EMP": "4.66",
-        "Total": "3.38"
+        "QIB (Ex Anchor)": "0.62",
+        "NII": "12.85",
+        "NII (> ₹10L)": "11.90",
+        "NII (< ₹10L)": "14.76",
+        "Retail": "5.37",
+        "EMP": "6.24",
+        "Total": "5.62"
       }
     ]
   },
@@ -564,10 +564,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 345.0,
-      "percent": 34.92,
-      "xLot": 5175.0,
-      "updatedOn": "26-Aug 11:53"
+      "value": 315.0,
+      "percent": 31.88,
+      "xLot": 4725.0,
+      "updatedOn": "26-Aug 17:58"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
@@ -577,5 +577,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-26T06:55:07+00:00"
+  "scrapedAt": "2026-08-26T12:58:30+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T06:55:30+00:00",
+  "scrapedAt": "2026-08-26T12:58:50+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 12
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "26-Aug 11:54"
+        "value": 18.0,
+        "percent": 7.53,
+        "xLot": 1116.0,
+        "updatedOn": "26-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "deepa-jewellers-ipo",
+      "ipoId": 2827,
+      "name": "Deepa Jewellers",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 250.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "26-Aug 13:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Emkay Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/deepa-jewellers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=deepa-jewellers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
+        "gmp": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/"
+      },
+      "gmpId": 2081,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "pernias-pop-up-studio-ipo",
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 11:58"
+        "updatedOn": "26-Aug 18:02"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 12:02"
+        "updatedOn": "26-Aug 18:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 31.0,
         "percent": 37.35,
         "xLot": 49600.0,
-        "updatedOn": "26-Aug 11:55"
+        "updatedOn": "26-Aug 17:55"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-09-07"
       },
       "gmp": {
-        "value": 13.0,
-        "percent": 14.13,
-        "xLot": 15600.0,
-        "updatedOn": "26-Aug 11:58"
+        "value": 15.0,
+        "percent": 16.3,
+        "xLot": 18000.0,
+        "updatedOn": "26-Aug 17:59"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 310.0,
-        "percent": 72.26,
-        "xLot": 10540.0,
-        "updatedOn": "26-Aug 11:55"
+        "value": 340.0,
+        "percent": 79.25,
+        "xLot": 11560.0,
+        "updatedOn": "26-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 30.0,
         "percent": 15.0,
         "xLot": 2250.0,
-        "updatedOn": "26-Aug 11:57"
+        "updatedOn": "26-Aug 17:56"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 25.0,
         "percent": 52.08,
         "xLot": 75000.0,
-        "updatedOn": "26-Aug 11:57"
+        "updatedOn": "26-Aug 17:54"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 11:54"
+        "updatedOn": "26-Aug 17:53"
       },
       "subscription": {
         "total": null,
@@ -542,10 +597,10 @@
         "listing": "2026-09-03"
       },
       "gmp": {
-        "value": 46.0,
-        "percent": 56.1,
-        "xLot": 8372.0,
-        "updatedOn": "26-Aug 12:01"
+        "value": 48.0,
+        "percent": 58.54,
+        "xLot": 8736.0,
+        "updatedOn": "26-Aug 17:54"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 64.0,
         "percent": 71.11,
         "xLot": 102400.0,
-        "updatedOn": "26-Aug 12:02"
+        "updatedOn": "26-Aug 17:55"
       },
       "subscription": {
         "total": null,
