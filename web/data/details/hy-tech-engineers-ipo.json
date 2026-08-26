@@ -397,9 +397,9 @@
     "source": "https://www.chittorgarh.com/ipo/hy-tech-engineers-ipo/2591/"
   },
   "subscription": {
-    "summary": "Hy-Tech Engineers IPO subscribed 51.72 times. The public issue subscribed 66.74 times in the retail category, 0.83 times in QIB (Ex Anchor), and 84.52 times in the NII category by August 26, 2026 6:24:44 PM (Day 3).",
-    "total": 51.72,
-    "applications": 1757333.0,
+    "summary": "Hy-Tech Engineers IPO subscribed 51.76 times. The public issue subscribed 66.80 times in the retail category, 0.83 times in QIB (Ex Anchor), and 84.57 times in the NII category by August 26, 2026 6:54:46 PM (Day 3).",
+    "total": 51.76,
+    "applications": 1758864.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -417,10 +417,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "84.52",
+        "Subscription (x)": "84.57",
         "Shares Offered*": "38,41,531",
-        "Shares bid for": "32,47,02,314",
-        "Total Amt* (₹ Cr.)": "1,720.92"
+        "Shares bid for": "32,48,65,322",
+        "Total Amt* (₹ Cr.)": "1,721.79"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -431,24 +431,24 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "142.59",
+        "Subscription (x)": "142.71",
         "Shares Offered*": "12,80,510",
-        "Shares bid for": "18,25,83,393",
-        "Total Amt* (₹ Cr.)": "967.69"
+        "Shares bid for": "18,27,46,401",
+        "Total Amt* (₹ Cr.)": "968.56"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "66.74",
+        "Subscription (x)": "66.80",
         "Shares Offered*": "89,63,571",
-        "Shares bid for": "59,82,41,907",
-        "Total Amt* (₹ Cr.)": "3,170.68"
+        "Shares bid for": "59,87,48,194",
+        "Total Amt* (₹ Cr.)": "3,173.37"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "51.72",
+        "Subscription (x)": "51.76",
         "Shares Offered*": "1,79,27,144",
-        "Shares bid for": "92,71,84,976",
-        "Total Amt* (₹ Cr.)": "4,914.08"
+        "Shares bid for": "92,78,54,271",
+        "Total Amt* (₹ Cr.)": "4,917.63"
       }
     ],
     "dayWise": [
@@ -473,11 +473,11 @@
       {
         "Date": "Aug 26 (Day 3)",
         "QIB (Ex Anchor)": "0.83",
-        "NII": "84.52",
+        "NII": "84.57",
         "NII (> ₹10L)": "55.49",
-        "NII (< ₹10L)": "142.59",
-        "Retail": "66.74",
-        "Total": "51.72"
+        "NII (< ₹10L)": "142.71",
+        "Retail": "66.80",
+        "Total": "51.76"
       }
     ]
   },
@@ -500,10 +500,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 40.0,
-      "percent": 75.47,
-      "xLot": 11320.0,
-      "updatedOn": "26-Aug 17:58"
+      "value": 44.0,
+      "percent": 83.02,
+      "xLot": 12452.0,
+      "updatedOn": "26-Aug 23:28"
     },
     "leadManager": "New Berry Capitals",
     "logo": "https://www.chittorgarh.net/images/ipo/hytech-ipo-logo.png",
@@ -513,5 +513,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-26T12:58:27+00:00"
+  "scrapedAt": "2026-08-26T19:52:52+00:00"
 }

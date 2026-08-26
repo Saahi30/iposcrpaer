@@ -451,9 +451,9 @@
     "source": "https://www.chittorgarh.com/ipo/symbiotec-pharmalab-ipo/2815/"
   },
   "subscription": {
-    "summary": "Symbiotec Pharmalab IPO subscribed 5.62 times. The public issue subscribed 5.37 times in the retail category, 0.62 times in QIB (Ex Anchor), and 12.85 times in the NII category by August 26, 2026 6:24:53 PM (Day 3).",
+    "summary": "Symbiotec Pharmalab IPO subscribed 5.62 times. The public issue subscribed 5.38 times in the retail category, 0.62 times in QIB (Ex Anchor), and 12.86 times in the NII category by August 26, 2026 6:54:55 PM (Day 3).",
     "total": 5.62,
-    "applications": 1983074.0,
+    "applications": 1985018.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -471,10 +471,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "12.85",
+        "Subscription (x)": "12.86",
         "Shares Offered*": "26,62,955",
-        "Shares bid for": "3,42,29,265",
-        "Total Amt* (₹ Cr.)": "3,381.851"
+        "Shares bid for": "3,42,40,680",
+        "Total Amt* (₹ Cr.)": "3,382.979"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -485,31 +485,31 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "14.76",
+        "Subscription (x)": "14.78",
         "Shares Offered*": "8,87,652",
-        "Shares bid for": "1,31,04,870",
-        "Total Amt* (₹ Cr.)": "1,294.761"
+        "Shares bid for": "1,31,16,285",
+        "Total Amt* (₹ Cr.)": "1,295.889"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "5.37",
+        "Subscription (x)": "5.38",
         "Shares Offered*": "62,13,562",
-        "Shares bid for": "3,33,78,255",
-        "Total Amt* (₹ Cr.)": "3,297.772"
+        "Shares bid for": "3,34,10,580",
+        "Total Amt* (₹ Cr.)": "3,300.965"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "6.24",
+        "Subscription (x)": "6.25",
         "Shares Offered*": "33,408",
-        "Shares bid for": "2,08,575",
-        "Total Amt* (₹ Cr.)": "20.607"
+        "Shares bid for": "2,08,875",
+        "Total Amt* (₹ Cr.)": "20.637"
       },
       {
         "Category": "Total **",
         "Subscription (x)": "5.62",
         "Shares Offered*": "1,24,60,533",
-        "Shares bid for": "7,00,29,450",
-        "Total Amt* (₹ Cr.)": "6,918.910"
+        "Shares bid for": "7,00,73,490",
+        "Total Amt* (₹ Cr.)": "6,923.261"
       }
     ],
     "dayWise": [
@@ -536,11 +536,11 @@
       {
         "Date": "Aug 26 (Day 3)",
         "QIB (Ex Anchor)": "0.62",
-        "NII": "12.85",
+        "NII": "12.86",
         "NII (> ₹10L)": "11.90",
-        "NII (< ₹10L)": "14.76",
-        "Retail": "5.37",
-        "EMP": "6.24",
+        "NII (< ₹10L)": "14.78",
+        "Retail": "5.38",
+        "EMP": "6.25",
         "Total": "5.62"
       }
     ]
@@ -551,9 +551,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 938.0,
+      "min": 988.0,
       "max": 988.0,
-      "display": "₹938–988"
+      "display": "₹988"
     },
     "lotSize": 15,
     "issueSize": "₹1757.00 Cr",
@@ -564,10 +564,10 @@
       "listing": "2026-09-01"
     },
     "gmp": {
-      "value": 315.0,
-      "percent": 31.88,
-      "xLot": 4725.0,
-      "updatedOn": "26-Aug 17:58"
+      "value": 285.0,
+      "percent": 28.85,
+      "xLot": 4275.0,
+      "updatedOn": "26-Aug 23:33"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/symbiotec-ipo-logo.jpg",
@@ -577,5 +577,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-26T12:58:30+00:00"
+  "scrapedAt": "2026-08-26T19:52:55+00:00"
 }
