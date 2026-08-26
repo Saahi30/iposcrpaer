@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T01:36:24+00:00",
+  "scrapedAt": "2026-08-26T06:55:30+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 6:28"
+        "updatedOn": "26-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -86,11 +86,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 546.0,
+        "max": 575.0,
+        "display": "₹546–575"
       },
-      "lotSize": null,
+      "lotSize": 26,
       "issueSize": "₹680.00 Cr",
       "issueSizeCr": 680.0,
       "freshIssueCr": 680.0,
@@ -104,8 +104,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "26-Aug 5:55"
+        "xLot": 0.0,
+        "updatedOn": "26-Aug 11:58"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 6:33"
+        "updatedOn": "26-Aug 12:02"
       },
       "subscription": {
         "total": null,
@@ -184,7 +184,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Phychem Technologies is engaged in manufacturing rotational molding (roto molding) compounds, which are key raw materials used to produce various hollow plastic products through the rotational molding process.\n\nIts products mainly include customized polyethylene-based compounds made from LLDPE, HDPE, and special additives. These are supplied in powder or granule form to manufacturers who make items like water, fuel, and chemical storage tanks, portable toilets, furniture, industrial containers, ",
+      "about": "Incorporated in June 2013, Phychem Technologies Limited is engaged in the manufacturing of rotational molding (roto molding) compounds, which are used as key raw materials for producing hollow plastic products. The Company manufactures customized polyethylene-based compounds using LLDPE, HDPE and specialty additives, supplied in powder or granulated form to rotational molding manufacturers. Its products are used in applications such as water, fuel and chemical storage tanks, portable sanitation ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -215,7 +215,7 @@
         "value": 31.0,
         "percent": 37.35,
         "xLot": 49600.0,
-        "updatedOn": "26-Aug 6:29"
+        "updatedOn": "26-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 13.0,
         "percent": 14.13,
         "xLot": 15600.0,
-        "updatedOn": "26-Aug 6:28"
+        "updatedOn": "26-Aug 11:58"
       },
       "subscription": {
         "total": null,
@@ -322,10 +322,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 280.0,
-        "percent": 65.27,
-        "xLot": 9520.0,
-        "updatedOn": "26-Aug 6:33"
+        "value": 310.0,
+        "percent": 72.26,
+        "xLot": 10540.0,
+        "updatedOn": "26-Aug 11:55"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 30.0,
         "percent": 15.0,
         "xLot": 2250.0,
-        "updatedOn": "26-Aug 6:29"
+        "updatedOn": "26-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -432,10 +432,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 37.5,
-        "xLot": 54000.0,
-        "updatedOn": "26-Aug 6:33"
+        "value": 25.0,
+        "percent": 52.08,
+        "xLot": 75000.0,
+        "updatedOn": "26-Aug 11:57"
       },
       "subscription": {
         "total": null,
@@ -490,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 6:29"
+        "updatedOn": "26-Aug 11:54"
       },
       "subscription": {
         "total": null,
@@ -545,7 +545,7 @@
         "value": 46.0,
         "percent": 56.1,
         "xLot": 8372.0,
-        "updatedOn": "26-Aug 6:37"
+        "updatedOn": "26-Aug 12:01"
       },
       "subscription": {
         "total": null,
@@ -600,7 +600,7 @@
         "value": 64.0,
         "percent": 71.11,
         "xLot": 102400.0,
-        "updatedOn": "26-Aug 6:34"
+        "updatedOn": "26-Aug 12:02"
       },
       "subscription": {
         "total": null,
