@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T18:43:35+00:00",
+  "scrapedAt": "2026-08-26T01:36:24+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
+    "open": 7,
     "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 19
+    "total": 18
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 23:31"
+        "updatedOn": "26-Aug 6:35"
       },
       "subscription": {
         "total": 0.34,
@@ -150,7 +150,7 @@
         "value": 35.0,
         "percent": 34.65,
         "xLot": 42000.0,
-        "updatedOn": "25-Aug 23:29"
+        "updatedOn": "26-Aug 6:29"
       },
       "subscription": {
         "total": 3.24,
@@ -263,7 +263,7 @@
         "value": 29.0,
         "percent": 21.01,
         "xLot": 2900.0,
-        "updatedOn": "25-Aug 23:36"
+        "updatedOn": "26-Aug 6:32"
       },
       "subscription": {
         "total": 2.46,
@@ -369,7 +369,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 23:28"
+        "updatedOn": "26-Aug 6:35"
       },
       "subscription": {
         "total": 0.79,
@@ -482,7 +482,7 @@
         "value": 30.0,
         "percent": 56.6,
         "xLot": 8490.0,
-        "updatedOn": "25-Aug 23:36"
+        "updatedOn": "26-Aug 6:37"
       },
       "subscription": {
         "total": 19.57,
@@ -588,7 +588,7 @@
         "value": 16.0,
         "percent": 16.0,
         "xLot": 19200.0,
-        "updatedOn": "25-Aug 23:35"
+        "updatedOn": "26-Aug 6:31"
       },
       "subscription": {
         "total": 0.42,
@@ -709,7 +709,7 @@
         "value": 352.0,
         "percent": 35.63,
         "xLot": 5280.0,
-        "updatedOn": "25-Aug 23:34"
+        "updatedOn": "26-Aug 6:30"
       },
       "subscription": {
         "total": 1.95,
@@ -795,119 +795,6 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
-      "slug": "augmont-enterprises-ipo",
-      "ipoId": 2673,
-      "name": "Augmont Enterprises",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 750.0,
-        "max": 788.0,
-        "display": "₹750–788"
-      },
-      "lotSize": 19,
-      "issueSize": "₹825.00 Cr",
-      "issueSizeCr": 825.0,
-      "freshIssueCr": 620.0,
-      "ofsCr": 205.0,
-      "dates": {
-        "open": "2026-08-21",
-        "close": "2026-08-25",
-        "allotment": "2026-08-27",
-        "listing": "2026-08-31"
-      },
-      "gmp": {
-        "value": 315.0,
-        "percent": 39.97,
-        "xLot": 5985.0,
-        "updatedOn": "25-Aug 23:37"
-      },
-      "subscription": {
-        "total": 111.18,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "31,25,633",
-            "Shares bid for": "31,25,633",
-            "Total Amt* (₹ Cr.)": "246.30"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "238.46",
-            "Shares Offered*": "20,83,757",
-            "Shares bid for": "49,68,89,976",
-            "Total Amt* (₹ Cr.)": "39,154.93"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "127.63",
-            "Shares Offered*": "15,62,817",
-            "Shares bid for": "19,94,61,829",
-            "Total Amt* (₹ Cr.)": "15,717.59"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "133.36",
-            "Shares Offered*": "10,41,878",
-            "Shares bid for": "13,89,39,951",
-            "Total Amt* (₹ Cr.)": "10,948.47"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "116.18",
-            "Shares Offered*": "5,20,939",
-            "Shares bid for": "6,05,21,878",
-            "Total Amt* (₹ Cr.)": "4,769.12"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "32.64",
-            "Shares Offered*": "36,46,575",
-            "Shares bid for": "11,90,20,522",
-            "Total Amt* (₹ Cr.)": "9,378.82"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "22.22",
-            "Shares Offered*": "50,759",
-            "Shares bid for": "11,27,631",
-            "Total Amt* (₹ Cr.)": "88.86"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "111.18",
-            "Shares Offered*": "73,43,908",
-            "Shares bid for": "81,64,99,958",
-            "Total Amt* (₹ Cr.)": "64,340.20"
-          }
-        ],
-        "applications": 5497729.0
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/augmont-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/augmont-enterprises-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=augmont-enterprises-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/augmont-enterprises-ipo/2673/",
-        "gmp": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/"
-      },
-      "gmpId": 1938,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in October 2012, Augmont Enterprises Limited is an integrated gold and silver platform serving businesses and consumers across India and international markets. The Company operates across multiple segments of the gold and silver value chain, including procurement and refining, bullion trading, digital gold, jewellery manufacturing, international sales and technology support for gold-backed financial services. Its business is operated through the Augmont SPOT platform for enterprise ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
       "slug": "rays-of-belief-ipo",
       "ipoId": 2787,
       "name": "Rays of Belief",
@@ -935,7 +822,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 23:37"
+        "updatedOn": "26-Aug 6:28"
       },
       "subscription": {
         "total": null,
@@ -988,9 +875,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "25-Aug 14:51"
+        "updatedOn": "26-Aug 5:55"
       },
       "subscription": {
         "total": null,
@@ -1045,7 +932,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 23:31"
+        "updatedOn": "26-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -1100,7 +987,7 @@
         "value": 31.0,
         "percent": 37.35,
         "xLot": 49600.0,
-        "updatedOn": "25-Aug 23:34"
+        "updatedOn": "26-Aug 6:29"
       },
       "subscription": {
         "total": null,
@@ -1155,7 +1042,7 @@
         "value": 13.0,
         "percent": 14.13,
         "xLot": 15600.0,
-        "updatedOn": "25-Aug 23:29"
+        "updatedOn": "26-Aug 6:28"
       },
       "subscription": {
         "total": null,
@@ -1207,10 +1094,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 275.0,
-        "percent": 64.1,
-        "xLot": 9350.0,
-        "updatedOn": "25-Aug 23:32"
+        "value": 280.0,
+        "percent": 65.27,
+        "xLot": 9520.0,
+        "updatedOn": "26-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -1265,7 +1152,7 @@
         "value": 30.0,
         "percent": 15.0,
         "xLot": 2250.0,
-        "updatedOn": "25-Aug 23:34"
+        "updatedOn": "26-Aug 6:29"
       },
       "subscription": {
         "total": null,
@@ -1320,7 +1207,7 @@
         "value": 18.0,
         "percent": 37.5,
         "xLot": 54000.0,
-        "updatedOn": "25-Aug 23:28"
+        "updatedOn": "26-Aug 6:33"
       },
       "subscription": {
         "total": null,
@@ -1375,7 +1262,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Aug 23:29"
+        "updatedOn": "26-Aug 6:29"
       },
       "subscription": {
         "total": null,
@@ -1430,7 +1317,7 @@
         "value": 46.0,
         "percent": 56.1,
         "xLot": 8372.0,
-        "updatedOn": "25-Aug 23:34"
+        "updatedOn": "26-Aug 6:37"
       },
       "subscription": {
         "total": null,
@@ -1485,7 +1372,7 @@
         "value": 64.0,
         "percent": 71.11,
         "xLot": 102400.0,
-        "updatedOn": "25-Aug 23:36"
+        "updatedOn": "26-Aug 6:34"
       },
       "subscription": {
         "total": null,

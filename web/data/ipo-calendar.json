@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-25T18:43:40+00:00",
+  "scrapedAt": "2026-08-26T01:36:29+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,12 +17,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 135,
-    "mainboard": 66,
+    "totalEvents": 136,
+    "mainboard": 67,
     "sme": 69,
     "byEventType": {
       "allotment": 34,
-      "close": 52,
+      "close": 53,
       "open": 47,
       "other": 2
     }
@@ -4809,8 +4809,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 11,
-        "mainboard": 5,
+        "total": 12,
+        "mainboard": 6,
         "sme": 6
       },
       "byDate": {
@@ -4912,6 +4912,25 @@
           }
         ],
         "2026-09-02": [
+          {
+            "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
+            "company": "Pernia's Pop-up Studio",
+            "eventType": "close",
+            "date": "2026-09-02",
+            "dateEnd": "2026-09-02",
+            "details": null,
+            "type": "mainboard",
+            "slug": "pernias-pop-up-studio-ipo",
+            "ipoId": 2622,
+            "eventId": 15375,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/pernias-pop-up-studio-ipo/2622/#15375",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+              "googleCalendar": null
+            }
+          },
           {
             "title": "Ashutosh Fibre IPO Closes on Sep 2, 2026",
             "company": "Ashutosh Fibre",
@@ -5088,6 +5107,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/rays-of-belief-ipo/2787/#15341",
             "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Rays%20of%20Belief%20IPO%20Opens%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=Rays%20of%20Belief%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.52%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Sha"
+          }
+        },
+        {
+          "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
+          "company": "Pernia's Pop-up Studio",
+          "eventType": "close",
+          "date": "2026-09-02",
+          "dateEnd": "2026-09-02",
+          "details": null,
+          "type": "mainboard",
+          "slug": "pernias-pop-up-studio-ipo",
+          "ipoId": 2622,
+          "eventId": 15375,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/pernias-pop-up-studio-ipo/2622/#15375",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+            "googleCalendar": null
           }
         },
         {
@@ -7657,6 +7695,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/rays-of-belief-ipo/2787/#15341",
         "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Rays%20of%20Belief%20IPO%20Opens%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=Rays%20of%20Belief%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.52%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Sha"
+      }
+    },
+    {
+      "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
+      "company": "Pernia's Pop-up Studio",
+      "eventType": "close",
+      "date": "2026-09-02",
+      "dateEnd": "2026-09-02",
+      "details": null,
+      "type": "mainboard",
+      "slug": "pernias-pop-up-studio-ipo",
+      "ipoId": 2622,
+      "eventId": 15375,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/pernias-pop-up-studio-ipo/2622/#15375",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+        "googleCalendar": null
       }
     },
     {
