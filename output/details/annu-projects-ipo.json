@@ -412,51 +412,51 @@
     "source": "https://www.chittorgarh.com/ipo/annu-projects-ipo/2500/"
   },
   "subscription": {
-    "summary": "Annu Projects IPO subscribed 0.58 times. The public issue subscribed 0.69 times in the retail category, 0.59 times in QIB (Ex Anchor), and 0.44 times in the NII category by August 27, 2026 1:48:31 PM (Day 3).",
-    "total": 0.58,
-    "applications": 35537.0,
+    "summary": "Annu Projects IPO subscribed 0.88 times. The public issue subscribed 0.81 times in the retail category, 1.16 times in QIB (Ex Anchor), and 0.90 times in the NII category by August 27, 2026 5:09:04 PM (Day 3).",
+    "total": 0.88,
+    "applications": 42184.0,
     "byCategory": [
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "1.16",
         "Shares Offered*": "17,68,300",
-        "Shares bid for": "10,42,655",
-        "Total Amt* (₹ Cr.)": "10.322"
+        "Shares bid for": "20,52,392",
+        "Total Amt* (₹ Cr.)": "20.319"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.44",
+        "Subscription (x)": "0.90",
         "Shares Offered*": "70,73,200",
-        "Shares bid for": "31,40,800",
-        "Total Amt* (₹ Cr.)": "31.094"
+        "Shares bid for": "63,48,493",
+        "Total Amt* (₹ Cr.)": "62.850"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.37",
+        "Subscription (x)": "0.99",
         "Shares Offered*": "47,16,056",
-        "Shares bid for": "17,39,520",
-        "Total Amt* (₹ Cr.)": "17.221"
+        "Shares bid for": "46,80,245",
+        "Total Amt* (₹ Cr.)": "46.334"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "0.71",
         "Shares Offered*": "23,57,144",
-        "Shares bid for": "14,01,280",
-        "Total Amt* (₹ Cr.)": "13.873"
+        "Shares bid for": "16,68,248",
+        "Total Amt* (₹ Cr.)": "16.516"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.69",
+        "Subscription (x)": "0.81",
         "Shares Offered*": "88,41,500",
-        "Shares bid for": "60,73,069",
-        "Total Amt* (₹ Cr.)": "60.123"
+        "Shares bid for": "71,36,109",
+        "Total Amt* (₹ Cr.)": "70.647"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "0.88",
         "Shares Offered*": "1,76,83,000",
-        "Shares bid for": "1,02,56,524",
-        "Total Amt* (₹ Cr.)": "101.540"
+        "Shares bid for": "1,55,36,994",
+        "Total Amt* (₹ Cr.)": "153.816"
       }
     ],
     "dayWise": [
@@ -480,12 +480,12 @@
       },
       {
         "Date": "Aug 27 (Day 3)",
-        "QIB (Ex Anchor)": "0.59",
-        "NII": "0.44",
-        "NII (> ₹10L)": "0.37",
-        "NII (< ₹10L)": "0.59",
-        "Retail": "0.69",
-        "Total": "0.58"
+        "QIB (Ex Anchor)": "1.16",
+        "NII": "0.90",
+        "NII (> ₹10L)": "0.99",
+        "NII (< ₹10L)": "0.71",
+        "Retail": "0.81",
+        "Total": "0.88"
       }
     ]
   },
@@ -508,10 +508,10 @@
       "listing": "2026-09-02"
     },
     "gmp": {
-      "value": 5.5,
-      "percent": 5.56,
-      "xLot": 830.5,
-      "updatedOn": "27-Aug 13:33"
+      "value": 7.0,
+      "percent": 7.07,
+      "xLot": 1057.0,
+      "updatedOn": "27-Aug 23:35"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/annu-projects-logo1.png",
@@ -521,5 +521,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-27T08:22:06+00:00"
+  "scrapedAt": "2026-08-27T22:00:25+00:00"
 }

@@ -366,8 +366,8 @@
     "source": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/"
   },
   "subscription": {
-    "summary": "Kwick Forensic Solutions IPO subscribed 4.30 times. The public issue subscribed 7.80 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.85 times in the NII category by August 27, 2026 1:48:52 PM (Day 1).",
-    "total": 4.3,
+    "summary": "Kwick Forensic Solutions IPO subscribed 7.51 times. The public issue subscribed 13.17 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 4.29 times in the NII category by August 27, 2026 5:06:18 PM (Day 1).",
+    "total": 7.51,
     "applications": null,
     "byCategory": [
       {
@@ -388,54 +388,54 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.85",
+        "Subscription (x)": "4.29",
         "Shares Offered*": "8,06,400",
-        "Shares bid for": "14,88,000",
-        "Total Amt* (₹ Cr.)": "13.392",
+        "Shares bid for": "34,56,000",
+        "Total Amt* (₹ Cr.)": "31.104",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.35",
+        "Subscription (x)": "3.60",
         "Shares Offered*": "5,37,600",
-        "Shares bid for": "7,26,400",
-        "Total Amt* (₹ Cr.)": "6.538",
+        "Shares bid for": "19,37,600",
+        "Total Amt* (₹ Cr.)": "17.438",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.83",
+        "Subscription (x)": "5.65",
         "Shares Offered*": "2,68,800",
-        "Shares bid for": "7,61,600",
-        "Total Amt* (₹ Cr.)": "6.854",
+        "Shares bid for": "15,18,400",
+        "Total Amt* (₹ Cr.)": "13.666",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "7.80",
+        "Subscription (x)": "13.17",
         "Shares Offered*": "18,78,400",
-        "Shares bid for": "1,46,59,200",
-        "Total Amt* (₹ Cr.)": "131.933",
+        "Shares bid for": "2,47,45,600",
+        "Total Amt* (₹ Cr.)": "222.710",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "4.30",
+        "Subscription (x)": "7.51",
         "Shares Offered*": "37,55,200",
-        "Shares bid for": "1,61,47,200",
-        "Total Amt* (₹ Cr.)": "145.325",
-        "Total Applications": "4,867"
+        "Shares bid for": "2,82,01,600",
+        "Total Amt* (₹ Cr.)": "253.814",
+        "Total Applications": "8,254"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 27 (Day 1)",
         "QIB (Ex Anchor)": "0.00",
-        "NII*": "1.85",
-        "NII (> ₹10L)": "1.35",
-        "NII (< ₹10L)": "2.83",
-        "Individual Investors": "7.80",
-        "Total": "4.30"
+        "NII*": "4.29",
+        "NII (> ₹10L)": "3.60",
+        "NII (< ₹10L)": "5.65",
+        "Individual Investors": "13.17",
+        "Total": "7.51"
       }
     ]
   },
@@ -445,9 +445,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 85.0,
+      "min": 90.0,
       "max": 90.0,
-      "display": "₹85–90"
+      "display": "₹90"
     },
     "lotSize": 1600,
     "issueSize": "₹50.77 Cr",
@@ -461,7 +461,7 @@
       "value": 64.0,
       "percent": 71.11,
       "xLot": 102400.0,
-      "updatedOn": "27-Aug 13:33"
+      "updatedOn": "27-Aug 23:35"
     },
     "leadManager": "Corporate Capitalventures",
     "logo": "https://www.chittorgarh.net/images/ipo/kwick-forensic-logo.png",
@@ -471,5 +471,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-27T08:22:04+00:00"
+  "scrapedAt": "2026-08-27T22:00:23+00:00"
 }

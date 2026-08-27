@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-27T08:22:45+00:00",
+  "scrapedAt": "2026-08-27T22:01:03+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -4152,13 +4152,13 @@
         "close": "2026-08-24",
         "allotment": "2026-08-25",
         "refunds": "2026-08-27",
-        "listing": null
+        "listing": "2026-08-28"
       },
       "displayDates": {
         "open": "20-Aug-2026",
         "close": "24-Aug-2026",
         "allotment": "25-Aug-2026",
-        "listing": null
+        "listing": "28-Aug-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/tempens-ipo-logo.jpg",
       "urls": {
@@ -4280,7 +4280,7 @@
         "allotment": "28-Aug-2026",
         "listing": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/skyways-air-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/sls_logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/skyways-air-ipo/2510/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"

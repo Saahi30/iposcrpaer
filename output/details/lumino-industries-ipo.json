@@ -403,9 +403,9 @@
     "source": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/"
   },
   "subscription": {
-    "summary": "Lumino Industries IPO subscribed 0.97 times. The public issue subscribed 1.43 times in the retail category, 0.04 times in QIB (Ex Anchor), and 1.20 times in the NII category by August 27, 2026 1:48:43 PM (Day 1).",
-    "total": 0.97,
-    "applications": 174426.0,
+    "summary": "Lumino Industries IPO subscribed 1.51 times. The public issue subscribed 2.08 times in the retail category, 0.04 times in QIB (Ex Anchor), and 2.20 times in the NII category by August 27, 2026 5:09:13 PM (Day 1).",
+    "total": 1.51,
+    "applications": 260132.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -418,62 +418,62 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.04",
         "Shares Offered*": "1,68,29,268",
-        "Shares bid for": "5,96,596",
-        "Total Amt* (₹ Cr.)": "4.892"
+        "Shares bid for": "7,18,172",
+        "Total Amt* (₹ Cr.)": "5.889"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.20",
+        "Subscription (x)": "2.20",
         "Shares Offered*": "1,26,21,951",
-        "Shares bid for": "1,51,59,326",
-        "Total Amt* (₹ Cr.)": "124.306"
+        "Shares bid for": "2,77,29,156",
+        "Total Amt* (₹ Cr.)": "227.379"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.63",
+        "Subscription (x)": "1.39",
         "Shares Offered*": "84,14,634",
-        "Shares bid for": "53,09,304",
-        "Total Amt* (₹ Cr.)": "43.536"
+        "Shares bid for": "1,16,59,284",
+        "Total Amt* (₹ Cr.)": "95.606"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.34",
+        "Subscription (x)": "3.82",
         "Shares Offered*": "42,07,317",
-        "Shares bid for": "98,50,022",
-        "Total Amt* (₹ Cr.)": "80.770"
+        "Shares bid for": "1,60,69,872",
+        "Total Amt* (₹ Cr.)": "131.773"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.43",
+        "Subscription (x)": "2.08",
         "Shares Offered*": "2,94,51,219",
-        "Shares bid for": "4,19,72,476",
-        "Total Amt* (₹ Cr.)": "344.174"
+        "Shares bid for": "6,11,82,940",
+        "Total Amt* (₹ Cr.)": "501.700"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "0.75",
         "Shares Offered*": "12,19,512",
-        "Shares bid for": "5,62,562",
-        "Total Amt* (₹ Cr.)": "4.613"
+        "Shares bid for": "9,11,456",
+        "Total Amt* (₹ Cr.)": "7.474"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.97",
+        "Subscription (x)": "1.51",
         "Shares Offered*": "6,01,21,950",
-        "Shares bid for": "5,82,90,960",
-        "Total Amt* (₹ Cr.)": "477.986"
+        "Shares bid for": "9,05,41,724",
+        "Total Amt* (₹ Cr.)": "742.442"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 27 (Day 1)",
         "QIB (Ex Anchor)": "0.04",
-        "NII": "1.20",
-        "NII (> ₹10L)": "0.63",
-        "NII (< ₹10L)": "2.34",
-        "Retail": "1.43",
-        "EMP": "0.46",
-        "Total": "0.97"
+        "NII": "2.20",
+        "NII (> ₹10L)": "1.39",
+        "NII (< ₹10L)": "3.82",
+        "Retail": "2.08",
+        "EMP": "0.75",
+        "Total": "1.51"
       }
     ]
   },
@@ -499,7 +499,7 @@
       "value": 56.0,
       "percent": 68.29,
       "xLot": 10192.0,
-      "updatedOn": "27-Aug 13:37"
+      "updatedOn": "27-Aug 23:37"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/lumino-industries-ipo-logo.png",
@@ -509,5 +509,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-27T08:22:02+00:00"
+  "scrapedAt": "2026-08-27T22:00:21+00:00"
 }
