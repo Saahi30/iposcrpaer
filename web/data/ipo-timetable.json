@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T19:53:21+00:00",
+  "scrapedAt": "2026-08-27T08:22:45+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 193,
+    "total": 194,
     "mainboard": 64,
-    "sme": 129
+    "sme": 130
   },
   "ipos": [
     {
@@ -4553,7 +4553,7 @@
     {
       "ipoId": 2622,
       "name": "Purple Style Labs Ltd.",
-      "slug": "pernias-pop-up-studio-ipo",
+      "slug": "purple-style-labs-ipo",
       "type": "mainboard",
       "dates": {
         "open": "2026-08-31",
@@ -4570,7 +4570,7 @@
       },
       "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
       "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
@@ -4620,6 +4620,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2632,
+      "name": "Farm Peace Ltd.",
+      "slug": "farm-peace-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "refunds": "2026-09-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "01-Sep-2026",
+        "close": "03-Sep-2026",
+        "allotment": "04-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {

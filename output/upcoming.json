@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-26T19:53:15+00:00",
+  "scrapedAt": "2026-08-27T08:22:38+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 12,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 11
   },
   "ipos": [
+    {
+      "slug": "farm-peace-ipo",
+      "ipoId": 2632,
+      "name": "Farm Peace",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 59.0,
+        "max": 59.0,
+        "display": "₹59"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹32.00 Cr",
+      "issueSizeCr": 32.0,
+      "freshIssueCr": 30.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "27-Aug 13:33"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/farm-peace-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=farm-peace-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/",
+        "gmp": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/"
+      },
+      "gmpId": 1905,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in October 2021, Farm Peace is an integrated contract farming company focused on processed-grade potato varieties like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are supplied to processing companies for French fries, chips, and other value-added products.\n\nOperating under the “Farm Peace” brand, the company work closely with farmers in Gujarat through a 100% buy-back model . It provide certified seeds, agronomic support, fertilizers, pesticides, and mod",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
     {
       "slug": "rays-of-belief-ipo",
       "ipoId": 2787,
@@ -47,10 +102,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 7.53,
-        "xLot": 1116.0,
-        "updatedOn": "26-Aug 23:36"
+        "value": 10.0,
+        "percent": 4.18,
+        "xLot": 620.0,
+        "updatedOn": "27-Aug 13:28"
       },
       "subscription": {
         "total": null,
@@ -86,15 +141,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 168.0,
+        "max": 177.0,
+        "display": "₹168–177"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 84,
+      "issueSize": "₹459.72 Cr",
+      "issueSizeCr": 459.72,
       "freshIssueCr": 250.0,
-      "ofsCr": null,
+      "ofsCr": 209.72,
       "dates": {
         "open": "2026-09-01",
         "close": "2026-09-03",
@@ -102,10 +157,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "26-Aug 13:10"
+        "value": 17.0,
+        "percent": 9.6,
+        "xLot": 1428.0,
+        "updatedOn": "27-Aug 13:37"
       },
       "subscription": {
         "total": null,
@@ -133,9 +188,9 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
-      "slug": "pernias-pop-up-studio-ipo",
+      "slug": "purple-style-labs-ipo",
       "ipoId": 2622,
-      "name": "Pernia's Pop-up Studio",
+      "name": "Purple Style Labs",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 23:36"
+        "updatedOn": "27-Aug 13:35"
       },
       "subscription": {
         "total": null,
@@ -174,10 +229,10 @@
       },
       "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
       "hasDetail": true,
-      "detailPath": "details/pernias-pop-up-studio-ipo.json",
+      "detailPath": "details/purple-style-labs-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=pernias-pop-up-studio-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pernias-pop-up-studio-ipo/2622/",
+        "local": "./ipo.html?slug=purple-style-labs-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
         "gmp": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/"
       },
       "gmpId": 1897,
@@ -215,7 +270,7 @@
         "value": 3.0,
         "percent": 5.56,
         "xLot": 6000.0,
-        "updatedOn": "26-Aug 23:32"
+        "updatedOn": "27-Aug 13:32"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 31.0,
         "percent": 37.35,
         "xLot": 49600.0,
-        "updatedOn": "26-Aug 23:37"
+        "updatedOn": "27-Aug 13:30"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-07"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 16.3,
-        "xLot": 18000.0,
-        "updatedOn": "26-Aug 23:31"
+        "value": 32.0,
+        "percent": 34.78,
+        "xLot": 38400.0,
+        "updatedOn": "27-Aug 13:36"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 365.0,
-        "percent": 85.08,
-        "xLot": 12410.0,
-        "updatedOn": "26-Aug 23:32"
+        "value": 355.0,
+        "percent": 82.75,
+        "xLot": 12070.0,
+        "updatedOn": "27-Aug 13:33"
       },
       "subscription": {
         "total": null,
@@ -432,10 +487,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 10.0,
-        "xLot": 1500.0,
-        "updatedOn": "26-Aug 23:28"
+        "value": 41.0,
+        "percent": 20.5,
+        "xLot": 3075.0,
+        "updatedOn": "27-Aug 13:28"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 25.0,
         "percent": 52.08,
         "xLot": 75000.0,
-        "updatedOn": "26-Aug 23:31"
+        "updatedOn": "27-Aug 13:33"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Aug 23:31"
+        "updatedOn": "27-Aug 13:29"
       },
       "subscription": {
         "total": null,
@@ -570,116 +625,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2002, Complete Sports and Management India Limited is engaged in the business of sourcing, trading and distribution of a diversified portfolio of amusement and leisure equipment, along with providing installation, commissioning, maintenance and related consulting services. The company operate across the amusement, entertainment and leisure infrastructure value chain and provide end-to-end solutions to customers for the development and operation of entertainment destinations.\n\nThe",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "lumino-industries-ipo",
-      "ipoId": 2013,
-      "name": "Lumino Industries",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 78.0,
-        "max": 82.0,
-        "display": "₹78–82"
-      },
-      "lotSize": 182,
-      "issueSize": "₹700.00 Cr",
-      "issueSizeCr": 700.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 200.0,
-      "dates": {
-        "open": "2026-08-27",
-        "close": "2026-08-31",
-        "allotment": "2026-09-01",
-        "listing": "2026-09-03"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 60.98,
-        "xLot": 9100.0,
-        "updatedOn": "26-Aug 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Motilal Oswal Investment",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/lumino-industries-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/lumino-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=lumino-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/",
-        "gmp": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/"
-      },
-      "gmpId": 1619,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2005, Lumino Industries Ltd. is an integrated engineering, procurement and construction (EPC) company in India, with a focus on manufacturing and supplying conductors, power cables, electrical wires and specialised products for the power transmission and distribution industry.\n\nThe Company also manufactures high-temperature low-sag (HTLS) conductors used in transmission and distribution lines.\n\nThe Company operates through two key segments: Manufacturing and EPC. Its manufacturin",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "kwick-forensic-solutions-ipo",
-      "ipoId": 2757,
-      "name": "Kwick Forensic Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 85.0,
-        "max": 90.0,
-        "display": "₹85–90"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹50.77 Cr",
-      "issueSizeCr": 50.77,
-      "freshIssueCr": 38.51,
-      "ofsCr": 9.72,
-      "dates": {
-        "open": "2026-08-27",
-        "close": "2026-08-31",
-        "allotment": "2026-09-01",
-        "listing": "2026-09-03"
-      },
-      "gmp": {
-        "value": 64.0,
-        "percent": 71.11,
-        "xLot": 102400.0,
-        "updatedOn": "26-Aug 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Capitalventures",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kwick-forensic-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kwick-forensic-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kwick-forensic-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/",
-        "gmp": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/"
-      },
-      "gmpId": 2013,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in March 2005, Kwick Forensic Solutions Limited (formerly Kwick Soft Solutions Private Limited) is engaged in providing forensic science, evidence management, cyber and digital forensics, DNA forensics and law-enforcement solutions across India. The Company initially focused on software development, including 3D rendering, animation and simulation, and subsequently expanded into forensic science and training technologies. Since FY2015, it has developed and supplied end-to-end forens",
       "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
