@@ -375,9 +375,9 @@
     "source": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/"
   },
   "subscription": {
-    "summary": "ESDS Software Solution IPO subscribed 1.86 times. The public issue subscribed 2.50 times in the retail category, 0.01 times in QIB (Ex Anchor), and 2.84 times in the NII category by August 28, 2026 3:48:23 PM (Day 1).",
-    "total": 1.86,
-    "applications": 331912.0,
+    "summary": "ESDS Software Solution IPO subscribed 2.21 times. The public issue subscribed 2.84 times in the retail category, 0.01 times in QIB (Ex Anchor), and 3.70 times in the NII category by August 28, 2026 5:06:27 PM (Day 1).",
+    "total": 2.21,
+    "applications": 386611.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -390,54 +390,54 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.01",
         "Shares Offered*": "33,56,643",
-        "Shares bid for": "25,942",
-        "Total Amt* (₹ Cr.)": "1.113"
+        "Shares bid for": "34,884",
+        "Total Amt* (₹ Cr.)": "1.497"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.84",
+        "Subscription (x)": "3.70",
         "Shares Offered*": "25,17,483",
-        "Shares bid for": "71,61,522",
-        "Total Amt* (₹ Cr.)": "307.229"
+        "Shares bid for": "93,07,466",
+        "Total Amt* (₹ Cr.)": "399.290"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.72",
+        "Subscription (x)": "2.52",
         "Shares Offered*": "16,78,322",
-        "Shares bid for": "28,92,006",
-        "Total Amt* (₹ Cr.)": "124.067"
+        "Shares bid for": "42,37,318",
+        "Total Amt* (₹ Cr.)": "181.781"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "5.09",
+        "Subscription (x)": "6.04",
         "Shares Offered*": "8,39,161",
-        "Shares bid for": "42,69,516",
-        "Total Amt* (₹ Cr.)": "183.162"
+        "Shares bid for": "50,70,148",
+        "Total Amt* (₹ Cr.)": "217.509"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.50",
+        "Subscription (x)": "2.84",
         "Shares Offered*": "58,74,126",
-        "Shares bid for": "1,46,72,768",
-        "Total Amt* (₹ Cr.)": "629.462"
+        "Shares bid for": "1,66,66,358",
+        "Total Amt* (₹ Cr.)": "714.987"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.86",
+        "Subscription (x)": "2.21",
         "Shares Offered*": "1,17,48,252",
-        "Shares bid for": "2,18,60,232",
-        "Total Amt* (₹ Cr.)": "937.804"
+        "Shares bid for": "2,60,08,708",
+        "Total Amt* (₹ Cr.)": "1,115.774"
       }
     ],
     "dayWise": [
       {
         "Date": "Aug 28 (Day 1)",
         "QIB (Ex Anchor)": "0.01",
-        "NII": "2.84",
-        "NII (> ₹10L)": "1.72",
-        "NII (< ₹10L)": "5.09",
-        "Retail": "2.50",
-        "Total": "1.86"
+        "NII": "3.70",
+        "NII (> ₹10L)": "2.52",
+        "NII (< ₹10L)": "6.04",
+        "Retail": "2.84",
+        "Total": "2.21"
       }
     ]
   },
@@ -447,9 +447,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 408.0,
+      "min": 429.0,
       "max": 429.0,
-      "display": "₹408–429"
+      "display": "₹429"
     },
     "lotSize": 34,
     "issueSize": "₹720.00 Cr",
@@ -460,10 +460,10 @@
       "listing": "2026-09-04"
     },
     "gmp": {
-      "value": 345.0,
-      "percent": 80.42,
-      "xLot": 11730.0,
-      "updatedOn": "28-Aug 15:31"
+      "value": 360.0,
+      "percent": 83.92,
+      "xLot": 12240.0,
+      "updatedOn": "28-Aug 23:37"
     },
     "leadManager": "Dam Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/esds-solution-logo.png",
@@ -473,5 +473,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-28T10:23:10+00:00"
+  "scrapedAt": "2026-08-28T21:56:10+00:00"
 }
