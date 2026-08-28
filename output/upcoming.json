@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-27T22:00:56+00:00",
+  "scrapedAt": "2026-08-28T10:23:37+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Aug 23:34"
+        "updatedOn": "28-Aug 15:35"
       },
       "subscription": {
         "total": null,
@@ -102,10 +102,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 4.18,
-        "xLot": 620.0,
-        "updatedOn": "27-Aug 23:37"
+        "value": 7.0,
+        "percent": 2.93,
+        "xLot": 434.0,
+        "updatedOn": "28-Aug 15:30"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 47.0,
         "percent": 26.55,
         "xLot": 3948.0,
-        "updatedOn": "27-Aug 23:36"
+        "updatedOn": "28-Aug 15:33"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Aug 23:32"
+        "updatedOn": "28-Aug 15:35"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 3.0,
         "percent": 5.56,
         "xLot": 6000.0,
-        "updatedOn": "27-Aug 23:37"
+        "updatedOn": "28-Aug 15:35"
       },
       "subscription": {
         "total": null,
@@ -325,7 +325,7 @@
         "value": 31.0,
         "percent": 37.35,
         "xLot": 49600.0,
-        "updatedOn": "27-Aug 23:37"
+        "updatedOn": "28-Aug 15:33"
       },
       "subscription": {
         "total": null,
@@ -380,7 +380,7 @@
         "value": 37.0,
         "percent": 40.22,
         "xLot": 44400.0,
-        "updatedOn": "27-Aug 23:37"
+        "updatedOn": "28-Aug 15:30"
       },
       "subscription": {
         "total": null,
@@ -406,226 +406,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 1985, Ashutosh Fibre Limited is engaged in the manufacturing and trading of technical textile products, primarily focusing on polypropylene (PP) spun yarns used across industrial and household applications. The company operates under a business-to-business (B2B) model, supplying yarns and fabrics to industrial manufacturers, processors, and institutional buyers.\n\nAshutosh Fibre operates across four major categories of technical textiles — Indutech, Protech, Hometech, and Mobiltec",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "esds-software-ipo",
-      "ipoId": 1198,
-      "name": "ESDS Software Solution",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 408.0,
-        "max": 429.0,
-        "display": "₹408–429"
-      },
-      "lotSize": 34,
-      "issueSize": "₹720.00 Cr",
-      "issueSizeCr": 720.0,
-      "freshIssueCr": 720.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 325.0,
-        "percent": 75.76,
-        "xLot": 11050.0,
-        "updatedOn": "27-Aug 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Dam Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/esds-solution-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/esds-software-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=esds-software-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
-        "gmp": "https://www.investorgain.com/gmp/esds-software-ipo/1607/"
-      },
-      "gmpId": 1607,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2005, ESDS Software Solution Limited is an AI-enabled provider of cloud, managed services, Data Centre infrastructure and software solutions in India. The Company offers an end-to-end portfolio comprising Infrastructure-as-a-Service (IaaS), managed services and Software-as-a-Service (SaaS), serving customers across BFSI, Government and enterprise segments. In Fiscal 2026, the Company served 2,501 customers and reported revenue from operations of ₹4,722.10 million.\n\nThe Com",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "priority-jewels-ipo",
-      "ipoId": 2435,
-      "name": "Priority Jewels",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 190.0,
-        "max": 200.0,
-        "display": "₹190–200"
-      },
-      "lotSize": 75,
-      "issueSize": "₹91.50 Cr",
-      "issueSizeCr": 91.5,
-      "freshIssueCr": 91.5,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 37.0,
-        "percent": 18.5,
-        "xLot": 2775.0,
-        "updatedOn": "27-Aug 23:35"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Mefcom Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/priority_jewels_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/priority-jewels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=priority-jewels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
-        "gmp": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/"
-      },
-      "gmpId": 1783,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2007, Priority Jewels designs, manufactures, and sells diamond-studded gold and platinum fine jewellery. It offers a variety of daily wear jewellery products, like rings, earrings, pendants, neckware, bracelets, and occasion couture jewellery.\n\nThe company sells products to independent jewellers and jewellery chains in India and globally, like CaratLane Trading Pvt Ltd, Kalyan Jewellers, Reliance Retail, Malabar Gold & Diamonds, Thribhovandas Bhimji Zaveri Ltd, and Senco Gold Ltd",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "paluck-technologies-ipo",
-      "ipoId": 2702,
-      "name": "Paluck Technologies",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 46.0,
-        "max": 48.0,
-        "display": "₹46–48"
-      },
-      "lotSize": 3000,
-      "issueSize": "₹33.00 Cr",
-      "issueSizeCr": 33.0,
-      "freshIssueCr": 31.35,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 25.0,
-        "percent": 52.08,
-        "xLot": 75000.0,
-        "updatedOn": "27-Aug 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Horizon Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paluck-technologies-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/paluck-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paluck-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paluck-technologies-ipo/2702/",
-        "gmp": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/"
-      },
-      "gmpId": 1963,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in April 2010, Paluck Technologies Limited is a diversified engineering services and infrastructure support company with operations across Automobile & Engineering Services, Construction Equipment Rental, Logistics & Fleet Management, and Telecom Engineering Services. The Company was originally founded in 2009 as a proprietorship firm providing diesel generator services and has since expanded into multiple infrastructure and engineering segments.\n\nIn the Construction Equipment Renta",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "complete-sports-and-management-ipo",
-      "ipoId": 3182,
-      "name": "Complete Sports and Management",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 128.0,
-        "max": 135.0,
-        "display": "₹128–135"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹74.93 Cr",
-      "issueSizeCr": 74.93,
-      "freshIssueCr": 71.15,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "27-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/csml-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/complete-sports-and-management-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=complete-sports-and-management-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
-        "gmp": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/"
-      },
-      "gmpId": 2339,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2002, Complete Sports and Management India Limited is engaged in the business of sourcing, trading and distribution of a diversified portfolio of amusement and leisure equipment, along with providing installation, commissioning, maintenance and related consulting services. The company operate across the amusement, entertainment and leisure infrastructure value chain and provide end-to-end solutions to customers for the development and operation of entertainment destinations.\n\nThe",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
