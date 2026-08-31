@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-30T20:47:16+00:00",
+  "scrapedAt": "2026-08-31T04:38:14+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,268 @@
     "limit": null
   },
   "summary": {
-    "open": 6,
-    "upcoming": 7,
+    "open": 10,
+    "upcoming": 3,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 13
   },
   "ipos": [
+    {
+      "slug": "purple-style-labs-ipo",
+      "ipoId": 2622,
+      "name": "Purple Style Labs",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 546.0,
+        "max": 575.0,
+        "display": "₹546–575"
+      },
+      "lotSize": 26,
+      "issueSize": "₹680.00 Cr",
+      "issueSizeCr": 680.0,
+      "freshIssueCr": 680.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 28.0,
+        "percent": 4.87,
+        "xLot": 728.0,
+        "updatedOn": "31-Aug 9:29"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/purple-style-labs-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=purple-style-labs-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
+        "gmp": "https://www.investorgain.com/gmp/purple-style-labs-ipo/1897/"
+      },
+      "gmpId": 1897,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2015, Purple Style Labs Limited is a multi-brand luxury omni-channel fashion platform operating under Pernia’s Pop-Up Shop (PPUS), offering a curated portfolio of luxury fashion products across womenswear, menswear, jewellery, accessories and kidswear, with a focus on wedding and occasion wear. The Company sources products from 1,109 active designer brands as of March 31, 2026, including Seema Gujral, Anushree Reddy, Amit Aggarwal and Rohit Gandhi & Rahul Khanna.\n\nThe Comp",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "phychem-technologies-ipo",
+      "ipoId": 2730,
+      "name": "Phychem Technologies",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹14.58 Cr",
+      "issueSizeCr": 14.58,
+      "freshIssueCr": 13.83,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 3.0,
+        "percent": 5.56,
+        "xLot": 6000.0,
+        "updatedOn": "31-Aug 9:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/phychem-technologies-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/phychem-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=phychem-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/phychem-technologies-ipo/2730/",
+        "gmp": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/"
+      },
+      "gmpId": 1988,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 2013, Phychem Technologies Limited is engaged in the manufacturing of rotational molding (roto molding) compounds, which are used as key raw materials for producing hollow plastic products. The Company manufactures customized polyethylene-based compounds using LLDPE, HDPE and specialty additives, supplied in powder or granulated form to rotational molding manufacturers. Its products are used in applications such as water, fuel and chemical storage tanks, portable sanitation ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "shanti-inorganics-ipo",
+      "ipoId": 2736,
+      "name": "Shanti Inorganics",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 79.0,
+        "max": 83.0,
+        "display": "₹79–83"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹47.24 Cr",
+      "issueSizeCr": 47.24,
+      "freshIssueCr": 44.87,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 31.0,
+        "percent": 37.35,
+        "xLot": 49600.0,
+        "updatedOn": "31-Aug 9:31"
+      },
+      "subscription": {
+        "total": 0.0,
+        "byCategory": [
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "10,81,600",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.02",
+            "Shares Offered*": "5,26,400",
+            "Shares bid for": "8,000",
+            "Total Amt* (₹ Cr.)": "0.066",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "18,94,400",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "35,02,400",
+            "Shares bid for": "8,000",
+            "Total Amt* (₹ Cr.)": "0.066",
+            "Total Applications": "1"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Vivro Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shanti-inorganics-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shanti-inorganics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shanti-inorganics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shanti-inorganics-ipo/2736/",
+        "gmp": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/"
+      },
+      "gmpId": 1994,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in January 2010, Shanti Inorganics Ltd. manufactures and trades sulfur-based inorganic chemicals. Its main products include sodium metabisulphite, sodium sulfite powder, ammonium bisulfite solution, and sodium bisulfite powder/solution.\n\nThese products are mainly used as preservatives, reducing agents, oxygen scavengers, and process intermediates across industries such as oil drilling, pharmaceuticals, food and beverages, pulp and paper, and water treatment.\n\nThe company operates tw",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "ashutosh-fibre-ipo",
+      "ipoId": 2751,
+      "name": "Ashutosh Fibre",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 87.0,
+        "max": 92.0,
+        "display": "₹87–92"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹56.35 Cr",
+      "issueSizeCr": 56.35,
+      "freshIssueCr": 53.52,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-08-31",
+        "close": "2026-09-02",
+        "allotment": "2026-09-03",
+        "listing": "2026-09-07"
+      },
+      "gmp": {
+        "value": 37.0,
+        "percent": 40.22,
+        "xLot": 44400.0,
+        "updatedOn": "31-Aug 9:28"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ashutosh-fibre-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/ashutosh-fibre-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ashutosh-fibre-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
+        "gmp": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/"
+      },
+      "gmpId": 2009,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1985, Ashutosh Fibre Limited is engaged in the manufacturing and trading of technical textile products, primarily focusing on polypropylene (PP) spun yarns used across industrial and household applications. The company operates under a business-to-business (B2B) model, supplying yarns and fabrics to industrial manufacturers, processors, and institutional buyers.\n\nAshutosh Fibre operates across four major categories of technical textiles — Indutech, Protech, Hometech, and Mobiltec",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "esds-software-ipo",
       "ipoId": 1198,
@@ -51,7 +305,7 @@
         "value": 335.0,
         "percent": 78.09,
         "xLot": 11390.0,
-        "updatedOn": "30-Aug 23:34"
+        "updatedOn": "31-Aug 9:36"
       },
       "subscription": {
         "total": 2.21,
@@ -61,49 +315,49 @@
             "Subscription (x)": "1",
             "Shares Offered*": "50,34,964",
             "Shares bid for": "50,34,964",
-            "Total Amt* (₹ Cr.)": "216.000"
+            "Total Amt* (₹ Cr.)": "216.00"
           },
           {
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "0.01",
             "Shares Offered*": "33,56,643",
             "Shares bid for": "34,884",
-            "Total Amt* (₹ Cr.)": "1.497"
+            "Total Amt* (₹ Cr.)": "1.50"
           },
           {
             "Category": "NII",
             "Subscription (x)": "3.70",
             "Shares Offered*": "25,17,483",
             "Shares bid for": "93,07,466",
-            "Total Amt* (₹ Cr.)": "399.290"
+            "Total Amt* (₹ Cr.)": "399.29"
           },
           {
             "Category": "bNII (> ₹10L)",
             "Subscription (x)": "2.52",
             "Shares Offered*": "16,78,322",
             "Shares bid for": "42,37,318",
-            "Total Amt* (₹ Cr.)": "181.781"
+            "Total Amt* (₹ Cr.)": "181.78"
           },
           {
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "6.04",
             "Shares Offered*": "8,39,161",
             "Shares bid for": "50,70,148",
-            "Total Amt* (₹ Cr.)": "217.509"
+            "Total Amt* (₹ Cr.)": "217.51"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "2.84",
             "Shares Offered*": "58,74,126",
             "Shares bid for": "1,66,66,358",
-            "Total Amt* (₹ Cr.)": "714.987"
+            "Total Amt* (₹ Cr.)": "714.99"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "2.21",
             "Shares Offered*": "1,17,48,252",
             "Shares bid for": "2,60,08,708",
-            "Total Amt* (₹ Cr.)": "1,115.774"
+            "Total Amt* (₹ Cr.)": "1,115.77"
           }
         ],
         "applications": 386611.0
@@ -157,7 +411,7 @@
         "value": 45.0,
         "percent": 22.5,
         "xLot": 3375.0,
-        "updatedOn": "30-Aug 23:34"
+        "updatedOn": "31-Aug 9:33"
       },
       "subscription": {
         "total": 1.93,
@@ -263,7 +517,7 @@
         "value": 25.0,
         "percent": 52.08,
         "xLot": 75000.0,
-        "updatedOn": "30-Aug 23:34"
+        "updatedOn": "31-Aug 9:33"
       },
       "subscription": {
         "total": 18.18,
@@ -273,7 +527,7 @@
             "Subscription (x)": "1",
             "Shares Offered*": "19,56,000",
             "Shares bid for": "19,56,000",
-            "Total Amt* (₹ Cr.)": "9.389",
+            "Total Amt* (₹ Cr.)": "9.39",
             "Total Applications": "-"
           },
           {
@@ -281,7 +535,7 @@
             "Subscription (x)": "10.49",
             "Shares Offered*": "13,08,000",
             "Shares bid for": "1,37,25,000",
-            "Total Amt* (₹ Cr.)": "65.880",
+            "Total Amt* (₹ Cr.)": "65.88",
             "Total Applications": "0"
           },
           {
@@ -289,7 +543,7 @@
             "Subscription (x)": "1.93",
             "Shares Offered*": "9,81,000",
             "Shares bid for": "18,93,000",
-            "Total Amt* (₹ Cr.)": "9.086",
+            "Total Amt* (₹ Cr.)": "9.09",
             "Total Applications": "0"
           },
           {
@@ -297,7 +551,7 @@
             "Subscription (x)": "1.49",
             "Shares Offered*": "6,57,000",
             "Shares bid for": "9,78,000",
-            "Total Amt* (₹ Cr.)": "4.694",
+            "Total Amt* (₹ Cr.)": "4.69",
             "Total Applications": ""
           },
           {
@@ -305,7 +559,7 @@
             "Subscription (x)": "2.82",
             "Shares Offered*": "3,24,000",
             "Shares bid for": "9,15,000",
-            "Total Amt* (₹ Cr.)": "4.392",
+            "Total Amt* (₹ Cr.)": "4.39",
             "Total Applications": ""
           },
           {
@@ -313,7 +567,7 @@
             "Subscription (x)": "5.70",
             "Shares Offered*": "22,86,000",
             "Shares bid for": "1,30,20,000",
-            "Total Amt* (₹ Cr.)": "62.496",
+            "Total Amt* (₹ Cr.)": "62.50",
             "Total Applications": "0"
           },
           {
@@ -321,7 +575,7 @@
             "Subscription (x)": "18.18",
             "Shares Offered*": "15,75,000",
             "Shares bid for": "2,86,38,000",
-            "Total Amt* (₹ Cr.)": "137.462",
+            "Total Amt* (₹ Cr.)": "137.46",
             "Total Applications": "2,320"
           }
         ],
@@ -376,7 +630,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "30-Aug 23:35"
+        "updatedOn": "31-Aug 9:32"
       },
       "subscription": {
         "total": 0.13,
@@ -489,7 +743,7 @@
         "value": 61.0,
         "percent": 74.39,
         "xLot": 11102.0,
-        "updatedOn": "30-Aug 23:35"
+        "updatedOn": "31-Aug 9:30"
       },
       "subscription": {
         "total": 5.14,
@@ -499,56 +753,56 @@
             "Subscription (x)": "1",
             "Shares Offered*": "2,52,43,901",
             "Shares bid for": "2,52,43,901",
-            "Total Amt* (₹ Cr.)": "207.000"
+            "Total Amt* (₹ Cr.)": "207.00"
           },
           {
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "0.06",
             "Shares Offered*": "1,68,29,268",
             "Shares bid for": "9,91,172",
-            "Total Amt* (₹ Cr.)": "8.128"
+            "Total Amt* (₹ Cr.)": "8.13"
           },
           {
             "Category": "NII",
             "Subscription (x)": "8.18",
             "Shares Offered*": "1,26,21,951",
             "Shares bid for": "10,32,01,462",
-            "Total Amt* (₹ Cr.)": "846.252"
+            "Total Amt* (₹ Cr.)": "846.25"
           },
           {
             "Category": "bNII (> ₹10L)",
             "Subscription (x)": "5.91",
             "Shares Offered*": "84,14,634",
             "Shares bid for": "4,97,50,610",
-            "Total Amt* (₹ Cr.)": "407.955"
+            "Total Amt* (₹ Cr.)": "407.96"
           },
           {
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "12.70",
             "Shares Offered*": "42,07,317",
             "Shares bid for": "5,34,50,852",
-            "Total Amt* (₹ Cr.)": "438.297"
+            "Total Amt* (₹ Cr.)": "438.30"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "6.87",
             "Shares Offered*": "2,94,51,219",
             "Shares bid for": "20,23,79,268",
-            "Total Amt* (₹ Cr.)": "1,659.510"
+            "Total Amt* (₹ Cr.)": "1,659.51"
           },
           {
             "Category": "Employees",
             "Subscription (x)": "1.84",
             "Shares Offered*": "12,19,512",
             "Shares bid for": "22,49,884",
-            "Total Amt* (₹ Cr.)": "18.449"
+            "Total Amt* (₹ Cr.)": "18.45"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "5.14",
             "Shares Offered*": "6,01,21,950",
             "Shares bid for": "30,88,21,786",
-            "Total Amt* (₹ Cr.)": "2,532.339"
+            "Total Amt* (₹ Cr.)": "2,532.34"
           }
         ],
         "applications": 933699.0
@@ -602,7 +856,7 @@
         "value": 70.0,
         "percent": 77.78,
         "xLot": 112000.0,
-        "updatedOn": "30-Aug 23:31"
+        "updatedOn": "31-Aug 9:31"
       },
       "subscription": {
         "total": 20.67,
@@ -723,7 +977,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "30-Aug 23:32"
+        "updatedOn": "31-Aug 9:29"
       },
       "subscription": {
         "total": null,
@@ -778,7 +1032,7 @@
         "value": 35.0,
         "percent": 14.64,
         "xLot": 2170.0,
-        "updatedOn": "30-Aug 23:32"
+        "updatedOn": "31-Aug 9:28"
       },
       "subscription": {
         "total": null,
@@ -833,7 +1087,7 @@
         "value": 45.0,
         "percent": 25.42,
         "xLot": 3780.0,
-        "updatedOn": "30-Aug 23:31"
+        "updatedOn": "31-Aug 9:32"
       },
       "subscription": {
         "total": null,
@@ -859,226 +1113,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "purple-style-labs-ipo",
-      "ipoId": 2622,
-      "name": "Purple Style Labs",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 546.0,
-        "max": 575.0,
-        "display": "₹546–575"
-      },
-      "lotSize": 26,
-      "issueSize": "₹680.00 Cr",
-      "issueSizeCr": 680.0,
-      "freshIssueCr": 680.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-31",
-        "close": "2026-09-02",
-        "allotment": "2026-09-03",
-        "listing": "2026-09-07"
-      },
-      "gmp": {
-        "value": 28.0,
-        "percent": 4.87,
-        "xLot": 728.0,
-        "updatedOn": "30-Aug 23:28"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/purple-style-labs-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=purple-style-labs-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
-        "gmp": "https://www.investorgain.com/gmp/purple-style-labs-ipo/1897/"
-      },
-      "gmpId": 1897,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2015, Purple Style Labs Limited is a multi-brand luxury omni-channel fashion platform operating under Pernia’s Pop-Up Shop (PPUS), offering a curated portfolio of luxury fashion products across womenswear, menswear, jewellery, accessories and kidswear, with a focus on wedding and occasion wear. The Company sources products from 1,109 active designer brands as of March 31, 2026, including Seema Gujral, Anushree Reddy, Amit Aggarwal and Rohit Gandhi & Rahul Khanna.\n\nThe Comp",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "phychem-technologies-ipo",
-      "ipoId": 2730,
-      "name": "Phychem Technologies",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹14.58 Cr",
-      "issueSizeCr": 14.58,
-      "freshIssueCr": 13.83,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-31",
-        "close": "2026-09-02",
-        "allotment": "2026-09-03",
-        "listing": "2026-09-07"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 5.56,
-        "xLot": 6000.0,
-        "updatedOn": "30-Aug 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/phychem-technologies-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/phychem-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=phychem-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/phychem-technologies-ipo/2730/",
-        "gmp": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/"
-      },
-      "gmpId": 1988,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2013, Phychem Technologies Limited is engaged in the manufacturing of rotational molding (roto molding) compounds, which are used as key raw materials for producing hollow plastic products. The Company manufactures customized polyethylene-based compounds using LLDPE, HDPE and specialty additives, supplied in powder or granulated form to rotational molding manufacturers. Its products are used in applications such as water, fuel and chemical storage tanks, portable sanitation ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "shanti-inorganics-ipo",
-      "ipoId": 2736,
-      "name": "Shanti Inorganics",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 79.0,
-        "max": 83.0,
-        "display": "₹79–83"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹47.24 Cr",
-      "issueSizeCr": 47.24,
-      "freshIssueCr": 44.87,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-31",
-        "close": "2026-09-02",
-        "allotment": "2026-09-03",
-        "listing": "2026-09-07"
-      },
-      "gmp": {
-        "value": 31.0,
-        "percent": 37.35,
-        "xLot": 49600.0,
-        "updatedOn": "30-Aug 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Vivro Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shanti-inorganics-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shanti-inorganics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shanti-inorganics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shanti-inorganics-ipo/2736/",
-        "gmp": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/"
-      },
-      "gmpId": 1994,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in January 2010, Shanti Inorganics Ltd. manufactures and trades sulfur-based inorganic chemicals. Its main products include sodium metabisulphite, sodium sulfite powder, ammonium bisulfite solution, and sodium bisulfite powder/solution.\n\nThese products are mainly used as preservatives, reducing agents, oxygen scavengers, and process intermediates across industries such as oil drilling, pharmaceuticals, food and beverages, pulp and paper, and water treatment.\n\nThe company operates tw",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "ashutosh-fibre-ipo",
-      "ipoId": 2751,
-      "name": "Ashutosh Fibre",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 87.0,
-        "max": 92.0,
-        "display": "₹87–92"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹56.35 Cr",
-      "issueSizeCr": 56.35,
-      "freshIssueCr": 53.52,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-31",
-        "close": "2026-09-02",
-        "allotment": "2026-09-03",
-        "listing": "2026-09-07"
-      },
-      "gmp": {
-        "value": 37.0,
-        "percent": 40.22,
-        "xLot": 44400.0,
-        "updatedOn": "30-Aug 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Mefcom Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ashutosh-fibre-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ashutosh-fibre-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ashutosh-fibre-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
-        "gmp": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/"
-      },
-      "gmpId": 2009,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 1985, Ashutosh Fibre Limited is engaged in the manufacturing and trading of technical textile products, primarily focusing on polypropylene (PP) spun yarns used across industrial and household applications. The company operates under a business-to-business (B2B) model, supplying yarns and fabrics to industrial manufacturers, processors, and institutional buyers.\n\nAshutosh Fibre operates across four major categories of technical textiles — Indutech, Protech, Hometech, and Mobiltec",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
