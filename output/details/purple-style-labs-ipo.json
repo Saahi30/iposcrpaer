@@ -388,7 +388,7 @@
   "subscription": {
     "summary": "Purple Style Labs IPO subscribed 0.12 times. The public issue subscribed 0.56 times in the retail category, 0.01 times in QIB (Ex Anchor), and 0.06 times in the NII category by August 31, 2026 5:05:59 PM (Day 1).",
     "total": 0.12,
-    "applications": 21786.0,
+    "applications": 21849.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -471,10 +471,10 @@
       "listing": "2026-09-07"
     },
     "gmp": {
-      "value": 3.0,
-      "percent": 0.52,
-      "xLot": 78.0,
-      "updatedOn": "31-Aug 18:02"
+      "value": 7.0,
+      "percent": 1.22,
+      "xLot": 182.0,
+      "updatedOn": "31-Aug 23:29"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
@@ -484,5 +484,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-31T13:07:35+00:00"
+  "scrapedAt": "2026-08-31T22:39:09+00:00"
 }
