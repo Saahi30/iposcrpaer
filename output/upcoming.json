@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-31T04:38:14+00:00",
+  "scrapedAt": "2026-08-31T13:08:01+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 3,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 3
+    "total": 5
   },
   "ipos": [
+    {
+      "slug": "kanohar-electricals-ipo",
+      "ipoId": 2856,
+      "name": "Kanohar Electricals",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 300.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-12-09",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "31-Aug 16:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Nuvama Wealth Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/kanohar-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=kanohar-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/",
+        "gmp": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/"
+      },
+      "gmpId": 2119,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. The Company caters to industries such as power transmission, railways, renewable energy and power distribution.\n\nThe Company operates through two business segments: (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC). It is one of four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "farm-peace-ipo",
       "ipoId": 2632,
@@ -50,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Aug 9:29"
+        "updatedOn": "31-Aug 18:01"
       },
       "subscription": {
         "total": null,
@@ -102,10 +157,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 35.0,
-        "percent": 14.64,
-        "xLot": 2170.0,
-        "updatedOn": "31-Aug 9:28"
+        "value": 39.0,
+        "percent": 16.32,
+        "xLot": 2418.0,
+        "updatedOn": "31-Aug 17:56"
       },
       "subscription": {
         "total": null,
@@ -157,10 +212,10 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 45.0,
-        "percent": 25.42,
-        "xLot": 3780.0,
-        "updatedOn": "31-Aug 9:32"
+        "value": 38.0,
+        "percent": 21.47,
+        "xLot": 3192.0,
+        "updatedOn": "31-Aug 18:00"
       },
       "subscription": {
         "total": null,
@@ -186,6 +241,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "fly-hi-maritime-ipo",
+      "ipoId": 2845,
+      "name": "Fly-Hi Maritime",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 102.0,
+        "max": 102.0,
+        "display": "₹102"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹52.63 Cr",
+      "issueSizeCr": 52.63,
+      "freshIssueCr": 39.74,
+      "ofsCr": 10.2,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 5.0,
+        "percent": 4.9,
+        "xLot": 6000.0,
+        "updatedOn": "31-Aug 17:59"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/fly-hi-maritime-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fly-hi-maritime-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/",
+        "gmp": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/"
+      },
+      "gmpId": 2097,
+      "faceValue": "₹5 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2021, Fly-Hi Maritime Travels Limited is a specialized maritime travel company engaged in providing end-to-end crew travel and mobility solutions for commercial shipping companies. The Company manages travel arrangements for seafarers from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination and 24/7 travel support.\n\nThe Company offers customized travel solutions",
+      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
