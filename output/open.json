@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-08-31T22:39:38+00:00",
+  "scrapedAt": "2026-09-01T04:19:47+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
-    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
-    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/8/2026/2026-27/0/all?search="
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/9/2026/2026-27/0/all?search="
   },
   "filters": {
     "status": [
@@ -14,14 +14,234 @@
     "limit": null
   },
   "summary": {
-    "open": 10,
+    "open": 12,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 12
   },
   "ipos": [
+    {
+      "slug": "farm-peace-ipo",
+      "ipoId": 2632,
+      "name": "Farm Peace",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 59.0,
+        "max": 59.0,
+        "display": "₹59"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹32.00 Cr",
+      "issueSizeCr": 32.0,
+      "freshIssueCr": 30.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "1-Sep 9:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/farm-peace-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=farm-peace-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/",
+        "gmp": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/"
+      },
+      "gmpId": 1905,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in October 2021, Farm Peace is an integrated contract farming company focused on processed-grade potato varieties like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are supplied to processing companies for French fries, chips, and other value-added products.\n\nOperating under the “Farm Peace” brand, the company work closely with farmers in Gujarat through a 100% buy-back model . It provide certified seeds, agronomic support, fertilizers, pesticides, and mod",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "rays-of-belief-ipo",
+      "ipoId": 2787,
+      "name": "Rays of Belief",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 227.0,
+        "max": 239.0,
+        "display": "₹227–239"
+      },
+      "lotSize": 62,
+      "issueSize": "₹125.00 Cr",
+      "issueSizeCr": 125.0,
+      "freshIssueCr": 125.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 48.0,
+        "percent": 20.08,
+        "xLot": 2976.0,
+        "updatedOn": "1-Sep 9:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mefcom Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/rays-of-belief-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=rays-of-belief-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
+        "gmp": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/"
+      },
+      "gmpId": 2041,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "deepa-jewellers-ipo",
+      "ipoId": 2827,
+      "name": "Deepa Jewellers",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 168.0,
+        "max": 177.0,
+        "display": "₹168–177"
+      },
+      "lotSize": 84,
+      "issueSize": "₹459.72 Cr",
+      "issueSizeCr": 459.72,
+      "freshIssueCr": 250.0,
+      "ofsCr": 209.72,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 55.0,
+        "percent": 31.07,
+        "xLot": 4620.0,
+        "updatedOn": "1-Sep 9:29"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Emkay Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/deepa-jewellers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=deepa-jewellers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
+        "gmp": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/"
+      },
+      "gmpId": 2081,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "fly-hi-maritime-ipo",
+      "ipoId": 2845,
+      "name": "Fly-Hi Maritime",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 102.0,
+        "max": 102.0,
+        "display": "₹102"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹52.63 Cr",
+      "issueSizeCr": 52.63,
+      "freshIssueCr": 39.74,
+      "ofsCr": 10.2,
+      "dates": {
+        "open": "2026-09-01",
+        "close": "2026-09-03",
+        "allotment": "2026-09-04",
+        "listing": "2026-09-08"
+      },
+      "gmp": {
+        "value": 5.0,
+        "percent": 4.9,
+        "xLot": 6000.0,
+        "updatedOn": "1-Sep 9:32"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/fly-hi-maritime-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fly-hi-maritime-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/",
+        "gmp": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/"
+      },
+      "gmpId": 2097,
+      "faceValue": "₹5 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2021, Fly-Hi Maritime Travels Limited is a specialized maritime travel company engaged in providing end-to-end crew travel and mobility solutions for commercial shipping companies. The Company manages travel arrangements for seafarers from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination and 24/7 travel support.\n\nThe Company offers customized travel solutions",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "purple-style-labs-ipo",
       "ipoId": 2622,
@@ -50,7 +270,7 @@
         "value": 7.0,
         "percent": 1.22,
         "xLot": 182.0,
-        "updatedOn": "31-Aug 23:29"
+        "updatedOn": "1-Sep 9:30"
       },
       "subscription": {
         "total": 0.12,
@@ -156,7 +376,7 @@
         "value": 1.0,
         "percent": 1.85,
         "xLot": 2000.0,
-        "updatedOn": "31-Aug 23:28"
+        "updatedOn": "1-Sep 9:30"
       },
       "subscription": {
         "total": 1.26,
@@ -266,13 +486,13 @@
         "listing": "2026-09-07"
       },
       "gmp": {
-        "value": 31.0,
-        "percent": 37.35,
-        "xLot": 49600.0,
-        "updatedOn": "31-Aug 23:37"
+        "value": 21.0,
+        "percent": 25.3,
+        "xLot": 33600.0,
+        "updatedOn": "1-Sep 9:37"
       },
       "subscription": {
-        "total": 1.26,
+        "total": 1.3,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -280,6 +500,14 @@
             "Shares Offered*": "16,19,200",
             "Shares bid for": "16,19,200",
             "Total Amt* (₹ Cr.)": "13.439",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "2,84,800",
+            "Shares bid for": "2,84,800",
+            "Total Amt* (₹ Cr.)": "2.364",
             "Total Applications": "-"
           },
           {
@@ -292,10 +520,10 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "1.61",
+            "Subscription (x)": "1.62",
             "Shares Offered*": "5,26,400",
-            "Shares bid for": "8,49,600",
-            "Total Amt* (₹ Cr.)": "7.052",
+            "Shares bid for": "8,54,400",
+            "Total Amt* (₹ Cr.)": "7.092",
             "Total Applications": "0"
           },
           {
@@ -308,27 +536,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.88",
+            "Subscription (x)": "0.90",
             "Shares Offered*": "2,70,400",
-            "Shares bid for": "2,38,400",
-            "Total Amt* (₹ Cr.)": "1.979",
+            "Shares bid for": "2,43,200",
+            "Total Amt* (₹ Cr.)": "2.019",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "1.75",
+            "Subscription (x)": "1.81",
             "Shares Offered*": "18,94,400",
-            "Shares bid for": "33,08,800",
-            "Total Amt* (₹ Cr.)": "27.463",
-            "Total Applications": "1,034"
+            "Shares bid for": "34,33,600",
+            "Total Amt* (₹ Cr.)": "28.499",
+            "Total Applications": "1,073"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.26",
+            "Subscription (x)": "1.30",
             "Shares Offered*": "35,02,400",
-            "Shares bid for": "44,11,200",
-            "Total Amt* (₹ Cr.)": "36.613",
-            "Total Applications": "1,107"
+            "Shares bid for": "45,40,800",
+            "Total Amt* (₹ Cr.)": "37.689",
+            "Total Applications": "1,147"
           }
         ],
         "applications": null
@@ -379,13 +607,13 @@
         "listing": "2026-09-07"
       },
       "gmp": {
-        "value": 45.0,
-        "percent": 48.91,
-        "xLot": 54000.0,
-        "updatedOn": "31-Aug 23:36"
+        "value": 35.0,
+        "percent": 38.04,
+        "xLot": 42000.0,
+        "updatedOn": "1-Sep 9:29"
       },
       "subscription": {
-        "total": 1.61,
+        "total": 1.67,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -393,6 +621,14 @@
             "Shares Offered*": "17,43,600",
             "Shares bid for": "17,43,600",
             "Total Amt* (₹ Cr.)": "16.041",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "3,07,200",
+            "Shares bid for": "3,07,200",
+            "Total Amt* (₹ Cr.)": "2.826",
             "Total Applications": "-"
           },
           {
@@ -407,9 +643,9 @@
             "Category": "NII***",
             "Subscription (x)": "1.84",
             "Shares Offered*": "8,73,600",
-            "Shares bid for": "16,05,600",
-            "Total Amt* (₹ Cr.)": "14.772",
-            "Total Applications": "149"
+            "Shares bid for": "16,09,200",
+            "Total Amt* (₹ Cr.)": "14.805",
+            "Total Applications": "0"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -421,27 +657,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.28",
+            "Subscription (x)": "1.29",
             "Shares Offered*": "2,91,600",
-            "Shares bid for": "3,73,200",
-            "Total Amt* (₹ Cr.)": "3.433",
+            "Shares bid for": "3,76,800",
+            "Total Amt* (₹ Cr.)": "3.467",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "2.20",
+            "Subscription (x)": "2.30",
             "Shares Offered*": "20,37,600",
-            "Shares bid for": "44,73,600",
-            "Total Amt* (₹ Cr.)": "41.157",
-            "Total Applications": "1,864"
+            "Shares bid for": "46,94,400",
+            "Total Amt* (₹ Cr.)": "43.188",
+            "Total Applications": "1,956"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.61",
+            "Subscription (x)": "1.67",
             "Shares Offered*": "37,66,800",
-            "Shares bid for": "60,79,200",
-            "Total Amt* (₹ Cr.)": "55.929",
-            "Total Applications": "2,013"
+            "Shares bid for": "63,03,600",
+            "Total Amt* (₹ Cr.)": "57.993",
+            "Total Applications": "2,106"
           }
         ],
         "applications": null
@@ -495,7 +731,7 @@
         "value": 316.0,
         "percent": 73.66,
         "xLot": 10744.0,
-        "updatedOn": "31-Aug 23:28"
+        "updatedOn": "1-Sep 9:34"
       },
       "subscription": {
         "total": 25.77,
@@ -601,7 +837,7 @@
         "value": 45.0,
         "percent": 22.5,
         "xLot": 3375.0,
-        "updatedOn": "31-Aug 23:28"
+        "updatedOn": "1-Sep 9:34"
       },
       "subscription": {
         "total": 29.06,
@@ -611,49 +847,49 @@
             "Subscription (x)": "1",
             "Shares Offered*": "13,72,500",
             "Shares bid for": "13,72,500",
-            "Total Amt* (₹ Cr.)": "27.450"
+            "Total Amt* (₹ Cr.)": "27.45"
           },
           {
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "1.68",
             "Shares Offered*": "9,15,000",
             "Shares bid for": "15,34,500",
-            "Total Amt* (₹ Cr.)": "30.690"
+            "Total Amt* (₹ Cr.)": "30.69"
           },
           {
             "Category": "NII",
             "Subscription (x)": "42.34",
             "Shares Offered*": "6,86,250",
             "Shares bid for": "2,90,53,050",
-            "Total Amt* (₹ Cr.)": "581.061"
+            "Total Amt* (₹ Cr.)": "581.06"
           },
           {
             "Category": "bNII (> ₹10L)",
             "Subscription (x)": "33.60",
             "Shares Offered*": "4,57,500",
             "Shares bid for": "1,53,72,675",
-            "Total Amt* (₹ Cr.)": "307.454"
+            "Total Amt* (₹ Cr.)": "307.45"
           },
           {
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "59.80",
             "Shares Offered*": "2,28,750",
             "Shares bid for": "1,36,80,375",
-            "Total Amt* (₹ Cr.)": "273.608"
+            "Total Amt* (₹ Cr.)": "273.61"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "39.02",
             "Shares Offered*": "16,01,250",
             "Shares bid for": "6,24,74,550",
-            "Total Amt* (₹ Cr.)": "1,249.491"
+            "Total Amt* (₹ Cr.)": "1,249.49"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "29.06",
             "Shares Offered*": "32,02,500",
             "Shares bid for": "9,30,62,100",
-            "Total Amt* (₹ Cr.)": "1,861.242"
+            "Total Amt* (₹ Cr.)": "1,861.24"
           }
         ],
         "applications": 773354.0
@@ -704,10 +940,10 @@
         "listing": "2026-09-04"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 62.5,
-        "xLot": 90000.0,
-        "updatedOn": "31-Aug 23:31"
+        "value": 35.0,
+        "percent": 72.92,
+        "xLot": 105000.0,
+        "updatedOn": "1-Sep 9:31"
       },
       "subscription": {
         "total": 99.42,
@@ -828,7 +1064,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Aug 23:34"
+        "updatedOn": "1-Sep 9:36"
       },
       "subscription": {
         "total": 0.28,
@@ -919,240 +1155,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2002, Complete Sports and Management India Limited is engaged in the business of sourcing, trading and distribution of a diversified portfolio of amusement and leisure equipment, along with providing installation, commissioning, maintenance and related consulting services. The company operate across the amusement, entertainment and leisure infrastructure value chain and provide end-to-end solutions to customers for the development and operation of entertainment destinations.\n\nThe",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "lumino-industries-ipo",
-      "ipoId": 2013,
-      "name": "Lumino Industries",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 78.0,
-        "max": 82.0,
-        "display": "₹78–82"
-      },
-      "lotSize": 182,
-      "issueSize": "₹700.00 Cr",
-      "issueSizeCr": 700.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 200.0,
-      "dates": {
-        "open": "2026-08-27",
-        "close": "2026-08-31",
-        "allotment": "2026-09-01",
-        "listing": "2026-09-03"
-      },
-      "gmp": {
-        "value": 48.0,
-        "percent": 58.54,
-        "xLot": 8736.0,
-        "updatedOn": "31-Aug 23:34"
-      },
-      "subscription": {
-        "total": 124.02,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,52,43,901",
-            "Shares bid for": "2,52,43,901",
-            "Total Amt* (₹ Cr.)": "207.00"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "232.79",
-            "Shares Offered*": "1,68,29,268",
-            "Shares bid for": "3,91,76,11,516",
-            "Total Amt* (₹ Cr.)": "32,124.41"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "185.21",
-            "Shares Offered*": "1,26,21,951",
-            "Shares bid for": "2,33,77,12,286",
-            "Total Amt* (₹ Cr.)": "19,169.24"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "201.90",
-            "Shares Offered*": "84,14,634",
-            "Shares bid for": "1,69,89,36,512",
-            "Total Amt* (₹ Cr.)": "13,931.28"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "151.82",
-            "Shares Offered*": "42,07,317",
-            "Shares bid for": "63,87,75,774",
-            "Total Amt* (₹ Cr.)": "5,237.96"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "40.27",
-            "Shares Offered*": "2,94,51,219",
-            "Shares bid for": "1,18,59,81,342",
-            "Total Amt* (₹ Cr.)": "9,725.05"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "12.37",
-            "Shares Offered*": "12,19,512",
-            "Shares bid for": "1,50,80,884",
-            "Total Amt* (₹ Cr.)": "123.66"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "124.02",
-            "Shares Offered*": "6,01,21,950",
-            "Shares bid for": "7,45,63,86,028",
-            "Total Amt* (₹ Cr.)": "61,142.37"
-          }
-        ],
-        "applications": 5848594.0
-      },
-      "leadManager": "Motilal Oswal Investment",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/lumino-industries-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/lumino-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=lumino-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/lumino-industries-ipo/2013/",
-        "gmp": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/"
-      },
-      "gmpId": 1619,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2005, Lumino Industries Ltd. is an integrated engineering, procurement and construction (EPC) company in India, with a focus on manufacturing and supplying conductors, power cables, electrical wires and specialised products for the power transmission and distribution industry.\n\nThe Company also manufactures high-temperature low-sag (HTLS) conductors used in transmission and distribution lines.\n\nThe Company operates through two key segments: Manufacturing and EPC. Its manufacturin",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "kwick-forensic-solutions-ipo",
-      "ipoId": 2757,
-      "name": "Kwick Forensic Solutions",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 85.0,
-        "max": 90.0,
-        "display": "₹85–90"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹50.77 Cr",
-      "issueSizeCr": 50.77,
-      "freshIssueCr": 38.51,
-      "ofsCr": 9.72,
-      "dates": {
-        "open": "2026-08-27",
-        "close": "2026-08-31",
-        "allotment": "2026-09-01",
-        "listing": "2026-09-03"
-      },
-      "gmp": {
-        "value": 85.0,
-        "percent": 94.44,
-        "xLot": 136000.0,
-        "updatedOn": "31-Aug 23:29"
-      },
-      "subscription": {
-        "total": 289.0,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "16,03,200",
-            "Shares bid for": "16,03,200",
-            "Total Amt* (₹ Cr.)": "14.43",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,83,200",
-            "Shares bid for": "2,83,200",
-            "Total Amt* (₹ Cr.)": "2.55",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "224.32",
-            "Shares Offered*": "10,70,400",
-            "Shares bid for": "24,01,10,400",
-            "Total Amt* (₹ Cr.)": "2,160.99",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "318.53",
-            "Shares Offered*": "8,06,400",
-            "Shares bid for": "25,68,65,600",
-            "Total Amt* (₹ Cr.)": "2,311.79",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "347.74",
-            "Shares Offered*": "5,37,600",
-            "Shares bid for": "18,69,47,200",
-            "Total Amt* (₹ Cr.)": "1,682.52",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "260.11",
-            "Shares Offered*": "2,68,800",
-            "Shares bid for": "6,99,18,400",
-            "Total Amt* (₹ Cr.)": "629.27",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "313.18",
-            "Shares Offered*": "18,78,400",
-            "Shares bid for": "58,82,75,200",
-            "Total Amt* (₹ Cr.)": "5,294.48",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "289.00",
-            "Shares Offered*": "37,55,200",
-            "Shares bid for": "1,08,52,51,200",
-            "Total Amt* (₹ Cr.)": "9,767.26",
-            "Total Applications": "2,18,222"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Corporate Capitalventures",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kwick-forensic-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kwick-forensic-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kwick-forensic-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kwick-forensic-solutions-ipo/2757/",
-        "gmp": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/"
-      },
-      "gmpId": 2013,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in March 2005, Kwick Forensic Solutions Limited (formerly Kwick Soft Solutions Private Limited) is engaged in providing forensic science, evidence management, cyber and digital forensics, DNA forensics and law-enforcement solutions across India. The Company initially focused on software development, including 3D rendering, animation and simulation, and subsequently expanded into forensic science and training technologies. Since FY2015, it has developed and supplied end-to-end forens",
       "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]

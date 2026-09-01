@@ -358,8 +358,8 @@
     "source": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/"
   },
   "subscription": {
-    "summary": "Ashutosh Fibre IPO subscribed 1.61 times. The public issue subscribed 2.20 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.84 times in the NII category by August 31, 2026 6:55:00 PM (Day 1).",
-    "total": 1.61,
+    "summary": "Ashutosh Fibre IPO subscribed 1.67 times. The public issue subscribed 2.30 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.84 times in the NII category by September 1, 2026 9:45:00 AM (Day 2).",
+    "total": 1.67,
     "applications": null,
     "byCategory": [
       {
@@ -368,6 +368,14 @@
         "Shares Offered*": "17,43,600",
         "Shares bid for": "17,43,600",
         "Total Amt* (₹ Cr.)": "16.041",
+        "Total Applications": "-"
+      },
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "3,07,200",
+        "Shares bid for": "3,07,200",
+        "Total Amt* (₹ Cr.)": "2.826",
         "Total Applications": "-"
       },
       {
@@ -382,9 +390,9 @@
         "Category": "NII***",
         "Subscription (x)": "1.84",
         "Shares Offered*": "8,73,600",
-        "Shares bid for": "16,05,600",
-        "Total Amt* (₹ Cr.)": "14.772",
-        "Total Applications": "149"
+        "Shares bid for": "16,09,200",
+        "Total Amt* (₹ Cr.)": "14.805",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -396,27 +404,27 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.28",
+        "Subscription (x)": "1.29",
         "Shares Offered*": "2,91,600",
-        "Shares bid for": "3,73,200",
-        "Total Amt* (₹ Cr.)": "3.433",
+        "Shares bid for": "3,76,800",
+        "Total Amt* (₹ Cr.)": "3.467",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "2.20",
+        "Subscription (x)": "2.30",
         "Shares Offered*": "20,37,600",
-        "Shares bid for": "44,73,600",
-        "Total Amt* (₹ Cr.)": "41.157",
-        "Total Applications": "1,864"
+        "Shares bid for": "46,94,400",
+        "Total Amt* (₹ Cr.)": "43.188",
+        "Total Applications": "1,956"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.61",
+        "Subscription (x)": "1.67",
         "Shares Offered*": "37,66,800",
-        "Shares bid for": "60,79,200",
-        "Total Amt* (₹ Cr.)": "55.929",
-        "Total Applications": "2,013"
+        "Shares bid for": "63,03,600",
+        "Total Amt* (₹ Cr.)": "57.993",
+        "Total Applications": "2,106"
       }
     ],
     "dayWise": [
@@ -428,6 +436,15 @@
         "NII (< ₹10L)": "1.28",
         "Individual Investors": "2.20",
         "Total": "1.61"
+      },
+      {
+        "Date": "Sep 1 (Day 2)",
+        "QIB (Ex Anchor)": "0.00",
+        "NII*": "1.84",
+        "NII (> ₹10L)": "2.12",
+        "NII (< ₹10L)": "1.29",
+        "Individual Investors": "2.30",
+        "Total": "1.67"
       }
     ]
   },
@@ -450,10 +467,10 @@
       "listing": "2026-09-07"
     },
     "gmp": {
-      "value": 45.0,
-      "percent": 48.91,
-      "xLot": 54000.0,
-      "updatedOn": "31-Aug 23:36"
+      "value": 35.0,
+      "percent": 38.04,
+      "xLot": 42000.0,
+      "updatedOn": "1-Sep 9:29"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/ashutosh-fibre-ltd-logo.png",
@@ -463,5 +480,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-08-31T22:39:16+00:00"
+  "scrapedAt": "2026-09-01T04:19:33+00:00"
 }

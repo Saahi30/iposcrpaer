@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-08-31T22:39:38+00:00",
+  "scrapedAt": "2026-09-01T04:19:47+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
-    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/8/2026/2026-27/0/all/0?search=&v=14-08",
-    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/8/2026/2026-27/0/all?search="
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/9/2026/2026-27/0/all?search="
   },
   "filters": {
     "status": [
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 5,
+    "upcoming": 3,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 3
   },
   "ipos": [
     {
@@ -41,16 +41,16 @@
       "freshIssueCr": 300.0,
       "ofsCr": null,
       "dates": {
-        "open": "2026-12-09",
+        "open": "2026-12-10",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "31-Aug 16:30"
+        "updatedOn": "1-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -78,224 +78,114 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
-      "slug": "farm-peace-ipo",
-      "ipoId": 2632,
-      "name": "Farm Peace",
-      "type": "sme",
+      "slug": "veegaland-developers-ipo",
+      "ipoId": 2834,
+      "name": "Veegaland Developers",
+      "type": "mainboard",
       "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 59.0,
-        "max": 59.0,
-        "display": "₹59"
+        "min": 130.0,
+        "max": 140.0,
+        "display": "₹130–140"
       },
-      "lotSize": 2000,
-      "issueSize": "₹32.00 Cr",
-      "issueSizeCr": 32.0,
-      "freshIssueCr": 30.4,
+      "lotSize": 107,
+      "issueSize": "₹210.00 Cr",
+      "issueSizeCr": 210.0,
+      "freshIssueCr": 210.0,
       "ofsCr": null,
       "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "listing": "2026-09-18"
       },
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "31-Aug 23:37"
+        "updatedOn": "1-Sep 9:29"
       },
       "subscription": {
         "total": null,
         "byCategory": []
       },
-      "leadManager": "Socradamus Capital",
+      "leadManager": "Cumulative Capital",
       "symbols": {
         "isin": null,
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/veegaland-ipo-logo.png",
       "hasDetail": true,
-      "detailPath": "details/farm-peace-ipo.json",
+      "detailPath": "details/veegaland-developers-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=farm-peace-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/",
-        "gmp": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/"
+        "local": "./ipo.html?slug=veegaland-developers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/veegaland-developers-ipo/2834/",
+        "gmp": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/"
       },
-      "gmpId": 1905,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in October 2021, Farm Peace is an integrated contract farming company focused on processed-grade potato varieties like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are supplied to processing companies for French fries, chips, and other value-added products.\n\nOperating under the “Farm Peace” brand, the company work closely with farmers in Gujarat through a 100% buy-back model . It provide certified seeds, agronomic support, fertilizers, pesticides, and mod",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "rays-of-belief-ipo",
-      "ipoId": 2787,
-      "name": "Rays of Belief",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 227.0,
-        "max": 239.0,
-        "display": "₹227–239"
-      },
-      "lotSize": 62,
-      "issueSize": "₹125.00 Cr",
-      "issueSizeCr": 125.0,
-      "freshIssueCr": 125.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
-      },
-      "gmp": {
-        "value": 48.0,
-        "percent": 20.08,
-        "xLot": 2976.0,
-        "updatedOn": "31-Aug 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Mefcom Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/rays-of-belief-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=rays-of-belief-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
-        "gmp": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/"
-      },
-      "gmpId": 2041,
+      "gmpId": 1601,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
-      "registrar": "Kfin Technologies Ltd."
+      "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
-      "slug": "deepa-jewellers-ipo",
-      "ipoId": 2827,
-      "name": "Deepa Jewellers",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 168.0,
-        "max": 177.0,
-        "display": "₹168–177"
-      },
-      "lotSize": 84,
-      "issueSize": "₹459.72 Cr",
-      "issueSizeCr": 459.72,
-      "freshIssueCr": 250.0,
-      "ofsCr": 209.72,
-      "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
-      },
-      "gmp": {
-        "value": 55.0,
-        "percent": 31.07,
-        "xLot": 4620.0,
-        "updatedOn": "31-Aug 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Emkay Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/deepa-jewellers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=deepa-jewellers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
-        "gmp": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/"
-      },
-      "gmpId": 2081,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "fly-hi-maritime-ipo",
-      "ipoId": 2845,
-      "name": "Fly-Hi Maritime",
+      "slug": "qualiance-international-ipo",
+      "ipoId": 2979,
+      "name": "Qualiance International",
       "type": "sme",
       "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 102.0,
-        "max": 102.0,
-        "display": "₹102"
+        "min": 120.0,
+        "max": 127.0,
+        "display": "₹120–127"
       },
-      "lotSize": 1200,
-      "issueSize": "₹52.63 Cr",
-      "issueSizeCr": 52.63,
-      "freshIssueCr": 39.74,
-      "ofsCr": 10.2,
+      "lotSize": 1000,
+      "issueSize": "₹45.11 Cr",
+      "issueSizeCr": 45.11,
+      "freshIssueCr": 42.82,
+      "ofsCr": null,
       "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
+        "open": "2026-09-04",
+        "close": "2026-09-08",
+        "allotment": "2026-09-09",
+        "listing": "2026-09-11"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 4.9,
-        "xLot": 6000.0,
-        "updatedOn": "31-Aug 23:29"
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "1-Sep 9:32"
       },
       "subscription": {
         "total": null,
         "byCategory": []
       },
-      "leadManager": "Corporate Makers",
+      "leadManager": "Hem Securities",
       "symbols": {
         "isin": null,
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
+      "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
       "hasDetail": true,
-      "detailPath": "details/fly-hi-maritime-ipo.json",
+      "detailPath": "details/qualiance-international-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=fly-hi-maritime-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/",
-        "gmp": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/"
+        "local": "./ipo.html?slug=qualiance-international-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
+        "gmp": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/"
       },
-      "gmpId": 2097,
-      "faceValue": "₹5 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in September 2021, Fly-Hi Maritime Travels Limited is a specialized maritime travel company engaged in providing end-to-end crew travel and mobility solutions for commercial shipping companies. The Company manages travel arrangements for seafarers from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination and 24/7 travel support.\n\nThe Company offers customized travel solutions",
-      "registrar": "Kfin Technologies Ltd."
+      "gmpId": 2240,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance garments for institutional, government and brand clients in international markets.\n\nThe company product portfolio includes military uniforms, tactical outerwear, high-visibility workwear, weather-resistant and all-weather outerwear, police and border patrol uniforms, protective workwear and performance activewear.\n\nThe company operate a manufacturing facility located in Tiruppur, Tamil Na",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

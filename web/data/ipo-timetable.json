@@ -1,17 +1,17 @@
 {
-  "scrapedAt": "2026-08-31T22:39:45+00:00",
+  "scrapedAt": "2026-09-01T04:19:53+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
-    "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/all/0?search=&v=14-08",
-    "mainboard": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/mainboard/0?search=&v=14-08",
-    "sme": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/8/2026/2026-27/0/sme/0?search=&v=14-08"
+    "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
+    "mainboard": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/mainboard/0?search=&v=14-08",
+    "sme": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/sme/0?search=&v=14-08"
   },
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 195,
-    "mainboard": 64,
-    "sme": 131
+    "total": 197,
+    "mainboard": 65,
+    "sme": 132
   },
   "ipos": [
     {
@@ -4691,6 +4691,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2979,
+      "name": "Qualiance International Ltd.",
+      "slug": "qualiance-international-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-04",
+        "close": "2026-09-08",
+        "allotment": "2026-09-09",
+        "refunds": "2026-09-10",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "04-Sep-2026",
+        "close": "08-Sep-2026",
+        "allotment": "09-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2834,
+      "name": "Veegaland Developers Ltd.",
+      "slug": "veegaland-developers-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "refunds": "2026-09-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Sep-2026",
+        "close": "15-Sep-2026",
+        "allotment": "16-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/veegaland-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/veegaland-developers-ipo/2834/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
