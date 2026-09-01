@@ -521,9 +521,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 79.0,
+      "min": 83.0,
       "max": 83.0,
-      "display": "₹79–83"
+      "display": "₹83"
     },
     "lotSize": 1600,
     "issueSize": "₹47.24 Cr",
@@ -534,10 +534,10 @@
       "listing": "2026-09-07"
     },
     "gmp": {
-      "value": 24.0,
-      "percent": 28.92,
-      "xLot": 38400.0,
-      "updatedOn": "1-Sep 21:00"
+      "value": 36.0,
+      "percent": 43.37,
+      "xLot": 57600.0,
+      "updatedOn": "1-Sep 23:33"
     },
     "leadManager": "Vivro Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/shanti-inorganics-ipo-logo.jpg",
@@ -547,5 +547,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T16:18:31+00:00"
+  "scrapedAt": "2026-09-01T20:47:25+00:00"
 }

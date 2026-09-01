@@ -454,9 +454,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 87.0,
+      "min": 92.0,
       "max": 92.0,
-      "display": "₹87–92"
+      "display": "₹92"
     },
     "lotSize": 1200,
     "issueSize": "₹56.35 Cr",
@@ -467,10 +467,10 @@
       "listing": "2026-09-07"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 21.74,
-      "xLot": 24000.0,
-      "updatedOn": "1-Sep 20:57"
+      "value": 10.0,
+      "percent": 10.87,
+      "xLot": 12000.0,
+      "updatedOn": "1-Sep 23:32"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/ashutosh-fibre-ltd-logo.png",
@@ -480,5 +480,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T16:18:33+00:00"
+  "scrapedAt": "2026-09-01T20:47:27+00:00"
 }
