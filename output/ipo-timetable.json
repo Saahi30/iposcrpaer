@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T04:19:53+00:00",
+  "scrapedAt": "2026-09-01T11:22:19+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 197,
-    "mainboard": 65,
+    "total": 198,
+    "mainboard": 66,
     "sme": 132
   },
   "ipos": [
@@ -4716,6 +4716,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2127,
+      "name": "Pranav Constructions Ltd.",
+      "slug": "pranav-constructions-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "refunds": "2026-09-11",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "07-Sep-2026",
+        "close": "09-Sep-2026",
+        "allotment": "10-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

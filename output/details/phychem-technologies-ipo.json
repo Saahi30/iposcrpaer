@@ -429,8 +429,8 @@
     "source": "https://www.chittorgarh.com/ipo/phychem-technologies-ipo/2730/"
   },
   "subscription": {
-    "summary": "Phychem Technologies IPO subscribed 1.26 times. The public issue subscribed 0.25 times in the individual investors category, 3.53 times in QIB (Ex Anchor), and 0.63 times in the NII category by August 31, 2026 5:05:52 PM (Day 1).",
-    "total": 1.26,
+    "summary": "Phychem Technologies IPO subscribed 1.93 times. The public issue subscribed 1.33 times in the individual investors category, 3.53 times in QIB (Ex Anchor), and 1.25 times in the NII category by September 1, 2026 4:49:26 PM (Day 2).",
+    "total": 1.93,
     "applications": null,
     "byCategory": [
       {
@@ -439,6 +439,14 @@
         "Shares Offered*": "7,62,000",
         "Shares bid for": "7,62,000",
         "Total Amt* (₹ Cr.)": "4.115",
+        "Total Applications": "-"
+      },
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,38,000",
+        "Shares bid for": "1,38,000",
+        "Total Amt* (₹ Cr.)": "0.745",
         "Total Applications": "-"
       },
       {
@@ -451,43 +459,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.63",
+        "Subscription (x)": "1.25",
         "Shares Offered*": "3,90,000",
-        "Shares bid for": "2,44,000",
-        "Total Amt* (₹ Cr.)": "1.318",
+        "Shares bid for": "4,86,000",
+        "Total Amt* (₹ Cr.)": "2.624",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.78",
+        "Subscription (x)": "1.25",
         "Shares Offered*": "2,58,000",
-        "Shares bid for": "2,00,000",
-        "Total Amt* (₹ Cr.)": "1.080",
+        "Shares bid for": "3,22,000",
+        "Total Amt* (₹ Cr.)": "1.739",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.33",
+        "Subscription (x)": "1.24",
         "Shares Offered*": "1,32,000",
-        "Shares bid for": "44,000",
-        "Total Amt* (₹ Cr.)": "0.238",
+        "Shares bid for": "1,64,000",
+        "Total Amt* (₹ Cr.)": "0.886",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.25",
+        "Subscription (x)": "1.33",
         "Shares Offered*": "9,00,000",
-        "Shares bid for": "2,24,000",
-        "Total Amt* (₹ Cr.)": "1.210",
+        "Shares bid for": "11,96,000",
+        "Total Amt* (₹ Cr.)": "6.458",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.26",
+        "Subscription (x)": "1.93",
         "Shares Offered*": "18,00,000",
-        "Shares bid for": "22,68,000",
-        "Total Amt* (₹ Cr.)": "12.247",
-        "Total Applications": "78"
+        "Shares bid for": "34,82,000",
+        "Total Amt* (₹ Cr.)": "18.803",
+        "Total Applications": "353"
       }
     ],
     "dayWise": [
@@ -499,6 +507,15 @@
         "NII (< ₹10L)": "0.33",
         "Individual Investors": "0.25",
         "Total": "1.26"
+      },
+      {
+        "Date": "Sep 1 (Day 2)",
+        "QIB (Ex Anchor)": "3.53",
+        "NII*": "1.25",
+        "NII (> ₹10L)": "1.25",
+        "NII (< ₹10L)": "1.24",
+        "Individual Investors": "1.33",
+        "Total": "1.93"
       }
     ]
   },
@@ -524,7 +541,7 @@
       "value": 1.0,
       "percent": 1.85,
       "xLot": 2000.0,
-      "updatedOn": "1-Sep 9:30"
+      "updatedOn": "1-Sep 16:29"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/phychem-technologies-logo.png",
@@ -534,5 +551,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T04:19:29+00:00"
+  "scrapedAt": "2026-09-01T11:21:52+00:00"
 }

@@ -386,9 +386,9 @@
     "source": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/"
   },
   "subscription": {
-    "summary": "Purple Style Labs IPO subscribed 0.12 times. The public issue subscribed 0.56 times in the retail category, 0.01 times in QIB (Ex Anchor), and 0.06 times in the NII category by August 31, 2026 5:05:59 PM (Day 1).",
-    "total": 0.12,
-    "applications": 21849.0,
+    "summary": "Purple Style Labs IPO subscribed 0.25 times. The public issue subscribed 0.97 times in the retail category, 0.06 times in QIB (Ex Anchor), and 0.13 times in the NII category by September 1, 2026 4:49:34 PM (Day 2).",
+    "total": 0.25,
+    "applications": 36702.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -399,45 +399,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.06",
         "Shares Offered*": "35,47,826",
-        "Shares bid for": "35,152",
-        "Total Amt* (₹ Cr.)": "2.021"
+        "Shares bid for": "2,15,904",
+        "Total Amt* (₹ Cr.)": "12.414"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "0.13",
         "Shares Offered*": "17,73,913",
-        "Shares bid for": "1,06,704",
-        "Total Amt* (₹ Cr.)": "6.135"
+        "Shares bid for": "2,37,588",
+        "Total Amt* (₹ Cr.)": "13.661"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.02",
+        "Subscription (x)": "0.09",
         "Shares Offered*": "11,82,609",
-        "Shares bid for": "26,286",
-        "Total Amt* (₹ Cr.)": "1.511"
+        "Shares bid for": "1,08,914",
+        "Total Amt* (₹ Cr.)": "6.263"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "0.22",
         "Shares Offered*": "5,91,304",
-        "Shares bid for": "80,418",
-        "Total Amt* (₹ Cr.)": "4.624"
+        "Shares bid for": "1,28,674",
+        "Total Amt* (₹ Cr.)": "7.399"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.56",
+        "Subscription (x)": "0.97",
         "Shares Offered*": "11,82,609",
-        "Shares bid for": "6,64,924",
-        "Total Amt* (₹ Cr.)": "38.233"
+        "Shares bid for": "11,43,714",
+        "Total Amt* (₹ Cr.)": "65.764"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "0.25",
         "Shares Offered*": "65,04,348",
-        "Shares bid for": "8,06,780",
-        "Total Amt* (₹ Cr.)": "46.390"
+        "Shares bid for": "15,97,206",
+        "Total Amt* (₹ Cr.)": "91.839"
       }
     ],
     "dayWise": [
@@ -449,6 +449,15 @@
         "NII (< ₹10L)": "0.14",
         "Retail": "0.56",
         "Total": "0.12"
+      },
+      {
+        "Date": "Sep 1 (Day 2)",
+        "QIB (Ex Anchor)": "0.06",
+        "NII": "0.13",
+        "NII (> ₹10L)": "0.09",
+        "NII (< ₹10L)": "0.22",
+        "Retail": "0.97",
+        "Total": "0.25"
       }
     ]
   },
@@ -471,10 +480,10 @@
       "listing": "2026-09-07"
     },
     "gmp": {
-      "value": 7.0,
-      "percent": 1.22,
-      "xLot": 182.0,
-      "updatedOn": "1-Sep 9:30"
+      "value": 4.0,
+      "percent": 0.7,
+      "xLot": 104.0,
+      "updatedOn": "1-Sep 16:36"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/purple-style-labs-logo.jpeg",
@@ -484,5 +493,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T04:19:27+00:00"
+  "scrapedAt": "2026-09-01T11:21:50+00:00"
 }

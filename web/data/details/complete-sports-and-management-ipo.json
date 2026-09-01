@@ -350,8 +350,8 @@
     "source": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/"
   },
   "subscription": {
-    "summary": "Complete Sports & Management IPO subscribed 0.28 times. The public issue subscribed 0.19 times in the individual investors category, 0.35 times in QIB (Ex Anchor), and 0.39 times in the NII category by August 31, 2026 5:07:21 PM (Day 2).",
-    "total": 0.28,
+    "summary": "Complete Sports & Management IPO subscribed 3.41 times. The public issue subscribed 1.50 times in the individual investors category, 7.34 times in QIB (Ex Anchor), and 2.63 times in the NII category by September 1, 2026 4:49:01 PM (Day 3).",
+    "total": 3.41,
     "applications": null,
     "byCategory": [
       {
@@ -372,51 +372,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "7.34",
         "Shares Offered*": "10,53,000",
-        "Shares bid for": "3,70,000",
-        "Total Amt* (₹ Cr.)": "4.995",
+        "Shares bid for": "77,28,000",
+        "Total Amt* (₹ Cr.)": "104.328",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.39",
+        "Subscription (x)": "2.63",
         "Shares Offered*": "7,92,000",
-        "Shares bid for": "3,11,000",
-        "Total Amt* (₹ Cr.)": "4.199",
+        "Shares bid for": "20,79,000",
+        "Total Amt* (₹ Cr.)": "28.067",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.52",
+        "Subscription (x)": "2.94",
         "Shares Offered*": "5,28,000",
-        "Shares bid for": "2,73,000",
-        "Total Amt* (₹ Cr.)": "3.686",
+        "Shares bid for": "15,51,000",
+        "Total Amt* (₹ Cr.)": "20.938",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "2.00",
         "Shares Offered*": "2,64,000",
-        "Shares bid for": "38,000",
-        "Total Amt* (₹ Cr.)": "0.513",
+        "Shares bid for": "5,28,000",
+        "Total Amt* (₹ Cr.)": "7.128",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.19",
+        "Subscription (x)": "1.50",
         "Shares Offered*": "18,46,000",
-        "Shares bid for": "3,50,000",
-        "Total Amt* (₹ Cr.)": "4.725",
+        "Shares bid for": "27,70,000",
+        "Total Amt* (₹ Cr.)": "37.395",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.28",
+        "Subscription (x)": "3.41",
         "Shares Offered*": "36,91,000",
-        "Shares bid for": "10,31,000",
-        "Total Amt* (₹ Cr.)": "13.919",
-        "Total Applications": "209"
+        "Shares bid for": "1,25,77,000",
+        "Total Amt* (₹ Cr.)": "169.790",
+        "Total Applications": "1,722"
       }
     ],
     "dayWise": [
@@ -437,6 +437,15 @@
         "NII (< ₹10L)": "0.14",
         "Individual Investors": "0.19",
         "Total": "0.28"
+      },
+      {
+        "Date": "Sep 1 (Day 3)",
+        "QIB (Ex Anchor)": "7.34",
+        "NII*": "2.63",
+        "NII (> ₹10L)": "2.94",
+        "NII (< ₹10L)": "2.00",
+        "Individual Investors": "1.50",
+        "Total": "3.41"
       }
     ]
   },
@@ -462,7 +471,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "1-Sep 9:36"
+      "updatedOn": "1-Sep 16:35"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/csml-ipo-logo.jpg",
@@ -472,5 +481,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T04:19:40+00:00"
+  "scrapedAt": "2026-09-01T11:22:04+00:00"
 }

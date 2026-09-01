@@ -329,11 +329,43 @@
     "source": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/"
   },
   "subscription": {
-    "summary": "",
-    "total": null,
+    "summary": "Fly-Hi Maritime IPO subscribed 0.01 times. The public issue subscribed 0.02 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.00 times in the NII category by September 1, 2026 4:50:00 PM (Day 1).",
+    "total": 0.01,
     "applications": null,
-    "byCategory": [],
-    "dayWise": []
+    "byCategory": [
+      {
+        "Category": "NII***",
+        "Subscription (x)": "0.00",
+        "Shares Offered*": "24,48,000",
+        "Shares bid for": "8,400",
+        "Total Amt* (₹ Cr.)": "0.09",
+        "Total Applications": "0"
+      },
+      {
+        "Category": "Individual Investors",
+        "Subscription (x)": "0.02",
+        "Shares Offered*": "24,48,000",
+        "Shares bid for": "50,400",
+        "Total Amt* (₹ Cr.)": "0.51",
+        "Total Applications": "0"
+      },
+      {
+        "Category": "Total **",
+        "Subscription (x)": "0.01",
+        "Shares Offered*": "48,96,000",
+        "Shares bid for": "58,800",
+        "Total Amt* (₹ Cr.)": "0.60",
+        "Total Applications": "25"
+      }
+    ],
+    "dayWise": [
+      {
+        "Date": "Sep 1 (Day 1)",
+        "NII*": "0.00",
+        "Individual Investors": "0.02",
+        "Total": "0.01"
+      }
+    ]
   },
   "overview": {
     "name": "Fly-Hi Maritime",
@@ -354,10 +386,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 4.9,
-      "xLot": 6000.0,
-      "updatedOn": "1-Sep 9:32"
+      "value": 9.0,
+      "percent": 8.82,
+      "xLot": 10800.0,
+      "updatedOn": "1-Sep 16:31"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
@@ -367,5 +399,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T04:19:25+00:00"
+  "scrapedAt": "2026-09-01T11:21:48+00:00"
 }

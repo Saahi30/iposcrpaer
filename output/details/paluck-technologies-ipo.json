@@ -433,8 +433,8 @@
     "source": "https://www.chittorgarh.com/ipo/paluck-technologies-ipo/2702/"
   },
   "subscription": {
-    "summary": "Paluck Technologies IPO subscribed 99.42 times. The public issue subscribed 47.45 times in the individual investors category, 10.62 times in QIB (Ex Anchor), and 34.89 times in the NII category by August 31, 2026 5:07:29 PM (Day 2).",
-    "total": 99.42,
+    "summary": "Paluck Technologies IPO subscribed 786.39 times. The public issue subscribed 370.86 times in the individual investors category, 83.89 times in QIB (Ex Anchor), and 286.50 times in the NII category by September 1, 2026 4:49:09 PM (Day 3).",
+    "total": 786.39,
     "applications": null,
     "byCategory": [
       {
@@ -455,51 +455,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "10.62",
+        "Subscription (x)": "83.89",
         "Shares Offered*": "13,08,000",
-        "Shares bid for": "1,38,93,000",
-        "Total Amt* (₹ Cr.)": "66.69",
+        "Shares bid for": "10,97,22,000",
+        "Total Amt* (₹ Cr.)": "526.67",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "34.89",
+        "Subscription (x)": "286.50",
         "Shares Offered*": "9,81,000",
-        "Shares bid for": "3,42,30,000",
-        "Total Amt* (₹ Cr.)": "164.30",
+        "Shares bid for": "28,10,61,000",
+        "Total Amt* (₹ Cr.)": "1,349.09",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "34.14",
+        "Subscription (x)": "288.43",
         "Shares Offered*": "6,57,000",
-        "Shares bid for": "2,24,28,000",
-        "Total Amt* (₹ Cr.)": "107.65",
+        "Shares bid for": "18,94,98,000",
+        "Total Amt* (₹ Cr.)": "909.59",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "36.43",
+        "Subscription (x)": "282.60",
         "Shares Offered*": "3,24,000",
-        "Shares bid for": "1,18,02,000",
-        "Total Amt* (₹ Cr.)": "56.65",
+        "Shares bid for": "9,15,63,000",
+        "Total Amt* (₹ Cr.)": "439.50",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "47.45",
+        "Subscription (x)": "370.86",
         "Shares Offered*": "22,86,000",
-        "Shares bid for": "10,84,62,000",
-        "Total Amt* (₹ Cr.)": "520.62",
+        "Shares bid for": "84,77,76,000",
+        "Total Amt* (₹ Cr.)": "4,069.32",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "99.42",
+        "Subscription (x)": "786.39",
         "Shares Offered*": "15,75,000",
-        "Shares bid for": "15,65,85,000",
-        "Total Amt* (₹ Cr.)": "751.61",
-        "Total Applications": "20,615"
+        "Shares bid for": "1,23,85,59,000",
+        "Total Amt* (₹ Cr.)": "5,945.08",
+        "Total Applications": "1,60,472"
       }
     ],
     "dayWise": [
@@ -520,6 +520,15 @@
         "NII (< ₹10L)": "36.43",
         "Individual Investors": "47.45",
         "Total": "99.42"
+      },
+      {
+        "Date": "Sep 1 (Day 3)",
+        "QIB (Ex Anchor)": "83.89",
+        "NII*": "286.50",
+        "NII (> ₹10L)": "288.43",
+        "NII (< ₹10L)": "282.60",
+        "Individual Investors": "370.86",
+        "Total": "786.39"
       }
     ]
   },
@@ -542,10 +551,10 @@
       "listing": "2026-09-04"
     },
     "gmp": {
-      "value": 35.0,
-      "percent": 72.92,
-      "xLot": 105000.0,
-      "updatedOn": "1-Sep 9:31"
+      "value": 20.0,
+      "percent": 41.67,
+      "xLot": 60000.0,
+      "updatedOn": "1-Sep 16:31"
     },
     "leadManager": "Horizon Management",
     "logo": "https://www.chittorgarh.net/images/ipo/paluck-technologies-logo.png",
@@ -555,5 +564,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T04:19:38+00:00"
+  "scrapedAt": "2026-09-01T11:22:02+00:00"
 }

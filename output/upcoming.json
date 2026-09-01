@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T04:19:47+00:00",
+  "scrapedAt": "2026-09-01T11:22:13+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 3,
+    "upcoming": 4,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 3
+    "total": 4
   },
   "ipos": [
     {
@@ -102,10 +102,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "1-Sep 9:29"
+        "value": 14.0,
+        "percent": 10.0,
+        "xLot": 1498.0,
+        "updatedOn": "1-Sep 16:34"
       },
       "subscription": {
         "total": null,
@@ -131,6 +131,60 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "pranav-constructions-ipo",
+      "ipoId": 2127,
+      "name": "Pranav Constructions Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 315.6,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": null,
+        "listing": "2026-09-15"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Centrum Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pranav-constructions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pranav-constructions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2003, Pranav Constructions Limited is an Indian construction company specializing in residential, commercial, and infrastructure development projects.",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "qualiance-international-ipo",
@@ -160,7 +214,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "1-Sep 9:32"
+        "updatedOn": "1-Sep 16:32"
       },
       "subscription": {
         "total": null,
@@ -184,7 +238,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance garments for institutional, government and brand clients in international markets.\n\nThe company product portfolio includes military uniforms, tactical outerwear, high-visibility workwear, weather-resistant and all-weather outerwear, police and border patrol uniforms, protective workwear and performance activewear.\n\nThe company operate a manufacturing facility located in Tiruppur, Tamil Na",
+      "about": "Incorporated in August 2006, Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance and technical garments for institutional, government and brand clients in international markets. The Company originally commenced operations as a partnership firm, M/s. Qualiance Exports, in 1994 and was subsequently incorporated as Qualiance International Private Limited before being converted into a public limited company in December 2025. Its product portfo",
       "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
