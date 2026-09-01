@@ -417,9 +417,9 @@
     "source": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/"
   },
   "subscription": {
-    "summary": "Priority Jewels IPO subscribed 100.03 times. The public issue subscribed 105.96 times in the retail category, 39.87 times in QIB (Ex Anchor), and 166.41 times in the NII category by September 1, 2026 4:48:39 PM (Day 3).",
-    "total": 100.03,
-    "applications": 2065159.0,
+    "summary": "Priority Jewels IPO subscribed 100.45 times. The public issue subscribed 106.76 times in the retail category, 39.87 times in QIB (Ex Anchor), and 166.49 times in the NII category by September 1, 2026 6:53:35 PM (Day 3).",
+    "total": 100.45,
+    "applications": 2080254.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -437,10 +437,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "166.41",
+        "Subscription (x)": "166.49",
         "Shares Offered*": "6,86,250",
-        "Shares bid for": "11,41,98,675",
-        "Total Amt* (₹ Cr.)": "2,283.97"
+        "Shares bid for": "11,42,56,350",
+        "Total Amt* (₹ Cr.)": "2,285.13"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -451,24 +451,24 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "194.79",
+        "Subscription (x)": "195.04",
         "Shares Offered*": "2,28,750",
-        "Shares bid for": "4,45,58,550",
-        "Total Amt* (₹ Cr.)": "891.17"
+        "Shares bid for": "4,46,16,225",
+        "Total Amt* (₹ Cr.)": "892.32"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "105.96",
+        "Subscription (x)": "106.76",
         "Shares Offered*": "16,01,250",
-        "Shares bid for": "16,96,67,175",
-        "Total Amt* (₹ Cr.)": "3,393.34"
+        "Shares bid for": "17,09,54,700",
+        "Total Amt* (₹ Cr.)": "3,419.09"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "100.03",
+        "Subscription (x)": "100.45",
         "Shares Offered*": "32,02,500",
-        "Shares bid for": "32,03,46,075",
-        "Total Amt* (₹ Cr.)": "6,406.92"
+        "Shares bid for": "32,16,91,275",
+        "Total Amt* (₹ Cr.)": "6,433.83"
       }
     ],
     "dayWise": [
@@ -493,11 +493,11 @@
       {
         "Date": "Sep 1 (Day 3)",
         "QIB (Ex Anchor)": "39.87",
-        "NII": "166.41",
+        "NII": "166.49",
         "NII (> ₹10L)": "152.22",
-        "NII (< ₹10L)": "194.79",
-        "Retail": "105.96",
-        "Total": "100.03"
+        "NII (< ₹10L)": "195.04",
+        "Retail": "106.76",
+        "Total": "100.45"
       }
     ]
   },
@@ -520,10 +520,10 @@
       "listing": "2026-09-04"
     },
     "gmp": {
-      "value": 25.0,
-      "percent": 12.5,
-      "xLot": 1875.0,
-      "updatedOn": "1-Sep 16:36"
+      "value": 26.0,
+      "percent": 13.0,
+      "xLot": 1950.0,
+      "updatedOn": "1-Sep 21:02"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/priority_jewels_logo.jpg",
@@ -533,5 +533,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-01T11:22:00+00:00"
+  "scrapedAt": "2026-09-01T16:18:38+00:00"
 }

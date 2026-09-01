@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T11:22:13+00:00",
+  "scrapedAt": "2026-09-01T16:18:53+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -102,10 +102,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 14.0,
-        "percent": 10.0,
-        "xLot": 1498.0,
-        "updatedOn": "1-Sep 16:34"
+        "value": 18.0,
+        "percent": 12.86,
+        "xLot": 1926.0,
+        "updatedOn": "1-Sep 20:55"
       },
       "subscription": {
         "total": null,
@@ -135,15 +135,15 @@
     {
       "slug": "pranav-constructions-ipo",
       "ipoId": 2127,
-      "name": "Pranav Constructions Ltd.",
+      "name": "Pranav Constructions",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
       },
       "lotSize": null,
       "issueSize": "₹0.0 Cr",
@@ -153,14 +153,14 @@
       "dates": {
         "open": "2026-09-07",
         "close": "2026-09-09",
-        "allotment": null,
+        "allotment": "2026-09-10",
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
+        "value": 22.0,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": null
+        "updatedOn": "1-Sep 20:54"
       },
       "subscription": {
         "total": null,
@@ -178,12 +178,13 @@
       "urls": {
         "local": "./ipo.html?slug=pranav-constructions-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/"
       },
+      "gmpId": 1662,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2003, Pranav Constructions Limited is an Indian construction company specializing in residential, commercial, and infrastructure development projects.",
+      "about": "Incorporated in July 2003, Pranav Constructions Limited is a real estate company primarily engaged in redevelopment projects in the Municipal Corporation of Greater Mumbai (MCGM) Region, with a predominant focus on the Western Suburbs. The Company was originally incorporated as Pranav Constructions Private Limited and was converted into a public limited company in July 2024.\n\nThe Company specializes in pure-play redevelopment and undertakes redevelopment projects across residential segments, inc",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -211,10 +212,10 @@
         "listing": "2026-09-11"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "1-Sep 16:32"
+        "value": 50.0,
+        "percent": 39.37,
+        "xLot": 50000.0,
+        "updatedOn": "1-Sep 20:53"
       },
       "subscription": {
         "total": null,
