@@ -486,9 +486,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 51.0,
+      "min": 54.0,
       "max": 54.0,
-      "display": "₹51–54"
+      "display": "₹54"
     },
     "lotSize": 2000,
     "issueSize": "₹14.58 Cr",
@@ -502,7 +502,7 @@
       "value": 1.0,
       "percent": 1.85,
       "xLot": 2000.0,
-      "updatedOn": "2-Sep 21:02"
+      "updatedOn": "2-Sep 23:32"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/phychem-technologies-logo.png",
@@ -512,5 +512,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-02T16:15:24+00:00"
+  "scrapedAt": "2026-09-02T20:46:31+00:00"
 }

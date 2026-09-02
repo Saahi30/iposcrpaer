@@ -428,9 +428,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 227.0,
+      "min": 239.0,
       "max": 239.0,
-      "display": "₹227–239"
+      "display": "₹239"
     },
     "lotSize": 62,
     "issueSize": "₹125.00 Cr",
@@ -441,10 +441,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 38.0,
-      "percent": 15.9,
-      "xLot": 2356.0,
-      "updatedOn": "2-Sep 20:58"
+      "value": 42.0,
+      "percent": 17.57,
+      "xLot": 2604.0,
+      "updatedOn": "2-Sep 23:32"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
@@ -454,5 +454,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-02T16:15:16+00:00"
+  "scrapedAt": "2026-09-02T20:46:23+00:00"
 }

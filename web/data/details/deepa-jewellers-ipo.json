@@ -476,9 +476,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 168.0,
+      "min": 177.0,
       "max": 177.0,
-      "display": "₹168–177"
+      "display": "₹177"
     },
     "lotSize": 84,
     "issueSize": "₹459.72 Cr",
@@ -492,7 +492,7 @@
       "value": 28.0,
       "percent": 15.82,
       "xLot": 2352.0,
-      "updatedOn": "2-Sep 20:59"
+      "updatedOn": "2-Sep 23:37"
     },
     "leadManager": "Emkay Global",
     "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
@@ -502,5 +502,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-02T16:15:18+00:00"
+  "scrapedAt": "2026-09-02T20:46:24+00:00"
 }
