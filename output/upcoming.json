@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T03:42:25+00:00",
+  "scrapedAt": "2026-09-02T10:56:03+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 4,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 6
   },
   "ipos": [
     {
@@ -105,7 +105,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "2-Sep 8:37"
+        "updatedOn": "2-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -133,6 +133,116 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "amtech-esters-ipo",
+      "ipoId": 2207,
+      "name": "Amtech Esters",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "2-Sep 10:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Credora Partners",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/amtech-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/amtech-esters-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=amtech-esters-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/",
+        "gmp": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/"
+      },
+      "gmpId": 1685,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in May 2002, Amtech Esters Limited is a B2B chemical manufacturing company engaged in the manufacturing of Unsaturated Polyester Resins (UPRs) and the trading of complementary products used across the resin and FRP value chain. The Company was originally incorporated as Amtech Esters Private Limited and was subsequently converted into a public limited company in December 2023.\n\nThe Company's product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones an",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "asset-reconstruction-ipo",
+      "ipoId": 2558,
+      "name": "Asset Reconstruction",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "2-Sep 10:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/asset-reconstruction-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/asset-reconstruction-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=asset-reconstruction-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/asset-reconstruction-ipo/2558/",
+        "gmp": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/"
+      },
+      "gmpId": 1848,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in February 2002, Asset Reconstruction Company (India) Limited is an asset reconstruction company (ARC) engaged in acquiring stressed assets from banks and financial institutions and implementing resolution strategies to maximize recoveries and optimize the value of such assets. The Company received its certificate of registration from the Reserve Bank of India (RBI) to commence securitisation and asset reconstruction operations in August 2003 and is recognised as the first ARC inco",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "pranav-constructions-ipo",
       "ipoId": 2127,
       "name": "Pranav Constructions",
@@ -157,10 +267,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 23.0,
-        "percent": 18.55,
-        "xLot": 2760.0,
-        "updatedOn": "2-Sep 8:37"
+        "value": 25.0,
+        "percent": 20.16,
+        "xLot": 3000.0,
+        "updatedOn": "2-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +325,7 @@
         "value": 50.0,
         "percent": 39.37,
         "xLot": 50000.0,
-        "updatedOn": "2-Sep 8:33"
+        "updatedOn": "2-Sep 16:02"
       },
       "subscription": {
         "total": null,

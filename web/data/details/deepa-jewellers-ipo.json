@@ -395,9 +395,9 @@
     "source": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/"
   },
   "subscription": {
-    "summary": "Deepa Jewellers IPO subscribed 0.88 times. The public issue subscribed 1.42 times in the retail category, 0.11 times in QIB (Ex Anchor), and 0.65 times in the NII category by September 1, 2026 5:06:44 PM (Day 1).",
-    "total": 0.88,
-    "applications": 133494.0,
+    "summary": "Deepa Jewellers IPO subscribed 3.46 times. The public issue subscribed 4.60 times in the retail category, 0.45 times in QIB (Ex Anchor), and 4.78 times in the NII category by September 2, 2026 4:23:19 PM (Day 2).",
+    "total": 3.46,
+    "applications": 444749.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -408,45 +408,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.11",
+        "Subscription (x)": "0.45",
         "Shares Offered*": "51,94,528",
-        "Shares bid for": "5,78,844",
-        "Total Amt* (₹ Cr.)": "10.246"
+        "Shares bid for": "23,59,224",
+        "Total Amt* (₹ Cr.)": "41.758"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.65",
+        "Subscription (x)": "4.78",
         "Shares Offered*": "38,95,895",
-        "Shares bid for": "25,44,024",
-        "Total Amt* (₹ Cr.)": "45.029"
+        "Shares bid for": "1,86,29,100",
+        "Total Amt* (₹ Cr.)": "329.735"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.37",
+        "Subscription (x)": "4.00",
         "Shares Offered*": "25,97,263",
-        "Shares bid for": "9,59,448",
-        "Total Amt* (₹ Cr.)": "16.982"
+        "Shares bid for": "1,03,87,020",
+        "Total Amt* (₹ Cr.)": "183.850"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.22",
+        "Subscription (x)": "6.35",
         "Shares Offered*": "12,98,632",
-        "Shares bid for": "15,84,576",
-        "Total Amt* (₹ Cr.)": "28.047"
+        "Shares bid for": "82,42,080",
+        "Total Amt* (₹ Cr.)": "145.885"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.42",
+        "Subscription (x)": "4.60",
         "Shares Offered*": "90,90,422",
-        "Shares bid for": "1,29,19,956",
-        "Total Amt* (₹ Cr.)": "228.683"
+        "Shares bid for": "4,18,32,756",
+        "Total Amt* (₹ Cr.)": "740.440"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.88",
+        "Subscription (x)": "3.46",
         "Shares Offered*": "1,81,80,845",
-        "Shares bid for": "1,60,42,824",
-        "Total Amt* (₹ Cr.)": "283.958"
+        "Shares bid for": "6,28,21,080",
+        "Total Amt* (₹ Cr.)": "1,111.933"
       }
     ],
     "dayWise": [
@@ -458,6 +458,15 @@
         "NII (< ₹10L)": "1.22",
         "Retail": "1.42",
         "Total": "0.88"
+      },
+      {
+        "Date": "Sep 2 (Day 2)",
+        "QIB (Ex Anchor)": "0.45",
+        "NII": "4.78",
+        "NII (> ₹10L)": "4.00",
+        "NII (< ₹10L)": "6.35",
+        "Retail": "4.60",
+        "Total": "3.46"
       }
     ]
   },
@@ -480,10 +489,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 44.0,
-      "percent": 24.86,
-      "xLot": 3696.0,
-      "updatedOn": "2-Sep 8:36"
+      "value": 28.0,
+      "percent": 15.82,
+      "xLot": 2352.0,
+      "updatedOn": "2-Sep 16:02"
     },
     "leadManager": "Emkay Global",
     "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
@@ -493,5 +502,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-02T03:42:07+00:00"
+  "scrapedAt": "2026-09-02T10:55:42+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T03:42:32+00:00",
+  "scrapedAt": "2026-09-02T10:56:08+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 198,
-    "mainboard": 66,
-    "sme": 132
+    "total": 200,
+    "mainboard": 67,
+    "sme": 133
   },
   "ipos": [
     {
@@ -4739,6 +4739,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2207,
+      "name": "Amtech Esters Ltd.",
+      "slug": "amtech-esters-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/amtech-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2558,
+      "name": "Asset Reconstruction Co.(India) Ltd.",
+      "slug": "asset-reconstruction-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/asset-reconstruction-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/asset-reconstruction-ipo/2558/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
