@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T20:47:42+00:00",
+  "scrapedAt": "2026-09-02T03:42:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -41,7 +41,7 @@
       "freshIssueCr": 300.0,
       "ofsCr": null,
       "dates": {
-        "open": "2026-12-10",
+        "open": "2026-12-11",
         "close": null,
         "allotment": null,
         "listing": null
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "1-Sep 5:55"
+        "updatedOn": "2-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "1-Sep 23:28"
+        "updatedOn": "2-Sep 8:37"
       },
       "subscription": {
         "total": null,
@@ -141,15 +141,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 118.0,
+        "max": 124.0,
+        "display": "₹118–124"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 120,
+      "issueSize": "₹351.03 Cr",
+      "issueSizeCr": 351.03,
       "freshIssueCr": 315.6,
-      "ofsCr": null,
+      "ofsCr": 35.43,
       "dates": {
         "open": "2026-09-07",
         "close": "2026-09-09",
@@ -158,9 +158,9 @@
       },
       "gmp": {
         "value": 23.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "1-Sep 23:34"
+        "percent": 18.55,
+        "xLot": 2760.0,
+        "updatedOn": "2-Sep 8:37"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 50.0,
         "percent": 39.37,
         "xLot": 50000.0,
-        "updatedOn": "1-Sep 23:32"
+        "updatedOn": "2-Sep 8:33"
       },
       "subscription": {
         "total": null,

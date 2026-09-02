@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-01T20:47:42+00:00",
+  "scrapedAt": "2026-09-02T03:42:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 12,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 8
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "1-Sep 23:29"
+        "updatedOn": "2-Sep 8:35"
       },
       "subscription": {
         "total": 0.01,
@@ -131,7 +131,7 @@
         "value": 38.0,
         "percent": 15.9,
         "xLot": 2356.0,
-        "updatedOn": "1-Sep 23:28"
+        "updatedOn": "2-Sep 8:30"
       },
       "subscription": {
         "total": 1.18,
@@ -237,7 +237,7 @@
         "value": 44.0,
         "percent": 24.86,
         "xLot": 3696.0,
-        "updatedOn": "1-Sep 23:31"
+        "updatedOn": "2-Sep 8:36"
       },
       "subscription": {
         "total": 0.88,
@@ -343,7 +343,7 @@
         "value": 12.5,
         "percent": 12.25,
         "xLot": 15000.0,
-        "updatedOn": "1-Sep 23:30"
+        "updatedOn": "2-Sep 8:32"
       },
       "subscription": {
         "total": 0.01,
@@ -424,7 +424,7 @@
         "value": 2.0,
         "percent": 0.35,
         "xLot": 52.0,
-        "updatedOn": "1-Sep 23:28"
+        "updatedOn": "2-Sep 8:31"
       },
       "subscription": {
         "total": 0.25,
@@ -530,7 +530,7 @@
         "value": 1.0,
         "percent": 1.85,
         "xLot": 2000.0,
-        "updatedOn": "1-Sep 23:35"
+        "updatedOn": "2-Sep 8:30"
       },
       "subscription": {
         "total": 1.97,
@@ -651,7 +651,7 @@
         "value": 36.0,
         "percent": 43.37,
         "xLot": 57600.0,
-        "updatedOn": "1-Sep 23:33"
+        "updatedOn": "2-Sep 8:36"
       },
       "subscription": {
         "total": 3.89,
@@ -772,7 +772,7 @@
         "value": 10.0,
         "percent": 10.87,
         "xLot": 12000.0,
-        "updatedOn": "1-Sep 23:32"
+        "updatedOn": "2-Sep 8:30"
       },
       "subscription": {
         "total": 5.59,
@@ -864,460 +864,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 1985, Ashutosh Fibre Limited is engaged in the manufacturing and trading of technical textile products, primarily focusing on polypropylene (PP) spun yarns used across industrial and household applications. The company operates under a business-to-business (B2B) model, supplying yarns and fabrics to industrial manufacturers, processors, and institutional buyers.\n\nAshutosh Fibre operates across four major categories of technical textiles — Indutech, Protech, Hometech, and Mobiltec",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "esds-software-ipo",
-      "ipoId": 1198,
-      "name": "ESDS Software Solution",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 408.0,
-        "max": 429.0,
-        "display": "₹408–429"
-      },
-      "lotSize": 34,
-      "issueSize": "₹720.00 Cr",
-      "issueSizeCr": 720.0,
-      "freshIssueCr": 720.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 255.0,
-        "percent": 59.44,
-        "xLot": 8670.0,
-        "updatedOn": "1-Sep 23:35"
-      },
-      "subscription": {
-        "total": 142.88,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "50,34,964",
-            "Shares bid for": "50,34,964",
-            "Total Amt* (₹ Cr.)": "216.00"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "274.97",
-            "Shares Offered*": "33,56,643",
-            "Shares bid for": "92,29,92,424",
-            "Total Amt* (₹ Cr.)": "39,596.37"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "202.87",
-            "Shares Offered*": "25,17,483",
-            "Shares bid for": "51,07,16,856",
-            "Total Amt* (₹ Cr.)": "21,909.75"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "219.59",
-            "Shares Offered*": "16,78,322",
-            "Shares bid for": "36,85,36,268",
-            "Total Amt* (₹ Cr.)": "15,810.21"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "169.43",
-            "Shares Offered*": "8,39,161",
-            "Shares bid for": "14,21,80,588",
-            "Total Amt* (₹ Cr.)": "6,099.55"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "41.68",
-            "Shares Offered*": "58,74,126",
-            "Shares bid for": "24,48,54,060",
-            "Total Amt* (₹ Cr.)": "10,504.24"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "142.88",
-            "Shares Offered*": "1,17,48,252",
-            "Shares bid for": "1,67,85,63,340",
-            "Total Amt* (₹ Cr.)": "72,010.37"
-          }
-        ],
-        "applications": 6301696.0
-      },
-      "leadManager": "Dam Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/esds-solution-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/esds-software-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=esds-software-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
-        "gmp": "https://www.investorgain.com/gmp/esds-software-ipo/1607/"
-      },
-      "gmpId": 1607,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2005, ESDS Software Solution Limited is an AI-enabled provider of cloud, managed services, Data Centre infrastructure and software solutions in India. The Company offers an end-to-end portfolio comprising Infrastructure-as-a-Service (IaaS), managed services and Software-as-a-Service (SaaS), serving customers across BFSI, Government and enterprise segments. In Fiscal 2026, the Company served 2,501 customers and reported revenue from operations of ₹4,722.10 million.\n\nThe Com",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "priority-jewels-ipo",
-      "ipoId": 2435,
-      "name": "Priority Jewels",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 190.0,
-        "max": 200.0,
-        "display": "₹190–200"
-      },
-      "lotSize": 75,
-      "issueSize": "₹91.50 Cr",
-      "issueSizeCr": 91.5,
-      "freshIssueCr": 91.5,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 31.0,
-        "percent": 15.5,
-        "xLot": 2325.0,
-        "updatedOn": "1-Sep 23:30"
-      },
-      "subscription": {
-        "total": 100.45,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "13,72,500",
-            "Shares bid for": "13,72,500",
-            "Total Amt* (₹ Cr.)": "27.45"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "39.87",
-            "Shares Offered*": "9,15,000",
-            "Shares bid for": "3,64,80,225",
-            "Total Amt* (₹ Cr.)": "729.60"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "166.49",
-            "Shares Offered*": "6,86,250",
-            "Shares bid for": "11,42,56,350",
-            "Total Amt* (₹ Cr.)": "2,285.13"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "152.22",
-            "Shares Offered*": "4,57,500",
-            "Shares bid for": "6,96,40,125",
-            "Total Amt* (₹ Cr.)": "1,392.80"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "195.04",
-            "Shares Offered*": "2,28,750",
-            "Shares bid for": "4,46,16,225",
-            "Total Amt* (₹ Cr.)": "892.32"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "106.76",
-            "Shares Offered*": "16,01,250",
-            "Shares bid for": "17,09,54,700",
-            "Total Amt* (₹ Cr.)": "3,419.09"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "100.45",
-            "Shares Offered*": "32,02,500",
-            "Shares bid for": "32,16,91,275",
-            "Total Amt* (₹ Cr.)": "6,433.83"
-          }
-        ],
-        "applications": 2080254.0
-      },
-      "leadManager": "Mefcom Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/priority_jewels_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/priority-jewels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=priority-jewels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
-        "gmp": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/"
-      },
-      "gmpId": 1783,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2007, Priority Jewels designs, manufactures, and sells diamond-studded gold and platinum fine jewellery. It offers a variety of daily wear jewellery products, like rings, earrings, pendants, neckware, bracelets, and occasion couture jewellery.\n\nThe company sells products to independent jewellers and jewellery chains in India and globally, like CaratLane Trading Pvt Ltd, Kalyan Jewellers, Reliance Retail, Malabar Gold & Diamonds, Thribhovandas Bhimji Zaveri Ltd, and Senco Gold Ltd",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "paluck-technologies-ipo",
-      "ipoId": 2702,
-      "name": "Paluck Technologies",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 46.0,
-        "max": 48.0,
-        "display": "₹46–48"
-      },
-      "lotSize": 3000,
-      "issueSize": "₹33.00 Cr",
-      "issueSizeCr": 33.0,
-      "freshIssueCr": 31.35,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 20.0,
-        "percent": 41.67,
-        "xLot": 60000.0,
-        "updatedOn": "1-Sep 23:32"
-      },
-      "subscription": {
-        "total": 789.16,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "19,56,000",
-            "Shares bid for": "19,56,000",
-            "Total Amt* (₹ Cr.)": "9.39",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,45,000",
-            "Shares bid for": "3,45,000",
-            "Total Amt* (₹ Cr.)": "1.66",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "83.89",
-            "Shares Offered*": "13,08,000",
-            "Shares bid for": "10,97,22,000",
-            "Total Amt* (₹ Cr.)": "526.67",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "286.74",
-            "Shares Offered*": "9,81,000",
-            "Shares bid for": "28,12,95,000",
-            "Total Amt* (₹ Cr.)": "1,350.22",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "288.43",
-            "Shares Offered*": "6,57,000",
-            "Shares bid for": "18,94,98,000",
-            "Total Amt* (₹ Cr.)": "909.59",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "283.32",
-            "Shares Offered*": "3,24,000",
-            "Shares bid for": "9,17,97,000",
-            "Total Amt* (₹ Cr.)": "440.63",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "372.67",
-            "Shares Offered*": "22,86,000",
-            "Shares bid for": "85,19,16,000",
-            "Total Amt* (₹ Cr.)": "4,089.20",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "789.16",
-            "Shares Offered*": "15,75,000",
-            "Shares bid for": "1,24,29,33,000",
-            "Total Amt* (₹ Cr.)": "5,966.08",
-            "Total Applications": "1,61,185"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Horizon Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paluck-technologies-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/paluck-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paluck-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paluck-technologies-ipo/2702/",
-        "gmp": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/"
-      },
-      "gmpId": 1963,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in April 2010, Paluck Technologies Limited is a diversified engineering services and infrastructure support company with operations across Automobile & Engineering Services, Construction Equipment Rental, Logistics & Fleet Management, and Telecom Engineering Services. The Company was originally founded in 2009 as a proprietorship firm providing diesel generator services and has since expanded into multiple infrastructure and engineering segments.\n\nIn the Construction Equipment Renta",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "complete-sports-and-management-ipo",
-      "ipoId": 3182,
-      "name": "Complete Sports and Management",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 128.0,
-        "max": 135.0,
-        "display": "₹128–135"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹74.93 Cr",
-      "issueSizeCr": 74.93,
-      "freshIssueCr": 71.15,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-08-28",
-        "close": "2026-09-01",
-        "allotment": "2026-09-02",
-        "listing": "2026-09-04"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "1-Sep 23:37"
-      },
-      "subscription": {
-        "total": 3.45,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "15,79,000",
-            "Shares bid for": "15,79,000",
-            "Total Amt* (₹ Cr.)": "21.317",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,80,000",
-            "Shares bid for": "2,80,000",
-            "Total Amt* (₹ Cr.)": "3.780",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "7.34",
-            "Shares Offered*": "10,53,000",
-            "Shares bid for": "77,28,000",
-            "Total Amt* (₹ Cr.)": "104.328",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "2.66",
-            "Shares Offered*": "7,92,000",
-            "Shares bid for": "21,03,000",
-            "Total Amt* (₹ Cr.)": "28.391",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "2.94",
-            "Shares Offered*": "5,28,000",
-            "Shares bid for": "15,51,000",
-            "Total Amt* (₹ Cr.)": "20.938",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "2.09",
-            "Shares Offered*": "2,64,000",
-            "Shares bid for": "5,52,000",
-            "Total Amt* (₹ Cr.)": "7.452",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.57",
-            "Shares Offered*": "18,46,000",
-            "Shares bid for": "29,06,000",
-            "Total Amt* (₹ Cr.)": "39.231",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.45",
-            "Shares Offered*": "36,91,000",
-            "Shares bid for": "1,27,37,000",
-            "Total Amt* (₹ Cr.)": "171.950",
-            "Total Applications": "1,798"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/csml-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/complete-sports-and-management-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=complete-sports-and-management-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
-        "gmp": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/"
-      },
-      "gmpId": 2339,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2002, Complete Sports and Management India Limited is engaged in the business of sourcing, trading and distribution of a diversified portfolio of amusement and leisure equipment, along with providing installation, commissioning, maintenance and related consulting services. The company operate across the amusement, entertainment and leisure infrastructure value chain and provide end-to-end solutions to customers for the development and operation of entertainment destinations.\n\nThe",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
