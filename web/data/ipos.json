@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T10:55:15+00:00",
+  "scrapedAt": "2026-09-03T16:05:38+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -48,13 +48,13 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 15:54"
+        "value": 3.0,
+        "percent": 5.08,
+        "xLot": 6000.0,
+        "updatedOn": "3-Sep 20:56"
       },
       "subscription": {
-        "total": 1.13,
+        "total": 1.16,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -66,27 +66,27 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "1.71",
+            "Subscription (x)": "1.73",
             "Shares Offered*": "25,76,000",
-            "Shares bid for": "44,06,000",
-            "Total Amt* (₹ Cr.)": "26.00",
+            "Shares bid for": "44,44,000",
+            "Total Amt* (₹ Cr.)": "26.22",
             "Total Applications": "0"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.55",
+            "Subscription (x)": "0.59",
             "Shares Offered*": "25,76,000",
-            "Shares bid for": "14,12,000",
-            "Total Amt* (₹ Cr.)": "8.33",
+            "Shares bid for": "15,16,000",
+            "Total Amt* (₹ Cr.)": "8.94",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.13",
+            "Subscription (x)": "1.16",
             "Shares Offered*": "51,52,000",
-            "Shares bid for": "58,18,000",
-            "Total Amt* (₹ Cr.)": "34.33",
-            "Total Applications": "450"
+            "Shares bid for": "59,60,000",
+            "Total Amt* (₹ Cr.)": "35.16",
+            "Total Applications": "480"
           }
         ],
         "applications": null
@@ -137,13 +137,13 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 6.28,
-        "xLot": 930.0,
-        "updatedOn": "3-Sep 16:02"
+        "value": 12.0,
+        "percent": 5.02,
+        "xLot": 744.0,
+        "updatedOn": "3-Sep 20:58"
       },
       "subscription": {
-        "total": 106.48,
+        "total": 107.71,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -161,10 +161,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "278.70",
+            "Subscription (x)": "279.11",
             "Shares Offered*": "7,84,500",
-            "Shares bid for": "21,86,40,644",
-            "Total Amt* (₹ Cr.)": "5,225.51"
+            "Shares bid for": "21,89,65,648",
+            "Total Amt* (₹ Cr.)": "5,233.28"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -175,27 +175,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "228.46",
+            "Subscription (x)": "229.70",
             "Shares Offered*": "2,61,500",
-            "Shares bid for": "5,97,42,270",
-            "Total Amt* (₹ Cr.)": "1,427.84"
+            "Shares bid for": "6,00,67,274",
+            "Total Amt* (₹ Cr.)": "1,435.61"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "189.09",
+            "Subscription (x)": "195.86",
             "Shares Offered*": "5,23,000",
-            "Shares bid for": "9,88,93,968",
-            "Total Amt* (₹ Cr.)": "2,363.57"
+            "Shares bid for": "10,24,37,330",
+            "Total Amt* (₹ Cr.)": "2,448.25"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "106.48",
+            "Subscription (x)": "107.71",
             "Shares Offered*": "31,37,810",
-            "Shares bid for": "33,41,11,242",
-            "Total Amt* (₹ Cr.)": "7,985.26"
+            "Shares bid for": "33,79,79,608",
+            "Total Amt* (₹ Cr.)": "8,077.71"
           }
         ],
-        "applications": 1507707.0
+        "applications": 1556764.0
       },
       "leadManager": "Mefcom Capital",
       "symbols": {
@@ -243,13 +243,13 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 11.3,
-        "xLot": 1680.0,
-        "updatedOn": "3-Sep 15:59"
+        "value": 18.0,
+        "percent": 10.17,
+        "xLot": 1512.0,
+        "updatedOn": "3-Sep 21:00"
       },
       "subscription": {
-        "total": 42.85,
+        "total": 43.4,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -267,10 +267,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "108.69",
+            "Subscription (x)": "109.04",
             "Shares Offered*": "38,95,895",
-            "Shares bid for": "42,34,49,544",
-            "Total Amt* (₹ Cr.)": "7,495.06"
+            "Shares bid for": "42,48,23,532",
+            "Total Amt* (₹ Cr.)": "7,519.38"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -281,27 +281,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "70.96",
+            "Subscription (x)": "72.02",
             "Shares Offered*": "12,98,632",
-            "Shares bid for": "9,21,54,300",
-            "Total Amt* (₹ Cr.)": "1,631.13"
+            "Shares bid for": "9,35,28,288",
+            "Total Amt* (₹ Cr.)": "1,655.45"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "18.13",
+            "Subscription (x)": "19.09",
             "Shares Offered*": "90,90,422",
-            "Shares bid for": "16,48,39,752",
-            "Total Amt* (₹ Cr.)": "2,917.66"
+            "Shares bid for": "17,35,05,444",
+            "Total Amt* (₹ Cr.)": "3,071.05"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "42.85",
+            "Subscription (x)": "43.40",
             "Shares Offered*": "1,81,80,845",
-            "Shares bid for": "77,90,66,148",
-            "Total Amt* (₹ Cr.)": "13,789.47"
+            "Shares bid for": "78,91,05,828",
+            "Total Amt* (₹ Cr.)": "13,967.17"
           }
         ],
-        "applications": 1880594.0
+        "applications": 1974530.0
       },
       "leadManager": "Emkay Global",
       "symbols": {
@@ -352,10 +352,10 @@
         "value": 1.0,
         "percent": 0.98,
         "xLot": 1200.0,
-        "updatedOn": "3-Sep 15:57"
+        "updatedOn": "3-Sep 20:54"
       },
       "subscription": {
-        "total": 2.1,
+        "total": 2.12,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -369,25 +369,25 @@
             "Category": "NII***",
             "Subscription (x)": "0.58",
             "Shares Offered*": "24,48,000",
-            "Shares bid for": "14,14,800",
-            "Total Amt* (₹ Cr.)": "14.43",
+            "Shares bid for": "14,22,000",
+            "Total Amt* (₹ Cr.)": "14.50",
             "Total Applications": "0"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "3.61",
+            "Subscription (x)": "3.66",
             "Shares Offered*": "24,48,000",
-            "Shares bid for": "88,44,000",
-            "Total Amt* (₹ Cr.)": "90.21",
+            "Shares bid for": "89,59,200",
+            "Total Amt* (₹ Cr.)": "91.38",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "2.10",
+            "Subscription (x)": "2.12",
             "Shares Offered*": "48,96,000",
-            "Shares bid for": "1,02,58,800",
-            "Total Amt* (₹ Cr.)": "104.64",
-            "Total Applications": "4,001"
+            "Shares bid for": "1,03,81,200",
+            "Total Amt* (₹ Cr.)": "105.89",
+            "Total Applications": "4,054"
           }
         ],
         "applications": null
@@ -441,7 +441,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "3-Sep 15:54"
+        "updatedOn": "3-Sep 20:57"
       },
       "subscription": {
         "total": null,
@@ -496,7 +496,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 15:57"
+        "updatedOn": "3-Sep 20:56"
       },
       "subscription": {
         "total": null,
@@ -551,7 +551,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 15:54"
+        "updatedOn": "3-Sep 20:56"
       },
       "subscription": {
         "total": null,
@@ -606,7 +606,7 @@
         "value": 20.0,
         "percent": 10.99,
         "xLot": 1640.0,
-        "updatedOn": "3-Sep 15:56"
+        "updatedOn": "3-Sep 20:55"
       },
       "subscription": {
         "total": null,
@@ -661,7 +661,7 @@
         "value": 14.0,
         "percent": 2.07,
         "xLot": 308.0,
-        "updatedOn": "3-Sep 15:57"
+        "updatedOn": "3-Sep 20:56"
       },
       "subscription": {
         "total": null,
@@ -713,10 +713,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 150.0,
-        "percent": 23.73,
-        "xLot": 3450.0,
-        "updatedOn": "3-Sep 15:53"
+        "value": 200.0,
+        "percent": 31.65,
+        "xLot": 4600.0,
+        "updatedOn": "3-Sep 20:57"
       },
       "subscription": {
         "total": null,
@@ -771,7 +771,7 @@
         "value": 30.0,
         "percent": 24.19,
         "xLot": 3600.0,
-        "updatedOn": "3-Sep 16:00"
+        "updatedOn": "3-Sep 20:53"
       },
       "subscription": {
         "total": null,
@@ -826,7 +826,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 15:53"
+        "updatedOn": "3-Sep 20:56"
       },
       "subscription": {
         "total": null,
@@ -881,7 +881,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "3-Sep 15:53"
+        "updatedOn": "3-Sep 21:00"
       },
       "subscription": {
         "total": null,

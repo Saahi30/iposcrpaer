@@ -348,8 +348,8 @@
     "source": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/"
   },
   "subscription": {
-    "summary": "Farm Peace IPO subscribed 1.13 times. The public issue subscribed 0.55 times in the individual investors category, [.] times in QIB (Ex Anchor), and 1.71 times in the NII category by September 3, 2026 4:19:53 PM (Day 3).",
-    "total": 1.13,
+    "summary": "Farm Peace IPO subscribed 1.16 times. The public issue subscribed 0.59 times in the individual investors category, [.] times in QIB (Ex Anchor), and 1.73 times in the NII category by September 3, 2026 6:54:22 PM (Day 3).",
+    "total": 1.16,
     "applications": null,
     "byCategory": [
       {
@@ -362,27 +362,27 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.71",
+        "Subscription (x)": "1.73",
         "Shares Offered*": "25,76,000",
-        "Shares bid for": "44,06,000",
-        "Total Amt* (₹ Cr.)": "26.00",
+        "Shares bid for": "44,44,000",
+        "Total Amt* (₹ Cr.)": "26.22",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.55",
+        "Subscription (x)": "0.59",
         "Shares Offered*": "25,76,000",
-        "Shares bid for": "14,12,000",
-        "Total Amt* (₹ Cr.)": "8.33",
+        "Shares bid for": "15,16,000",
+        "Total Amt* (₹ Cr.)": "8.94",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.13",
+        "Subscription (x)": "1.16",
         "Shares Offered*": "51,52,000",
-        "Shares bid for": "58,18,000",
-        "Total Amt* (₹ Cr.)": "34.33",
-        "Total Applications": "450"
+        "Shares bid for": "59,60,000",
+        "Total Amt* (₹ Cr.)": "35.16",
+        "Total Applications": "480"
       }
     ],
     "dayWise": [
@@ -400,9 +400,9 @@
       },
       {
         "Date": "Sep 3 (Day 3)",
-        "NII*": "1.71",
-        "Individual Investors": "0.55",
-        "Total": "1.13"
+        "NII*": "1.73",
+        "Individual Investors": "0.59",
+        "Total": "1.16"
       }
     ]
   },
@@ -425,10 +425,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 0.0,
-      "percent": 0.0,
-      "xLot": 0.0,
-      "updatedOn": "3-Sep 15:54"
+      "value": 3.0,
+      "percent": 5.08,
+      "xLot": 6000.0,
+      "updatedOn": "3-Sep 20:56"
     },
     "leadManager": "Socradamus Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
@@ -438,5 +438,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-03T10:54:49+00:00"
+  "scrapedAt": "2026-09-03T16:05:07+00:00"
 }
