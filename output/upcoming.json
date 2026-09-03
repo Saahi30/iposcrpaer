@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T20:46:48+00:00",
+  "scrapedAt": "2026-09-03T03:41:13+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,68 +15,13 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 6,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 8
   },
   "ipos": [
-    {
-      "slug": "kanohar-electricals-ipo",
-      "ipoId": 2856,
-      "name": "Kanohar Electricals",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
-      },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": 300.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-12-11",
-        "close": null,
-        "allotment": null,
-        "listing": null
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "2-Sep 5:55"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kanohar-electricals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kanohar-electricals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/",
-        "gmp": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/"
-      },
-      "gmpId": 2119,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. The Company caters to industries such as power transmission, railways, renewable energy and power distribution.\n\nThe Company operates through two business segments: (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC). It is one of four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
     {
       "slug": "veegaland-developers-ipo",
       "ipoId": 2834,
@@ -105,7 +50,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "2-Sep 23:29"
+        "updatedOn": "3-Sep 8:29"
       },
       "subscription": {
         "total": null,
@@ -158,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "2-Sep 10:00"
+        "updatedOn": "3-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -196,15 +141,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 132.0,
+        "max": 139.0,
+        "display": "₹132–139"
       },
-      "lotSize": null,
+      "lotSize": 107,
       "issueSize": "-",
-      "issueSizeCr": 0.0,
+      "issueSizeCr": 732.97,
       "freshIssueCr": null,
-      "ofsCr": null,
+      "ofsCr": 732.97,
       "dates": {
         "open": "2026-09-09",
         "close": "2026-09-11",
@@ -213,9 +158,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "2-Sep 10:40"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -240,6 +185,170 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "OFS only",
       "about": "Incorporated in February 2002, Asset Reconstruction Company (India) Limited is an asset reconstruction company (ARC) engaged in acquiring stressed assets from banks and financial institutions and implementing resolution strategies to maximize recoveries and optimize the value of such assets. The Company received its certificate of registration from the Reserve Bank of India (RBI) to commence securitisation and asset reconstruction operations in August 2003 and is recognised as the first ARC inco",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "glass-wall-systems-ipo",
+      "ipoId": 2594,
+      "name": "Glass Wall Systems (India) Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 172.0,
+        "max": 182.0,
+        "display": "₹172–182"
+      },
+      "lotSize": null,
+      "issueSize": "₹427.89 Cr",
+      "issueSizeCr": 427.89,
+      "freshIssueCr": 60.0,
+      "ofsCr": 367.89,
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": null,
+        "listing": "2026-09-16"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/glass-wall-systems-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/glass-wall-systems-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=glass-wall-systems-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/",
+        "gmp": null
+      },
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2025, has completed more than 150 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "prasol-chemicals-ipo",
+      "ipoId": 2775,
+      "name": "Prasol Chemicals",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 643.0,
+        "max": 676.0,
+        "display": "₹643–676"
+      },
+      "lotSize": 22,
+      "issueSize": "₹500.00 Cr",
+      "issueSizeCr": 500.0,
+      "freshIssueCr": 80.0,
+      "ofsCr": 420.0,
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": "2026-09-11",
+        "listing": "2026-09-16"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 7:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Dam Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/prasol-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/prasol-chemicals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=prasol-chemicals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
+        "gmp": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/"
+      },
+      "gmpId": 2030,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1992, Prasol Chemicals operates in the specialty chemicals industry. The company manufactures over 150 specialty chemicals, including acetone-based, phosphorous-based, and other complex chemicals. Its product portfolio includes 21 acetone-based chemicals, 53 phosphorous-based chemicals, and 76 other specialty chemicals (e.g. surfactants, esters, acids).\n\nThe products serve 5 major industries, including Performance chemicals (like lubricant and mining additives), paint, inks, cons",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "kanohar-electricals-ipo",
+      "ipoId": 2856,
+      "name": "Kanohar Electricals",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 601.0,
+        "max": 632.0,
+        "display": "₹601–632"
+      },
+      "lotSize": 23,
+      "issueSize": "₹1055.74 Cr",
+      "issueSizeCr": 1055.74,
+      "freshIssueCr": 300.0,
+      "ofsCr": 755.74,
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": "2026-09-11",
+        "listing": "2026-09-16"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 8:28"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Nuvama Wealth Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/kanohar-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=kanohar-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/",
+        "gmp": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/"
+      },
+      "gmpId": 2119,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. The Company caters to industries such as power transmission, railways, renewable energy and power distribution.\n\nThe Company operates through two business segments: (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC). It is one of four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -270,7 +379,7 @@
         "value": 27.0,
         "percent": 21.77,
         "xLot": 3240.0,
-        "updatedOn": "2-Sep 23:31"
+        "updatedOn": "3-Sep 8:32"
       },
       "subscription": {
         "total": null,
@@ -325,7 +434,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "2-Sep 23:37"
+        "updatedOn": "3-Sep 8:36"
       },
       "subscription": {
         "total": null,

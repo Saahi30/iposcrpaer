@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T20:46:53+00:00",
+  "scrapedAt": "2026-09-03T03:41:18+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 35,
-    "mainboard": 17,
+    "totalEvents": 37,
+    "mainboard": 19,
     "sme": 18,
     "byEventType": {
-      "allotment": 3,
+      "allotment": 5,
       "close": 17,
       "open": 9,
       "other": 6
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 31,
-        "mainboard": 15,
+        "total": 33,
+        "mainboard": 17,
         "sme": 16
       },
       "byDate": {
@@ -236,6 +236,25 @@
         ],
         "2026-09-02": [
           {
+            "title": "ESDS Software Solution IPO Allotment Status",
+            "company": "ESDS Software Solution",
+            "eventType": "allotment",
+            "date": "2026-09-02",
+            "dateEnd": "2026-09-02",
+            "details": "The allotment status of ESDS Software Solution Ltd. IPO is now available online. The public issue of ESDS Software Solution IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The",
+            "type": "mainboard",
+            "slug": "esds-software-ipo",
+            "ipoId": 1198,
+            "eventId": 15417,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/esds-software-ipo/1198/#15417",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ESDS%20Software%20Solution%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20ESDS%20Software%20Solution%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20ESDS%20Software%20Solution%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The"
+            }
+          },
+          {
             "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
             "company": "Pernia's Pop-up Studio",
             "eventType": "close",
@@ -252,6 +271,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15375",
               "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
               "googleCalendar": null
+            }
+          },
+          {
+            "title": "Priority Jewels IPO Allotment Status",
+            "company": "Priority Jewels",
+            "eventType": "allotment",
+            "date": "2026-09-02",
+            "dateEnd": "2026-09-02",
+            "details": "The allotment status of Priority Jewels Ltd. IPO is now available online. The public issue of Priority Jewels IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The equity shares",
+            "type": "mainboard",
+            "slug": "priority-jewels-ipo",
+            "ipoId": 2435,
+            "eventId": 15418,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/priority-jewels-ipo/2435/#15418",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Priority%20Jewels%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20Priority%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Priority%20Jewels%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares"
             }
           },
           {
@@ -751,6 +789,25 @@
           }
         },
         {
+          "title": "ESDS Software Solution IPO Allotment Status",
+          "company": "ESDS Software Solution",
+          "eventType": "allotment",
+          "date": "2026-09-02",
+          "dateEnd": "2026-09-02",
+          "details": "The allotment status of ESDS Software Solution Ltd. IPO is now available online. The public issue of ESDS Software Solution IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The",
+          "type": "mainboard",
+          "slug": "esds-software-ipo",
+          "ipoId": 1198,
+          "eventId": 15417,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/esds-software-ipo/1198/#15417",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ESDS%20Software%20Solution%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20ESDS%20Software%20Solution%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20ESDS%20Software%20Solution%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The"
+          }
+        },
+        {
           "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
           "company": "Pernia's Pop-up Studio",
           "eventType": "close",
@@ -767,6 +824,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15375",
             "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
             "googleCalendar": null
+          }
+        },
+        {
+          "title": "Priority Jewels IPO Allotment Status",
+          "company": "Priority Jewels",
+          "eventType": "allotment",
+          "date": "2026-09-02",
+          "dateEnd": "2026-09-02",
+          "details": "The allotment status of Priority Jewels Ltd. IPO is now available online. The public issue of Priority Jewels IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The equity shares",
+          "type": "mainboard",
+          "slug": "priority-jewels-ipo",
+          "ipoId": 2435,
+          "eventId": 15418,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/priority-jewels-ipo/2435/#15418",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Priority%20Jewels%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20Priority%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Priority%20Jewels%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares"
           }
         },
         {
@@ -1518,6 +1594,25 @@
       }
     },
     {
+      "title": "ESDS Software Solution IPO Allotment Status",
+      "company": "ESDS Software Solution",
+      "eventType": "allotment",
+      "date": "2026-09-02",
+      "dateEnd": "2026-09-02",
+      "details": "The allotment status of ESDS Software Solution Ltd. IPO is now available online. The public issue of ESDS Software Solution IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The",
+      "type": "mainboard",
+      "slug": "esds-software-ipo",
+      "ipoId": 1198,
+      "eventId": 15417,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/esds-software-ipo/1198/#15417",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/esds-software-ipo/1198/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ESDS%20Software%20Solution%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20ESDS%20Software%20Solution%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20ESDS%20Software%20Solution%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The"
+      }
+    },
+    {
       "title": "Pernia's Pop-up Studio IPO Closes on Sep 2, 2026",
       "company": "Pernia's Pop-up Studio",
       "eventType": "close",
@@ -1534,6 +1629,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15375",
         "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
         "googleCalendar": null
+      }
+    },
+    {
+      "title": "Priority Jewels IPO Allotment Status",
+      "company": "Priority Jewels",
+      "eventType": "allotment",
+      "date": "2026-09-02",
+      "dateEnd": "2026-09-02",
+      "details": "The allotment status of Priority Jewels Ltd. IPO is now available online. The public issue of Priority Jewels IPO was open on Aug 28, 2026 and closed for subscription on Sep 1, 2026. The equity shares",
+      "type": "mainboard",
+      "slug": "priority-jewels-ipo",
+      "ipoId": 2435,
+      "eventId": 15418,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/priority-jewels-ipo/2435/#15418",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/priority-jewels-ipo/2435/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Priority%20Jewels%20IPO%20Allotment%20Status&location=&dates=20260902/20260903&details=The%20allotment%20status%20of%20Priority%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Priority%20Jewels%20IPO%20was%20open%20on%20Aug%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares"
       }
     },
     {

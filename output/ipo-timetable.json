@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-02T20:46:54+00:00",
+  "scrapedAt": "2026-09-03T03:41:19+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 200,
-    "mainboard": 67,
+    "total": 202,
+    "mainboard": 69,
     "sme": 133
   },
   "ipos": [
@@ -4739,6 +4739,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2856,
+      "name": "Kanohar Electricals Ltd.",
+      "slug": "kanohar-electricals-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": "2026-09-11",
+        "refunds": "2026-09-15",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "08-Sep-2026",
+        "close": "10-Sep-2026",
+        "allotment": "11-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2775,
+      "name": "Prasol Chemicals Ltd.",
+      "slug": "prasol-chemicals-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": "2026-09-11",
+        "refunds": "2026-09-15",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "08-Sep-2026",
+        "close": "10-Sep-2026",
+        "allotment": "11-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/prasol-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
