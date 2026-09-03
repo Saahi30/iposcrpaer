@@ -348,58 +348,58 @@
     "source": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/"
   },
   "subscription": {
-    "summary": "Rays of Belief IPO subscribed 3.63 times. The public issue subscribed 18.67 times in the retail category, 0.01 times in QIB (Ex Anchor), and 2.07 times in the NII category by September 2, 2026 5:08:38 PM (Day 2).",
-    "total": 3.63,
-    "applications": 140712.0,
+    "summary": "Rays of Belief IPO subscribed 106.48 times. The public issue subscribed 189.09 times in the retail category, 9.06 times in QIB (Ex Anchor), and 278.70 times in the NII category by September 3, 2026 4:19:49 PM (Day 3).",
+    "total": 106.48,
+    "applications": 1507707.0,
     "byCategory": [
       {
         "Category": "Anchor",
         "Subscription (x)": "1",
         "Shares Offered*": "20,92,190",
         "Shares bid for": "20,92,190",
-        "Total Amt* (₹ Cr.)": "50.003"
+        "Total Amt* (₹ Cr.)": "50.00"
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "9.06",
         "Shares Offered*": "18,30,310",
-        "Shares bid for": "14,942",
-        "Total Amt* (₹ Cr.)": "0.357"
+        "Shares bid for": "1,65,76,630",
+        "Total Amt* (₹ Cr.)": "396.18"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.07",
+        "Subscription (x)": "278.70",
         "Shares Offered*": "7,84,500",
-        "Shares bid for": "16,26,384",
-        "Total Amt* (₹ Cr.)": "38.871"
+        "Shares bid for": "21,86,40,644",
+        "Total Amt* (₹ Cr.)": "5,225.51"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.12",
+        "Subscription (x)": "303.82",
         "Shares Offered*": "5,23,000",
-        "Shares bid for": "5,86,768",
-        "Total Amt* (₹ Cr.)": "14.024"
+        "Shares bid for": "15,88,98,374",
+        "Total Amt* (₹ Cr.)": "3,797.67"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "3.98",
+        "Subscription (x)": "228.46",
         "Shares Offered*": "2,61,500",
-        "Shares bid for": "10,39,616",
-        "Total Amt* (₹ Cr.)": "24.847"
+        "Shares bid for": "5,97,42,270",
+        "Total Amt* (₹ Cr.)": "1,427.84"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "18.67",
+        "Subscription (x)": "189.09",
         "Shares Offered*": "5,23,000",
-        "Shares bid for": "97,62,954",
-        "Total Amt* (₹ Cr.)": "233.335"
+        "Shares bid for": "9,88,93,968",
+        "Total Amt* (₹ Cr.)": "2,363.57"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.63",
+        "Subscription (x)": "106.48",
         "Shares Offered*": "31,37,810",
-        "Shares bid for": "1,14,04,280",
-        "Total Amt* (₹ Cr.)": "272.562"
+        "Shares bid for": "33,41,11,242",
+        "Total Amt* (₹ Cr.)": "7,985.26"
       }
     ],
     "dayWise": [
@@ -420,6 +420,15 @@
         "NII (< ₹10L)": "3.98",
         "Retail": "18.67",
         "Total": "3.63"
+      },
+      {
+        "Date": "Sep 3 (Day 3)",
+        "QIB (Ex Anchor)": "9.06",
+        "NII": "278.70",
+        "NII (> ₹10L)": "303.82",
+        "NII (< ₹10L)": "228.46",
+        "Retail": "189.09",
+        "Total": "106.48"
       }
     ]
   },
@@ -442,10 +451,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 47.0,
-      "percent": 19.67,
-      "xLot": 2914.0,
-      "updatedOn": "3-Sep 8:28"
+      "value": 15.0,
+      "percent": 6.28,
+      "xLot": 930.0,
+      "updatedOn": "3-Sep 16:02"
     },
     "leadManager": "Mefcom Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
@@ -455,5 +464,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-03T03:40:54+00:00"
+  "scrapedAt": "2026-09-03T10:54:52+00:00"
 }

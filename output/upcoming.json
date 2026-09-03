@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T03:41:13+00:00",
+  "scrapedAt": "2026-09-03T10:55:15+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 8,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 8
+    "total": 9
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "3-Sep 8:29"
+        "updatedOn": "3-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -86,14 +86,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 71.0,
+        "max": 75.0,
+        "display": "₹71–75"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹17.88 Cr",
+      "issueSizeCr": 17.88,
+      "freshIssueCr": 16.98,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-09",
@@ -104,8 +104,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "3-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -146,7 +146,7 @@
         "display": "₹132–139"
       },
       "lotSize": 107,
-      "issueSize": "-",
+      "issueSize": "₹732.97 Cr",
       "issueSizeCr": 732.97,
       "freshIssueCr": null,
       "ofsCr": 732.97,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 5:55"
+        "updatedOn": "3-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -190,7 +190,7 @@
     {
       "slug": "glass-wall-systems-ipo",
       "ipoId": 2594,
-      "name": "Glass Wall Systems (India) Ltd.",
+      "name": "Glass Wall Systems",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -200,7 +200,7 @@
         "max": 182.0,
         "display": "₹172–182"
       },
-      "lotSize": null,
+      "lotSize": 82,
       "issueSize": "₹427.89 Cr",
       "issueSizeCr": 427.89,
       "freshIssueCr": 60.0,
@@ -208,14 +208,14 @@
       "dates": {
         "open": "2026-09-08",
         "close": "2026-09-10",
-        "allotment": null,
+        "allotment": "2026-09-11",
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 20.0,
+        "percent": 10.99,
+        "xLot": 1640.0,
+        "updatedOn": "3-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -233,12 +233,13 @@
       "urls": {
         "local": "./ipo.html?slug=glass-wall-systems-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/"
       },
+      "gmpId": 1879,
       "faceValue": "₹2 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2025, has completed more than 150 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
+      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2026, has completed more than 158 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -266,10 +267,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 7:30"
+        "value": 14.0,
+        "percent": 2.07,
+        "xLot": 308.0,
+        "updatedOn": "3-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -321,10 +322,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 8:28"
+        "value": 150.0,
+        "percent": 23.73,
+        "xLot": 3450.0,
+        "updatedOn": "3-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -376,10 +377,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 21.77,
-        "xLot": 3240.0,
-        "updatedOn": "3-Sep 8:32"
+        "value": 30.0,
+        "percent": 24.19,
+        "xLot": 3600.0,
+        "updatedOn": "3-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -404,6 +405,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in July 2003, Pranav Constructions Limited is a real estate company primarily engaged in redevelopment projects in the Municipal Corporation of Greater Mumbai (MCGM) Region, with a predominant focus on the Western Suburbs. The Company was originally incorporated as Pranav Constructions Private Limited and was converted into a public limited company in July 2024.\n\nThe Company specializes in pure-play redevelopment and undertakes redevelopment projects across residential segments, inc",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "apana-logistics-ipo",
+      "ipoId": 2762,
+      "name": "Apana Logistics",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 60.0,
+        "max": 60.0,
+        "display": "₹60"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹34.14 Cr",
+      "issueSizeCr": 34.14,
+      "freshIssueCr": 32.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "listing": "2026-09-15"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 15:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/apana-logistics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=apana-logistics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
+        "gmp": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/"
+      },
+      "gmpId": 2018,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1992, Apana Logistics Ltd. is engaged in the business of providing comprehensive logistics support for the handling and transportation of containers.\n\nThe Company offers diversified services including Container Handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT).\n\nThe Company serves some of the top leading CFS/ICD/Por",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -434,7 +490,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "3-Sep 8:36"
+        "updatedOn": "3-Sep 15:53"
       },
       "subscription": {
         "total": null,

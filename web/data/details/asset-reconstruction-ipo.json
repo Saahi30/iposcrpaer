@@ -312,8 +312,8 @@
       "max": 139.0,
       "display": "₹132–139"
     },
-    "lotSize": null,
-    "issueSize": "-",
+    "lotSize": 107,
+    "issueSize": "₹732.97 Cr",
     "dates": {
       "open": "2026-09-09",
       "close": "2026-09-11",
@@ -323,8 +323,8 @@
     "gmp": {
       "value": 0.0,
       "percent": 0.0,
-      "xLot": null,
-      "updatedOn": "3-Sep 5:55"
+      "xLot": 0.0,
+      "updatedOn": "3-Sep 15:54"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/asset-reconstruction-logo.jpg",
@@ -334,5 +334,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-03T03:41:03+00:00"
+  "scrapedAt": "2026-09-03T10:55:03+00:00"
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T03:41:19+00:00",
+  "scrapedAt": "2026-09-03T10:55:22+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 202,
-    "mainboard": 69,
-    "sme": 133
+    "total": 204,
+    "mainboard": 70,
+    "sme": 134
   },
   "ipos": [
     {
@@ -4719,6 +4719,30 @@
       }
     },
     {
+      "ipoId": 2762,
+      "name": "Apana Logistics Ltd.",
+      "slug": "apana-logistics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "refunds": "2026-09-11",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "07-Sep-2026",
+        "close": "09-Sep-2026",
+        "allotment": "10-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2127,
       "name": "Pranav Constructions Ltd.",
       "slug": "pranav-constructions-ipo",
@@ -4739,6 +4763,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2594,
+      "name": "Glass Wall Systems (India) Ltd.",
+      "slug": "glass-wall-systems-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-08",
+        "close": "2026-09-10",
+        "allotment": "2026-09-11",
+        "refunds": "2026-09-15",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "08-Sep-2026",
+        "close": "10-Sep-2026",
+        "allotment": "11-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/glass-wall-systems-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

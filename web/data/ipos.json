@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T03:41:13+00:00",
+  "scrapedAt": "2026-09-03T10:55:15+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 4,
-    "upcoming": 8,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 13
   },
   "ipos": [
     {
@@ -51,10 +51,10 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 8:31"
+        "updatedOn": "3-Sep 15:54"
       },
       "subscription": {
-        "total": 0.06,
+        "total": 1.13,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -66,27 +66,27 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.02",
+            "Subscription (x)": "1.71",
             "Shares Offered*": "25,76,000",
-            "Shares bid for": "48,000",
-            "Total Amt* (₹ Cr.)": "0.28",
+            "Shares bid for": "44,06,000",
+            "Total Amt* (₹ Cr.)": "26.00",
             "Total Applications": "0"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.10",
+            "Subscription (x)": "0.55",
             "Shares Offered*": "25,76,000",
-            "Shares bid for": "2,56,000",
-            "Total Amt* (₹ Cr.)": "1.51",
+            "Shares bid for": "14,12,000",
+            "Total Amt* (₹ Cr.)": "8.33",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.06",
+            "Subscription (x)": "1.13",
             "Shares Offered*": "51,52,000",
-            "Shares bid for": "3,04,000",
-            "Total Amt* (₹ Cr.)": "1.79",
-            "Total Applications": "72"
+            "Shares bid for": "58,18,000",
+            "Total Amt* (₹ Cr.)": "34.33",
+            "Total Applications": "450"
           }
         ],
         "applications": null
@@ -137,65 +137,65 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 47.0,
-        "percent": 19.67,
-        "xLot": 2914.0,
-        "updatedOn": "3-Sep 8:28"
+        "value": 15.0,
+        "percent": 6.28,
+        "xLot": 930.0,
+        "updatedOn": "3-Sep 16:02"
       },
       "subscription": {
-        "total": 3.63,
+        "total": 106.48,
         "byCategory": [
           {
             "Category": "Anchor",
             "Subscription (x)": "1",
             "Shares Offered*": "20,92,190",
             "Shares bid for": "20,92,190",
-            "Total Amt* (₹ Cr.)": "50.003"
+            "Total Amt* (₹ Cr.)": "50.00"
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "0.01",
+            "Subscription (x)": "9.06",
             "Shares Offered*": "18,30,310",
-            "Shares bid for": "14,942",
-            "Total Amt* (₹ Cr.)": "0.357"
+            "Shares bid for": "1,65,76,630",
+            "Total Amt* (₹ Cr.)": "396.18"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "2.07",
+            "Subscription (x)": "278.70",
             "Shares Offered*": "7,84,500",
-            "Shares bid for": "16,26,384",
-            "Total Amt* (₹ Cr.)": "38.871"
+            "Shares bid for": "21,86,40,644",
+            "Total Amt* (₹ Cr.)": "5,225.51"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.12",
+            "Subscription (x)": "303.82",
             "Shares Offered*": "5,23,000",
-            "Shares bid for": "5,86,768",
-            "Total Amt* (₹ Cr.)": "14.024"
+            "Shares bid for": "15,88,98,374",
+            "Total Amt* (₹ Cr.)": "3,797.67"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "3.98",
+            "Subscription (x)": "228.46",
             "Shares Offered*": "2,61,500",
-            "Shares bid for": "10,39,616",
-            "Total Amt* (₹ Cr.)": "24.847"
+            "Shares bid for": "5,97,42,270",
+            "Total Amt* (₹ Cr.)": "1,427.84"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "18.67",
+            "Subscription (x)": "189.09",
             "Shares Offered*": "5,23,000",
-            "Shares bid for": "97,62,954",
-            "Total Amt* (₹ Cr.)": "233.335"
+            "Shares bid for": "9,88,93,968",
+            "Total Amt* (₹ Cr.)": "2,363.57"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "3.63",
+            "Subscription (x)": "106.48",
             "Shares Offered*": "31,37,810",
-            "Shares bid for": "1,14,04,280",
-            "Total Amt* (₹ Cr.)": "272.562"
+            "Shares bid for": "33,41,11,242",
+            "Total Amt* (₹ Cr.)": "7,985.26"
           }
         ],
-        "applications": 140712.0
+        "applications": 1507707.0
       },
       "leadManager": "Mefcom Capital",
       "symbols": {
@@ -243,65 +243,65 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 28.0,
-        "percent": 15.82,
-        "xLot": 2352.0,
-        "updatedOn": "3-Sep 8:29"
+        "value": 20.0,
+        "percent": 11.3,
+        "xLot": 1680.0,
+        "updatedOn": "3-Sep 15:59"
       },
       "subscription": {
-        "total": 3.69,
+        "total": 42.85,
         "byCategory": [
           {
             "Category": "Anchor",
             "Subscription (x)": "1",
             "Shares Offered*": "77,91,789",
             "Shares bid for": "77,91,789",
-            "Total Amt* (₹ Cr.)": "137.915"
+            "Total Amt* (₹ Cr.)": "137.91"
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "0.45",
+            "Subscription (x)": "36.73",
             "Shares Offered*": "51,94,528",
-            "Shares bid for": "23,59,224",
-            "Total Amt* (₹ Cr.)": "41.758"
+            "Shares bid for": "19,07,76,852",
+            "Total Amt* (₹ Cr.)": "3,376.75"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "5.27",
+            "Subscription (x)": "108.69",
             "Shares Offered*": "38,95,895",
-            "Shares bid for": "2,05,13,724",
-            "Total Amt* (₹ Cr.)": "363.093"
+            "Shares bid for": "42,34,49,544",
+            "Total Amt* (₹ Cr.)": "7,495.06"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "4.42",
+            "Subscription (x)": "127.56",
             "Shares Offered*": "25,97,263",
-            "Shares bid for": "1,14,86,580",
-            "Total Amt* (₹ Cr.)": "203.312"
+            "Shares bid for": "33,12,95,244",
+            "Total Amt* (₹ Cr.)": "5,863.93"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "6.95",
+            "Subscription (x)": "70.96",
             "Shares Offered*": "12,98,632",
-            "Shares bid for": "90,27,144",
-            "Total Amt* (₹ Cr.)": "159.780"
+            "Shares bid for": "9,21,54,300",
+            "Total Amt* (₹ Cr.)": "1,631.13"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "4.85",
+            "Subscription (x)": "18.13",
             "Shares Offered*": "90,90,422",
-            "Shares bid for": "4,41,32,676",
-            "Total Amt* (₹ Cr.)": "781.148"
+            "Shares bid for": "16,48,39,752",
+            "Total Amt* (₹ Cr.)": "2,917.66"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "3.69",
+            "Subscription (x)": "42.85",
             "Shares Offered*": "1,81,80,845",
-            "Shares bid for": "6,70,05,624",
-            "Total Amt* (₹ Cr.)": "1,186.000"
+            "Shares bid for": "77,90,66,148",
+            "Total Amt* (₹ Cr.)": "13,789.47"
           }
         ],
-        "applications": 474983.0
+        "applications": 1880594.0
       },
       "leadManager": "Emkay Global",
       "symbols": {
@@ -349,13 +349,13 @@
         "listing": "2026-09-08"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 19.61,
-        "xLot": 24000.0,
-        "updatedOn": "3-Sep 8:32"
+        "value": 1.0,
+        "percent": 0.98,
+        "xLot": 1200.0,
+        "updatedOn": "3-Sep 15:57"
       },
       "subscription": {
-        "total": 0.08,
+        "total": 2.1,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -367,27 +367,27 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.02",
+            "Subscription (x)": "0.58",
             "Shares Offered*": "24,48,000",
-            "Shares bid for": "57,600",
-            "Total Amt* (₹ Cr.)": "0.59",
+            "Shares bid for": "14,14,800",
+            "Total Amt* (₹ Cr.)": "14.43",
             "Total Applications": "0"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.14",
+            "Subscription (x)": "3.61",
             "Shares Offered*": "24,48,000",
-            "Shares bid for": "3,43,200",
-            "Total Amt* (₹ Cr.)": "3.50",
+            "Shares bid for": "88,44,000",
+            "Total Amt* (₹ Cr.)": "90.21",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.08",
+            "Subscription (x)": "2.10",
             "Shares Offered*": "48,96,000",
-            "Shares bid for": "4,00,800",
-            "Total Amt* (₹ Cr.)": "4.09",
-            "Total Applications": "162"
+            "Shares bid for": "1,02,58,800",
+            "Total Amt* (₹ Cr.)": "104.64",
+            "Total Applications": "4,001"
           }
         ],
         "applications": null
@@ -441,7 +441,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "3-Sep 8:29"
+        "updatedOn": "3-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -477,14 +477,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 71.0,
+        "max": 75.0,
+        "display": "₹71–75"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹17.88 Cr",
+      "issueSizeCr": 17.88,
+      "freshIssueCr": 16.98,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-09",
@@ -495,8 +495,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "3-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -537,7 +537,7 @@
         "display": "₹132–139"
       },
       "lotSize": 107,
-      "issueSize": "-",
+      "issueSize": "₹732.97 Cr",
       "issueSizeCr": 732.97,
       "freshIssueCr": null,
       "ofsCr": 732.97,
@@ -551,7 +551,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 5:55"
+        "updatedOn": "3-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -581,7 +581,7 @@
     {
       "slug": "glass-wall-systems-ipo",
       "ipoId": 2594,
-      "name": "Glass Wall Systems (India) Ltd.",
+      "name": "Glass Wall Systems",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -591,7 +591,7 @@
         "max": 182.0,
         "display": "₹172–182"
       },
-      "lotSize": null,
+      "lotSize": 82,
       "issueSize": "₹427.89 Cr",
       "issueSizeCr": 427.89,
       "freshIssueCr": 60.0,
@@ -599,14 +599,14 @@
       "dates": {
         "open": "2026-09-08",
         "close": "2026-09-10",
-        "allotment": null,
+        "allotment": "2026-09-11",
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 20.0,
+        "percent": 10.99,
+        "xLot": 1640.0,
+        "updatedOn": "3-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -624,12 +624,13 @@
       "urls": {
         "local": "./ipo.html?slug=glass-wall-systems-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/"
       },
+      "gmpId": 1879,
       "faceValue": "₹2 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2025, has completed more than 150 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
+      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2026, has completed more than 158 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -657,10 +658,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 7:30"
+        "value": 14.0,
+        "percent": 2.07,
+        "xLot": 308.0,
+        "updatedOn": "3-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -712,10 +713,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 8:28"
+        "value": 150.0,
+        "percent": 23.73,
+        "xLot": 3450.0,
+        "updatedOn": "3-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -767,10 +768,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 21.77,
-        "xLot": 3240.0,
-        "updatedOn": "3-Sep 8:32"
+        "value": 30.0,
+        "percent": 24.19,
+        "xLot": 3600.0,
+        "updatedOn": "3-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -795,6 +796,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in July 2003, Pranav Constructions Limited is a real estate company primarily engaged in redevelopment projects in the Municipal Corporation of Greater Mumbai (MCGM) Region, with a predominant focus on the Western Suburbs. The Company was originally incorporated as Pranav Constructions Private Limited and was converted into a public limited company in July 2024.\n\nThe Company specializes in pure-play redevelopment and undertakes redevelopment projects across residential segments, inc",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "apana-logistics-ipo",
+      "ipoId": 2762,
+      "name": "Apana Logistics",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 60.0,
+        "max": 60.0,
+        "display": "₹60"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹34.14 Cr",
+      "issueSizeCr": 34.14,
+      "freshIssueCr": 32.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "listing": "2026-09-15"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "3-Sep 15:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/apana-logistics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=apana-logistics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
+        "gmp": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/"
+      },
+      "gmpId": 2018,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1992, Apana Logistics Ltd. is engaged in the business of providing comprehensive logistics support for the handling and transportation of containers.\n\nThe Company offers diversified services including Container Handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT).\n\nThe Company serves some of the top leading CFS/ICD/Por",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -825,7 +881,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "3-Sep 8:36"
+        "updatedOn": "3-Sep 15:53"
       },
       "subscription": {
         "total": null,

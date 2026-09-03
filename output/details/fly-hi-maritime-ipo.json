@@ -329,8 +329,8 @@
     "source": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/"
   },
   "subscription": {
-    "summary": "Fly-Hi Maritime IPO subscribed 0.08 times. The public issue subscribed 0.14 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.02 times in the NII category by September 2, 2026 5:08:34 PM (Day 2).",
-    "total": 0.08,
+    "summary": "Fly-Hi Maritime IPO subscribed 2.10 times. The public issue subscribed 3.61 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.58 times in the NII category by September 3, 2026 4:20:01 PM (Day 3).",
+    "total": 2.1,
     "applications": null,
     "byCategory": [
       {
@@ -343,27 +343,27 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.02",
+        "Subscription (x)": "0.58",
         "Shares Offered*": "24,48,000",
-        "Shares bid for": "57,600",
-        "Total Amt* (₹ Cr.)": "0.59",
+        "Shares bid for": "14,14,800",
+        "Total Amt* (₹ Cr.)": "14.43",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "3.61",
         "Shares Offered*": "24,48,000",
-        "Shares bid for": "3,43,200",
-        "Total Amt* (₹ Cr.)": "3.50",
+        "Shares bid for": "88,44,000",
+        "Total Amt* (₹ Cr.)": "90.21",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "2.10",
         "Shares Offered*": "48,96,000",
-        "Shares bid for": "4,00,800",
-        "Total Amt* (₹ Cr.)": "4.09",
-        "Total Applications": "162"
+        "Shares bid for": "1,02,58,800",
+        "Total Amt* (₹ Cr.)": "104.64",
+        "Total Applications": "4,001"
       }
     ],
     "dayWise": [
@@ -378,6 +378,12 @@
         "NII*": "0.02",
         "Individual Investors": "0.14",
         "Total": "0.08"
+      },
+      {
+        "Date": "Sep 3 (Day 3)",
+        "NII*": "0.58",
+        "Individual Investors": "3.61",
+        "Total": "2.10"
       }
     ]
   },
@@ -400,10 +406,10 @@
       "listing": "2026-09-08"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 19.61,
-      "xLot": 24000.0,
-      "updatedOn": "3-Sep 8:32"
+      "value": 1.0,
+      "percent": 0.98,
+      "xLot": 1200.0,
+      "updatedOn": "3-Sep 15:57"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
@@ -413,5 +419,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-03T03:40:58+00:00"
+  "scrapedAt": "2026-09-03T10:54:56+00:00"
 }
