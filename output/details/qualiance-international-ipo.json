@@ -521,9 +521,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 120.0,
+      "min": 127.0,
       "max": 127.0,
-      "display": "₹120–127"
+      "display": "₹127"
     },
     "lotSize": 1000,
     "issueSize": "₹45.11 Cr",
@@ -537,7 +537,7 @@
       "value": 55.0,
       "percent": 43.31,
       "xLot": 55000.0,
-      "updatedOn": "4-Sep 20:59"
+      "updatedOn": "4-Sep 23:36"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
@@ -547,5 +547,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-04T16:00:55+00:00"
+  "scrapedAt": "2026-09-04T20:30:53+00:00"
 }
