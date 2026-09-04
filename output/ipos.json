@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T20:44:22+00:00",
+  "scrapedAt": "2026-09-04T03:42:37+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,403 +15,68 @@
     "limit": null
   },
   "summary": {
-    "open": 4,
-    "upcoming": 9,
+    "open": 1,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 12
   },
   "ipos": [
     {
-      "slug": "farm-peace-ipo",
-      "ipoId": 2632,
-      "name": "Farm Peace",
+      "slug": "qualiance-international-ipo",
+      "ipoId": 2979,
+      "name": "Qualiance International",
       "type": "sme",
       "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 59.0,
-        "max": 59.0,
-        "display": "₹59"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹32.00 Cr",
-      "issueSizeCr": 32.0,
-      "freshIssueCr": 30.4,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
-      },
-      "gmp": {
-        "value": 12.0,
-        "percent": 20.34,
-        "xLot": 24000.0,
-        "updatedOn": "3-Sep 23:29"
-      },
-      "subscription": {
-        "total": 1.16,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,72,000",
-            "Shares bid for": "2,72,000",
-            "Total Amt* (₹ Cr.)": "1.60",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.73",
-            "Shares Offered*": "25,76,000",
-            "Shares bid for": "44,44,000",
-            "Total Amt* (₹ Cr.)": "26.22",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.59",
-            "Shares Offered*": "25,76,000",
-            "Shares bid for": "15,16,000",
-            "Total Amt* (₹ Cr.)": "8.94",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.16",
-            "Shares Offered*": "51,52,000",
-            "Shares bid for": "59,60,000",
-            "Total Amt* (₹ Cr.)": "35.16",
-            "Total Applications": "480"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Socradamus Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/farm-peace-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/farm-peace-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=farm-peace-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/farm-peace-ipo/2632/",
-        "gmp": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/"
-      },
-      "gmpId": 1905,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in October 2021, Farm Peace is an integrated contract farming company focused on processed-grade potato varieties like Santana, Frysona, Innovators, Lady Rosetta, and Chipsona. These potatoes are supplied to processing companies for French fries, chips, and other value-added products.\n\nOperating under the “Farm Peace” brand, the company work closely with farmers in Gujarat through a 100% buy-back model . It provide certified seeds, agronomic support, fertilizers, pesticides, and mod",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "rays-of-belief-ipo",
-      "ipoId": 2787,
-      "name": "Rays of Belief",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
+      "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 227.0,
-        "max": 239.0,
-        "display": "₹227–239"
+        "min": 120.0,
+        "max": 127.0,
+        "display": "₹120–127"
       },
-      "lotSize": 62,
-      "issueSize": "₹125.00 Cr",
-      "issueSizeCr": 125.0,
-      "freshIssueCr": 125.0,
+      "lotSize": 1000,
+      "issueSize": "₹45.11 Cr",
+      "issueSizeCr": 45.11,
+      "freshIssueCr": 42.82,
       "ofsCr": null,
       "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
+        "open": "2026-09-04",
+        "close": "2026-09-08",
+        "allotment": "2026-09-09",
+        "listing": "2026-09-11"
       },
       "gmp": {
-        "value": 12.0,
-        "percent": 5.02,
-        "xLot": 744.0,
-        "updatedOn": "3-Sep 23:32"
+        "value": 55.0,
+        "percent": 43.31,
+        "xLot": 55000.0,
+        "updatedOn": "4-Sep 8:33"
       },
       "subscription": {
-        "total": 107.71,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "20,92,190",
-            "Shares bid for": "20,92,190",
-            "Total Amt* (₹ Cr.)": "50.00"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "9.06",
-            "Shares Offered*": "18,30,310",
-            "Shares bid for": "1,65,76,630",
-            "Total Amt* (₹ Cr.)": "396.18"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "279.11",
-            "Shares Offered*": "7,84,500",
-            "Shares bid for": "21,89,65,648",
-            "Total Amt* (₹ Cr.)": "5,233.28"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "303.82",
-            "Shares Offered*": "5,23,000",
-            "Shares bid for": "15,88,98,374",
-            "Total Amt* (₹ Cr.)": "3,797.67"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "229.70",
-            "Shares Offered*": "2,61,500",
-            "Shares bid for": "6,00,67,274",
-            "Total Amt* (₹ Cr.)": "1,435.61"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "195.86",
-            "Shares Offered*": "5,23,000",
-            "Shares bid for": "10,24,37,330",
-            "Total Amt* (₹ Cr.)": "2,448.25"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "107.71",
-            "Shares Offered*": "31,37,810",
-            "Shares bid for": "33,79,79,608",
-            "Total Amt* (₹ Cr.)": "8,077.71"
-          }
-        ],
-        "applications": 1556764.0
+        "total": null,
+        "byCategory": []
       },
-      "leadManager": "Mefcom Capital",
+      "leadManager": "Hem Securities",
       "symbols": {
         "isin": null,
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/rays-of-belief-ipo-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
       "hasDetail": true,
-      "detailPath": "details/rays-of-belief-ipo.json",
+      "detailPath": "details/qualiance-international-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=rays-of-belief-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/rays-of-belief-ipo/2787/",
-        "gmp": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/"
+        "local": "./ipo.html?slug=qualiance-international-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
+        "gmp": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/"
       },
-      "gmpId": 2041,
+      "gmpId": 2240,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2017, Rays of Belief Ltd. is a for-profit social enterprise providing personalised intervention plans for children with Neurodevelopmental Disorders (NDDs), including Autism Spectrum Disorder (ASD), ADHD, Down Syndrome, Cerebral Palsy, Intellectual Disability, Learning Disabilities and Global Developmental Delays.\n\nThe Company started its first centre in Gurgaon in 2018 and has since expanded from 71 centres in Fiscal 2023 to 136 centres as of March 31, 2026, under its brand name",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "deepa-jewellers-ipo",
-      "ipoId": 2827,
-      "name": "Deepa Jewellers",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 168.0,
-        "max": 177.0,
-        "display": "₹168–177"
-      },
-      "lotSize": 84,
-      "issueSize": "₹459.72 Cr",
-      "issueSizeCr": 459.72,
-      "freshIssueCr": 250.0,
-      "ofsCr": 209.72,
-      "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
-      },
-      "gmp": {
-        "value": 18.0,
-        "percent": 10.17,
-        "xLot": 1512.0,
-        "updatedOn": "3-Sep 23:37"
-      },
-      "subscription": {
-        "total": 43.4,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "77,91,789",
-            "Shares bid for": "77,91,789",
-            "Total Amt* (₹ Cr.)": "137.91"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "36.73",
-            "Shares Offered*": "51,94,528",
-            "Shares bid for": "19,07,76,852",
-            "Total Amt* (₹ Cr.)": "3,376.75"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "109.04",
-            "Shares Offered*": "38,95,895",
-            "Shares bid for": "42,48,23,532",
-            "Total Amt* (₹ Cr.)": "7,519.38"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "127.56",
-            "Shares Offered*": "25,97,263",
-            "Shares bid for": "33,12,95,244",
-            "Total Amt* (₹ Cr.)": "5,863.93"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "72.02",
-            "Shares Offered*": "12,98,632",
-            "Shares bid for": "9,35,28,288",
-            "Total Amt* (₹ Cr.)": "1,655.45"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "19.09",
-            "Shares Offered*": "90,90,422",
-            "Shares bid for": "17,35,05,444",
-            "Total Amt* (₹ Cr.)": "3,071.05"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "43.40",
-            "Shares Offered*": "1,81,80,845",
-            "Shares bid for": "78,91,05,828",
-            "Total Amt* (₹ Cr.)": "13,967.17"
-          }
-        ],
-        "applications": 1974530.0
-      },
-      "leadManager": "Emkay Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/deepa-jewellers-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/deepa-jewellers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=deepa-jewellers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
-        "gmp": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/"
-      },
-      "gmpId": 2081,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2016, Deepa Jewellers Ltd. is engaged in the retail and wholesale trading of gold and diamond jewellery, offering a wide range of traditional and contemporary designs catering to diverse customer preferences. The company focuses on sourcing, designing, and selling jewellery products including rings, necklaces, earrings, bangles, and customized ornaments crafted with quality materials and skilled workmanship.\n\nProduct Portfolio: Vaddanam (waist belt), CNC machine cut bangles, gent",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "fly-hi-maritime-ipo",
-      "ipoId": 2845,
-      "name": "Fly-Hi Maritime",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 102.0,
-        "max": 102.0,
-        "display": "₹102"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹52.63 Cr",
-      "issueSizeCr": 52.63,
-      "freshIssueCr": 39.74,
-      "ofsCr": 10.2,
-      "dates": {
-        "open": "2026-09-01",
-        "close": "2026-09-03",
-        "allotment": "2026-09-04",
-        "listing": "2026-09-08"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 0.98,
-        "xLot": 1200.0,
-        "updatedOn": "3-Sep 23:32"
-      },
-      "subscription": {
-        "total": 2.12,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,64,000",
-            "Shares bid for": "2,64,000",
-            "Total Amt* (₹ Cr.)": "2.69",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.58",
-            "Shares Offered*": "24,48,000",
-            "Shares bid for": "14,22,000",
-            "Total Amt* (₹ Cr.)": "14.50",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "3.66",
-            "Shares Offered*": "24,48,000",
-            "Shares bid for": "89,59,200",
-            "Total Amt* (₹ Cr.)": "91.38",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.12",
-            "Shares Offered*": "48,96,000",
-            "Shares bid for": "1,03,81,200",
-            "Total Amt* (₹ Cr.)": "105.89",
-            "Total Applications": "4,054"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/flyhi-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/fly-hi-maritime-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=fly-hi-maritime-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fly-hi-maritime-ipo/2845/",
-        "gmp": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/"
-      },
-      "gmpId": 2097,
-      "faceValue": "₹5 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in September 2021, Fly-Hi Maritime Travels Limited is a specialized maritime travel company engaged in providing end-to-end crew travel and mobility solutions for commercial shipping companies. The Company manages travel arrangements for seafarers from their home countries to their designated ports of boarding, including airline ticketing, route planning, ground transportation, hotel bookings, visa coordination and 24/7 travel support.\n\nThe Company offers customized travel solutions",
-      "registrar": "Kfin Technologies Ltd."
+      "about": "Incorporated in August 2006, Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance and technical garments for institutional, government and brand clients in international markets. The Company originally commenced operations as a partnership firm, M/s. Qualiance Exports, in 1994 and was subsequently incorporated as Qualiance International Private Limited before being converted into a public limited company in December 2025. Its product portfo",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "veegaland-developers-ipo",
@@ -441,7 +106,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "3-Sep 23:29"
+        "updatedOn": "4-Sep 8:34"
       },
       "subscription": {
         "total": null,
@@ -467,6 +132,60 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "lcc-projects-ipo",
+      "ipoId": 2086,
+      "name": "LCC Projects Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 139.0,
+        "max": 146.0,
+        "display": "₹139–146"
+      },
+      "lotSize": 102,
+      "issueSize": "₹427.14 Cr",
+      "issueSizeCr": 427.14,
+      "freshIssueCr": 258.0,
+      "ofsCr": 169.14,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": null,
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lcc-projects-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lcc-projects-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lcc-projects-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lcc-projects-ipo/2086/",
+        "gmp": null
+      },
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2017, LCC Projects Limited offers engineering, procurement and construction (“EPC”) services in the irrigation and water supply projects segment. The company has executed projects in the irrigation and water supply segment, such as the construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects.\n\nAs of September 30, 2024, the company's Order Book comprises 68 projects, of whic",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "amtech-esters-ipo",
@@ -496,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 23:33"
+        "updatedOn": "4-Sep 8:37"
       },
       "subscription": {
         "total": null,
@@ -522,6 +241,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in May 2002, Amtech Esters Limited is a B2B chemical manufacturing company engaged in the manufacturing of Unsaturated Polyester Resins (UPRs) and the trading of complementary products used across the resin and FRP value chain. The Company was originally incorporated as Amtech Esters Private Limited and was subsequently converted into a public limited company in December 2023.\n\nThe Company's product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones an",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "manipal-payment-and-identity-solutions-ipo",
+      "ipoId": 2524,
+      "name": "Manipal Payment and Identity Solutions",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 322.0,
+        "max": 339.0,
+        "display": "₹322–339"
+      },
+      "lotSize": 44,
+      "issueSize": "₹805.00 Cr",
+      "issueSizeCr": 805.0,
+      "freshIssueCr": 320.0,
+      "ofsCr": 485.0,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "4-Sep 8:36"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manipal-payment-identity-solutions-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/manipal-payment-and-identity-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=manipal-payment-and-identity-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-payment-and-identity-solutions-ipo/2524/",
+        "gmp": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/"
+      },
+      "gmpId": 1827,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2008, Manipal Payment & Identity Solutions Limited is part of The Manipal Group. The Company provides payment solutions, identification solutions, secure solutions, and smart tagging and Internet of Things (IoT) solutions to banks, fintechs, non-banking finance companies and governments across domestic and international markets.\n\nIts payment solutions include payment cards, cheque solutions, Near-Field Communication (NFC)/Quick Response (QR) codes, payment-enabled wearables and d",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "asset-reconstruction-ipo",
@@ -551,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 23:29"
+        "updatedOn": "4-Sep 8:36"
       },
       "subscription": {
         "total": null,
@@ -577,6 +351,60 @@
       "saleType": "OFS only",
       "about": "Incorporated in February 2002, Asset Reconstruction Company (India) Limited is an asset reconstruction company (ARC) engaged in acquiring stressed assets from banks and financial institutions and implementing resolution strategies to maximize recoveries and optimize the value of such assets. The Company received its certificate of registration from the Reserve Bank of India (RBI) to commence securitisation and asset reconstruction operations in August 2003 and is recognised as the first ARC inco",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "rentomojo-ipo",
+      "ipoId": 2971,
+      "name": "Rentomojo Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 384.0,
+        "max": 404.0,
+        "display": "₹384–404"
+      },
+      "lotSize": 37,
+      "issueSize": "₹1255.57 Cr",
+      "issueSizeCr": 1255.57,
+      "freshIssueCr": 150.0,
+      "ofsCr": 1105.57,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": null,
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rentomojo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/rentomojo-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=rentomojo-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/",
+        "gmp": null
+      },
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Rentomojo is a technology-driven, full-stack direct-to-consumer (D2C) platform offering furniture and appliance rental and subscription solutions across India. It is the largest online rental platform in this category based on live subscribers and subscription revenue in Fiscal 2025 (Source: Redseer Report).\n\nIts integrated asset lifecycle model spans category management, procurement, refurbishment, servicing, reverse logistics, and multi-cycle redeployment, enabling high asset utilization and c",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "glass-wall-systems-ipo",
@@ -606,7 +434,7 @@
         "value": 20.0,
         "percent": 10.99,
         "xLot": 1640.0,
-        "updatedOn": "3-Sep 23:34"
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -661,7 +489,7 @@
         "value": 14.0,
         "percent": 2.07,
         "xLot": 308.0,
-        "updatedOn": "3-Sep 23:32"
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -716,7 +544,7 @@
         "value": 200.0,
         "percent": 31.65,
         "xLot": 4600.0,
-        "updatedOn": "3-Sep 23:32"
+        "updatedOn": "4-Sep 8:32"
       },
       "subscription": {
         "total": null,
@@ -771,7 +599,7 @@
         "value": 31.0,
         "percent": 25.0,
         "xLot": 3720.0,
-        "updatedOn": "3-Sep 23:37"
+        "updatedOn": "4-Sep 8:33"
       },
       "subscription": {
         "total": null,
@@ -823,10 +651,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 23:37"
+        "value": 3.0,
+        "percent": 5.0,
+        "xLot": 6000.0,
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -852,61 +680,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 1992, Apana Logistics Ltd. is engaged in the business of providing comprehensive logistics support for the handling and transportation of containers.\n\nThe Company offers diversified services including Container Handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT).\n\nThe Company serves some of the top leading CFS/ICD/Por",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "qualiance-international-ipo",
-      "ipoId": 2979,
-      "name": "Qualiance International",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 120.0,
-        "max": 127.0,
-        "display": "₹120–127"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹45.11 Cr",
-      "issueSizeCr": 45.11,
-      "freshIssueCr": 42.82,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-04",
-        "close": "2026-09-08",
-        "allotment": "2026-09-09",
-        "listing": "2026-09-11"
-      },
-      "gmp": {
-        "value": 55.0,
-        "percent": 43.31,
-        "xLot": 55000.0,
-        "updatedOn": "3-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/qualiance-international-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=qualiance-international-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
-        "gmp": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/"
-      },
-      "gmpId": 2240,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2006, Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance and technical garments for institutional, government and brand clients in international markets. The Company originally commenced operations as a partnership firm, M/s. Qualiance Exports, in 1994 and was subsequently incorporated as Qualiance International Private Limited before being converted into a public limited company in December 2025. Its product portfo",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

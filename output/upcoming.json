@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T20:44:22+00:00",
+  "scrapedAt": "2026-09-04T03:42:37+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 11
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 18.0,
         "percent": 12.86,
         "xLot": 1926.0,
-        "updatedOn": "3-Sep 23:29"
+        "updatedOn": "4-Sep 8:34"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,60 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "lcc-projects-ipo",
+      "ipoId": 2086,
+      "name": "LCC Projects Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 139.0,
+        "max": 146.0,
+        "display": "₹139–146"
+      },
+      "lotSize": 102,
+      "issueSize": "₹427.14 Cr",
+      "issueSizeCr": 427.14,
+      "freshIssueCr": 258.0,
+      "ofsCr": 169.14,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": null,
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lcc-projects-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/lcc-projects-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=lcc-projects-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lcc-projects-ipo/2086/",
+        "gmp": null
+      },
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2017, LCC Projects Limited offers engineering, procurement and construction (“EPC”) services in the irrigation and water supply projects segment. The company has executed projects in the irrigation and water supply segment, such as the construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects.\n\nAs of September 30, 2024, the company's Order Book comprises 68 projects, of whic",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "amtech-esters-ipo",
@@ -105,7 +159,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 23:33"
+        "updatedOn": "4-Sep 8:37"
       },
       "subscription": {
         "total": null,
@@ -131,6 +185,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in May 2002, Amtech Esters Limited is a B2B chemical manufacturing company engaged in the manufacturing of Unsaturated Polyester Resins (UPRs) and the trading of complementary products used across the resin and FRP value chain. The Company was originally incorporated as Amtech Esters Private Limited and was subsequently converted into a public limited company in December 2023.\n\nThe Company's product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones an",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "manipal-payment-and-identity-solutions-ipo",
+      "ipoId": 2524,
+      "name": "Manipal Payment and Identity Solutions",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 322.0,
+        "max": 339.0,
+        "display": "₹322–339"
+      },
+      "lotSize": 44,
+      "issueSize": "₹805.00 Cr",
+      "issueSizeCr": 805.0,
+      "freshIssueCr": 320.0,
+      "ofsCr": 485.0,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "4-Sep 8:36"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manipal-payment-identity-solutions-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/manipal-payment-and-identity-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=manipal-payment-and-identity-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-payment-and-identity-solutions-ipo/2524/",
+        "gmp": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/"
+      },
+      "gmpId": 1827,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2008, Manipal Payment & Identity Solutions Limited is part of The Manipal Group. The Company provides payment solutions, identification solutions, secure solutions, and smart tagging and Internet of Things (IoT) solutions to banks, fintechs, non-banking finance companies and governments across domestic and international markets.\n\nIts payment solutions include payment cards, cheque solutions, Near-Field Communication (NFC)/Quick Response (QR) codes, payment-enabled wearables and d",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "asset-reconstruction-ipo",
@@ -160,7 +269,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "3-Sep 23:29"
+        "updatedOn": "4-Sep 8:36"
       },
       "subscription": {
         "total": null,
@@ -186,6 +295,60 @@
       "saleType": "OFS only",
       "about": "Incorporated in February 2002, Asset Reconstruction Company (India) Limited is an asset reconstruction company (ARC) engaged in acquiring stressed assets from banks and financial institutions and implementing resolution strategies to maximize recoveries and optimize the value of such assets. The Company received its certificate of registration from the Reserve Bank of India (RBI) to commence securitisation and asset reconstruction operations in August 2003 and is recognised as the first ARC inco",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "rentomojo-ipo",
+      "ipoId": 2971,
+      "name": "Rentomojo Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 384.0,
+        "max": 404.0,
+        "display": "₹384–404"
+      },
+      "lotSize": 37,
+      "issueSize": "₹1255.57 Cr",
+      "issueSizeCr": 1255.57,
+      "freshIssueCr": 150.0,
+      "ofsCr": 1105.57,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": null,
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rentomojo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/rentomojo-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=rentomojo-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/",
+        "gmp": null
+      },
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Rentomojo is a technology-driven, full-stack direct-to-consumer (D2C) platform offering furniture and appliance rental and subscription solutions across India. It is the largest online rental platform in this category based on live subscribers and subscription revenue in Fiscal 2025 (Source: Redseer Report).\n\nIts integrated asset lifecycle model spans category management, procurement, refurbishment, servicing, reverse logistics, and multi-cycle redeployment, enabling high asset utilization and c",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "glass-wall-systems-ipo",
@@ -215,7 +378,7 @@
         "value": 20.0,
         "percent": 10.99,
         "xLot": 1640.0,
-        "updatedOn": "3-Sep 23:34"
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -270,7 +433,7 @@
         "value": 14.0,
         "percent": 2.07,
         "xLot": 308.0,
-        "updatedOn": "3-Sep 23:32"
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -325,7 +488,7 @@
         "value": 200.0,
         "percent": 31.65,
         "xLot": 4600.0,
-        "updatedOn": "3-Sep 23:32"
+        "updatedOn": "4-Sep 8:32"
       },
       "subscription": {
         "total": null,
@@ -380,7 +543,7 @@
         "value": 31.0,
         "percent": 25.0,
         "xLot": 3720.0,
-        "updatedOn": "3-Sep 23:37"
+        "updatedOn": "4-Sep 8:33"
       },
       "subscription": {
         "total": null,
@@ -432,10 +595,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "3-Sep 23:37"
+        "value": 3.0,
+        "percent": 5.0,
+        "xLot": 6000.0,
+        "updatedOn": "4-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -461,61 +624,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 1992, Apana Logistics Ltd. is engaged in the business of providing comprehensive logistics support for the handling and transportation of containers.\n\nThe Company offers diversified services including Container Handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT).\n\nThe Company serves some of the top leading CFS/ICD/Por",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "qualiance-international-ipo",
-      "ipoId": 2979,
-      "name": "Qualiance International",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 120.0,
-        "max": 127.0,
-        "display": "₹120–127"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹45.11 Cr",
-      "issueSizeCr": 45.11,
-      "freshIssueCr": 42.82,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-04",
-        "close": "2026-09-08",
-        "allotment": "2026-09-09",
-        "listing": "2026-09-11"
-      },
-      "gmp": {
-        "value": 55.0,
-        "percent": 43.31,
-        "xLot": 55000.0,
-        "updatedOn": "3-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/qualiance-international-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=qualiance-international-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/",
-        "gmp": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/"
-      },
-      "gmpId": 2240,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2006, Qualiance International Limited is engaged in the design, engineering, manufacture and export of performance and technical garments for institutional, government and brand clients in international markets. The Company originally commenced operations as a partnership firm, M/s. Qualiance Exports, in 1994 and was subsequently incorporated as Qualiance International Private Limited before being converted into a public limited company in December 2025. Its product portfo",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

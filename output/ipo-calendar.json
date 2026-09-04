@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T20:44:26+00:00",
+  "scrapedAt": "2026-09-04T03:42:42+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 48,
-    "mainboard": 25,
+    "totalEvents": 49,
+    "mainboard": 26,
     "sme": 23,
     "byEventType": {
-      "allotment": 8,
+      "allotment": 9,
       "close": 21,
       "open": 13,
       "other": 6
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 44,
-        "mainboard": 23,
+        "total": 45,
+        "mainboard": 24,
         "sme": 21
       },
       "byDate": {
@@ -406,6 +406,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/deepa-jewellers-ipo/2827/#15380",
               "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Deepa%20Jewellers%20IPO%20Closes%20on%20Sep%203%2C%202026&location=&dates=20260903/20260904&details=The%20issue%20of%20Deepa%20Jewellers%20Ltd.%20opens%20on%20Sep%201%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%203%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+            }
+          },
+          {
+            "title": "Purple Style Labs IPO Allotment Status",
+            "company": "Purple Style Labs",
+            "eventType": "allotment",
+            "date": "2026-09-03",
+            "dateEnd": "2026-09-03",
+            "details": "The allotment status of Purple Style Labs Ltd. IPO is now available online. The public issue of Purple Style Labs IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity sh",
+            "type": "mainboard",
+            "slug": "purple-style-labs-ipo",
+            "ipoId": 2622,
+            "eventId": 15434,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15434",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Purple%20Style%20Labs%20IPO%20Allotment%20Status&location=&dates=20260903/20260904&details=The%20allotment%20status%20of%20Purple%20Style%20Labs%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Purple%20Style%20Labs%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20sh"
             }
           },
           {
@@ -1071,6 +1090,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/deepa-jewellers-ipo/2827/#15380",
             "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Deepa%20Jewellers%20IPO%20Closes%20on%20Sep%203%2C%202026&location=&dates=20260903/20260904&details=The%20issue%20of%20Deepa%20Jewellers%20Ltd.%20opens%20on%20Sep%201%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%203%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+          }
+        },
+        {
+          "title": "Purple Style Labs IPO Allotment Status",
+          "company": "Purple Style Labs",
+          "eventType": "allotment",
+          "date": "2026-09-03",
+          "dateEnd": "2026-09-03",
+          "details": "The allotment status of Purple Style Labs Ltd. IPO is now available online. The public issue of Purple Style Labs IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity sh",
+          "type": "mainboard",
+          "slug": "purple-style-labs-ipo",
+          "ipoId": 2622,
+          "eventId": 15434,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15434",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Purple%20Style%20Labs%20IPO%20Allotment%20Status&location=&dates=20260903/20260904&details=The%20allotment%20status%20of%20Purple%20Style%20Labs%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Purple%20Style%20Labs%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20sh"
           }
         },
         {
@@ -2085,6 +2123,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/deepa-jewellers-ipo/2827/#15380",
         "chittorgarh": "https://www.chittorgarh.com/ipo/deepa-jewellers-ipo/2827/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Deepa%20Jewellers%20IPO%20Closes%20on%20Sep%203%2C%202026&location=&dates=20260903/20260904&details=The%20issue%20of%20Deepa%20Jewellers%20Ltd.%20opens%20on%20Sep%201%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%203%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+      }
+    },
+    {
+      "title": "Purple Style Labs IPO Allotment Status",
+      "company": "Purple Style Labs",
+      "eventType": "allotment",
+      "date": "2026-09-03",
+      "dateEnd": "2026-09-03",
+      "details": "The allotment status of Purple Style Labs Ltd. IPO is now available online. The public issue of Purple Style Labs IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity sh",
+      "type": "mainboard",
+      "slug": "purple-style-labs-ipo",
+      "ipoId": 2622,
+      "eventId": 15434,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/purple-style-labs-ipo/2622/#15434",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/purple-style-labs-ipo/2622/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Purple%20Style%20Labs%20IPO%20Allotment%20Status&location=&dates=20260903/20260904&details=The%20allotment%20status%20of%20Purple%20Style%20Labs%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Purple%20Style%20Labs%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20sh"
       }
     },
     {

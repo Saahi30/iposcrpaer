@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-03T20:44:27+00:00",
+  "scrapedAt": "2026-09-04T03:42:43+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 204,
-    "mainboard": 70,
+    "total": 206,
+    "mainboard": 72,
     "sme": 134
   },
   "ipos": [
@@ -4883,6 +4883,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/asset-reconstruction-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/asset-reconstruction-ipo/2558/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2524,
+      "name": "Manipal Payment & Identity Solutions Ltd.",
+      "slug": "manipal-payment-and-identity-solutions-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manipal-payment-identity-solutions-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manipal-payment-and-identity-solutions-ipo/2524/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2971,
+      "name": "Rentomojo Ltd.",
+      "slug": "rentomojo-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rentomojo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
