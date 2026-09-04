@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-04T03:42:37+00:00",
+  "scrapedAt": "2026-09-04T10:54:59+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 1,
-    "upcoming": 11,
+    "upcoming": 15,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 16
   },
   "ipos": [
     {
@@ -51,11 +51,69 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "4-Sep 8:33"
+        "updatedOn": "4-Sep 15:57"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 12.86,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "10,09,000",
+            "Shares bid for": "10,09,000",
+            "Total Amt* (₹ Cr.)": "12.814",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "4.10",
+            "Shares Offered*": "6,74,000",
+            "Shares bid for": "27,65,000",
+            "Total Amt* (₹ Cr.)": "35.116",
+            "Total Applications": "3"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "12.79",
+            "Shares Offered*": "5,07,000",
+            "Shares bid for": "64,86,000",
+            "Total Amt* (₹ Cr.)": "82.372",
+            "Total Applications": "1,200"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "12.61",
+            "Shares Offered*": "3,36,000",
+            "Shares bid for": "42,36,000",
+            "Total Amt* (₹ Cr.)": "53.797",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "13.16",
+            "Shares Offered*": "1,71,000",
+            "Shares bid for": "22,50,000",
+            "Total Amt* (₹ Cr.)": "28.575",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "17.88",
+            "Shares Offered*": "11,82,000",
+            "Shares bid for": "2,11,32,000",
+            "Total Amt* (₹ Cr.)": "268.376",
+            "Total Applications": "10,566"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "12.86",
+            "Shares Offered*": "23,63,000",
+            "Shares bid for": "3,03,83,000",
+            "Total Amt* (₹ Cr.)": "385.864",
+            "Total Applications": "11,769"
+          }
+        ],
+        "applications": null
       },
       "leadManager": "Hem Securities",
       "symbols": {
@@ -103,10 +161,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 12.86,
-        "xLot": 1926.0,
-        "updatedOn": "4-Sep 8:34"
+        "value": 22.0,
+        "percent": 15.71,
+        "xLot": 2354.0,
+        "updatedOn": "4-Sep 15:59"
       },
       "subscription": {
         "total": null,
@@ -134,9 +192,64 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "karamtara-engineering-ipo",
+      "ipoId": 2020,
+      "name": "Karamtara Engineering",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 241.0,
+        "max": 254.0,
+        "display": "₹241–254"
+      },
+      "lotSize": 59,
+      "issueSize": "₹875.00 Cr",
+      "issueSizeCr": 875.0,
+      "freshIssueCr": 675.0,
+      "ofsCr": 200.0,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 20.0,
+        "percent": 7.87,
+        "xLot": 1180.0,
+        "updatedOn": "4-Sep 15:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/karamtara-engineering-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/karamtara-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=karamtara-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/karamtara-engineering-ipo/2020/",
+        "gmp": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/"
+      },
+      "gmpId": 1622,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1996, Karamtara Engineering Limited is engaged in the business of manufacturing Products for renewable energy and transmission lines.\n\nThe company offers a diverse product portfolio, serving as a one-stop shop for solar structures (fixed-tilt and trackers), fasteners for solar energy and transmission sectors, and overhead transmission line hardware fittings.\n\nThe company is entering the wind energy sector by setting up a manufacturing facility for tubular towers for wind turbines",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "lcc-projects-ipo",
       "ipoId": 2086,
-      "name": "LCC Projects Ltd.",
+      "name": "LCC Projects",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -154,14 +267,14 @@
       "dates": {
         "open": "2026-09-09",
         "close": "2026-09-11",
-        "allotment": null,
+        "allotment": "2026-09-15",
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "4-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -179,12 +292,13 @@
       "urls": {
         "local": "./ipo.html?slug=lcc-projects-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/lcc-projects-ipo/2086/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/"
       },
+      "gmpId": 1648,
       "faceValue": "₹5 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2017, LCC Projects Limited offers engineering, procurement and construction (“EPC”) services in the irrigation and water supply projects segment. The company has executed projects in the irrigation and water supply segment, such as the construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects.\n\nAs of September 30, 2024, the company's Order Book comprises 68 projects, of whic",
+      "about": "Incorporated in 2017, LCC Projects Limited offers engineering, procurement and construction (“EPC”) services in the irrigation and water supply projects segment. The company has executed projects in the irrigation and water supply segment, such as the construction of dams, barrages, weirs, hydraulic structures, canals, pipe distribution networks, lift irrigation works, water supply schemes, and other EPC projects.\n\nAs of March 31, 2026, the company's Order Book comprises 103 projects, of which S",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -212,10 +326,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "4-Sep 8:37"
+        "value": 5.0,
+        "percent": 6.67,
+        "xLot": 8000.0,
+        "updatedOn": "4-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -241,6 +355,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in May 2002, Amtech Esters Limited is a B2B chemical manufacturing company engaged in the manufacturing of Unsaturated Polyester Resins (UPRs) and the trading of complementary products used across the resin and FRP value chain. The Company was originally incorporated as Amtech Esters Private Limited and was subsequently converted into a public limited company in December 2023.\n\nThe Company's product portfolio includes Unsaturated Polyester Resins, fibreglass, hardeners, silicones an",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "steamhouse-india-ipo",
+      "ipoId": 2514,
+      "name": "Steamhouse",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹414.00 Cr",
+      "issueSizeCr": 414.0,
+      "freshIssueCr": 353.0,
+      "ofsCr": 61.0,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "4-Sep 9:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Equirus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/steamhouse-india-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/steamhouse-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=steamhouse-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/steamhouse-india-ipo/2514/",
+        "gmp": "https://www.investorgain.com/gmp/steamhouse-india-ipo/1823/"
+      },
+      "gmpId": 1823,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in June 2015, SteamHouse India is an industrial gas company specialising in the generation and centralised distribution of steam and nitrogen through its pipeline network. Its community-based systems provide industrial customers with an alternative to developing and maintaining individual infrastructure. The company has an extensive pipeline network, spans over 45 kms in key industrial hubs including like Sachin, Vapi, Ankleshwar, Sarigram, Panoli and Nadesari.\n\nIndustrial Gas Busin",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "manipal-payment-and-identity-solutions-ipo",
@@ -270,7 +439,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Sep 8:36"
+        "updatedOn": "4-Sep 15:59"
       },
       "subscription": {
         "total": null,
@@ -325,7 +494,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Sep 8:36"
+        "updatedOn": "4-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -353,9 +522,64 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "vinod-texworld-ipo",
+      "ipoId": 2718,
+      "name": "Vinod Texworld",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 94.0,
+        "max": 94.0,
+        "display": "₹94"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹42.83 Cr",
+      "issueSizeCr": 42.83,
+      "freshIssueCr": 40.69,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "4-Sep 9:20"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Novus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vinod-texworld-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/vinod-texworld-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vinod-texworld-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+        "gmp": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/"
+      },
+      "gmpId": 1977,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2012, Vinod Texworld Limited is an integrated textile company specialising in the manufacturing, processing, and supplying of a diverse range of textile products to both domestic and international markets.\n\nThe company's core operations centre on the essential processes of dyeing and printing greige fabric, which is subsequently marketed and sold.\n\nThe company manages the entire production lifecycle, ensuring quality control and rapid adaptation to evolving market demands, from s",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "rentomojo-ipo",
       "ipoId": 2971,
-      "name": "Rentomojo Ltd.",
+      "name": "Rentomojo",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -373,14 +597,14 @@
       "dates": {
         "open": "2026-09-09",
         "close": "2026-09-11",
-        "allotment": null,
+        "allotment": "2026-09-15",
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 55.0,
+        "percent": 13.61,
+        "xLot": 2035.0,
+        "updatedOn": "4-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -398,13 +622,69 @@
       "urls": {
         "local": "./ipo.html?slug=rentomojo-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/"
       },
+      "gmpId": 2231,
       "faceValue": "₹1 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Rentomojo is a technology-driven, full-stack direct-to-consumer (D2C) platform offering furniture and appliance rental and subscription solutions across India. It is the largest online rental platform in this category based on live subscribers and subscription revenue in Fiscal 2025 (Source: Redseer Report).\n\nIts integrated asset lifecycle model spans category management, procurement, refurbishment, servicing, reverse logistics, and multi-cycle redeployment, enabling high asset utilization and c",
+      "about": "Incorporated in April 2012, Rentomojo Limited is a technology-driven, full-stack direct-to-consumer (D2C) online rental and subscription platform for furniture and appliances in India.The Company provides consumers with affordable, flexible and long-term subscription plans for home furniture and appliances, enabling them to rent, return, upgrade and relocate products without the need for large upfront purchases or long-term ownership commitments. Its product portfolio includes essential home pro",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "infrax-renewable-ipo",
+      "ipoId": 3163,
+      "name": "Infrax Renewable",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 104.0,
+        "max": 104.0,
+        "display": "₹104"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹40.88 Cr",
+      "issueSizeCr": 40.88,
+      "freshIssueCr": 31.74,
+      "ofsCr": 7.08,
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "listing": "2026-09-17"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "4-Sep 11:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/infrax-renewable-ltdlogo.png",
+      "hasDetail": true,
+      "detailPath": "details/infrax-renewable-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=infrax-renewable-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+        "gmp": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/"
+      },
+      "gmpId": 2318,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2024, Infrax Renewable Limited is a solar energy company engaged in providing Engineering, Procurement and Construction (EPC) services for rooftop and ground-mounted solar power projects. The company also supplies a wide range of solar products, including solar PV modules, inverters, and related equipment, and operates as an Independent Power Producer (IPP) through its own solar power plant in Gujarat under a Power Purchase Agreement (PPA) with PGVCL.\n\nThe company offer",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "glass-wall-systems-ipo",
@@ -431,10 +711,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 10.99,
-        "xLot": 1640.0,
-        "updatedOn": "4-Sep 8:35"
+        "value": 61.0,
+        "percent": 33.52,
+        "xLot": 5002.0,
+        "updatedOn": "4-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -486,10 +766,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 14.0,
-        "percent": 2.07,
-        "xLot": 308.0,
-        "updatedOn": "4-Sep 8:35"
+        "value": 115.0,
+        "percent": 17.01,
+        "xLot": 2530.0,
+        "updatedOn": "4-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -541,10 +821,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 200.0,
-        "percent": 31.65,
-        "xLot": 4600.0,
-        "updatedOn": "4-Sep 8:32"
+        "value": 205.0,
+        "percent": 32.44,
+        "xLot": 4715.0,
+        "updatedOn": "4-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -596,10 +876,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 31.0,
-        "percent": 25.0,
-        "xLot": 3720.0,
-        "updatedOn": "4-Sep 8:33"
+        "value": 34.0,
+        "percent": 27.42,
+        "xLot": 4080.0,
+        "updatedOn": "4-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -654,7 +934,7 @@
         "value": 3.0,
         "percent": 5.0,
         "xLot": 6000.0,
-        "updatedOn": "4-Sep 8:35"
+        "updatedOn": "4-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -678,7 +958,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 1992, Apana Logistics Ltd. is engaged in the business of providing comprehensive logistics support for the handling and transportation of containers.\n\nThe Company offers diversified services including Container Handling at Container Freight Stations (CFS), Inland Container Depots (ICD), and ports, road transportation, cargo handling at third-party warehouses, and the repair, operation, and maintenance of truck-trailers (TT).\n\nThe Company serves some of the top leading CFS/ICD/Por",
+      "about": "Incorporated in January 1992, Apana Logistics Limited is engaged in the business of providing logistics support for container handling and transportation. The Company provides a diversified range of logistics services, including container handling at CFSs, ICDs and ports, road transportation, cargo handling at third-party warehouses, and operation and maintenance of truck-trailers and reach stackers. Its fleet includes truck-trailers, reach stackers and cranes, enabling it to provide integrated ",
       "registrar": "Kfin Technologies Ltd."
     }
   ]

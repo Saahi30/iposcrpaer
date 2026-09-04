@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-04T03:42:43+00:00",
+  "scrapedAt": "2026-09-04T10:55:04+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 206,
-    "mainboard": 72,
-    "sme": 134
+    "total": 211,
+    "mainboard": 75,
+    "sme": 136
   },
   "ipos": [
     {
@@ -4887,6 +4887,78 @@
       }
     },
     {
+      "ipoId": 3163,
+      "name": "Infrax Renewable Ltd.",
+      "slug": "infrax-renewable-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/infrax-renewable-ltdlogo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2020,
+      "name": "Karamtara Engineering Ltd.",
+      "slug": "karamtara-engineering-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/karamtara-engineering-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/karamtara-engineering-ipo/2020/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2086,
+      "name": "LCC Projects Ltd.",
+      "slug": "lcc-projects-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/lcc-projects-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/lcc-projects-ipo/2086/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2524,
       "name": "Manipal Payment & Identity Solutions Ltd.",
       "slug": "manipal-payment-and-identity-solutions-ipo",
@@ -4932,6 +5004,54 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2514,
+      "name": "Steamhouse India Ltd.",
+      "slug": "steamhouse-india-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/steamhouse-india-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/steamhouse-india-ipo/2514/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2718,
+      "name": "Vinod Texworld Ltd.",
+      "slug": "vinod-texworld-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-09",
+        "close": "2026-09-11",
+        "allotment": "2026-09-15",
+        "refunds": "2026-09-16",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "09-Sep-2026",
+        "close": "11-Sep-2026",
+        "allotment": "15-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vinod-texworld-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {

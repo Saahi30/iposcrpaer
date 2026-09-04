@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-04T03:42:37+00:00",
+  "scrapedAt": "2026-09-04T10:54:59+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -50,11 +50,69 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "4-Sep 8:33"
+        "updatedOn": "4-Sep 15:57"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 12.86,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "10,09,000",
+            "Shares bid for": "10,09,000",
+            "Total Amt* (₹ Cr.)": "12.814",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "4.10",
+            "Shares Offered*": "6,74,000",
+            "Shares bid for": "27,65,000",
+            "Total Amt* (₹ Cr.)": "35.116",
+            "Total Applications": "3"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "12.79",
+            "Shares Offered*": "5,07,000",
+            "Shares bid for": "64,86,000",
+            "Total Amt* (₹ Cr.)": "82.372",
+            "Total Applications": "1,200"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "12.61",
+            "Shares Offered*": "3,36,000",
+            "Shares bid for": "42,36,000",
+            "Total Amt* (₹ Cr.)": "53.797",
+            "Total Applications": ""
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "13.16",
+            "Shares Offered*": "1,71,000",
+            "Shares bid for": "22,50,000",
+            "Total Amt* (₹ Cr.)": "28.575",
+            "Total Applications": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "17.88",
+            "Shares Offered*": "11,82,000",
+            "Shares bid for": "2,11,32,000",
+            "Total Amt* (₹ Cr.)": "268.376",
+            "Total Applications": "10,566"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "12.86",
+            "Shares Offered*": "23,63,000",
+            "Shares bid for": "3,03,83,000",
+            "Total Amt* (₹ Cr.)": "385.864",
+            "Total Applications": "11,769"
+          }
+        ],
+        "applications": null
       },
       "leadManager": "Hem Securities",
       "symbols": {

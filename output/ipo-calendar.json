@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-04T03:42:42+00:00",
+  "scrapedAt": "2026-09-04T10:55:03+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 49,
+    "totalEvents": 54,
     "mainboard": 26,
-    "sme": 23,
+    "sme": 28,
     "byEventType": {
-      "allotment": 9,
-      "close": 21,
-      "open": 13,
+      "allotment": 10,
+      "close": 23,
+      "open": 15,
       "other": 6
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 45,
+        "total": 50,
         "mainboard": 24,
-        "sme": 21
+        "sme": 26
       },
       "byDate": {
         "2026-09-01": [
@@ -139,8 +139,8 @@
             }
           },
           {
-            "title": "Complete Sports and Management IPO Closes on Sep 1, 2026",
-            "company": "Complete Sports and Management",
+            "title": "Complete Sports & Management IPO Closes on Sep 1, 2026",
+            "company": "Complete Sports & Management",
             "eventType": "close",
             "date": "2026-09-01",
             "dateEnd": "2026-09-01",
@@ -154,7 +154,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/complete-sports-and-management-ipo/3182/#15357",
               "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20and%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20%26%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
             }
           },
           {
@@ -525,6 +525,25 @@
         ],
         "2026-09-04": [
           {
+            "title": "Ashutosh Fibre IPO Allotment Status",
+            "company": "Ashutosh Fibre",
+            "eventType": "allotment",
+            "date": "2026-09-04",
+            "dateEnd": "2026-09-04",
+            "details": "The allotment status of Ashutosh Fibre Ltd. IPO is now available online. The public issue of Ashutosh Fibre IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity shares o",
+            "type": "sme",
+            "slug": "ashutosh-fibre-ipo",
+            "ipoId": 2751,
+            "eventId": 15436,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/ashutosh-fibre-ipo/2751/#15436",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ashutosh%20Fibre%20IPO%20Allotment%20Status&location=&dates=20260904/20260905&details=The%20allotment%20status%20of%20Ashutosh%20Fibre%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ashutosh%20Fibre%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20shares%20o"
+            }
+          },
+          {
             "title": "Qualiance International IPO Opens on Sep 4, 2026",
             "company": "Qualiance International",
             "eventType": "open",
@@ -738,6 +757,44 @@
               "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Apana%20Logistics%20IPO%20Closes%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=The%20issue%20of%20Apana%20Logistics%20Ltd.%20opens%20on%20Sep%207%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%209%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B."
             }
+          },
+          {
+            "title": "Infrax Renewable IPO Opens on Sep 9, 2026",
+            "company": "Infrax Renewable",
+            "eventType": "open",
+            "date": "2026-09-09",
+            "dateEnd": "2026-09-09",
+            "details": "Infrax Renewable Ltd. is entering in the capital market with an IPO of 0.37 Equity Shares of Rs 10 aggregating up to Rs 38.81 Crore. The price for the issue has been set at Rs 104 Per Equity Share.Inc",
+            "type": "sme",
+            "slug": "infrax-renewable-ipo",
+            "ipoId": 3163,
+            "eventId": 15451,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15451",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Infrax%20Renewable%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.37%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2038.81%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20Per%20Equity%20Share.Inc"
+            }
+          },
+          {
+            "title": "Vinod Texworld IPO Opens on Sep 9, 2026",
+            "company": "Vinod Texworld",
+            "eventType": "open",
+            "date": "2026-09-09",
+            "dateEnd": "2026-09-09",
+            "details": "Vinod Texworld Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 40.69 Crore. The price for the issue has been set at Rs 94 Per Equity Share.Incorp",
+            "type": "sme",
+            "slug": "vinod-texworld-ipo",
+            "ipoId": 2718,
+            "eventId": 15443,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15443",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Vinod%20Texworld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2040.69%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094%20Per%20Equity%20Share.Incorp"
+            }
           }
         ],
         "2026-09-10": [
@@ -855,6 +912,44 @@
               "news": "https://www.chittorgarh.com/ipo_news/amtech-esters-ipo/2207/#15412",
               "chittorgarh": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Amtech%20Esters%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Amtech%20Esters%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D"
+            }
+          },
+          {
+            "title": "Infrax Renewable IPO Closes on Sep 11, 2026",
+            "company": "Infrax Renewable",
+            "eventType": "close",
+            "date": "2026-09-11",
+            "dateEnd": "2026-09-11",
+            "details": "The issue of Infrax Renewable Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+            "type": "sme",
+            "slug": "infrax-renewable-ipo",
+            "ipoId": 3163,
+            "eventId": 15452,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15452",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Infrax%20Renewable%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+            }
+          },
+          {
+            "title": "Vinod Texworld IPO Closes on Sep 11, 2026",
+            "company": "Vinod Texworld",
+            "eventType": "close",
+            "date": "2026-09-11",
+            "dateEnd": "2026-09-11",
+            "details": "The issue of Vinod Texworld Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 94",
+            "type": "sme",
+            "slug": "vinod-texworld-ipo",
+            "ipoId": 2718,
+            "eventId": 15444,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15444",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Vinod%20Texworld%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094"
             }
           }
         ],
@@ -1378,8 +1473,8 @@
           }
         },
         {
-          "title": "Complete Sports and Management IPO Closes on Sep 1, 2026",
-          "company": "Complete Sports and Management",
+          "title": "Complete Sports & Management IPO Closes on Sep 1, 2026",
+          "company": "Complete Sports & Management",
           "eventType": "close",
           "date": "2026-09-01",
           "dateEnd": "2026-09-01",
@@ -1393,7 +1488,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/complete-sports-and-management-ipo/3182/#15357",
             "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20and%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20%26%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
           }
         },
         {
@@ -1644,6 +1739,25 @@
           }
         },
         {
+          "title": "Ashutosh Fibre IPO Allotment Status",
+          "company": "Ashutosh Fibre",
+          "eventType": "allotment",
+          "date": "2026-09-04",
+          "dateEnd": "2026-09-04",
+          "details": "The allotment status of Ashutosh Fibre Ltd. IPO is now available online. The public issue of Ashutosh Fibre IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity shares o",
+          "type": "sme",
+          "slug": "ashutosh-fibre-ipo",
+          "ipoId": 2751,
+          "eventId": 15436,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/ashutosh-fibre-ipo/2751/#15436",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ashutosh%20Fibre%20IPO%20Allotment%20Status&location=&dates=20260904/20260905&details=The%20allotment%20status%20of%20Ashutosh%20Fibre%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ashutosh%20Fibre%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20shares%20o"
+          }
+        },
+        {
           "title": "Qualiance International IPO Opens on Sep 4, 2026",
           "company": "Qualiance International",
           "eventType": "open",
@@ -1739,6 +1853,44 @@
           }
         },
         {
+          "title": "Infrax Renewable IPO Opens on Sep 9, 2026",
+          "company": "Infrax Renewable",
+          "eventType": "open",
+          "date": "2026-09-09",
+          "dateEnd": "2026-09-09",
+          "details": "Infrax Renewable Ltd. is entering in the capital market with an IPO of 0.37 Equity Shares of Rs 10 aggregating up to Rs 38.81 Crore. The price for the issue has been set at Rs 104 Per Equity Share.Inc",
+          "type": "sme",
+          "slug": "infrax-renewable-ipo",
+          "ipoId": 3163,
+          "eventId": 15451,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15451",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Infrax%20Renewable%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.37%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2038.81%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20Per%20Equity%20Share.Inc"
+          }
+        },
+        {
+          "title": "Vinod Texworld IPO Opens on Sep 9, 2026",
+          "company": "Vinod Texworld",
+          "eventType": "open",
+          "date": "2026-09-09",
+          "dateEnd": "2026-09-09",
+          "details": "Vinod Texworld Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 40.69 Crore. The price for the issue has been set at Rs 94 Per Equity Share.Incorp",
+          "type": "sme",
+          "slug": "vinod-texworld-ipo",
+          "ipoId": 2718,
+          "eventId": 15443,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15443",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Vinod%20Texworld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2040.69%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094%20Per%20Equity%20Share.Incorp"
+          }
+        },
+        {
           "title": "Amtech Esters IPO Closes on Sep 11, 2026",
           "company": "Amtech Esters",
           "eventType": "close",
@@ -1755,6 +1907,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/amtech-esters-ipo/2207/#15412",
             "chittorgarh": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Amtech%20Esters%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Amtech%20Esters%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D"
+          }
+        },
+        {
+          "title": "Infrax Renewable IPO Closes on Sep 11, 2026",
+          "company": "Infrax Renewable",
+          "eventType": "close",
+          "date": "2026-09-11",
+          "dateEnd": "2026-09-11",
+          "details": "The issue of Infrax Renewable Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+          "type": "sme",
+          "slug": "infrax-renewable-ipo",
+          "ipoId": 3163,
+          "eventId": 15452,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15452",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Infrax%20Renewable%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+          }
+        },
+        {
+          "title": "Vinod Texworld IPO Closes on Sep 11, 2026",
+          "company": "Vinod Texworld",
+          "eventType": "close",
+          "date": "2026-09-11",
+          "dateEnd": "2026-09-11",
+          "details": "The issue of Vinod Texworld Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 94",
+          "type": "sme",
+          "slug": "vinod-texworld-ipo",
+          "ipoId": 2718,
+          "eventId": 15444,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15444",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Vinod%20Texworld%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094"
           }
         },
         {
@@ -2411,8 +2601,8 @@
       }
     },
     {
-      "title": "Complete Sports and Management IPO Closes on Sep 1, 2026",
-      "company": "Complete Sports and Management",
+      "title": "Complete Sports & Management IPO Closes on Sep 1, 2026",
+      "company": "Complete Sports & Management",
       "eventType": "close",
       "date": "2026-09-01",
       "dateEnd": "2026-09-01",
@@ -2426,7 +2616,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/complete-sports-and-management-ipo/3182/#15357",
         "chittorgarh": "https://www.chittorgarh.com/ipo/complete-sports-and-management-ipo/3182/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20and%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Complete%20Sports%20%26%20Management%20IPO%20Closes%20on%20Sep%201%2C%202026&location=&dates=20260901/20260902&details=The%20issue%20of%20Complete%20Sports%20%26%20Management%20India%20Ltd.%20opens%20on%20Aug%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20h"
       }
     },
     {
@@ -2677,6 +2867,25 @@
       }
     },
     {
+      "title": "Ashutosh Fibre IPO Allotment Status",
+      "company": "Ashutosh Fibre",
+      "eventType": "allotment",
+      "date": "2026-09-04",
+      "dateEnd": "2026-09-04",
+      "details": "The allotment status of Ashutosh Fibre Ltd. IPO is now available online. The public issue of Ashutosh Fibre IPO was open on Aug 31, 2026 and closed for subscription on Sep 2, 2026. The equity shares o",
+      "type": "sme",
+      "slug": "ashutosh-fibre-ipo",
+      "ipoId": 2751,
+      "eventId": 15436,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/ashutosh-fibre-ipo/2751/#15436",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ashutosh-fibre-ipo/2751/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ashutosh%20Fibre%20IPO%20Allotment%20Status&location=&dates=20260904/20260905&details=The%20allotment%20status%20of%20Ashutosh%20Fibre%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ashutosh%20Fibre%20IPO%20was%20open%20on%20Aug%2031%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%202%2C%202026.%20The%20equity%20shares%20o"
+      }
+    },
+    {
       "title": "Qualiance International IPO Opens on Sep 4, 2026",
       "company": "Qualiance International",
       "eventType": "open",
@@ -2772,6 +2981,44 @@
       }
     },
     {
+      "title": "Infrax Renewable IPO Opens on Sep 9, 2026",
+      "company": "Infrax Renewable",
+      "eventType": "open",
+      "date": "2026-09-09",
+      "dateEnd": "2026-09-09",
+      "details": "Infrax Renewable Ltd. is entering in the capital market with an IPO of 0.37 Equity Shares of Rs 10 aggregating up to Rs 38.81 Crore. The price for the issue has been set at Rs 104 Per Equity Share.Inc",
+      "type": "sme",
+      "slug": "infrax-renewable-ipo",
+      "ipoId": 3163,
+      "eventId": 15451,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15451",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Infrax%20Renewable%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.37%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2038.81%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20Per%20Equity%20Share.Inc"
+      }
+    },
+    {
+      "title": "Vinod Texworld IPO Opens on Sep 9, 2026",
+      "company": "Vinod Texworld",
+      "eventType": "open",
+      "date": "2026-09-09",
+      "dateEnd": "2026-09-09",
+      "details": "Vinod Texworld Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 40.69 Crore. The price for the issue has been set at Rs 94 Per Equity Share.Incorp",
+      "type": "sme",
+      "slug": "vinod-texworld-ipo",
+      "ipoId": 2718,
+      "eventId": 15443,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15443",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Opens%20on%20Sep%209%2C%202026&location=&dates=20260909/20260910&details=Vinod%20Texworld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2040.69%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094%20Per%20Equity%20Share.Incorp"
+      }
+    },
+    {
       "title": "Amtech Esters IPO Closes on Sep 11, 2026",
       "company": "Amtech Esters",
       "eventType": "close",
@@ -2788,6 +3035,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/amtech-esters-ipo/2207/#15412",
         "chittorgarh": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Amtech%20Esters%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Amtech%20Esters%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D"
+      }
+    },
+    {
+      "title": "Infrax Renewable IPO Closes on Sep 11, 2026",
+      "company": "Infrax Renewable",
+      "eventType": "close",
+      "date": "2026-09-11",
+      "dateEnd": "2026-09-11",
+      "details": "The issue of Infrax Renewable Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+      "type": "sme",
+      "slug": "infrax-renewable-ipo",
+      "ipoId": 3163,
+      "eventId": 15452,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/infrax-renewable-ipo/3163/#15452",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Infrax%20Renewable%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Infrax%20Renewable%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+      }
+    },
+    {
+      "title": "Vinod Texworld IPO Closes on Sep 11, 2026",
+      "company": "Vinod Texworld",
+      "eventType": "close",
+      "date": "2026-09-11",
+      "dateEnd": "2026-09-11",
+      "details": "The issue of Vinod Texworld Ltd. opens on Sep 9, 2026 and closes for subscription on Sep 11, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 94",
+      "type": "sme",
+      "slug": "vinod-texworld-ipo",
+      "ipoId": 2718,
+      "eventId": 15444,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vinod-texworld-ipo/2718/#15444",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vinod%20Texworld%20IPO%20Closes%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=The%20issue%20of%20Vinod%20Texworld%20Ltd.%20opens%20on%20Sep%209%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2011%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2094"
       }
     },
     {
