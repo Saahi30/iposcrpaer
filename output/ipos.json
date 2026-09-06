@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T03:44:46+00:00",
+  "scrapedAt": "2026-09-06T10:35:28+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 1,
-    "upcoming": 16,
+    "upcoming": 17,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 17
+    "total": 18
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "6-Sep 8:36"
+        "updatedOn": "6-Sep 15:37"
       },
       "subscription": {
         "total": 13.78,
@@ -161,10 +161,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 310.0,
+        "value": 282.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "6-Sep 8:31"
+        "updatedOn": "6-Sep 15:33"
       },
       "subscription": {
         "total": null,
@@ -192,6 +192,61 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "manika-plastech-ipo",
+      "ipoId": 2483,
+      "name": "Manika Plastech",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 92.5,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "listing": "2026-09-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "6-Sep 9:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Pantomath Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/manika-plastech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=manika-plastech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
+        "gmp": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/"
+      },
+      "gmpId": 1806,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1996, Manika Plastech Limited is engaged in the manufacturing of rigid polymer packaging products, including battery casings, pails and thinwall containers.\n\nThe Company manufactures battery casings, pails and thinwall containers, which cater to various industrial and consumer applications. The Company also manufactures pails used for packaging paints, lubricants and industrial chemicals, while its food-grade thinwall containers are used for the packaging and distribution of dair",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "veegaland-developers-ipo",
       "ipoId": 2834,
       "name": "Veegaland Developers",
@@ -216,10 +271,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 22.0,
-        "percent": 15.71,
-        "xLot": 2354.0,
-        "updatedOn": "6-Sep 8:31"
+        "value": 30.0,
+        "percent": 21.43,
+        "xLot": 3210.0,
+        "updatedOn": "6-Sep 15:36"
       },
       "subscription": {
         "total": null,
@@ -271,10 +326,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 50.0,
-        "percent": 19.69,
-        "xLot": 2950.0,
-        "updatedOn": "6-Sep 8:37"
+        "value": 55.0,
+        "percent": 21.65,
+        "xLot": 3245.0,
+        "updatedOn": "6-Sep 15:31"
       },
       "subscription": {
         "total": null,
@@ -329,7 +384,7 @@
         "value": 25.0,
         "percent": 17.12,
         "xLot": 2550.0,
-        "updatedOn": "6-Sep 8:33"
+        "updatedOn": "6-Sep 15:31"
       },
       "subscription": {
         "total": null,
@@ -384,7 +439,7 @@
         "value": 5.0,
         "percent": 6.67,
         "xLot": 8000.0,
-        "updatedOn": "6-Sep 8:37"
+        "updatedOn": "6-Sep 15:33"
       },
       "subscription": {
         "total": null,
@@ -491,10 +546,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 8.85,
-        "xLot": 1320.0,
-        "updatedOn": "6-Sep 8:30"
+        "value": 25.0,
+        "percent": 7.37,
+        "xLot": 1100.0,
+        "updatedOn": "6-Sep 15:34"
       },
       "subscription": {
         "total": null,
@@ -549,7 +604,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Sep 8:32"
+        "updatedOn": "6-Sep 15:32"
       },
       "subscription": {
         "total": null,
@@ -604,7 +659,7 @@
         "value": 4.0,
         "percent": 4.26,
         "xLot": 4800.0,
-        "updatedOn": "6-Sep 8:30"
+        "updatedOn": "6-Sep 15:36"
       },
       "subscription": {
         "total": null,
@@ -656,10 +711,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 155.0,
-        "percent": 38.37,
-        "xLot": 5735.0,
-        "updatedOn": "6-Sep 8:33"
+        "value": 142.0,
+        "percent": 35.15,
+        "xLot": 5254.0,
+        "updatedOn": "6-Sep 15:28"
       },
       "subscription": {
         "total": null,
@@ -700,7 +755,7 @@
         "display": "₹104"
       },
       "lotSize": 1200,
-      "issueSize": "₹47.96 Cr",
+      "issueSize": "₹40.88 Cr",
       "issueSizeCr": 40.88,
       "freshIssueCr": 31.74,
       "ofsCr": 7.08,
@@ -714,7 +769,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Sep 8:29"
+        "updatedOn": "6-Sep 15:36"
       },
       "subscription": {
         "total": null,
@@ -766,10 +821,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 50.0,
-        "percent": 27.47,
-        "xLot": 4100.0,
-        "updatedOn": "6-Sep 8:33"
+        "value": 39.0,
+        "percent": 21.43,
+        "xLot": 3198.0,
+        "updatedOn": "6-Sep 15:33"
       },
       "subscription": {
         "total": null,
@@ -821,10 +876,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 125.0,
-        "percent": 18.49,
-        "xLot": 2750.0,
-        "updatedOn": "6-Sep 8:31"
+        "value": 115.0,
+        "percent": 17.01,
+        "xLot": 2530.0,
+        "updatedOn": "6-Sep 15:35"
       },
       "subscription": {
         "total": null,
@@ -876,10 +931,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 190.0,
-        "percent": 30.06,
-        "xLot": 4370.0,
-        "updatedOn": "6-Sep 8:34"
+        "value": 205.0,
+        "percent": 32.44,
+        "xLot": 4715.0,
+        "updatedOn": "6-Sep 15:28"
       },
       "subscription": {
         "total": null,
@@ -931,10 +986,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 41.0,
-        "percent": 33.06,
-        "xLot": 4920.0,
-        "updatedOn": "6-Sep 8:29"
+        "value": 40.0,
+        "percent": 32.26,
+        "xLot": 4800.0,
+        "updatedOn": "6-Sep 15:35"
       },
       "subscription": {
         "total": null,
@@ -989,7 +1044,7 @@
         "value": 3.0,
         "percent": 5.0,
         "xLot": 6000.0,
-        "updatedOn": "6-Sep 8:37"
+        "updatedOn": "6-Sep 15:35"
       },
       "subscription": {
         "total": null,
