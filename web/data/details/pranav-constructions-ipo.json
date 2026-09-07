@@ -428,9 +428,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 118.0,
+      "min": 124.0,
       "max": 124.0,
-      "display": "₹118–124"
+      "display": "₹124"
     },
     "lotSize": 120,
     "issueSize": "₹351.03 Cr",
@@ -444,7 +444,7 @@
       "value": 42.5,
       "percent": 34.27,
       "xLot": 5100.0,
-      "updatedOn": "7-Sep 22:31"
+      "updatedOn": "7-Sep 23:34"
     },
     "leadManager": "Centrum Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
@@ -454,5 +454,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-07T17:42:55+00:00"
+  "scrapedAt": "2026-09-07T21:19:13+00:00"
 }
