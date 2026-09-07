@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-07T03:44:16+00:00",
+  "scrapedAt": "2026-09-07T12:00:05+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -47,14 +47,65 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 44.0,
-        "percent": 35.48,
-        "xLot": 5280.0,
-        "updatedOn": "7-Sep 8:34"
+        "value": 41.0,
+        "percent": 33.06,
+        "xLot": 4920.0,
+        "updatedOn": "7-Sep 16:53"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 5.98,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "67,94,034",
+            "Shares bid for": "67,94,034",
+            "Total Amt* (₹ Cr.)": "84.246"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.90",
+            "Shares Offered*": "45,29,358",
+            "Shares bid for": "40,84,320",
+            "Total Amt* (₹ Cr.)": "50.646"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "11.11",
+            "Shares Offered*": "42,46,272",
+            "Shares bid for": "4,71,83,400",
+            "Total Amt* (₹ Cr.)": "585.074"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "9.60",
+            "Shares Offered*": "28,30,848",
+            "Shares bid for": "2,71,79,760",
+            "Total Amt* (₹ Cr.)": "337.029"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "14.13",
+            "Shares Offered*": "14,15,424",
+            "Shares bid for": "2,00,03,640",
+            "Total Amt* (₹ Cr.)": "248.045"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "6.08",
+            "Shares Offered*": "1,27,38,816",
+            "Shares bid for": "7,74,87,600",
+            "Total Amt* (₹ Cr.)": "960.846"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "5.98",
+            "Shares Offered*": "2,15,14,446",
+            "Shares bid for": "12,87,55,320",
+            "Total Amt* (₹ Cr.)": "1,596.566"
+          }
+        ],
+        "applications": 582979.0
       },
       "leadManager": "Centrum Capital",
       "symbols": {
@@ -102,14 +153,40 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 8.0,
-        "percent": 13.33,
-        "xLot": 16000.0,
-        "updatedOn": "7-Sep 8:34"
+        "value": 11.0,
+        "percent": 18.33,
+        "xLot": 22000.0,
+        "updatedOn": "7-Sep 17:02"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 0.21,
+        "byCategory": [
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.02",
+            "Shares Offered*": "27,00,000",
+            "Shares bid for": "60,000",
+            "Total Amt* (₹ Cr.)": "0.36",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.40",
+            "Shares Offered*": "27,00,000",
+            "Shares bid for": "10,72,000",
+            "Total Amt* (₹ Cr.)": "6.43",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.21",
+            "Shares Offered*": "54,00,000",
+            "Shares bid for": "11,32,000",
+            "Total Amt* (₹ Cr.)": "6.79",
+            "Total Applications": "280"
+          }
+        ],
+        "applications": null
       },
       "leadManager": "Corporate Makers",
       "symbols": {
@@ -160,66 +237,74 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "7-Sep 8:36"
+        "updatedOn": "7-Sep 16:56"
       },
       "subscription": {
-        "total": 13.78,
+        "total": 90.51,
         "byCategory": [
           {
             "Category": "Anchor",
             "Subscription (x)": "1",
             "Shares Offered*": "10,09,000",
             "Shares bid for": "10,09,000",
-            "Total Amt* (₹ Cr.)": "12.814",
+            "Total Amt* (₹ Cr.)": "12.81",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,80,000",
+            "Shares bid for": "1,80,000",
+            "Total Amt* (₹ Cr.)": "2.29",
             "Total Applications": "-"
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "4.10",
+            "Subscription (x)": "5.75",
             "Shares Offered*": "6,74,000",
-            "Shares bid for": "27,65,000",
-            "Total Amt* (₹ Cr.)": "35.116",
-            "Total Applications": "3"
+            "Shares bid for": "38,76,000",
+            "Total Amt* (₹ Cr.)": "49.23",
+            "Total Applications": "7"
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "13.80",
+            "Subscription (x)": "135.49",
             "Shares Offered*": "5,07,000",
-            "Shares bid for": "69,99,000",
-            "Total Amt* (₹ Cr.)": "88.887",
-            "Total Applications": "1,284"
+            "Shares bid for": "6,86,94,000",
+            "Total Amt* (₹ Cr.)": "872.41",
+            "Total Applications": "11,292"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "13.82",
+            "Subscription (x)": "158.26",
             "Shares Offered*": "3,36,000",
-            "Shares bid for": "46,43,000",
-            "Total Amt* (₹ Cr.)": "58.966",
+            "Shares bid for": "5,31,74,000",
+            "Total Amt* (₹ Cr.)": "675.31",
             "Total Applications": ""
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "13.78",
+            "Subscription (x)": "90.76",
             "Shares Offered*": "1,71,000",
-            "Shares bid for": "23,56,000",
-            "Total Amt* (₹ Cr.)": "29.921",
+            "Shares bid for": "1,55,20,000",
+            "Total Amt* (₹ Cr.)": "197.10",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "19.29",
+            "Subscription (x)": "119.54",
             "Shares Offered*": "11,82,000",
-            "Shares bid for": "2,28,04,000",
-            "Total Amt* (₹ Cr.)": "289.611",
-            "Total Applications": "11,402"
+            "Shares bid for": "14,12,98,000",
+            "Total Amt* (₹ Cr.)": "1,794.48",
+            "Total Applications": "70,649"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "13.78",
+            "Subscription (x)": "90.51",
             "Shares Offered*": "23,63,000",
-            "Shares bid for": "3,25,68,000",
-            "Total Amt* (₹ Cr.)": "413.614",
-            "Total Applications": "12,689"
+            "Shares bid for": "21,38,68,000",
+            "Total Amt* (₹ Cr.)": "2,716.12",
+            "Total Applications": "81,948"
           }
         ],
         "applications": null

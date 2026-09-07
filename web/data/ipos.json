@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-07T03:44:16+00:00",
+  "scrapedAt": "2026-09-07T12:00:05+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 3,
-    "upcoming": 17,
+    "upcoming": 20,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 20
+    "total": 23
   },
   "ipos": [
     {
@@ -48,14 +48,65 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 44.0,
-        "percent": 35.48,
-        "xLot": 5280.0,
-        "updatedOn": "7-Sep 8:34"
+        "value": 41.0,
+        "percent": 33.06,
+        "xLot": 4920.0,
+        "updatedOn": "7-Sep 16:53"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 5.98,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "67,94,034",
+            "Shares bid for": "67,94,034",
+            "Total Amt* (₹ Cr.)": "84.246"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.90",
+            "Shares Offered*": "45,29,358",
+            "Shares bid for": "40,84,320",
+            "Total Amt* (₹ Cr.)": "50.646"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "11.11",
+            "Shares Offered*": "42,46,272",
+            "Shares bid for": "4,71,83,400",
+            "Total Amt* (₹ Cr.)": "585.074"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "9.60",
+            "Shares Offered*": "28,30,848",
+            "Shares bid for": "2,71,79,760",
+            "Total Amt* (₹ Cr.)": "337.029"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "14.13",
+            "Shares Offered*": "14,15,424",
+            "Shares bid for": "2,00,03,640",
+            "Total Amt* (₹ Cr.)": "248.045"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "6.08",
+            "Shares Offered*": "1,27,38,816",
+            "Shares bid for": "7,74,87,600",
+            "Total Amt* (₹ Cr.)": "960.846"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "5.98",
+            "Shares Offered*": "2,15,14,446",
+            "Shares bid for": "12,87,55,320",
+            "Total Amt* (₹ Cr.)": "1,596.566"
+          }
+        ],
+        "applications": 582979.0
       },
       "leadManager": "Centrum Capital",
       "symbols": {
@@ -103,14 +154,40 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 8.0,
-        "percent": 13.33,
-        "xLot": 16000.0,
-        "updatedOn": "7-Sep 8:34"
+        "value": 11.0,
+        "percent": 18.33,
+        "xLot": 22000.0,
+        "updatedOn": "7-Sep 17:02"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 0.21,
+        "byCategory": [
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.02",
+            "Shares Offered*": "27,00,000",
+            "Shares bid for": "60,000",
+            "Total Amt* (₹ Cr.)": "0.36",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.40",
+            "Shares Offered*": "27,00,000",
+            "Shares bid for": "10,72,000",
+            "Total Amt* (₹ Cr.)": "6.43",
+            "Total Applications": "0"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.21",
+            "Shares Offered*": "54,00,000",
+            "Shares bid for": "11,32,000",
+            "Total Amt* (₹ Cr.)": "6.79",
+            "Total Applications": "280"
+          }
+        ],
+        "applications": null
       },
       "leadManager": "Corporate Makers",
       "symbols": {
@@ -161,66 +238,74 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "7-Sep 8:36"
+        "updatedOn": "7-Sep 16:56"
       },
       "subscription": {
-        "total": 13.78,
+        "total": 90.51,
         "byCategory": [
           {
             "Category": "Anchor",
             "Subscription (x)": "1",
             "Shares Offered*": "10,09,000",
             "Shares bid for": "10,09,000",
-            "Total Amt* (₹ Cr.)": "12.814",
+            "Total Amt* (₹ Cr.)": "12.81",
+            "Total Applications": "-"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,80,000",
+            "Shares bid for": "1,80,000",
+            "Total Amt* (₹ Cr.)": "2.29",
             "Total Applications": "-"
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "4.10",
+            "Subscription (x)": "5.75",
             "Shares Offered*": "6,74,000",
-            "Shares bid for": "27,65,000",
-            "Total Amt* (₹ Cr.)": "35.116",
-            "Total Applications": "3"
+            "Shares bid for": "38,76,000",
+            "Total Amt* (₹ Cr.)": "49.23",
+            "Total Applications": "7"
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "13.80",
+            "Subscription (x)": "135.49",
             "Shares Offered*": "5,07,000",
-            "Shares bid for": "69,99,000",
-            "Total Amt* (₹ Cr.)": "88.887",
-            "Total Applications": "1,284"
+            "Shares bid for": "6,86,94,000",
+            "Total Amt* (₹ Cr.)": "872.41",
+            "Total Applications": "11,292"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "13.82",
+            "Subscription (x)": "158.26",
             "Shares Offered*": "3,36,000",
-            "Shares bid for": "46,43,000",
-            "Total Amt* (₹ Cr.)": "58.966",
+            "Shares bid for": "5,31,74,000",
+            "Total Amt* (₹ Cr.)": "675.31",
             "Total Applications": ""
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "13.78",
+            "Subscription (x)": "90.76",
             "Shares Offered*": "1,71,000",
-            "Shares bid for": "23,56,000",
-            "Total Amt* (₹ Cr.)": "29.921",
+            "Shares bid for": "1,55,20,000",
+            "Total Amt* (₹ Cr.)": "197.10",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "19.29",
+            "Subscription (x)": "119.54",
             "Shares Offered*": "11,82,000",
-            "Shares bid for": "2,28,04,000",
-            "Total Amt* (₹ Cr.)": "289.611",
-            "Total Applications": "11,402"
+            "Shares bid for": "14,12,98,000",
+            "Total Amt* (₹ Cr.)": "1,794.48",
+            "Total Applications": "70,649"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "13.78",
+            "Subscription (x)": "90.51",
             "Shares Offered*": "23,63,000",
-            "Shares bid for": "3,25,68,000",
-            "Total Amt* (₹ Cr.)": "413.614",
-            "Total Applications": "12,689"
+            "Shares bid for": "21,38,68,000",
+            "Total Amt* (₹ Cr.)": "2,716.12",
+            "Total Applications": "81,948"
           }
         ],
         "applications": null
@@ -271,10 +356,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 273.0,
+        "value": 269.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "7-Sep 8:37"
+        "updatedOn": "7-Sep 16:58"
       },
       "subscription": {
         "total": null,
@@ -326,10 +411,10 @@
         "listing": "2026-09-21"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "7-Sep 8:36"
+        "value": 17.0,
+        "percent": 39.53,
+        "xLot": 5916.0,
+        "updatedOn": "7-Sep 17:00"
       },
       "subscription": {
         "total": null,
@@ -357,6 +442,61 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "century-business-media-ipo",
+      "ipoId": 2604,
+      "name": "Century Business Media",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 70.0,
+        "max": 74.0,
+        "display": "₹70–74"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹17.11 Cr",
+      "issueSizeCr": 17.11,
+      "freshIssueCr": 16.24,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "listing": "2026-09-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 16:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/century-business-media-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=century-business-media-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/",
+        "gmp": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/"
+      },
+      "gmpId": 1887,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 1999 as Century Business Private Limited, The Company primarily operates across the Airport Out-of-Home (AOOH) and Railway Out-of-Home (ROOH) segments, providing advertising spaces within and outside airport terminal buildings and through digital and static hoardings across railway stations and railway land. It has also expanded into Metro Out-of-Home (MOOH) advertising, including Platform Screen Door (PSD) advertising, and in-shop branding. Its traditional city media p",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "panchatv-bharat-ipo",
       "ipoId": 2373,
       "name": "Panchatv Bharat",
@@ -381,10 +521,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 16:53"
       },
       "subscription": {
         "total": null,
@@ -410,6 +550,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2024, Panchatv Bharat is a textile manufacturing company. The company manufactures denim fabrics through third-party facilities and also wholesales denim fabrics across India, sourcing them from distributors for nationwide distribution.\n\nTheir manufacturing process encompasses the entire fabric production cycle—from yarn procurement and warp dyeing to weaving, finishing, and quality inspection.\n\nThe company engages in third-party manufacturing and wholesale trading of denim fabri",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "raksan-transformers-ipo",
+      "ipoId": 2767,
+      "name": "Raksan Transformers",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 258.0,
+        "max": 273.0,
+        "display": "₹258–273"
+      },
+      "lotSize": 400,
+      "issueSize": "₹150.50 Cr",
+      "issueSizeCr": 150.5,
+      "freshIssueCr": 112.93,
+      "ofsCr": 30.03,
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "listing": "2026-09-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 17:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/raksan-transformer-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/raksan-transformers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=raksan-transformers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/raksan-transformers-ipo/2767/",
+        "gmp": "https://www.investorgain.com/gmp/raksan-transformers-ipo/2022/"
+      },
+      "gmpId": 2022,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in July 1995, Raksan Transformers Limited is an ISO 9001:2015 certified manufacturer of transformers across different voltage ratings. The Company manufactures a diversified range of transformers, including distribution transformers, power transformers, transformers for solar applications and special purpose transformers, which are used across power generation, transmission and distribution networks, as well as various industrial and infrastructure projects. The Company initially fo",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "veegaland-developers-ipo",
@@ -439,7 +634,7 @@
         "value": 30.0,
         "percent": 21.43,
         "xLot": 3210.0,
-        "updatedOn": "7-Sep 8:34"
+        "updatedOn": "7-Sep 16:57"
       },
       "subscription": {
         "total": null,
@@ -494,7 +689,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 8:33"
+        "updatedOn": "7-Sep 17:00"
       },
       "subscription": {
         "total": null,
@@ -522,6 +717,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "maharaja-speedex-ipo",
+      "ipoId": 3089,
+      "name": "Maharaja & Speedex India",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 177.0,
+        "max": 186.0,
+        "display": "₹177–186"
+      },
+      "lotSize": 600,
+      "issueSize": "₹80.13 Cr",
+      "issueSizeCr": 80.13,
+      "freshIssueCr": 60.09,
+      "ofsCr": 16.03,
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "listing": "2026-09-18"
+      },
+      "gmp": {
+        "value": 6.0,
+        "percent": 3.23,
+        "xLot": 3600.0,
+        "updatedOn": "7-Sep 17:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/maharaja-&-speedex-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/maharaja-speedex-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=maharaja-speedex-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/maharaja-speedex-ipo/3089/",
+        "gmp": "https://www.investorgain.com/gmp/maharaja-speedex-ipo/2277/"
+      },
+      "gmpId": 2277,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in February 2006, Maharaja & Speedex India Limited is a drinkware manufacturing and distribution company engaged in the manufacturing, branding, marketing and distribution of stainless-steel bottles and allied drinkware products. The Company offers a diversified portfolio of drinkware products classified into Standard Products and Novelty Products. Standard Products primarily comprise stainless-steel bottles, while Novelty Products include tumblers, feeding bottles and gym shakers. ",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
       "slug": "karamtara-engineering-ipo",
       "ipoId": 2020,
       "name": "Karamtara Engineering",
@@ -546,10 +796,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 55.0,
-        "percent": 21.65,
-        "xLot": 3245.0,
-        "updatedOn": "7-Sep 8:33"
+        "value": 58.0,
+        "percent": 22.83,
+        "xLot": 3422.0,
+        "updatedOn": "7-Sep 16:55"
       },
       "subscription": {
         "total": null,
@@ -601,10 +851,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 17.12,
-        "xLot": 2550.0,
-        "updatedOn": "7-Sep 8:36"
+        "value": 24.0,
+        "percent": 16.44,
+        "xLot": 2448.0,
+        "updatedOn": "7-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -659,7 +909,7 @@
         "value": 5.0,
         "percent": 6.67,
         "xLot": 8000.0,
-        "updatedOn": "7-Sep 8:35"
+        "updatedOn": "7-Sep 16:55"
       },
       "subscription": {
         "total": null,
@@ -714,7 +964,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 8:35"
+        "updatedOn": "7-Sep 16:56"
       },
       "subscription": {
         "total": null,
@@ -766,10 +1016,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 8.85,
-        "xLot": 1320.0,
-        "updatedOn": "7-Sep 8:31"
+        "value": 38.0,
+        "percent": 11.21,
+        "xLot": 1672.0,
+        "updatedOn": "7-Sep 17:00"
       },
       "subscription": {
         "total": null,
@@ -821,10 +1071,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "7-Sep 8:32"
+        "value": 26.0,
+        "percent": 18.71,
+        "xLot": 2782.0,
+        "updatedOn": "7-Sep 17:00"
       },
       "subscription": {
         "total": null,
@@ -876,10 +1126,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 4.0,
-        "percent": 4.26,
-        "xLot": 4800.0,
-        "updatedOn": "7-Sep 8:29"
+        "value": 8.0,
+        "percent": 8.51,
+        "xLot": 9600.0,
+        "updatedOn": "7-Sep 16:59"
       },
       "subscription": {
         "total": null,
@@ -903,7 +1153,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2012, Vinod Texworld Limited is an integrated textile company specialising in the manufacturing, processing, and supplying of a diverse range of textile products to both domestic and international markets.\n\nThe company's core operations centre on the essential processes of dyeing and printing greige fabric, which is subsequently marketed and sold.\n\nThe company manages the entire production lifecycle, ensuring quality control and rapid adaptation to evolving market demands, from s",
+      "about": "Incorporated in July 2012, Vinod Texworld Limited is engaged in the manufacturing, processing, supplying and trading of textile products, with a focus on dyed and printed fabrics.The Company manufactures and sells dyed and printed fabrics, including cotton, polyester and blended fabrics. Its manufacturing process covers the conversion of greige fabric into dyed and printed fabric, enabling the Company to maintain control over product quality and respond to changing customer requirements. In addi",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -931,10 +1181,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 149.0,
-        "percent": 36.88,
-        "xLot": 5513.0,
-        "updatedOn": "7-Sep 8:33"
+        "value": 123.0,
+        "percent": 30.45,
+        "xLot": 4551.0,
+        "updatedOn": "7-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -989,7 +1239,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 8:30"
+        "updatedOn": "7-Sep 16:59"
       },
       "subscription": {
         "total": null,
@@ -1041,10 +1291,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 35.0,
-        "percent": 19.23,
-        "xLot": 2870.0,
-        "updatedOn": "7-Sep 8:29"
+        "value": 46.0,
+        "percent": 25.27,
+        "xLot": 3772.0,
+        "updatedOn": "7-Sep 16:57"
       },
       "subscription": {
         "total": null,
@@ -1096,10 +1346,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 115.0,
-        "percent": 17.01,
-        "xLot": 2530.0,
-        "updatedOn": "7-Sep 8:30"
+        "value": 80.0,
+        "percent": 11.83,
+        "xLot": 1760.0,
+        "updatedOn": "7-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -1151,10 +1401,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 205.0,
-        "percent": 32.44,
-        "xLot": 4715.0,
-        "updatedOn": "7-Sep 8:35"
+        "value": 198.0,
+        "percent": 31.33,
+        "xLot": 4554.0,
+        "updatedOn": "7-Sep 16:54"
       },
       "subscription": {
         "total": null,

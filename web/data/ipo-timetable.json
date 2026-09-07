@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-07T03:44:23+00:00",
+  "scrapedAt": "2026-09-07T12:00:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 214,
+    "total": 217,
     "mainboard": 76,
-    "sme": 138
+    "sme": 141
   },
   "ipos": [
     {
@@ -5055,6 +5055,30 @@
       }
     },
     {
+      "ipoId": 3089,
+      "name": "Maharaja & Speedex India Ltd.",
+      "slug": "maharaja-speedex-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "refunds": "2026-09-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Sep-2026",
+        "close": "15-Sep-2026",
+        "allotment": "16-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/maharaja-&-speedex-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/maharaja-speedex-ipo/3089/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2987,
       "name": "Om Galaxy Ltd.",
       "slug": "om-galaxy-ipo",
@@ -5103,6 +5127,30 @@
       }
     },
     {
+      "ipoId": 2767,
+      "name": "Raksan Transformers Ltd.",
+      "slug": "raksan-transformers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "refunds": "2026-09-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Sep-2026",
+        "close": "15-Sep-2026",
+        "allotment": "16-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/raksan-transformer-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/raksan-transformers-ipo/2767/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2834,
       "name": "Veegaland Developers Ltd.",
       "slug": "veegaland-developers-ipo",
@@ -5124,6 +5172,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/veegaland-developers-ipo/2834/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2604,
+      "name": "Century Business Media Ltd.",
+      "slug": "century-business-media-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "refunds": "2026-09-18",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "11-Sep-2026",
+        "close": "16-Sep-2026",
+        "allotment": "17-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {
