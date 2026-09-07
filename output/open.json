@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T20:12:07+00:00",
+  "scrapedAt": "2026-09-07T03:44:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,124 @@
     "limit": null
   },
   "summary": {
-    "open": 1,
+    "open": 3,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 1
+    "total": 3
   },
   "ipos": [
+    {
+      "slug": "pranav-constructions-ipo",
+      "ipoId": 2127,
+      "name": "Pranav Constructions",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 118.0,
+        "max": 124.0,
+        "display": "₹118–124"
+      },
+      "lotSize": 120,
+      "issueSize": "₹351.03 Cr",
+      "issueSizeCr": 351.03,
+      "freshIssueCr": 315.6,
+      "ofsCr": 35.43,
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "listing": "2026-09-15"
+      },
+      "gmp": {
+        "value": 44.0,
+        "percent": 35.48,
+        "xLot": 5280.0,
+        "updatedOn": "7-Sep 8:34"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Centrum Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pranav-constructions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pranav-constructions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
+        "gmp": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/"
+      },
+      "gmpId": 1662,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in July 2003, Pranav Constructions Limited is a real estate company primarily engaged in redevelopment projects in the Municipal Corporation of Greater Mumbai (MCGM) Region, with a predominant focus on the Western Suburbs. The Company was originally incorporated as Pranav Constructions Private Limited and was converted into a public limited company in July 2024.\n\nThe Company specializes in pure-play redevelopment and undertakes redevelopment projects across residential segments, inc",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "apana-logistics-ipo",
+      "ipoId": 2762,
+      "name": "Apana Logistics",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 60.0,
+        "max": 60.0,
+        "display": "₹60"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹34.14 Cr",
+      "issueSizeCr": 34.14,
+      "freshIssueCr": 32.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-07",
+        "close": "2026-09-09",
+        "allotment": "2026-09-10",
+        "listing": "2026-09-15"
+      },
+      "gmp": {
+        "value": 8.0,
+        "percent": 13.33,
+        "xLot": 16000.0,
+        "updatedOn": "7-Sep 8:34"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/apana-logistics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=apana-logistics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
+        "gmp": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/"
+      },
+      "gmpId": 2018,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in January 1992, Apana Logistics Limited is engaged in the business of providing logistics support for container handling and transportation. The Company provides a diversified range of logistics services, including container handling at CFSs, ICDs and ports, road transportation, cargo handling at third-party warehouses, and operation and maintenance of truck-trailers and reach stackers. Its fleet includes truck-trailers, reach stackers and cranes, enabling it to provide integrated ",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "qualiance-international-ipo",
       "ipoId": 2979,
@@ -50,7 +160,7 @@
         "value": 55.0,
         "percent": 43.31,
         "xLot": 55000.0,
-        "updatedOn": "6-Sep 23:30"
+        "updatedOn": "7-Sep 8:36"
       },
       "subscription": {
         "total": 13.78,

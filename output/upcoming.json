@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T20:12:07+00:00",
+  "scrapedAt": "2026-09-07T03:44:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -41,7 +41,7 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2026-12-15",
+        "open": "2026-12-16",
         "close": null,
         "allotment": null,
         "listing": null
@@ -50,7 +50,7 @@
         "value": 273.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "6-Sep 23:28"
+        "updatedOn": "7-Sep 8:37"
       },
       "subscription": {
         "total": null,
@@ -86,15 +86,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 40.0,
+        "max": 43.0,
+        "display": "₹40–43"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 348,
+      "issueSize": "₹125.50 Cr",
+      "issueSizeCr": 125.5,
       "freshIssueCr": 92.5,
-      "ofsCr": null,
+      "ofsCr": 33.0,
       "dates": {
         "open": "2026-09-11",
         "close": "2026-09-16",
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "6-Sep 9:30"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 8:36"
       },
       "subscription": {
         "total": null,
@@ -131,6 +131,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 1996, Manika Plastech Limited is engaged in the manufacturing of rigid polymer packaging products, including battery casings, pails and thinwall containers.\n\nThe Company manufactures battery casings, pails and thinwall containers, which cater to various industrial and consumer applications. The Company also manufactures pails used for packaging paints, lubricants and industrial chemicals, while its food-grade thinwall containers are used for the packaging and distribution of dair",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "panchatv-bharat-ipo",
+      "ipoId": 2373,
+      "name": "Panchatv Bharat",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 140.0,
+        "max": 140.0,
+        "display": "₹140"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹24.58 Cr",
+      "issueSizeCr": 24.58,
+      "freshIssueCr": 23.35,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "listing": "2026-09-18"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Mark Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/panchat-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/panchatv-bharat-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=panchatv-bharat-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/panchatv-bharat-ipo/2373/",
+        "gmp": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/"
+      },
+      "gmpId": 1749,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2024, Panchatv Bharat is a textile manufacturing company. The company manufactures denim fabrics through third-party facilities and also wholesales denim fabrics across India, sourcing them from distributors for nationwide distribution.\n\nTheir manufacturing process encompasses the entire fabric production cycle—from yarn procurement and warp dyeing to weaving, finishing, and quality inspection.\n\nThe company engages in third-party manufacturing and wholesale trading of denim fabri",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "veegaland-developers-ipo",
@@ -160,7 +215,7 @@
         "value": 30.0,
         "percent": 21.43,
         "xLot": 3210.0,
-        "updatedOn": "6-Sep 23:35"
+        "updatedOn": "7-Sep 8:34"
       },
       "subscription": {
         "total": null,
@@ -186,6 +241,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "om-galaxy-ipo",
+      "ipoId": 2987,
+      "name": "Om Galaxy",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 85.0,
+        "max": 90.0,
+        "display": "₹85–90"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹105.00 Cr",
+      "issueSizeCr": 105.0,
+      "freshIssueCr": 99.75,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "listing": "2026-09-18"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 8:33"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Indorient Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/om-galaxy-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/om-galaxy-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=om-galaxy-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/om-galaxy-ipo/2987/",
+        "gmp": "https://www.investorgain.com/gmp/om-galaxy-ipo/2249/"
+      },
+      "gmpId": 2249,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2008, Om Galaxy Ltd. is engaged in the business of design, development and manufacturing of Pipe fitting and industrial moulds, automotive moulds, Hot Runner System (“ HRS”) and Cleaning Products. As of June 30, 2026, it has 77 SKUs relating to products manufactured under the brand “ WONDRA. ”\n\nIts products are used across industries including building material (Pipe, Fittings, Sanitaryware), Plastics & Polymer processing, Automotive & Auto Components, Industrial & Engineering.\n\n",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "karamtara-engineering-ipo",
@@ -215,7 +325,7 @@
         "value": 55.0,
         "percent": 21.65,
         "xLot": 3245.0,
-        "updatedOn": "6-Sep 23:34"
+        "updatedOn": "7-Sep 8:33"
       },
       "subscription": {
         "total": null,
@@ -270,7 +380,7 @@
         "value": 25.0,
         "percent": 17.12,
         "xLot": 2550.0,
-        "updatedOn": "6-Sep 23:31"
+        "updatedOn": "7-Sep 8:36"
       },
       "subscription": {
         "total": null,
@@ -325,7 +435,7 @@
         "value": 5.0,
         "percent": 6.67,
         "xLot": 8000.0,
-        "updatedOn": "6-Sep 23:29"
+        "updatedOn": "7-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -361,11 +471,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 77.0,
+        "max": 81.0,
+        "display": "₹77–81"
       },
-      "lotSize": null,
+      "lotSize": 185,
       "issueSize": "₹414.00 Cr",
       "issueSizeCr": 414.0,
       "freshIssueCr": 353.0,
@@ -379,8 +489,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "6-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "7-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -435,7 +545,7 @@
         "value": 30.0,
         "percent": 8.85,
         "xLot": 1320.0,
-        "updatedOn": "6-Sep 23:36"
+        "updatedOn": "7-Sep 8:31"
       },
       "subscription": {
         "total": null,
@@ -490,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Sep 23:35"
+        "updatedOn": "7-Sep 8:32"
       },
       "subscription": {
         "total": null,
@@ -545,7 +655,7 @@
         "value": 4.0,
         "percent": 4.26,
         "xLot": 4800.0,
-        "updatedOn": "6-Sep 23:29"
+        "updatedOn": "7-Sep 8:29"
       },
       "subscription": {
         "total": null,
@@ -600,7 +710,7 @@
         "value": 149.0,
         "percent": 36.88,
         "xLot": 5513.0,
-        "updatedOn": "6-Sep 23:32"
+        "updatedOn": "7-Sep 8:33"
       },
       "subscription": {
         "total": null,
@@ -655,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "6-Sep 23:32"
+        "updatedOn": "7-Sep 8:30"
       },
       "subscription": {
         "total": null,
@@ -710,7 +820,7 @@
         "value": 35.0,
         "percent": 19.23,
         "xLot": 2870.0,
-        "updatedOn": "6-Sep 23:29"
+        "updatedOn": "7-Sep 8:29"
       },
       "subscription": {
         "total": null,
@@ -765,7 +875,7 @@
         "value": 115.0,
         "percent": 17.01,
         "xLot": 2530.0,
-        "updatedOn": "6-Sep 23:32"
+        "updatedOn": "7-Sep 8:30"
       },
       "subscription": {
         "total": null,
@@ -820,7 +930,7 @@
         "value": 205.0,
         "percent": 32.44,
         "xLot": 4715.0,
-        "updatedOn": "6-Sep 23:37"
+        "updatedOn": "7-Sep 8:35"
       },
       "subscription": {
         "total": null,
@@ -846,116 +956,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. The Company caters to industries such as power transmission, railways, renewable energy and power distribution.\n\nThe Company operates through two business segments: (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC). It is one of four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development ",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "pranav-constructions-ipo",
-      "ipoId": 2127,
-      "name": "Pranav Constructions",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 118.0,
-        "max": 124.0,
-        "display": "₹118–124"
-      },
-      "lotSize": 120,
-      "issueSize": "₹351.03 Cr",
-      "issueSizeCr": 351.03,
-      "freshIssueCr": 315.6,
-      "ofsCr": 35.43,
-      "dates": {
-        "open": "2026-09-07",
-        "close": "2026-09-09",
-        "allotment": "2026-09-10",
-        "listing": "2026-09-15"
-      },
-      "gmp": {
-        "value": 44.0,
-        "percent": 35.48,
-        "xLot": 5280.0,
-        "updatedOn": "6-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Centrum Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/pranav-constructions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=pranav-constructions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/",
-        "gmp": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/"
-      },
-      "gmpId": 1662,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in July 2003, Pranav Constructions Limited is a real estate company primarily engaged in redevelopment projects in the Municipal Corporation of Greater Mumbai (MCGM) Region, with a predominant focus on the Western Suburbs. The Company was originally incorporated as Pranav Constructions Private Limited and was converted into a public limited company in July 2024.\n\nThe Company specializes in pure-play redevelopment and undertakes redevelopment projects across residential segments, inc",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "apana-logistics-ipo",
-      "ipoId": 2762,
-      "name": "Apana Logistics",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 60.0,
-        "max": 60.0,
-        "display": "₹60"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹34.14 Cr",
-      "issueSizeCr": 34.14,
-      "freshIssueCr": 32.4,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-07",
-        "close": "2026-09-09",
-        "allotment": "2026-09-10",
-        "listing": "2026-09-15"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 5.0,
-        "xLot": 6000.0,
-        "updatedOn": "6-Sep 23:33"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/apana-logistics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=apana-logistics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/",
-        "gmp": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/"
-      },
-      "gmpId": 2018,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in January 1992, Apana Logistics Limited is engaged in the business of providing logistics support for container handling and transportation. The Company provides a diversified range of logistics services, including container handling at CFSs, ICDs and ports, road transportation, cargo handling at third-party warehouses, and operation and maintenance of truck-trailers and reach stackers. Its fleet includes truck-trailers, reach stackers and cranes, enabling it to provide integrated ",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }

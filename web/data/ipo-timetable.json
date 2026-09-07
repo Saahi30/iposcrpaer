@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-06T20:12:12+00:00",
+  "scrapedAt": "2026-09-07T03:44:23+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 212,
+    "total": 214,
     "mainboard": 76,
-    "sme": 136
+    "sme": 138
   },
   "ipos": [
     {
@@ -5051,6 +5051,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/vinod-texworld-logo.jpeg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2987,
+      "name": "Om Galaxy Ltd.",
+      "slug": "om-galaxy-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "refunds": "2026-09-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Sep-2026",
+        "close": "15-Sep-2026",
+        "allotment": "16-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/om-galaxy-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/om-galaxy-ipo/2987/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2373,
+      "name": "Panchatv Bharat Ltd.",
+      "slug": "panchatv-bharat-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-10",
+        "close": "2026-09-15",
+        "allotment": "2026-09-16",
+        "refunds": "2026-09-17",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "10-Sep-2026",
+        "close": "15-Sep-2026",
+        "allotment": "16-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/panchat-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/panchatv-bharat-ipo/2373/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
