@@ -443,8 +443,8 @@
     "source": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/"
   },
   "subscription": {
-    "summary": "Qualiance International IPO subscribed 90.51 times. The public issue subscribed 119.54 times in the individual investors category, 5.75 times in QIB (Ex Anchor), and 135.49 times in the NII category by September 7, 2026 5:24:59 PM (Day 2).",
-    "total": 90.51,
+    "summary": "Qualiance International IPO subscribed 91.14 times. The public issue subscribed 120.73 times in the individual investors category, 5.75 times in QIB (Ex Anchor), and 135.70 times in the NII category by September 7, 2026 6:54:59 PM (Day 2).",
+    "total": 91.14,
     "applications": null,
     "byCategory": [
       {
@@ -473,11 +473,11 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "135.49",
+        "Subscription (x)": "135.70",
         "Shares Offered*": "5,07,000",
-        "Shares bid for": "6,86,94,000",
-        "Total Amt* (₹ Cr.)": "872.41",
-        "Total Applications": "11,292"
+        "Shares bid for": "6,88,00,000",
+        "Total Amt* (₹ Cr.)": "873.76",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -489,27 +489,27 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "90.76",
+        "Subscription (x)": "91.38",
         "Shares Offered*": "1,71,000",
-        "Shares bid for": "1,55,20,000",
-        "Total Amt* (₹ Cr.)": "197.10",
+        "Shares bid for": "1,56,26,000",
+        "Total Amt* (₹ Cr.)": "198.45",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "119.54",
+        "Subscription (x)": "120.73",
         "Shares Offered*": "11,82,000",
-        "Shares bid for": "14,12,98,000",
-        "Total Amt* (₹ Cr.)": "1,794.48",
-        "Total Applications": "70,649"
+        "Shares bid for": "14,26,98,000",
+        "Total Amt* (₹ Cr.)": "1,812.26",
+        "Total Applications": "71,349"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "90.51",
+        "Subscription (x)": "91.14",
         "Shares Offered*": "23,63,000",
-        "Shares bid for": "21,38,68,000",
-        "Total Amt* (₹ Cr.)": "2,716.12",
-        "Total Applications": "81,948"
+        "Shares bid for": "21,53,74,000",
+        "Total Amt* (₹ Cr.)": "2,735.25",
+        "Total Applications": "82,683"
       }
     ],
     "dayWise": [
@@ -525,11 +525,11 @@
       {
         "Date": "Sep 7 (Day 2)",
         "QIB (Ex Anchor)": "5.75",
-        "NII*": "135.49",
+        "NII*": "135.70",
         "NII (> ₹10L)": "158.26",
-        "NII (< ₹10L)": "90.76",
-        "Individual Investors": "119.54",
-        "Total": "90.51"
+        "NII (< ₹10L)": "91.38",
+        "Individual Investors": "120.73",
+        "Total": "91.14"
       }
     ]
   },
@@ -552,10 +552,10 @@
       "listing": "2026-09-11"
     },
     "gmp": {
-      "value": 55.0,
-      "percent": 43.31,
-      "xLot": 55000.0,
-      "updatedOn": "7-Sep 16:56"
+      "value": 60.0,
+      "percent": 47.24,
+      "xLot": 60000.0,
+      "updatedOn": "7-Sep 22:31"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
@@ -565,5 +565,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-07T11:59:32+00:00"
+  "scrapedAt": "2026-09-07T17:42:59+00:00"
 }

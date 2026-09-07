@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-07T12:00:05+00:00",
+  "scrapedAt": "2026-09-07T17:43:39+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -48,13 +48,13 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 41.0,
-        "percent": 33.06,
-        "xLot": 4920.0,
-        "updatedOn": "7-Sep 16:53"
+        "value": 42.5,
+        "percent": 34.27,
+        "xLot": 5100.0,
+        "updatedOn": "7-Sep 22:31"
       },
       "subscription": {
-        "total": 5.98,
+        "total": 6.03,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -72,10 +72,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "11.11",
+            "Subscription (x)": "11.14",
             "Shares Offered*": "42,46,272",
-            "Shares bid for": "4,71,83,400",
-            "Total Amt* (₹ Cr.)": "585.074"
+            "Shares bid for": "4,72,99,320",
+            "Total Amt* (₹ Cr.)": "586.512"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -86,27 +86,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "14.13",
+            "Subscription (x)": "14.21",
             "Shares Offered*": "14,15,424",
-            "Shares bid for": "2,00,03,640",
-            "Total Amt* (₹ Cr.)": "248.045"
+            "Shares bid for": "2,01,19,560",
+            "Total Amt* (₹ Cr.)": "249.483"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "6.08",
+            "Subscription (x)": "6.14",
             "Shares Offered*": "1,27,38,816",
-            "Shares bid for": "7,74,87,600",
-            "Total Amt* (₹ Cr.)": "960.846"
+            "Shares bid for": "7,82,69,400",
+            "Total Amt* (₹ Cr.)": "970.541"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "5.98",
+            "Subscription (x)": "6.03",
             "Shares Offered*": "2,15,14,446",
-            "Shares bid for": "12,87,55,320",
-            "Total Amt* (₹ Cr.)": "1,596.566"
+            "Shares bid for": "12,96,53,040",
+            "Total Amt* (₹ Cr.)": "1,607.698"
           }
         ],
-        "applications": 582979.0
+        "applications": 589015.0
       },
       "leadManager": "Centrum Capital",
       "symbols": {
@@ -154,10 +154,10 @@
         "listing": "2026-09-15"
       },
       "gmp": {
-        "value": 11.0,
-        "percent": 18.33,
-        "xLot": 22000.0,
-        "updatedOn": "7-Sep 17:02"
+        "value": 10.0,
+        "percent": 16.67,
+        "xLot": 20000.0,
+        "updatedOn": "7-Sep 22:29"
       },
       "subscription": {
         "total": 0.21,
@@ -235,13 +235,13 @@
         "listing": "2026-09-11"
       },
       "gmp": {
-        "value": 55.0,
-        "percent": 43.31,
-        "xLot": 55000.0,
-        "updatedOn": "7-Sep 16:56"
+        "value": 60.0,
+        "percent": 47.24,
+        "xLot": 60000.0,
+        "updatedOn": "7-Sep 22:31"
       },
       "subscription": {
-        "total": 90.51,
+        "total": 91.14,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -269,11 +269,11 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "135.49",
+            "Subscription (x)": "135.70",
             "Shares Offered*": "5,07,000",
-            "Shares bid for": "6,86,94,000",
-            "Total Amt* (₹ Cr.)": "872.41",
-            "Total Applications": "11,292"
+            "Shares bid for": "6,88,00,000",
+            "Total Amt* (₹ Cr.)": "873.76",
+            "Total Applications": "0"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -285,27 +285,27 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "90.76",
+            "Subscription (x)": "91.38",
             "Shares Offered*": "1,71,000",
-            "Shares bid for": "1,55,20,000",
-            "Total Amt* (₹ Cr.)": "197.10",
+            "Shares bid for": "1,56,26,000",
+            "Total Amt* (₹ Cr.)": "198.45",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "119.54",
+            "Subscription (x)": "120.73",
             "Shares Offered*": "11,82,000",
-            "Shares bid for": "14,12,98,000",
-            "Total Amt* (₹ Cr.)": "1,794.48",
-            "Total Applications": "70,649"
+            "Shares bid for": "14,26,98,000",
+            "Total Amt* (₹ Cr.)": "1,812.26",
+            "Total Applications": "71,349"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "90.51",
+            "Subscription (x)": "91.14",
             "Shares Offered*": "23,63,000",
-            "Shares bid for": "21,38,68,000",
-            "Total Amt* (₹ Cr.)": "2,716.12",
-            "Total Applications": "81,948"
+            "Shares bid for": "21,53,74,000",
+            "Total Amt* (₹ Cr.)": "2,735.25",
+            "Total Applications": "82,683"
           }
         ],
         "applications": null
@@ -356,10 +356,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 269.0,
+        "value": 230.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "7-Sep 16:58"
+        "updatedOn": "7-Sep 22:35"
       },
       "subscription": {
         "total": null,
@@ -411,10 +411,10 @@
         "listing": "2026-09-21"
       },
       "gmp": {
-        "value": 17.0,
-        "percent": 39.53,
-        "xLot": 5916.0,
-        "updatedOn": "7-Sep 17:00"
+        "value": 20.0,
+        "percent": 46.51,
+        "xLot": 6960.0,
+        "updatedOn": "7-Sep 22:28"
       },
       "subscription": {
         "total": null,
@@ -469,7 +469,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 16:53"
+        "updatedOn": "7-Sep 22:31"
       },
       "subscription": {
         "total": null,
@@ -524,7 +524,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 16:53"
+        "updatedOn": "7-Sep 22:33"
       },
       "subscription": {
         "total": null,
@@ -579,7 +579,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 17:02"
+        "updatedOn": "7-Sep 22:29"
       },
       "subscription": {
         "total": null,
@@ -634,7 +634,7 @@
         "value": 30.0,
         "percent": 21.43,
         "xLot": 3210.0,
-        "updatedOn": "7-Sep 16:57"
+        "updatedOn": "7-Sep 22:30"
       },
       "subscription": {
         "total": null,
@@ -689,7 +689,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 17:00"
+        "updatedOn": "7-Sep 22:36"
       },
       "subscription": {
         "total": null,
@@ -741,10 +741,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 6.0,
-        "percent": 3.23,
-        "xLot": 3600.0,
-        "updatedOn": "7-Sep 17:00"
+        "value": 15.0,
+        "percent": 8.06,
+        "xLot": 9000.0,
+        "updatedOn": "7-Sep 22:30"
       },
       "subscription": {
         "total": null,
@@ -799,7 +799,7 @@
         "value": 58.0,
         "percent": 22.83,
         "xLot": 3422.0,
-        "updatedOn": "7-Sep 16:55"
+        "updatedOn": "7-Sep 22:28"
       },
       "subscription": {
         "total": null,
@@ -851,10 +851,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 24.0,
-        "percent": 16.44,
-        "xLot": 2448.0,
-        "updatedOn": "7-Sep 17:02"
+        "value": 25.5,
+        "percent": 17.47,
+        "xLot": 2601.0,
+        "updatedOn": "7-Sep 22:30"
       },
       "subscription": {
         "total": null,
@@ -906,10 +906,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 6.67,
-        "xLot": 8000.0,
-        "updatedOn": "7-Sep 16:55"
+        "value": 7.0,
+        "percent": 9.33,
+        "xLot": 11200.0,
+        "updatedOn": "7-Sep 22:29"
       },
       "subscription": {
         "total": null,
@@ -964,7 +964,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 16:56"
+        "updatedOn": "7-Sep 22:37"
       },
       "subscription": {
         "total": null,
@@ -1019,7 +1019,7 @@
         "value": 38.0,
         "percent": 11.21,
         "xLot": 1672.0,
-        "updatedOn": "7-Sep 17:00"
+        "updatedOn": "7-Sep 22:33"
       },
       "subscription": {
         "total": null,
@@ -1071,10 +1071,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 26.0,
-        "percent": 18.71,
-        "xLot": 2782.0,
-        "updatedOn": "7-Sep 17:00"
+        "value": 27.0,
+        "percent": 19.42,
+        "xLot": 2889.0,
+        "updatedOn": "7-Sep 22:28"
       },
       "subscription": {
         "total": null,
@@ -1129,7 +1129,7 @@
         "value": 8.0,
         "percent": 8.51,
         "xLot": 9600.0,
-        "updatedOn": "7-Sep 16:59"
+        "updatedOn": "7-Sep 22:33"
       },
       "subscription": {
         "total": null,
@@ -1181,10 +1181,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 123.0,
-        "percent": 30.45,
-        "xLot": 4551.0,
-        "updatedOn": "7-Sep 17:02"
+        "value": 125.0,
+        "percent": 30.94,
+        "xLot": 4625.0,
+        "updatedOn": "7-Sep 22:34"
       },
       "subscription": {
         "total": null,
@@ -1239,7 +1239,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "7-Sep 16:59"
+        "updatedOn": "7-Sep 22:36"
       },
       "subscription": {
         "total": null,
@@ -1291,10 +1291,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 46.0,
-        "percent": 25.27,
-        "xLot": 3772.0,
-        "updatedOn": "7-Sep 16:57"
+        "value": 51.0,
+        "percent": 28.02,
+        "xLot": 4182.0,
+        "updatedOn": "7-Sep 22:30"
       },
       "subscription": {
         "total": null,
@@ -1346,10 +1346,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 80.0,
-        "percent": 11.83,
-        "xLot": 1760.0,
-        "updatedOn": "7-Sep 17:02"
+        "value": 55.0,
+        "percent": 8.14,
+        "xLot": 1210.0,
+        "updatedOn": "7-Sep 22:32"
       },
       "subscription": {
         "total": null,
@@ -1401,10 +1401,10 @@
         "listing": "2026-09-16"
       },
       "gmp": {
-        "value": 198.0,
-        "percent": 31.33,
-        "xLot": 4554.0,
-        "updatedOn": "7-Sep 16:54"
+        "value": 196.0,
+        "percent": 31.01,
+        "xLot": 4508.0,
+        "updatedOn": "7-Sep 22:33"
       },
       "subscription": {
         "total": null,
