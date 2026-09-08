@@ -508,9 +508,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 172.0,
+      "min": 182.0,
       "max": 182.0,
-      "display": "₹172–182"
+      "display": "₹182"
     },
     "lotSize": 82,
     "issueSize": "₹427.89 Cr",
@@ -524,7 +524,7 @@
       "value": 56.0,
       "percent": 30.77,
       "xLot": 4592.0,
-      "updatedOn": "8-Sep 21:02"
+      "updatedOn": "8-Sep 23:34"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/glass-wall-systems-logo.png",
@@ -534,5 +534,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-08T16:18:51+00:00"
+  "scrapedAt": "2026-09-08T20:54:01+00:00"
 }

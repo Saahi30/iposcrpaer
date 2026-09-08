@@ -449,9 +449,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 601.0,
+      "min": 632.0,
       "max": 632.0,
-      "display": "₹601–632"
+      "display": "₹632"
     },
     "lotSize": 23,
     "issueSize": "₹1055.74 Cr",
@@ -465,7 +465,7 @@
       "value": 218.0,
       "percent": 34.49,
       "xLot": 5014.0,
-      "updatedOn": "8-Sep 20:57"
+      "updatedOn": "8-Sep 23:31"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
@@ -475,5 +475,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-08T16:18:56+00:00"
+  "scrapedAt": "2026-09-08T20:54:06+00:00"
 }
