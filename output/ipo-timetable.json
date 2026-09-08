@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-08T03:49:07+00:00",
+  "scrapedAt": "2026-09-08T10:55:26+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 218,
-    "mainboard": 76,
+    "total": 219,
+    "mainboard": 77,
     "sme": 142
   },
   "ipos": [
@@ -5243,6 +5243,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2803,
+      "name": "Jindal Supreme (India) Ltd.",
+      "slug": "jindal-supreme-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "refunds": "2026-09-22",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "16-Sep-2026",
+        "close": "18-Sep-2026",
+        "allotment": "21-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }

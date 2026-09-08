@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-08T03:49:01+00:00",
+  "scrapedAt": "2026-09-08T10:55:20+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 18,
+    "upcoming": 19,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 18
+    "total": 19
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 221.0,
+        "value": 199.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "8-Sep 9:01"
+        "updatedOn": "8-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "jindal-supreme-ipo",
+      "ipoId": 2803,
+      "name": "Jindal Supreme",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "listing": "2026-09-23"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "8-Sep 14:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Sarthi Capital Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/jindal-supreme-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=jindal-supreme-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/",
+        "gmp": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/"
+      },
+      "gmpId": 2057,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 1974 , Jindal Supreme (India) Limited has been engaged in the manufacturing and supply of steel pipes, tubes and other steel products catering to infrastructure and industrial applications for over five decades. Its product portfolio includes Mild Steel (MS) black pipes and tubes, galvanized pipes, metal beam crash barriers and Galvanized Iron (GI) tubular poles. These products are manufactured in various dimensions as per applicable Indian Standards and are used across wat",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "manika-plastech-ipo",
       "ipoId": 2483,
       "name": "Manika Plastech",
@@ -102,10 +157,10 @@
         "listing": "2026-09-21"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 46.51,
-        "xLot": 6960.0,
-        "updatedOn": "8-Sep 8:55"
+        "value": 17.0,
+        "percent": 39.53,
+        "xLot": 5916.0,
+        "updatedOn": "8-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Sep 8:58"
+        "updatedOn": "8-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -239,7 +294,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 1998, Injecto Polymers Ltd. business operations include manufacturing packaging products and trading of plastic granules and Polyvinyl Chloride (PVC) resins. Under manufacturing, the company manufactures a wide range of packaging products such as Polypropylene Woven Fabrics & Bags, BoPP Bags, Leno Bags, LD & Polyester Pouches, FIBC Bags, and Non-Woven Bags. These products cater to industries like agriculture, food, pharmaceuticals, textiles, chemicals, construction, and consumer ",
+      "about": "Incorporated in September 1998, Injecto Polymers Private Limited, The Company is engaged in the manufacturing of a diverse range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The Company manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non",
       "registrar": "Integrated Registry Management Services Pvt.Ltd."
     },
     {
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Sep 9:00"
+        "updatedOn": "8-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Sep 9:02"
+        "updatedOn": "8-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 30.0,
         "percent": 21.43,
         "xLot": 3210.0,
-        "updatedOn": "8-Sep 8:58"
+        "updatedOn": "8-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Sep 9:02"
+        "updatedOn": "8-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -487,10 +542,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 8.06,
-        "xLot": 9000.0,
-        "updatedOn": "8-Sep 8:58"
+        "value": 30.0,
+        "percent": 16.13,
+        "xLot": 18000.0,
+        "updatedOn": "8-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -542,10 +597,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 58.0,
-        "percent": 22.83,
-        "xLot": 3422.0,
-        "updatedOn": "8-Sep 8:57"
+        "value": 63.0,
+        "percent": 24.8,
+        "xLot": 3717.0,
+        "updatedOn": "8-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -597,10 +652,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 25.5,
-        "percent": 17.47,
-        "xLot": 2601.0,
-        "updatedOn": "8-Sep 8:58"
+        "value": 30.0,
+        "percent": 20.55,
+        "xLot": 3060.0,
+        "updatedOn": "8-Sep 16:01"
       },
       "subscription": {
         "total": null,
@@ -655,7 +710,7 @@
         "value": 7.0,
         "percent": 9.33,
         "xLot": 11200.0,
-        "updatedOn": "8-Sep 8:55"
+        "updatedOn": "8-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -707,10 +762,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "8-Sep 9:00"
+        "value": 25.0,
+        "percent": 30.86,
+        "xLot": 4625.0,
+        "updatedOn": "8-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -765,7 +820,7 @@
         "value": 38.0,
         "percent": 11.21,
         "xLot": 1672.0,
-        "updatedOn": "8-Sep 8:53"
+        "updatedOn": "8-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -817,10 +872,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 19.42,
-        "xLot": 2889.0,
-        "updatedOn": "8-Sep 9:01"
+        "value": 29.0,
+        "percent": 20.86,
+        "xLot": 3103.0,
+        "updatedOn": "8-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -875,7 +930,7 @@
         "value": 8.0,
         "percent": 8.51,
         "xLot": 9600.0,
-        "updatedOn": "8-Sep 8:54"
+        "updatedOn": "8-Sep 16:01"
       },
       "subscription": {
         "total": null,
@@ -927,10 +982,10 @@
         "listing": "2026-09-17"
       },
       "gmp": {
-        "value": 125.0,
-        "percent": 30.94,
-        "xLot": 4625.0,
-        "updatedOn": "8-Sep 9:02"
+        "value": 129.0,
+        "percent": 31.93,
+        "xLot": 4773.0,
+        "updatedOn": "8-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -985,7 +1040,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Sep 9:00"
+        "updatedOn": "8-Sep 16:00"
       },
       "subscription": {
         "total": null,

@@ -449,8 +449,8 @@
     "source": "https://www.chittorgarh.com/ipo/qualiance-international-ipo/2979/"
   },
   "subscription": {
-    "summary": "Qualiance International IPO subscribed 91.14 times. The public issue subscribed 120.73 times in the individual investors category, 5.75 times in QIB (Ex Anchor), and 135.70 times in the NII category by September 7, 2026 6:54:59 PM (Day 2).",
-    "total": 91.14,
+    "summary": "Qualiance International IPO subscribed 457.26 times. The public issue subscribed 443.44 times in the individual investors category, 299.60 times in QIB (Ex Anchor), and 699.04 times in the NII category by September 8, 2026 4:19:03 PM (Day 3).",
+    "total": 457.26,
     "applications": null,
     "byCategory": [
       {
@@ -471,51 +471,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "5.75",
+        "Subscription (x)": "299.60",
         "Shares Offered*": "6,74,000",
-        "Shares bid for": "38,76,000",
-        "Total Amt* (₹ Cr.)": "49.23",
-        "Total Applications": "7"
+        "Shares bid for": "20,19,29,000",
+        "Total Amt* (₹ Cr.)": "2,564.50",
+        "Total Applications": "162"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "135.70",
+        "Subscription (x)": "699.04",
         "Shares Offered*": "5,07,000",
-        "Shares bid for": "6,88,00,000",
-        "Total Amt* (₹ Cr.)": "873.76",
+        "Shares bid for": "35,44,15,000",
+        "Total Amt* (₹ Cr.)": "4,501.07",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "158.26",
+        "Subscription (x)": "850.76",
         "Shares Offered*": "3,36,000",
-        "Shares bid for": "5,31,74,000",
-        "Total Amt* (₹ Cr.)": "675.31",
+        "Shares bid for": "28,58,54,000",
+        "Total Amt* (₹ Cr.)": "3,630.35",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "91.38",
+        "Subscription (x)": "400.94",
         "Shares Offered*": "1,71,000",
-        "Shares bid for": "1,56,26,000",
-        "Total Amt* (₹ Cr.)": "198.45",
+        "Shares bid for": "6,85,61,000",
+        "Total Amt* (₹ Cr.)": "870.72",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "120.73",
+        "Subscription (x)": "443.44",
         "Shares Offered*": "11,82,000",
-        "Shares bid for": "14,26,98,000",
-        "Total Amt* (₹ Cr.)": "1,812.26",
-        "Total Applications": "71,349"
+        "Shares bid for": "52,41,50,000",
+        "Total Amt* (₹ Cr.)": "6,656.71",
+        "Total Applications": "2,62,075"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "91.14",
+        "Subscription (x)": "457.26",
         "Shares Offered*": "23,63,000",
-        "Shares bid for": "21,53,74,000",
-        "Total Amt* (₹ Cr.)": "2,735.25",
-        "Total Applications": "82,683"
+        "Shares bid for": "1,08,04,94,000",
+        "Total Amt* (₹ Cr.)": "13,722.27",
+        "Total Applications": "3,18,731"
       }
     ],
     "dayWise": [
@@ -536,6 +536,15 @@
         "NII (< ₹10L)": "91.38",
         "Individual Investors": "120.73",
         "Total": "91.14"
+      },
+      {
+        "Date": "Sep 8 (Day 3)",
+        "QIB (Ex Anchor)": "299.60",
+        "NII*": "699.04",
+        "NII (> ₹10L)": "850.76",
+        "NII (< ₹10L)": "400.94",
+        "Individual Investors": "443.44",
+        "Total": "457.26"
       }
     ]
   },
@@ -558,10 +567,10 @@
       "listing": "2026-09-11"
     },
     "gmp": {
-      "value": 60.0,
-      "percent": 47.24,
-      "xLot": 60000.0,
-      "updatedOn": "8-Sep 9:00"
+      "value": 65.0,
+      "percent": 51.18,
+      "xLot": 65000.0,
+      "updatedOn": "8-Sep 16:02"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
@@ -571,5 +580,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-08T03:48:27+00:00"
+  "scrapedAt": "2026-09-08T10:54:42+00:00"
 }

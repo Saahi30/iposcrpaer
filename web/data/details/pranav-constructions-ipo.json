@@ -357,58 +357,58 @@
     "source": "https://www.chittorgarh.com/ipo/pranav-constructions-ipo/2127/"
   },
   "subscription": {
-    "summary": "Pranav Constructions IPO subscribed 6.03 times. The public issue subscribed 6.14 times in the retail category, 0.90 times in QIB (Ex Anchor), and 11.14 times in the NII category by September 7, 2026 6:54:49 PM (Day 1).",
-    "total": 6.03,
-    "applications": 589015.0,
+    "summary": "Pranav Constructions IPO subscribed 17.81 times. The public issue subscribed 15.77 times in the retail category, 1.01 times in QIB (Ex Anchor), and 41.84 times in the NII category by September 8, 2026 4:19:51 PM (Day 2).",
+    "total": 17.81,
+    "applications": 1527948.0,
     "byCategory": [
       {
         "Category": "Anchor",
         "Subscription (x)": "1",
         "Shares Offered*": "67,94,034",
         "Shares bid for": "67,94,034",
-        "Total Amt* (₹ Cr.)": "84.246"
+        "Total Amt* (₹ Cr.)": "84.25"
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.90",
+        "Subscription (x)": "1.01",
         "Shares Offered*": "45,29,358",
-        "Shares bid for": "40,84,320",
-        "Total Amt* (₹ Cr.)": "50.646"
+        "Shares bid for": "45,64,200",
+        "Total Amt* (₹ Cr.)": "56.60"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "11.14",
+        "Subscription (x)": "41.84",
         "Shares Offered*": "42,46,272",
-        "Shares bid for": "4,72,99,320",
-        "Total Amt* (₹ Cr.)": "586.512"
+        "Shares bid for": "17,76,81,960",
+        "Total Amt* (₹ Cr.)": "2,203.26"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "9.60",
+        "Subscription (x)": "39.63",
         "Shares Offered*": "28,30,848",
-        "Shares bid for": "2,71,79,760",
-        "Total Amt* (₹ Cr.)": "337.029"
+        "Shares bid for": "11,21,74,920",
+        "Total Amt* (₹ Cr.)": "1,390.97"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "14.21",
+        "Subscription (x)": "46.28",
         "Shares Offered*": "14,15,424",
-        "Shares bid for": "2,01,19,560",
-        "Total Amt* (₹ Cr.)": "249.483"
+        "Shares bid for": "6,55,07,040",
+        "Total Amt* (₹ Cr.)": "812.29"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "6.14",
+        "Subscription (x)": "15.77",
         "Shares Offered*": "1,27,38,816",
-        "Shares bid for": "7,82,69,400",
-        "Total Amt* (₹ Cr.)": "970.541"
+        "Shares bid for": "20,08,96,920",
+        "Total Amt* (₹ Cr.)": "2,491.12"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "6.03",
+        "Subscription (x)": "17.81",
         "Shares Offered*": "2,15,14,446",
-        "Shares bid for": "12,96,53,040",
-        "Total Amt* (₹ Cr.)": "1,607.698"
+        "Shares bid for": "38,31,43,080",
+        "Total Amt* (₹ Cr.)": "4,750.97"
       }
     ],
     "dayWise": [
@@ -420,6 +420,15 @@
         "NII (< ₹10L)": "14.21",
         "Retail": "6.14",
         "Total": "6.03"
+      },
+      {
+        "Date": "Sep 8 (Day 2)",
+        "QIB (Ex Anchor)": "1.01",
+        "NII": "41.84",
+        "NII (> ₹10L)": "39.63",
+        "NII (< ₹10L)": "46.28",
+        "Retail": "15.77",
+        "Total": "17.81"
       }
     ]
   },
@@ -442,10 +451,10 @@
       "listing": "2026-09-15"
     },
     "gmp": {
-      "value": 42.5,
-      "percent": 34.27,
-      "xLot": 5100.0,
-      "updatedOn": "8-Sep 8:54"
+      "value": 42.0,
+      "percent": 33.87,
+      "xLot": 5040.0,
+      "updatedOn": "8-Sep 15:54"
     },
     "leadManager": "Centrum Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/pranav-constructions-logo.png",
@@ -455,5 +464,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-08T03:48:23+00:00"
+  "scrapedAt": "2026-09-08T10:54:38+00:00"
 }
