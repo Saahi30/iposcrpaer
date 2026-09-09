@@ -375,33 +375,41 @@
     "source": "https://www.chittorgarh.com/ipo/apana-logistics-ipo/2762/"
   },
   "subscription": {
-    "summary": "Apana Logistics IPO subscribed 0.62 times. The public issue subscribed 1.13 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.10 times in the NII category by September 8, 2026 6:54:29 PM (Day 2).",
-    "total": 0.62,
+    "summary": "Apana Logistics IPO subscribed 1.24 times. The public issue subscribed 2.19 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.28 times in the NII category by September 9, 2026 4:23:44 PM (Day 3).",
+    "total": 1.24,
     "applications": null,
     "byCategory": [
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "2,90,000",
+        "Shares bid for": "2,90,000",
+        "Total Amt* (₹ Cr.)": "1.74",
+        "Total Applications": "-"
+      },
+      {
         "Category": "NII***",
-        "Subscription (x)": "0.10",
+        "Subscription (x)": "0.28",
         "Shares Offered*": "27,00,000",
-        "Shares bid for": "2,64,000",
-        "Total Amt* (₹ Cr.)": "1.58",
+        "Shares bid for": "7,64,000",
+        "Total Amt* (₹ Cr.)": "4.58",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.13",
+        "Subscription (x)": "2.19",
         "Shares Offered*": "27,00,000",
-        "Shares bid for": "30,60,000",
-        "Total Amt* (₹ Cr.)": "18.36",
+        "Shares bid for": "59,08,000",
+        "Total Amt* (₹ Cr.)": "35.45",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.62",
+        "Subscription (x)": "1.24",
         "Shares Offered*": "54,00,000",
-        "Shares bid for": "33,24,000",
-        "Total Amt* (₹ Cr.)": "19.94",
-        "Total Applications": "810"
+        "Shares bid for": "66,72,000",
+        "Total Amt* (₹ Cr.)": "40.03",
+        "Total Applications": "1,602"
       }
     ],
     "dayWise": [
@@ -416,6 +424,12 @@
         "NII*": "0.10",
         "Individual Investors": "1.13",
         "Total": "0.62"
+      },
+      {
+        "Date": "Sep 9 (Day 3)",
+        "NII*": "0.28",
+        "Individual Investors": "2.19",
+        "Total": "1.24"
       }
     ]
   },
@@ -438,10 +452,10 @@
       "listing": "2026-09-15"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 8.33,
-      "xLot": 10000.0,
-      "updatedOn": "9-Sep 8:57"
+      "value": 0.0,
+      "percent": 0.0,
+      "xLot": 0.0,
+      "updatedOn": "9-Sep 15:56"
     },
     "leadManager": "Corporate Makers",
     "logo": "https://www.chittorgarh.net/images/ipo/apana-logistics-logo.png",
@@ -451,5 +465,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-09T03:53:14+00:00"
+  "scrapedAt": "2026-09-09T10:59:32+00:00"
 }

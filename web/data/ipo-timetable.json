@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-09T03:53:45+00:00",
+  "scrapedAt": "2026-09-09T11:00:06+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 222,
-    "mainboard": 77,
+    "total": 224,
+    "mainboard": 79,
     "sme": 145
   },
   "ipos": [
@@ -5315,6 +5315,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2822,
+      "name": "SS Retail Ltd.",
+      "slug": "ss-retail-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "refunds": "2026-09-22",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "16-Sep-2026",
+        "close": "18-Sep-2026",
+        "allotment": "21-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ss-retail-ipo/2822/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2805,
+      "name": "Sonaselection India Ltd.",
+      "slug": "sonaselection-india-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "refunds": "2026-09-23",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "17-Sep-2026",
+        "close": "21-Sep-2026",
+        "allotment": "22-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

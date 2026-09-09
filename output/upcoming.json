@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-09T03:53:39+00:00",
+  "scrapedAt": "2026-09-09T11:00:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 13,
+    "upcoming": 15,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 15
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 250.0,
+        "value": 221.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "9-Sep 9:00"
+        "updatedOn": "9-Sep 15:59"
       },
       "subscription": {
         "total": null,
@@ -102,10 +102,10 @@
         "listing": "2026-09-25"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "9-Sep 15:58"
       },
       "subscription": {
         "total": null,
@@ -133,6 +133,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "sonaselection-india-ipo",
+      "ipoId": 2805,
+      "name": "Sonaselection India",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "9-Sep 11:50"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sonaselection-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sonaselection-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/",
+        "gmp": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/"
+      },
+      "gmpId": 2059,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2022, the Company is an integrated fabric manufacturing and processing company engaged in the production of value-added textile products. It manufactures 100% cotton fabric, cotton lycra (stretch) fabric, cotton blends and polyester blends, and also undertakes processing of 100% cotton, cotton blends, polyester-viscose (P/V) and polyester fabrics. The Company transitioned from a job-work based processing model to a manufacturing-led model after acquiring an established t",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "jindal-supreme-ipo",
       "ipoId": 2803,
       "name": "Jindal Supreme",
@@ -157,10 +212,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "9-Sep 8:56"
+        "value": 11.0,
+        "percent": 11.83,
+        "xLot": 1771.0,
+        "updatedOn": "9-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -188,6 +243,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "ss-retail-ipo",
+      "ipoId": 2822,
+      "name": "SS Retail",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹500.00 Cr",
+      "issueSizeCr": 500.0,
+      "freshIssueCr": 360.0,
+      "ofsCr": 140.0,
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "listing": "2026-09-23"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "9-Sep 12:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Anand Rathi Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/ss-retail-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ss-retail-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ss-retail-ipo/2822/",
+        "gmp": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/"
+      },
+      "gmpId": 2076,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa and Gujarat. It primarily focuses on Tier II and Tier III and beyond cities and, as of March 31, 2026, operated 503 stores across 215 cities, covering approximately 2,41,365 sq. ft.\n\nThe Company operates under its proprietary brands ‘SS Mobile’, ‘Mobile Exchange Wala’ and ‘The Mobile Space’ through a com",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "quanto-agroworld-ipo",
       "ipoId": 2390,
       "name": "Quanto Agroworld",
@@ -212,10 +322,10 @@
         "listing": "2026-09-22"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "9-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -239,7 +349,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2018, Quanto Agroworld Limited (QuantoAgro) is engaged in the business of sustainable, chemical-free farming of medicinal and aromatic plants, producing essential oils and related products for industries such as pharmaceuticals, home and personal care, food and beverage, and aromatherapy.\n\nThe company has been allotted agricultural land of 800+ acres through Maharashtra State Farming Corporation Limited (“MSFCL”), of which, 424 acres is used for cultivation and additional 312.57 ",
+      "about": "Incorporated in March 2018 as Quanto Agroworld Private Limited, The Company was established with the objective of undertaking agricultural and farming activities and is engaged in the cultivation, processing and supply of Medicinal and Aromatic Plants (MAPs), with lemongrass being its primary crop and principal commercial focus.The Company operates as a specialty botanical ingredient manufacturer, producing lemongrass-based products including lemongrass biomass, lemongrass tea-cut and lemongrass",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -267,10 +377,10 @@
         "listing": "2026-09-22"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "9-Sep 15:59"
       },
       "subscription": {
         "total": null,
@@ -294,7 +404,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2018, Shakti Polytarp Limited manufactures tarpaulin and Shade Net. Its products are manufactured from PP Granules, Linear Low-Density Polyethylene (LLDPE), Low-Density Polyethylene (LDPE) and High-Density Polyethylene (HDPE), which are used across industries including agriculture, construction, automotive, transportation, logistics, and consumer goods.\n\nThe company offers comprehensive services, helping clients choose the appropriate tarpaulin and providing design and cust",
+      "about": "Incorporated in March 2018 as Shakti Polytarp Limited, the Company is engaged in the manufacturing of tarpaulins and other plastic-based products, including shade nets. Tarpaulins are water-resistant and durable sheets used to protect goods, equipment and other materials from rain, moisture, sunlight and other environmental conditions.\n\nThe Company manufactures tarpaulins using Polypropylene (PP) granules, Linear Low-Density Polyethylene (LLDPE), Low-Density Polyethylene (LDPE) and High-Density ",
       "registrar": "Skyline Financial Services Pvt.Ltd."
     },
     {
@@ -325,7 +435,7 @@
         "value": 17.0,
         "percent": 39.53,
         "xLot": 5916.0,
-        "updatedOn": "9-Sep 9:01"
+        "updatedOn": "9-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -380,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 8:59"
+        "updatedOn": "9-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -416,9 +526,9 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 90.0,
+        "min": 98.0,
         "max": 100.0,
-        "display": "₹90–100"
+        "display": "₹98–100"
       },
       "lotSize": 1200,
       "issueSize": "₹56.12 Cr",
@@ -435,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 8:54"
+        "updatedOn": "9-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -471,14 +581,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Fixed Price",
       "priceBand": {
-        "min": 120.0,
-        "max": 120.0,
-        "display": "₹120"
+        "min": 140.0,
+        "max": 140.0,
+        "display": "₹140"
       },
-      "lotSize": 1200,
-      "issueSize": "₹21.08 Cr",
-      "issueSizeCr": 21.08,
-      "freshIssueCr": 19.99,
+      "lotSize": 1000,
+      "issueSize": "₹24.58 Cr",
+      "issueSizeCr": 24.58,
+      "freshIssueCr": 23.35,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-10",
@@ -490,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 8:59"
+        "updatedOn": "9-Sep 16:01"
       },
       "subscription": {
         "total": null,
@@ -514,7 +624,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2024, Panchatv Bharat is a textile manufacturing company. The company manufactures denim fabrics through third-party facilities and also wholesales denim fabrics across India, sourcing them from distributors for nationwide distribution.\n\nTheir manufacturing process encompasses the entire fabric production cycle—from yarn procurement and warp dyeing to weaving, finishing, and quality inspection.\n\nThe company engages in third-party manufacturing and wholesale trading of denim fabri",
+      "about": "Incorporated in March 2024 as Panchatv Bharat Private Limited, Panchatv Bharat Limited is engaged in the manufacturing and distribution of unstitched denim fabrics under its own brand ‘NJD’, primarily catering to garment manufacturers, distributors, dealers and wholesalers across India. Its denim fabrics are offered in various textures, finishes and shades based on customer requirements and are distributed across key markets including Delhi, Uttar Pradesh, Gujarat and Rajasthan.\n\nThe Company fol",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -545,7 +655,7 @@
         "value": 25.0,
         "percent": 9.16,
         "xLot": 10000.0,
-        "updatedOn": "9-Sep 8:57"
+        "updatedOn": "9-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -597,10 +707,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 33.0,
-        "percent": 23.57,
-        "xLot": 3531.0,
-        "updatedOn": "9-Sep 9:01"
+        "value": 15.0,
+        "percent": 10.71,
+        "xLot": 1605.0,
+        "updatedOn": "9-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -655,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 8:53"
+        "updatedOn": "9-Sep 15:56"
       },
       "subscription": {
         "total": null,
@@ -710,7 +820,7 @@
         "value": 30.0,
         "percent": 16.13,
         "xLot": 18000.0,
-        "updatedOn": "9-Sep 8:54"
+        "updatedOn": "9-Sep 15:58"
       },
       "subscription": {
         "total": null,
