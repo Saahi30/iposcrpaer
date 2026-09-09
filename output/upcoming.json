@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-09T16:14:41+00:00",
+  "scrapedAt": "2026-09-09T20:43:20+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 15,
+    "upcoming": 16,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 15
+    "total": 16
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 225.0,
+        "value": 222.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "9-Sep 20:54"
+        "updatedOn": "9-Sep 23:34"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:55"
+        "updatedOn": "9-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -130,6 +130,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Axiom Gas Engineering Ltd. specialises in green energy engineering solutions. The company offers Auto LPG, CNG, and LNG solutions, catering to retail and industrial sectors with a commitment to quality, innovation, and environmental sustainability. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name, \"PRIMEFUEL\" across multiple states in India including Telangana, Karnataka, and Maharashtra.",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "kheria-autocomp-ipo",
+      "ipoId": 2760,
+      "name": "Kheria Autocomp",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "9-Sep 22:20"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "SMC Capitals",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/kheria-autocomp-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=kheria-autocomp-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/",
+        "gmp": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/"
+      },
+      "gmpId": 2016,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Kheria Autocomp Ltd. is an auto ancillary unit engaged in the business of plastic injection moulding, specializing in the manufacture and sub-assembly operations of plastic components, primarily for the automotive sector.\n\nThe Company operates as a Tier-II supplier, producing moulded plastic components as per specifications for Tier-I vendors who supply to Original Equipment Manufacturers (OEMs) in the passenger vehicle categories.\n\nIts product range is supplied for both in",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -215,7 +270,7 @@
         "value": 11.0,
         "percent": 11.83,
         "xLot": 1771.0,
-        "updatedOn": "9-Sep 20:53"
+        "updatedOn": "9-Sep 23:32"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:57"
+        "updatedOn": "9-Sep 23:28"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:57"
+        "updatedOn": "9-Sep 23:36"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 13.0,
         "percent": 30.23,
         "xLot": 4524.0,
-        "updatedOn": "9-Sep 20:53"
+        "updatedOn": "9-Sep 23:30"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:59"
+        "updatedOn": "9-Sep 23:28"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:53"
+        "updatedOn": "9-Sep 23:30"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 20:59"
+        "updatedOn": "9-Sep 23:29"
       },
       "subscription": {
         "total": null,
@@ -655,7 +710,7 @@
         "value": 25.0,
         "percent": 9.16,
         "xLot": 10000.0,
-        "updatedOn": "9-Sep 20:59"
+        "updatedOn": "9-Sep 23:36"
       },
       "subscription": {
         "total": null,
@@ -707,10 +762,10 @@
         "listing": "2026-09-18"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 7.14,
-        "xLot": 1070.0,
-        "updatedOn": "9-Sep 20:59"
+        "value": 24.0,
+        "percent": 17.14,
+        "xLot": 2568.0,
+        "updatedOn": "9-Sep 23:28"
       },
       "subscription": {
         "total": null,
@@ -765,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Sep 21:02"
+        "updatedOn": "9-Sep 23:28"
       },
       "subscription": {
         "total": null,
@@ -820,7 +875,7 @@
         "value": 30.0,
         "percent": 16.13,
         "xLot": 18000.0,
-        "updatedOn": "9-Sep 21:00"
+        "updatedOn": "9-Sep 23:31"
       },
       "subscription": {
         "total": null,
