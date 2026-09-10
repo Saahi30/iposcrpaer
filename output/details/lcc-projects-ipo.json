@@ -437,9 +437,9 @@
     "source": "https://www.chittorgarh.com/ipo/lcc-projects-ipo/2086/"
   },
   "subscription": {
-    "summary": "LCC Projects IPO subscribed 3.42 times. The public issue subscribed 4.27 times in the retail category, 1.15 times in QIB (Ex Anchor), and 4.45 times in the NII category by September 10, 2026 4:24:18 PM (Day 2).",
-    "total": 3.42,
-    "applications": 398207.0,
+    "summary": "LCC Projects IPO subscribed 3.93 times. The public issue subscribed 4.84 times in the retail category, 1.16 times in QIB (Ex Anchor), and 5.49 times in the NII category by September 10, 2026 5:09:19 PM (Day 2).",
+    "total": 3.93,
+    "applications": 455852.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -450,45 +450,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.15",
+        "Subscription (x)": "1.16",
         "Shares Offered*": "58,51,247",
-        "Shares bid for": "67,46,076",
-        "Total Amt* (₹ Cr.)": "98.493"
+        "Shares bid for": "67,69,944",
+        "Total Amt* (₹ Cr.)": "98.841"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "4.45",
+        "Subscription (x)": "5.49",
         "Shares Offered*": "43,88,435",
-        "Shares bid for": "1,95,49,422",
-        "Total Amt* (₹ Cr.)": "285.422"
+        "Shares bid for": "2,40,90,768",
+        "Total Amt* (₹ Cr.)": "351.725"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.65",
+        "Subscription (x)": "4.32",
         "Shares Offered*": "29,25,623",
-        "Shares bid for": "1,06,88,274",
-        "Total Amt* (₹ Cr.)": "156.049"
+        "Shares bid for": "1,26,52,488",
+        "Total Amt* (₹ Cr.)": "184.726"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "6.06",
+        "Subscription (x)": "7.82",
         "Shares Offered*": "14,62,812",
-        "Shares bid for": "88,61,148",
-        "Total Amt* (₹ Cr.)": "129.373"
+        "Shares bid for": "1,14,38,280",
+        "Total Amt* (₹ Cr.)": "166.999"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "4.27",
+        "Subscription (x)": "4.84",
         "Shares Offered*": "1,02,39,681",
-        "Shares bid for": "4,37,42,598",
-        "Total Amt* (₹ Cr.)": "638.642"
+        "Shares bid for": "4,95,40,686",
+        "Total Amt* (₹ Cr.)": "723.294"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.42",
+        "Subscription (x)": "3.93",
         "Shares Offered*": "2,04,79,363",
-        "Shares bid for": "7,00,38,096",
-        "Total Amt* (₹ Cr.)": "1,022.556"
+        "Shares bid for": "8,04,01,398",
+        "Total Amt* (₹ Cr.)": "1,173.860"
       }
     ],
     "dayWise": [
@@ -503,12 +503,12 @@
       },
       {
         "Date": "Sep 10 (Day 2)",
-        "QIB (Ex Anchor)": "1.15",
-        "NII": "4.45",
-        "NII (> ₹10L)": "3.65",
-        "NII (< ₹10L)": "6.06",
-        "Retail": "4.27",
-        "Total": "3.42"
+        "QIB (Ex Anchor)": "1.16",
+        "NII": "5.49",
+        "NII (> ₹10L)": "4.32",
+        "NII (< ₹10L)": "7.82",
+        "Retail": "4.84",
+        "Total": "3.93"
       }
     ]
   },
@@ -531,10 +531,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 49.7,
-      "percent": 34.04,
-      "xLot": 5069.4,
-      "updatedOn": "10-Sep 16:02"
+      "value": 50.0,
+      "percent": 34.25,
+      "xLot": 5100.0,
+      "updatedOn": "10-Sep 20:56"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/lcc-projects-ipo-logo.png",
@@ -544,5 +544,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T10:56:17+00:00"
+  "scrapedAt": "2026-09-10T16:05:09+00:00"
 }

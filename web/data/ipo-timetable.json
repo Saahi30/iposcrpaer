@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-10T10:57:07+00:00",
+  "scrapedAt": "2026-09-10T16:05:56+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -4704,13 +4704,13 @@
         "close": "2026-09-08",
         "allotment": "2026-09-09",
         "refunds": "2026-09-10",
-        "listing": null
+        "listing": "2026-09-11"
       },
       "displayDates": {
         "open": "04-Sep-2026",
         "close": "08-Sep-2026",
         "allotment": "09-Sep-2026",
-        "listing": null
+        "listing": "11-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/qualiance-ipo-logo.jpg",
       "urls": {
@@ -5367,30 +5367,6 @@
       }
     },
     {
-      "ipoId": 3151,
-      "name": "National Stock Exchange of India Ltd.",
-      "slug": "nse-ipo",
-      "type": "mainboard",
-      "dates": {
-        "open": "2026-09-16",
-        "close": "2026-09-18",
-        "allotment": "2026-09-21",
-        "refunds": "2026-09-22",
-        "listing": null
-      },
-      "displayDates": {
-        "open": "16-Sep-2026",
-        "close": "18-Sep-2026",
-        "allotment": "21-Sep-2026",
-        "listing": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
-      "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/nse-ipo/3151/",
-        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
-      }
-    },
-    {
       "ipoId": 2822,
       "name": "SS Retail Ltd.",
       "slug": "ss-retail-ipo",
@@ -5436,6 +5412,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3151,
+      "name": "National Stock Exchange of India Ltd.",
+      "slug": "nse-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "refunds": "2026-09-23",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "17-Sep-2026",
+        "close": "21-Sep-2026",
+        "allotment": "22-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nse-ipo/3151/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

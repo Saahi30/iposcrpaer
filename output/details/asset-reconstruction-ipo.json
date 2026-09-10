@@ -355,9 +355,9 @@
     "source": "https://www.chittorgarh.com/ipo/asset-reconstruction-ipo/2558/"
   },
   "subscription": {
-    "summary": "Asset Reconstruction IPO subscribed 0.80 times. The public issue subscribed 1.15 times in the retail category, 0.10 times in QIB (Ex Anchor), and 0.91 times in the NII category by September 10, 2026 4:23:28 PM (Day 2).",
-    "total": 0.8,
-    "applications": 182467.0,
+    "summary": "Asset Reconstruction IPO subscribed 0.87 times. The public issue subscribed 1.24 times in the retail category, 0.10 times in QIB (Ex Anchor), and 1.03 times in the NII category by September 10, 2026 5:08:28 PM (Day 2).",
+    "total": 0.87,
+    "applications": 196716.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -370,43 +370,43 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.10",
         "Shares Offered*": "1,05,46,390",
-        "Shares bid for": "10,35,225",
-        "Total Amt* (₹ Cr.)": "14.390"
+        "Shares bid for": "10,46,995",
+        "Total Amt* (₹ Cr.)": "14.553"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.91",
+        "Subscription (x)": "1.03",
         "Shares Offered*": "79,09,792",
-        "Shares bid for": "72,34,056",
-        "Total Amt* (₹ Cr.)": "100.553"
+        "Shares bid for": "81,52,544",
+        "Total Amt* (₹ Cr.)": "113.320"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "0.68",
         "Shares Offered*": "52,73,195",
-        "Shares bid for": "31,35,207",
-        "Total Amt* (₹ Cr.)": "43.579"
+        "Shares bid for": "35,76,796",
+        "Total Amt* (₹ Cr.)": "49.717"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.55",
+        "Subscription (x)": "1.74",
         "Shares Offered*": "26,36,597",
-        "Shares bid for": "40,98,849",
-        "Total Amt* (₹ Cr.)": "56.974"
+        "Shares bid for": "45,75,748",
+        "Total Amt* (₹ Cr.)": "63.603"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.15",
+        "Subscription (x)": "1.24",
         "Shares Offered*": "1,84,56,181",
-        "Shares bid for": "2,13,13,972",
-        "Total Amt* (₹ Cr.)": "296.264"
+        "Shares bid for": "2,28,30,376",
+        "Total Amt* (₹ Cr.)": "317.342"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "0.87",
         "Shares Offered*": "3,69,12,363",
-        "Shares bid for": "2,95,83,253",
-        "Total Amt* (₹ Cr.)": "411.207"
+        "Shares bid for": "3,20,29,915",
+        "Total Amt* (₹ Cr.)": "445.216"
       }
     ],
     "dayWise": [
@@ -422,11 +422,11 @@
       {
         "Date": "Sep 10 (Day 2)",
         "QIB (Ex Anchor)": "0.10",
-        "NII": "0.91",
-        "NII (> ₹10L)": "0.59",
-        "NII (< ₹10L)": "1.55",
-        "Retail": "1.15",
-        "Total": "0.80"
+        "NII": "1.03",
+        "NII (> ₹10L)": "0.68",
+        "NII (< ₹10L)": "1.74",
+        "Retail": "1.24",
+        "Total": "0.87"
       }
     ]
   },
@@ -449,10 +449,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 14.5,
-      "percent": 10.43,
-      "xLot": 1551.5,
-      "updatedOn": "10-Sep 15:56"
+      "value": 14.0,
+      "percent": 10.07,
+      "xLot": 1498.0,
+      "updatedOn": "10-Sep 21:02"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/asset-reconstruction-logo.jpg",
@@ -462,5 +462,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T10:56:25+00:00"
+  "scrapedAt": "2026-09-10T16:05:17+00:00"
 }
