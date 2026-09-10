@@ -378,9 +378,9 @@
     "source": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/"
   },
   "subscription": {
-    "summary": "Kanohar Electricals IPO subscribed 10.22 times. The public issue subscribed 8.49 times in the retail category, 6.50 times in QIB (Ex Anchor), and 19.22 times in the NII category by September 9, 2026 5:05:25 PM (Day 2).",
-    "total": 10.22,
-    "applications": 2015934.0,
+    "summary": "Kanohar Electricals IPO subscribed 90.27 times. The public issue subscribed 19.92 times in the retail category, 215.37 times in QIB (Ex Anchor), and 87.60 times in the NII category by September 10, 2026 4:24:06 PM (Day 3).",
+    "total": 90.27,
+    "applications": 4795767.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -391,45 +391,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "6.50",
+        "Subscription (x)": "215.37",
         "Shares Offered*": "33,40,950",
-        "Shares bid for": "2,17,12,667",
-        "Total Amt* (₹ Cr.)": "1,372.24"
+        "Shares bid for": "71,95,39,590",
+        "Total Amt* (₹ Cr.)": "45,474.90"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "19.22",
+        "Subscription (x)": "87.60",
         "Shares Offered*": "25,05,713",
-        "Shares bid for": "4,81,70,372",
-        "Total Amt* (₹ Cr.)": "3,044.37"
+        "Shares bid for": "21,95,05,767",
+        "Total Amt* (₹ Cr.)": "13,872.76"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "17.91",
+        "Subscription (x)": "94.04",
         "Shares Offered*": "16,70,475",
-        "Shares bid for": "2,99,26,197",
-        "Total Amt* (₹ Cr.)": "1,891.34"
+        "Shares bid for": "15,70,86,665",
+        "Total Amt* (₹ Cr.)": "9,927.88"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "21.84",
+        "Subscription (x)": "74.73",
         "Shares Offered*": "8,35,238",
-        "Shares bid for": "1,82,44,175",
-        "Total Amt* (₹ Cr.)": "1,153.03"
+        "Shares bid for": "6,24,19,102",
+        "Total Amt* (₹ Cr.)": "3,944.89"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "8.49",
+        "Subscription (x)": "19.92",
         "Shares Offered*": "58,46,663",
-        "Shares bid for": "4,96,66,361",
-        "Total Amt* (₹ Cr.)": "3,138.91"
+        "Shares bid for": "11,64,71,655",
+        "Total Amt* (₹ Cr.)": "7,361.01"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "10.22",
+        "Subscription (x)": "90.27",
         "Shares Offered*": "1,16,93,326",
-        "Shares bid for": "11,95,49,400",
-        "Total Amt* (₹ Cr.)": "7,555.52"
+        "Shares bid for": "1,05,55,17,012",
+        "Total Amt* (₹ Cr.)": "66,708.68"
       }
     ],
     "dayWise": [
@@ -450,6 +450,15 @@
         "NII (< ₹10L)": "21.84",
         "Retail": "8.49",
         "Total": "10.22"
+      },
+      {
+        "Date": "Sep 10 (Day 3)",
+        "QIB (Ex Anchor)": "215.37",
+        "NII": "87.60",
+        "NII (> ₹10L)": "94.04",
+        "NII (< ₹10L)": "74.73",
+        "Retail": "19.92",
+        "Total": "90.27"
       }
     ]
   },
@@ -472,10 +481,10 @@
       "listing": "2026-09-16"
     },
     "gmp": {
-      "value": 223.0,
-      "percent": 35.28,
-      "xLot": 5129.0,
-      "updatedOn": "10-Sep 8:55"
+      "value": 225.0,
+      "percent": 35.6,
+      "xLot": 5175.0,
+      "updatedOn": "10-Sep 15:59"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
@@ -485,5 +494,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:50+00:00"
+  "scrapedAt": "2026-09-10T10:56:36+00:00"
 }

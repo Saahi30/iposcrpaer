@@ -437,9 +437,9 @@
     "source": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/"
   },
   "subscription": {
-    "summary": "Glass Wall Systems IPO subscribed 8.23 times. The public issue subscribed 10.96 times in the retail category, 0.30 times in QIB (Ex Anchor), and 12.41 times in the NII category by September 9, 2026 5:05:03 PM (Day 2).",
-    "total": 8.23,
-    "applications": 1022001.0,
+    "summary": "Glass Wall Systems IPO subscribed 81.15 times. The public issue subscribed 32.23 times in the retail category, 167.93 times in QIB (Ex Anchor), and 79.58 times in the NII category by September 10, 2026 4:23:34 PM (Day 3).",
+    "total": 81.15,
+    "applications": 3022438.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -450,45 +450,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.30",
+        "Subscription (x)": "167.93",
         "Shares Offered*": "47,02,085",
-        "Shares bid for": "14,25,734",
-        "Total Amt* (₹ Cr.)": "25.95"
+        "Shares bid for": "78,96,08,094",
+        "Total Amt* (₹ Cr.)": "14,370.87"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "12.41",
+        "Subscription (x)": "79.58",
         "Shares Offered*": "35,26,564",
-        "Shares bid for": "4,37,68,812",
-        "Total Amt* (₹ Cr.)": "796.59"
+        "Shares bid for": "28,06,42,622",
+        "Total Amt* (₹ Cr.)": "5,107.70"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "9.16",
+        "Subscription (x)": "73.90",
         "Shares Offered*": "23,51,043",
-        "Shares bid for": "2,15,43,942",
-        "Total Amt* (₹ Cr.)": "392.10"
+        "Shares bid for": "17,37,47,340",
+        "Total Amt* (₹ Cr.)": "3,162.20"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "18.91",
+        "Subscription (x)": "90.93",
         "Shares Offered*": "11,75,521",
-        "Shares bid for": "2,22,24,870",
-        "Total Amt* (₹ Cr.)": "404.49"
+        "Shares bid for": "10,68,95,282",
+        "Total Amt* (₹ Cr.)": "1,945.49"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "10.96",
+        "Subscription (x)": "32.23",
         "Shares Offered*": "82,28,649",
-        "Shares bid for": "9,02,03,116",
-        "Total Amt* (₹ Cr.)": "1,641.70"
+        "Shares bid for": "26,52,17,110",
+        "Total Amt* (₹ Cr.)": "4,826.95"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "8.23",
+        "Subscription (x)": "81.15",
         "Shares Offered*": "1,64,57,298",
-        "Shares bid for": "13,53,97,662",
-        "Total Amt* (₹ Cr.)": "2,464.24"
+        "Shares bid for": "1,33,54,67,826",
+        "Total Amt* (₹ Cr.)": "24,305.51"
       }
     ],
     "dayWise": [
@@ -509,6 +509,15 @@
         "NII (< ₹10L)": "18.91",
         "Retail": "10.96",
         "Total": "8.23"
+      },
+      {
+        "Date": "Sep 10 (Day 3)",
+        "QIB (Ex Anchor)": "167.93",
+        "NII": "79.58",
+        "NII (> ₹10L)": "73.90",
+        "NII (< ₹10L)": "90.93",
+        "Retail": "32.23",
+        "Total": "81.15"
       }
     ]
   },
@@ -531,10 +540,10 @@
       "listing": "2026-09-16"
     },
     "gmp": {
-      "value": 65.0,
-      "percent": 35.71,
-      "xLot": 5330.0,
-      "updatedOn": "10-Sep 8:58"
+      "value": 47.0,
+      "percent": 25.82,
+      "xLot": 3854.0,
+      "updatedOn": "10-Sep 16:00"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/glass-wall-systems-logo.png",
@@ -544,5 +553,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:46+00:00"
+  "scrapedAt": "2026-09-10T10:56:32+00:00"
 }

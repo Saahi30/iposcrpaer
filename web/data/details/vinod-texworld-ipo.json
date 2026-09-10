@@ -384,33 +384,41 @@
     "source": "https://www.chittorgarh.com/ipo/vinod-texworld-ipo/2718/"
   },
   "subscription": {
-    "summary": "Vinod Texworld IPO subscribed 0.05 times. The public issue subscribed 0.09 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.00 times in the NII category by September 9, 2026 6:54:12 PM (Day 1).",
-    "total": 0.05,
+    "summary": "Vinod Texworld IPO subscribed 0.53 times. The public issue subscribed 0.99 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.07 times in the NII category by September 10, 2026 4:24:09 PM (Day 2).",
+    "total": 0.53,
     "applications": null,
     "byCategory": [
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "2,28,000",
+        "Shares bid for": "2,28,000",
+        "Total Amt* (₹ Cr.)": "2.14",
+        "Total Applications": "-"
+      },
+      {
         "Category": "NII***",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.07",
         "Shares Offered*": "21,64,800",
-        "Shares bid for": "4,800",
-        "Total Amt* (₹ Cr.)": "0.05",
+        "Shares bid for": "1,50,000",
+        "Total Amt* (₹ Cr.)": "1.41",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.09",
+        "Subscription (x)": "0.99",
         "Shares Offered*": "21,63,600",
-        "Shares bid for": "1,94,400",
-        "Total Amt* (₹ Cr.)": "1.83",
-        "Total Applications": "81"
+        "Shares bid for": "21,33,600",
+        "Total Amt* (₹ Cr.)": "20.06",
+        "Total Applications": "889"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.05",
+        "Subscription (x)": "0.53",
         "Shares Offered*": "43,28,400",
-        "Shares bid for": "1,99,200",
-        "Total Amt* (₹ Cr.)": "1.87",
-        "Total Applications": "82"
+        "Shares bid for": "22,83,600",
+        "Total Amt* (₹ Cr.)": "21.47",
+        "Total Applications": "919"
       }
     ],
     "dayWise": [
@@ -419,6 +427,12 @@
         "NII*": "0.00",
         "Individual Investors": "0.09",
         "Total": "0.05"
+      },
+      {
+        "Date": "Sep 10 (Day 2)",
+        "NII*": "0.07",
+        "Individual Investors": "0.99",
+        "Total": "0.53"
       }
     ]
   },
@@ -444,7 +458,7 @@
       "value": 20.0,
       "percent": 21.28,
       "xLot": 24000.0,
-      "updatedOn": "10-Sep 8:54"
+      "updatedOn": "10-Sep 16:00"
     },
     "leadManager": "Novus Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/vinod-texworld-logo.jpeg",
@@ -454,5 +468,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:40+00:00"
+  "scrapedAt": "2026-09-10T10:56:27+00:00"
 }

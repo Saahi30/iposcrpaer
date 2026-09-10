@@ -381,9 +381,9 @@
     "source": "https://www.chittorgarh.com/ipo/karamtara-engineering-ipo/2020/"
   },
   "subscription": {
-    "summary": "Karamtara Engineering IPO subscribed 1.34 times. The public issue subscribed 1.13 times in the retail category, 1.26 times in QIB (Ex Anchor), and 1.90 times in the NII category by September 9, 2026 5:06:02 PM (Day 1).",
-    "total": 1.34,
-    "applications": 214244.0,
+    "summary": "Karamtara Engineering IPO subscribed 3.48 times. The public issue subscribed 3.17 times in the retail category, 2.31 times in QIB (Ex Anchor), and 5.75 times in the NII category by September 10, 2026 4:24:12 PM (Day 2).",
+    "total": 3.48,
+    "applications": 599571.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -394,45 +394,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.26",
+        "Subscription (x)": "2.31",
         "Shares Offered*": "68,89,765",
-        "Shares bid for": "86,99,078",
-        "Total Amt* (₹ Cr.)": "220.957"
+        "Shares bid for": "1,58,90,942",
+        "Total Amt* (₹ Cr.)": "403.630"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.90",
+        "Subscription (x)": "5.75",
         "Shares Offered*": "51,67,323",
-        "Shares bid for": "98,32,881",
-        "Total Amt* (₹ Cr.)": "249.755"
+        "Shares bid for": "2,97,06,382",
+        "Total Amt* (₹ Cr.)": "754.542"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.03",
+        "Subscription (x)": "5.36",
         "Shares Offered*": "34,44,882",
-        "Shares bid for": "69,93,211",
-        "Total Amt* (₹ Cr.)": "177.628"
+        "Shares bid for": "1,84,56,439",
+        "Total Amt* (₹ Cr.)": "468.794"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.65",
+        "Subscription (x)": "6.53",
         "Shares Offered*": "17,22,441",
-        "Shares bid for": "28,39,670",
-        "Total Amt* (₹ Cr.)": "72.128"
+        "Shares bid for": "1,12,49,943",
+        "Total Amt* (₹ Cr.)": "285.749"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.13",
+        "Subscription (x)": "3.17",
         "Shares Offered*": "1,20,57,086",
-        "Shares bid for": "1,36,68,648",
-        "Total Amt* (₹ Cr.)": "347.184"
+        "Shares bid for": "3,81,99,786",
+        "Total Amt* (₹ Cr.)": "970.275"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.34",
+        "Subscription (x)": "3.48",
         "Shares Offered*": "2,41,14,174",
-        "Shares bid for": "3,22,00,607",
-        "Total Amt* (₹ Cr.)": "817.895"
+        "Shares bid for": "8,37,97,110",
+        "Total Amt* (₹ Cr.)": "2,128.447"
       }
     ],
     "dayWise": [
@@ -444,6 +444,15 @@
         "NII (< ₹10L)": "1.65",
         "Retail": "1.13",
         "Total": "1.34"
+      },
+      {
+        "Date": "Sep 10 (Day 2)",
+        "QIB (Ex Anchor)": "2.31",
+        "NII": "5.75",
+        "NII (> ₹10L)": "5.36",
+        "NII (< ₹10L)": "6.53",
+        "Retail": "3.17",
+        "Total": "3.48"
       }
     ]
   },
@@ -466,10 +475,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 75.0,
-      "percent": 29.53,
-      "xLot": 4425.0,
-      "updatedOn": "10-Sep 8:57"
+      "value": 67.0,
+      "percent": 26.38,
+      "xLot": 3953.0,
+      "updatedOn": "10-Sep 15:56"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/karamtara-engineering-ipo-logo.jpg",
@@ -479,5 +488,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:28+00:00"
+  "scrapedAt": "2026-09-10T10:56:16+00:00"
 }

@@ -387,9 +387,9 @@
     "source": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/"
   },
   "subscription": {
-    "summary": "Prasol Chemicals IPO subscribed 0.76 times. The public issue subscribed 1.19 times in the retail category, 0.06 times in QIB (Ex Anchor), and 0.69 times in the NII category by September 9, 2026 5:05:13 PM (Day 2).",
-    "total": 0.76,
-    "applications": 120926.0,
+    "summary": "Prasol Chemicals IPO subscribed 3.44 times. The public issue subscribed 1.75 times in the retail category, 7.59 times in QIB (Ex Anchor), and 1.86 times in the NII category by September 10, 2026 4:24:40 PM (Day 3).",
+    "total": 3.44,
+    "applications": 178568.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -400,45 +400,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "7.59",
         "Shares Offered*": "14,79,289",
-        "Shares bid for": "82,192",
-        "Total Amt* (₹ Cr.)": "5.556"
+        "Shares bid for": "1,12,28,140",
+        "Total Amt* (₹ Cr.)": "759.022"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.69",
+        "Subscription (x)": "1.86",
         "Shares Offered*": "11,09,466",
-        "Shares bid for": "7,68,900",
-        "Total Amt* (₹ Cr.)": "51.978"
+        "Shares bid for": "20,67,032",
+        "Total Amt* (₹ Cr.)": "139.731"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.39",
+        "Subscription (x)": "1.22",
         "Shares Offered*": "7,39,644",
-        "Shares bid for": "2,85,450",
-        "Total Amt* (₹ Cr.)": "19.296"
+        "Shares bid for": "9,01,560",
+        "Total Amt* (₹ Cr.)": "60.945"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.31",
+        "Subscription (x)": "3.15",
         "Shares Offered*": "3,69,822",
-        "Shares bid for": "4,83,450",
-        "Total Amt* (₹ Cr.)": "32.681"
+        "Shares bid for": "11,65,472",
+        "Total Amt* (₹ Cr.)": "78.786"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.19",
+        "Subscription (x)": "1.75",
         "Shares Offered*": "25,88,753",
-        "Shares bid for": "30,92,760",
-        "Total Amt* (₹ Cr.)": "209.071"
+        "Shares bid for": "45,39,370",
+        "Total Amt* (₹ Cr.)": "306.861"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.76",
+        "Subscription (x)": "3.44",
         "Shares Offered*": "51,77,508",
-        "Shares bid for": "39,43,852",
-        "Total Amt* (₹ Cr.)": "266.604"
+        "Shares bid for": "1,78,34,542",
+        "Total Amt* (₹ Cr.)": "1,205.615"
       }
     ],
     "dayWise": [
@@ -459,6 +459,15 @@
         "NII (< ₹10L)": "1.31",
         "Retail": "1.19",
         "Total": "0.76"
+      },
+      {
+        "Date": "Sep 10 (Day 3)",
+        "QIB (Ex Anchor)": "7.59",
+        "NII": "1.86",
+        "NII (> ₹10L)": "1.22",
+        "NII (< ₹10L)": "3.15",
+        "Retail": "1.75",
+        "Total": "3.44"
       }
     ]
   },
@@ -484,7 +493,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "10-Sep 9:00"
+      "updatedOn": "10-Sep 15:53"
     },
     "leadManager": "Dam Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/prasol-logo.jpg",
@@ -494,5 +503,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:48+00:00"
+  "scrapedAt": "2026-09-10T10:56:34+00:00"
 }

@@ -309,33 +309,41 @@
     "source": "https://www.chittorgarh.com/ipo/infrax-renewable-ipo/3163/"
   },
   "subscription": {
-    "summary": "Infrax Renewable IPO subscribed 0.08 times. The public issue subscribed 0.16 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.01 times in the NII category by September 9, 2026 5:06:44 PM (Day 1).",
-    "total": 0.08,
+    "summary": "Infrax Renewable IPO subscribed 0.19 times. The public issue subscribed 0.35 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.03 times in the NII category by September 10, 2026 4:24:14 PM (Day 2).",
+    "total": 0.19,
     "applications": null,
     "byCategory": [
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,99,200",
+        "Shares bid for": "1,99,200",
+        "Total Amt* (₹ Cr.)": "2.07",
+        "Total Applications": "-"
+      },
+      {
         "Category": "NII***",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.03",
         "Shares Offered*": "18,50,400",
-        "Shares bid for": "16,800",
-        "Total Amt* (₹ Cr.)": "0.17",
+        "Shares bid for": "49,200",
+        "Total Amt* (₹ Cr.)": "0.51",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "0.35",
         "Shares Offered*": "18,81,600",
-        "Shares bid for": "3,00,000",
-        "Total Amt* (₹ Cr.)": "3.12",
+        "Shares bid for": "6,52,800",
+        "Total Amt* (₹ Cr.)": "6.79",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.19",
         "Shares Offered*": "37,32,000",
-        "Shares bid for": "3,16,800",
-        "Total Amt* (₹ Cr.)": "3.29",
-        "Total Applications": "134"
+        "Shares bid for": "7,02,000",
+        "Total Amt* (₹ Cr.)": "7.30",
+        "Total Applications": "295"
       }
     ],
     "dayWise": [
@@ -344,6 +352,12 @@
         "NII*": "0.01",
         "Individual Investors": "0.16",
         "Total": "0.08"
+      },
+      {
+        "Date": "Sep 10 (Day 2)",
+        "NII*": "0.03",
+        "Individual Investors": "0.35",
+        "Total": "0.19"
       }
     ]
   },
@@ -369,7 +383,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "10-Sep 9:02"
+      "updatedOn": "10-Sep 15:57"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/infrax-renewable-ltdlogo.png",
@@ -379,5 +393,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T03:52:44+00:00"
+  "scrapedAt": "2026-09-10T10:56:30+00:00"
 }
