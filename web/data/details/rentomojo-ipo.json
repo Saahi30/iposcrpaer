@@ -490,9 +490,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 384.0,
+      "min": 404.0,
       "max": 404.0,
-      "display": "₹384–404"
+      "display": "₹404"
     },
     "lotSize": 37,
     "issueSize": "₹1255.57 Cr",
@@ -503,10 +503,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 141.0,
-      "percent": 34.9,
-      "xLot": 5217.0,
-      "updatedOn": "10-Sep 21:02"
+      "value": 135.0,
+      "percent": 33.42,
+      "xLot": 4995.0,
+      "updatedOn": "10-Sep 23:33"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/rentomojo-logo.png",
@@ -516,5 +516,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T16:05:21+00:00"
+  "scrapedAt": "2026-09-10T20:37:34+00:00"
 }

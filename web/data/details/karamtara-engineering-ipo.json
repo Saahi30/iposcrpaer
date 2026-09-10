@@ -462,9 +462,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 241.0,
+      "min": 254.0,
       "max": 254.0,
-      "display": "₹241–254"
+      "display": "₹254"
     },
     "lotSize": 59,
     "issueSize": "₹875.00 Cr",
@@ -478,7 +478,7 @@
       "value": 69.0,
       "percent": 27.17,
       "xLot": 4071.0,
-      "updatedOn": "10-Sep 21:00"
+      "updatedOn": "10-Sep 23:28"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/karamtara-engineering-ipo-logo.jpg",
@@ -488,5 +488,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T16:05:07+00:00"
+  "scrapedAt": "2026-09-10T20:37:20+00:00"
 }

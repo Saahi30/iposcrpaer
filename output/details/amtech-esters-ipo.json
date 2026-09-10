@@ -507,9 +507,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 71.0,
+      "min": 75.0,
       "max": 75.0,
-      "display": "₹71–75"
+      "display": "₹75"
     },
     "lotSize": 1600,
     "issueSize": "₹17.88 Cr",
@@ -523,7 +523,7 @@
       "value": 11.0,
       "percent": 14.67,
       "xLot": 17600.0,
-      "updatedOn": "10-Sep 21:01"
+      "updatedOn": "10-Sep 23:34"
     },
     "leadManager": "Credora Partners",
     "logo": "https://www.chittorgarh.net/images/ipo/amtech-ipo-logo.png",
@@ -533,5 +533,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T16:05:11+00:00"
+  "scrapedAt": "2026-09-10T20:37:24+00:00"
 }

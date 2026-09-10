@@ -518,9 +518,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 139.0,
+      "min": 146.0,
       "max": 146.0,
-      "display": "₹139–146"
+      "display": "₹146"
     },
     "lotSize": 102,
     "issueSize": "₹427.14 Cr",
@@ -531,10 +531,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 50.0,
-      "percent": 34.25,
-      "xLot": 5100.0,
-      "updatedOn": "10-Sep 20:56"
+      "value": 51.0,
+      "percent": 34.93,
+      "xLot": 5202.0,
+      "updatedOn": "10-Sep 23:37"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/lcc-projects-ipo-logo.png",
@@ -544,5 +544,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-10T16:05:09+00:00"
+  "scrapedAt": "2026-09-10T20:37:22+00:00"
 }
