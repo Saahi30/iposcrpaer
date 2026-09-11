@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-10T20:38:10+00:00",
+  "scrapedAt": "2026-09-11T03:49:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 13,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 11
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:30"
+        "updatedOn": "11-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:37"
+        "updatedOn": "11-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:28"
+        "updatedOn": "11-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -188,6 +188,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "spectraa-technology-solutions-ipo",
+      "ipoId": 2950,
+      "name": "SpectraA Technology Solutions",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 112.0,
+        "max": 118.0,
+        "display": "₹112–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹42.52 Cr",
+      "issueSizeCr": 42.52,
+      "freshIssueCr": 36.26,
+      "ofsCr": 4.11,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Indcap",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/spectraa-technology-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=spectraa-technology-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/spectraa-technology-solutions-ipo/2950/",
+        "gmp": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/"
+      },
+      "gmpId": 2211,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2009, Spectraa Technology Solutions Limited provides engineering, designing, fabrication, installation, commissioning and decommissioning greenfield and brownfield projects across various industries which include, Breweries (Craft and Microbreweries), Distilleries, Food and Beverages, Malt Spirit and Blending, Extraction Plants, FMCG (Fast Moving Consumer Goods) and Pharmaceuticals.\n\nIt primarily caters to the following product verticals:\n\nThe company have two manufacturing facil",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
       "slug": "nse-ipo",
       "ipoId": 3151,
       "name": "NSE",
@@ -201,10 +256,10 @@
         "display": "₹1700–1785"
       },
       "lotSize": 8,
-      "issueSize": "₹26579.64 Cr",
-      "issueSizeCr": 26579.64,
+      "issueSize": "₹22561.57 Cr",
+      "issueSizeCr": 22561.57,
       "freshIssueCr": null,
-      "ofsCr": 26579.64,
+      "ofsCr": 22561.57,
       "dates": {
         "open": "2026-09-17",
         "close": "2026-09-21",
@@ -212,10 +267,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 192.0,
-        "percent": 10.76,
-        "xLot": 1536.0,
-        "updatedOn": "10-Sep 23:35"
+        "value": 190.0,
+        "percent": 10.64,
+        "xLot": 1520.0,
+        "updatedOn": "11-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -239,7 +294,7 @@
       "faceValue": "₹1 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "OFS only",
-      "about": "Incorporated in November 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its le",
+      "about": "Incorporated in 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its leadership ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -270,7 +325,7 @@
         "value": 8.0,
         "percent": 9.52,
         "xLot": 1424.0,
-        "updatedOn": "10-Sep 23:33"
+        "updatedOn": "11-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 19.0,
         "percent": 20.43,
         "xLot": 3059.0,
-        "updatedOn": "10-Sep 23:32"
+        "updatedOn": "11-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 30.0,
         "percent": 7.08,
         "xLot": 1050.0,
-        "updatedOn": "10-Sep 23:28"
+        "updatedOn": "11-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:34"
+        "updatedOn": "11-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:35"
+        "updatedOn": "11-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:29"
+        "updatedOn": "11-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -571,171 +626,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in March 2011, Vama Wovenfab Limited is an ISO 9001:2015 certified manufacturer of PP and HDPE woven sack bags and fabric-based packaging products. The Company also trades in plastic granules and provides customised bulk packaging solutions to B2B customers across industries such as agriculture, food processing, chemicals, fertilizers, sugar and cement.\n\nThe Company's product portfolio includes PP/HDPE woven bags and fabrics, BOPP bags, HDPE trampoline sheets, coloured woven fabric ",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "manika-plastech-ipo",
-      "ipoId": 2483,
-      "name": "Manika Plastech",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 40.0,
-        "max": 43.0,
-        "display": "₹40–43"
-      },
-      "lotSize": 348,
-      "issueSize": "₹125.50 Cr",
-      "issueSizeCr": 125.5,
-      "freshIssueCr": 92.5,
-      "ofsCr": 33.0,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 13.0,
-        "percent": 30.23,
-        "xLot": 4524.0,
-        "updatedOn": "10-Sep 23:35"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Pantomath Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/manika-plastech-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=manika-plastech-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
-        "gmp": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/"
-      },
-      "gmpId": 1806,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1996, Manika Plastech Limited is engaged in the manufacturing of rigid polymer packaging products, including battery casings, pails and thinwall containers.\n\nThe Company manufactures battery casings, pails and thinwall containers, which cater to various industrial and consumer applications. The Company also manufactures pails used for packaging paints, lubricants and industrial chemicals, while its food-grade thinwall containers are used for the packaging and distribution of dair",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "century-business-media-ipo",
-      "ipoId": 2604,
-      "name": "Century Business Media",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 70.0,
-        "max": 74.0,
-        "display": "₹70–74"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹17.11 Cr",
-      "issueSizeCr": 17.11,
-      "freshIssueCr": 16.24,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/century-business-media-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=century-business-media-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/",
-        "gmp": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/"
-      },
-      "gmpId": 1887,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 1999 as Century Business Private Limited, The Company primarily operates across the Airport Out-of-Home (AOOH) and Railway Out-of-Home (ROOH) segments, providing advertising spaces within and outside airport terminal buildings and through digital and static hoardings across railway stations and railway land. It has also expanded into Metro Out-of-Home (MOOH) advertising, including Platform Screen Door (PSD) advertising, and in-shop branding. Its traditional city media p",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "injecto-polymers-ipo",
-      "ipoId": 2625,
-      "name": "Injecto Polymers",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 98.0,
-        "max": 100.0,
-        "display": "₹98–100"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹56.12 Cr",
-      "issueSizeCr": 56.12,
-      "freshIssueCr": 53.29,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Sep 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Indcap",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/injecto-polymers-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/injecto-polymers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=injecto-polymers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/injecto-polymers-ipo/2625/",
-        "gmp": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/"
-      },
-      "gmpId": 1899,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 1998, Injecto Polymers Private Limited, The Company is engaged in the manufacturing of a diverse range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The Company manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non",
-      "registrar": "Integrated Registry Management Services Pvt.Ltd."
     }
   ]
 }

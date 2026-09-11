@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-10T20:38:10+00:00",
+  "scrapedAt": "2026-09-11T03:49:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -22,6 +22,171 @@
     "total": 17
   },
   "ipos": [
+    {
+      "slug": "manika-plastech-ipo",
+      "ipoId": 2483,
+      "name": "Manika Plastech",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 40.0,
+        "max": 43.0,
+        "display": "₹40–43"
+      },
+      "lotSize": 348,
+      "issueSize": "₹125.50 Cr",
+      "issueSizeCr": 125.5,
+      "freshIssueCr": 92.5,
+      "ofsCr": 33.0,
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "listing": "2026-09-21"
+      },
+      "gmp": {
+        "value": 13.0,
+        "percent": 30.23,
+        "xLot": 4524.0,
+        "updatedOn": "11-Sep 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Pantomath Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/manika-plastech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=manika-plastech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
+        "gmp": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/"
+      },
+      "gmpId": 1806,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1996, Manika Plastech Limited is engaged in the manufacturing of rigid polymer packaging products, including battery casings, pails and thinwall containers.\n\nThe Company manufactures battery casings, pails and thinwall containers, which cater to various industrial and consumer applications. The Company also manufactures pails used for packaging paints, lubricants and industrial chemicals, while its food-grade thinwall containers are used for the packaging and distribution of dair",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "century-business-media-ipo",
+      "ipoId": 2604,
+      "name": "Century Business Media",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 70.0,
+        "max": 74.0,
+        "display": "₹70–74"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹17.11 Cr",
+      "issueSizeCr": 17.11,
+      "freshIssueCr": 16.24,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "listing": "2026-09-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Sep 8:59"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/century-business-media-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=century-business-media-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/",
+        "gmp": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/"
+      },
+      "gmpId": 1887,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 1999 as Century Business Private Limited, The Company primarily operates across the Airport Out-of-Home (AOOH) and Railway Out-of-Home (ROOH) segments, providing advertising spaces within and outside airport terminal buildings and through digital and static hoardings across railway stations and railway land. It has also expanded into Metro Out-of-Home (MOOH) advertising, including Platform Screen Door (PSD) advertising, and in-shop branding. Its traditional city media p",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "injecto-polymers-ipo",
+      "ipoId": 2625,
+      "name": "Injecto Polymers",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 98.0,
+        "max": 100.0,
+        "display": "₹98–100"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹56.12 Cr",
+      "issueSizeCr": 56.12,
+      "freshIssueCr": 53.29,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-11",
+        "close": "2026-09-16",
+        "allotment": "2026-09-17",
+        "listing": "2026-09-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "11-Sep 9:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Indcap",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/injecto-polymers-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/injecto-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=injecto-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/injecto-polymers-ipo/2625/",
+        "gmp": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/"
+      },
+      "gmpId": 1899,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 1998, Injecto Polymers Private Limited, The Company is engaged in the manufacturing of a diverse range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The Company manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non",
+      "registrar": "Integrated Registry Management Services Pvt.Ltd."
+    },
     {
       "slug": "panchatv-bharat-ipo",
       "ipoId": 2373,
@@ -50,7 +215,7 @@
         "value": 7.0,
         "percent": 5.0,
         "xLot": 7000.0,
-        "updatedOn": "10-Sep 23:36"
+        "updatedOn": "11-Sep 8:57"
       },
       "subscription": {
         "total": 0.01,
@@ -131,7 +296,7 @@
         "value": 28.0,
         "percent": 10.26,
         "xLot": 11200.0,
-        "updatedOn": "10-Sep 23:35"
+        "updatedOn": "11-Sep 9:02"
       },
       "subscription": {
         "total": 0.49,
@@ -244,7 +409,7 @@
         "value": 25.0,
         "percent": 17.86,
         "xLot": 2675.0,
-        "updatedOn": "10-Sep 23:35"
+        "updatedOn": "11-Sep 8:55"
       },
       "subscription": {
         "total": 0.67,
@@ -350,7 +515,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:36"
+        "updatedOn": "11-Sep 8:53"
       },
       "subscription": {
         "total": 0.62,
@@ -463,7 +628,7 @@
         "value": 30.0,
         "percent": 16.13,
         "xLot": 18000.0,
-        "updatedOn": "10-Sep 23:36"
+        "updatedOn": "11-Sep 8:54"
       },
       "subscription": {
         "total": 0.29,
@@ -576,7 +741,7 @@
         "value": 69.0,
         "percent": 27.17,
         "xLot": 4071.0,
-        "updatedOn": "10-Sep 23:28"
+        "updatedOn": "11-Sep 9:01"
       },
       "subscription": {
         "total": 3.8,
@@ -682,7 +847,7 @@
         "value": 51.0,
         "percent": 34.93,
         "xLot": 5202.0,
-        "updatedOn": "10-Sep 23:37"
+        "updatedOn": "11-Sep 8:58"
       },
       "subscription": {
         "total": 3.93,
@@ -788,7 +953,7 @@
         "value": 11.0,
         "percent": 14.67,
         "xLot": 17600.0,
-        "updatedOn": "10-Sep 23:34"
+        "updatedOn": "11-Sep 8:54"
       },
       "subscription": {
         "total": 2.82,
@@ -909,7 +1074,7 @@
         "value": 23.0,
         "percent": 28.4,
         "xLot": 4255.0,
-        "updatedOn": "10-Sep 23:31"
+        "updatedOn": "11-Sep 9:02"
       },
       "subscription": {
         "total": 2.32,
@@ -1015,7 +1180,7 @@
         "value": 4.0,
         "percent": 1.18,
         "xLot": 176.0,
-        "updatedOn": "10-Sep 23:34"
+        "updatedOn": "11-Sep 9:02"
       },
       "subscription": {
         "total": 0.31,
@@ -1121,7 +1286,7 @@
         "value": 14.0,
         "percent": 10.07,
         "xLot": 1498.0,
-        "updatedOn": "10-Sep 23:29"
+        "updatedOn": "11-Sep 9:01"
       },
       "subscription": {
         "total": 0.87,
@@ -1227,7 +1392,7 @@
         "value": 15.0,
         "percent": 15.96,
         "xLot": 18000.0,
-        "updatedOn": "10-Sep 23:33"
+        "updatedOn": "11-Sep 9:01"
       },
       "subscription": {
         "total": 0.59,
@@ -1316,7 +1481,7 @@
         "value": 135.0,
         "percent": 33.42,
         "xLot": 4995.0,
-        "updatedOn": "10-Sep 23:33"
+        "updatedOn": "11-Sep 8:57"
       },
       "subscription": {
         "total": 4.71,
@@ -1429,7 +1594,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Sep 23:29"
+        "updatedOn": "11-Sep 8:54"
       },
       "subscription": {
         "total": 0.21,
@@ -1489,324 +1654,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in September 2024, Infrax Renewable Limited is a solar energy company engaged in providing Engineering, Procurement and Construction (EPC) services for rooftop and ground-mounted solar power projects. The company also supplies a wide range of solar products, including solar PV modules, inverters, and related equipment, and operates as an Independent Power Producer (IPP) through its own solar power plant in Gujarat under a Power Purchase Agreement (PPA) with PGVCL.\n\nThe company offer",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "glass-wall-systems-ipo",
-      "ipoId": 2594,
-      "name": "Glass Wall Systems",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 172.0,
-        "max": 182.0,
-        "display": "₹172–182"
-      },
-      "lotSize": 82,
-      "issueSize": "₹427.89 Cr",
-      "issueSizeCr": 427.89,
-      "freshIssueCr": 60.0,
-      "ofsCr": 367.89,
-      "dates": {
-        "open": "2026-09-08",
-        "close": "2026-09-10",
-        "allotment": "2026-09-11",
-        "listing": "2026-09-16"
-      },
-      "gmp": {
-        "value": 45.0,
-        "percent": 24.73,
-        "xLot": 3690.0,
-        "updatedOn": "10-Sep 23:35"
-      },
-      "subscription": {
-        "total": 81.65,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "70,53,127",
-            "Shares bid for": "70,53,127",
-            "Total Amt* (₹ Cr.)": "128.37"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "167.93",
-            "Shares Offered*": "47,02,085",
-            "Shares bid for": "78,96,08,094",
-            "Total Amt* (₹ Cr.)": "14,370.87"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "79.71",
-            "Shares Offered*": "35,26,564",
-            "Shares bid for": "28,11,14,614",
-            "Total Amt* (₹ Cr.)": "5,116.29"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "73.90",
-            "Shares Offered*": "23,51,043",
-            "Shares bid for": "17,37,47,340",
-            "Total Amt* (₹ Cr.)": "3,162.20"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "91.34",
-            "Shares Offered*": "11,75,521",
-            "Shares bid for": "10,73,67,274",
-            "Total Amt* (₹ Cr.)": "1,954.08"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "33.18",
-            "Shares Offered*": "82,28,649",
-            "Shares bid for": "27,30,04,650",
-            "Total Amt* (₹ Cr.)": "4,968.68"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "81.65",
-            "Shares Offered*": "1,64,57,298",
-            "Shares bid for": "1,34,37,27,358",
-            "Total Amt* (₹ Cr.)": "24,455.84"
-          }
-        ],
-        "applications": 3101708.0
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/glass-wall-systems-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/glass-wall-systems-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=glass-wall-systems-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/glass-wall-systems-ipo/2594/",
-        "gmp": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/"
-      },
-      "gmpId": 1879,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2010, Glass Wall Systems (India) Limited is a façade solutions and fenestration provider with operations in India as well as international markets, including the United States and Australia. The company has over two decades of industry experience and, as of March 31, 2026, has completed more than 158 projects.\n\nIts business is structured across three verticals:\n\nThe company’s client base includes real estate developers, contractors, hospitals, airport authorities, and corporation",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "prasol-chemicals-ipo",
-      "ipoId": 2775,
-      "name": "Prasol Chemicals",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 643.0,
-        "max": 676.0,
-        "display": "₹643–676"
-      },
-      "lotSize": 22,
-      "issueSize": "₹500.00 Cr",
-      "issueSizeCr": 500.0,
-      "freshIssueCr": 80.0,
-      "ofsCr": 420.0,
-      "dates": {
-        "open": "2026-09-08",
-        "close": "2026-09-10",
-        "allotment": "2026-09-11",
-        "listing": "2026-09-16"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "10-Sep 23:35"
-      },
-      "subscription": {
-        "total": 3.47,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "22,18,930",
-            "Shares bid for": "22,18,930",
-            "Total Amt* (₹ Cr.)": "150.000"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "7.59",
-            "Shares Offered*": "14,79,289",
-            "Shares bid for": "1,12,28,140",
-            "Total Amt* (₹ Cr.)": "759.022"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "1.89",
-            "Shares Offered*": "11,09,466",
-            "Shares bid for": "20,94,994",
-            "Total Amt* (₹ Cr.)": "141.622"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.22",
-            "Shares Offered*": "7,39,644",
-            "Shares bid for": "9,01,560",
-            "Total Amt* (₹ Cr.)": "60.945"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "3.23",
-            "Shares Offered*": "3,69,822",
-            "Shares bid for": "11,93,434",
-            "Total Amt* (₹ Cr.)": "80.676"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "1.79",
-            "Shares Offered*": "25,88,753",
-            "Shares bid for": "46,39,206",
-            "Total Amt* (₹ Cr.)": "313.610"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.47",
-            "Shares Offered*": "51,77,508",
-            "Shares bid for": "1,79,62,340",
-            "Total Amt* (₹ Cr.)": "1,214.254"
-          }
-        ],
-        "applications": 182737.0
-      },
-      "leadManager": "Dam Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/prasol-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/prasol-chemicals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=prasol-chemicals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
-        "gmp": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/"
-      },
-      "gmpId": 2030,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1992, Prasol Chemicals operates in the specialty chemicals industry. The company manufactures over 150 specialty chemicals, including acetone-based, phosphorous-based, and other complex chemicals. Its product portfolio includes 21 acetone-based chemicals, 53 phosphorous-based chemicals, and 76 other specialty chemicals (e.g. surfactants, esters, acids).\n\nThe products serve 5 major industries, including Performance chemicals (like lubricant and mining additives), paint, inks, cons",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "kanohar-electricals-ipo",
-      "ipoId": 2856,
-      "name": "Kanohar Electricals",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 601.0,
-        "max": 632.0,
-        "display": "₹601–632"
-      },
-      "lotSize": 23,
-      "issueSize": "₹1055.74 Cr",
-      "issueSizeCr": 1055.74,
-      "freshIssueCr": 300.0,
-      "ofsCr": 755.74,
-      "dates": {
-        "open": "2026-09-08",
-        "close": "2026-09-10",
-        "allotment": "2026-09-11",
-        "listing": "2026-09-16"
-      },
-      "gmp": {
-        "value": 240.0,
-        "percent": 37.97,
-        "xLot": 5520.0,
-        "updatedOn": "10-Sep 23:29"
-      },
-      "subscription": {
-        "total": 90.59,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "50,11,424",
-            "Shares bid for": "50,11,424",
-            "Total Amt* (₹ Cr.)": "316.72"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "215.37",
-            "Shares Offered*": "33,40,950",
-            "Shares bid for": "71,95,39,590",
-            "Total Amt* (₹ Cr.)": "45,474.90"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "87.74",
-            "Shares Offered*": "25,05,713",
-            "Shares bid for": "21,98,49,456",
-            "Total Amt* (₹ Cr.)": "13,894.49"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "94.04",
-            "Shares Offered*": "16,70,475",
-            "Shares bid for": "15,70,86,665",
-            "Total Amt* (₹ Cr.)": "9,927.88"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "75.14",
-            "Shares Offered*": "8,35,238",
-            "Shares bid for": "6,27,62,791",
-            "Total Amt* (₹ Cr.)": "3,966.61"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "20.51",
-            "Shares Offered*": "58,46,663",
-            "Shares bid for": "11,98,99,414",
-            "Total Amt* (₹ Cr.)": "7,577.64"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "90.59",
-            "Shares Offered*": "1,16,93,326",
-            "Shares bid for": "1,05,92,88,460",
-            "Total Amt* (₹ Cr.)": "66,947.03"
-          }
-        ],
-        "applications": 4923272.0
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kanohar-electricals-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kanohar-electricals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kanohar-electricals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kanohar-electricals-ipo/2856/",
-        "gmp": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/"
-      },
-      "gmpId": 2119,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1972, Kanohar Electricals Limited is engaged in the manufacturing of transformers in India. The Company caters to industries such as power transmission, railways, renewable energy and power distribution.\n\nThe Company operates through two business segments: (i) transformer manufacturing and (ii) engineering, procurement and construction (EPC). It is one of four manufacturers in India certified by the Research Designs and Standards Organisation (RDSO), the research and development ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
