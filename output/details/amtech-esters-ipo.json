@@ -412,8 +412,8 @@
     "source": "https://www.chittorgarh.com/ipo/amtech-esters-ipo/2207/"
   },
   "subscription": {
-    "summary": "Amtech Esters IPO subscribed 2.82 times. The public issue subscribed 3.58 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 3.47 times in the NII category by September 10, 2026 5:08:37 PM (Day 2).",
-    "total": 2.82,
+    "summary": "Amtech Esters IPO subscribed 25.14 times. The public issue subscribed 27.94 times in the individual investors category, 15.07 times in QIB (Ex Anchor), and 32.02 times in the NII category by September 11, 2026 4:19:54 PM (Day 3).",
+    "total": 25.14,
     "applications": null,
     "byCategory": [
       {
@@ -421,7 +421,7 @@
         "Subscription (x)": "1",
         "Shares Offered*": "6,76,800",
         "Shares bid for": "6,76,800",
-        "Total Amt* (₹ Cr.)": "5.076",
+        "Total Amt* (₹ Cr.)": "5.08",
         "Total Applications": "-"
       },
       {
@@ -429,56 +429,56 @@
         "Subscription (x)": "1",
         "Shares Offered*": "1,20,000",
         "Shares bid for": "1,20,000",
-        "Total Amt* (₹ Cr.)": "0.900",
+        "Total Amt* (₹ Cr.)": "0.90",
         "Total Applications": "-"
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.00",
+        "Subscription (x)": "15.07",
         "Shares Offered*": "4,52,800",
-        "Shares bid for": "4,52,800",
-        "Total Amt* (₹ Cr.)": "3.396",
+        "Shares bid for": "68,22,400",
+        "Total Amt* (₹ Cr.)": "51.17",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "3.47",
+        "Subscription (x)": "32.02",
         "Shares Offered*": "3,40,800",
-        "Shares bid for": "11,84,000",
-        "Total Amt* (₹ Cr.)": "8.880",
+        "Shares bid for": "1,09,13,600",
+        "Total Amt* (₹ Cr.)": "81.85",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "4.06",
+        "Subscription (x)": "33.63",
         "Shares Offered*": "2,30,400",
-        "Shares bid for": "9,36,000",
-        "Total Amt* (₹ Cr.)": "7.020",
+        "Shares bid for": "77,47,200",
+        "Total Amt* (₹ Cr.)": "58.10",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.25",
+        "Subscription (x)": "28.68",
         "Shares Offered*": "1,10,400",
-        "Shares bid for": "2,48,000",
-        "Total Amt* (₹ Cr.)": "1.860",
+        "Shares bid for": "31,66,400",
+        "Total Amt* (₹ Cr.)": "23.75",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "3.58",
+        "Subscription (x)": "27.94",
         "Shares Offered*": "7,93,600",
-        "Shares bid for": "28,38,400",
-        "Total Amt* (₹ Cr.)": "21.288",
+        "Shares bid for": "2,21,69,600",
+        "Total Amt* (₹ Cr.)": "166.27",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "2.82",
+        "Subscription (x)": "25.14",
         "Shares Offered*": "15,87,200",
-        "Shares bid for": "44,75,200",
-        "Total Amt* (₹ Cr.)": "33.564",
-        "Total Applications": "976"
+        "Shares bid for": "3,99,05,600",
+        "Total Amt* (₹ Cr.)": "299.29",
+        "Total Applications": "8,137"
       }
     ],
     "dayWise": [
@@ -499,6 +499,15 @@
         "NII (< ₹10L)": "2.25",
         "Individual Investors": "3.58",
         "Total": "2.82"
+      },
+      {
+        "Date": "Sep 11 (Day 3)",
+        "QIB (Ex Anchor)": "15.07",
+        "NII*": "32.02",
+        "NII (> ₹10L)": "33.63",
+        "NII (< ₹10L)": "28.68",
+        "Individual Investors": "27.94",
+        "Total": "25.14"
       }
     ]
   },
@@ -521,10 +530,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 11.0,
-      "percent": 14.67,
-      "xLot": 17600.0,
-      "updatedOn": "11-Sep 8:54"
+      "value": 7.0,
+      "percent": 9.33,
+      "xLot": 11200.0,
+      "updatedOn": "11-Sep 16:01"
     },
     "leadManager": "Credora Partners",
     "logo": "https://www.chittorgarh.net/images/ipo/amtech-ipo-logo.png",
@@ -534,5 +543,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-11T03:48:50+00:00"
+  "scrapedAt": "2026-09-11T10:54:24+00:00"
 }
