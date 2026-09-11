@@ -401,9 +401,9 @@
     "source": "https://www.chittorgarh.com/ipo/rentomojo-ipo/2971/"
   },
   "subscription": {
-    "summary": "Rentomojo IPO subscribed 72.49 times. The public issue subscribed 14.88 times in the retail category, 177.29 times in QIB (Ex Anchor), and 67.79 times in the NII category by September 11, 2026 4:17:35 PM (Day 3).",
-    "total": 72.49,
-    "applications": 4247309.0,
+    "summary": "Rentomojo IPO subscribed 72.89 times. The public issue subscribed 15.62 times in the retail category, 177.29 times in QIB (Ex Anchor), and 67.93 times in the NII category by September 11, 2026 6:53:07 PM (Day 3).",
+    "total": 72.89,
+    "applications": 4439438.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -421,10 +421,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "67.79",
+        "Subscription (x)": "67.93",
         "Shares Offered*": "46,54,334",
-        "Shares bid for": "31,55,12,246",
-        "Total Amt* (₹ Cr.)": "12,746.69"
+        "Shares bid for": "31,61,47,277",
+        "Total Amt* (₹ Cr.)": "12,772.35"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -435,31 +435,31 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "57.04",
+        "Subscription (x)": "57.45",
         "Shares Offered*": "15,51,445",
-        "Shares bid for": "8,84,96,822",
-        "Total Amt* (₹ Cr.)": "3,575.27"
+        "Shares bid for": "8,91,31,853",
+        "Total Amt* (₹ Cr.)": "3,600.93"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "14.88",
+        "Subscription (x)": "15.62",
         "Shares Offered*": "1,08,60,113",
-        "Shares bid for": "16,15,67,567",
-        "Total Amt* (₹ Cr.)": "6,527.33"
+        "Shares bid for": "16,95,91,683",
+        "Total Amt* (₹ Cr.)": "6,851.50"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "19.97",
+        "Subscription (x)": "21.03",
         "Shares Offered*": "52,083",
-        "Shares bid for": "10,39,922",
-        "Total Amt* (₹ Cr.)": "42.01"
+        "Shares bid for": "10,95,089",
+        "Total Amt* (₹ Cr.)": "44.24"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "72.49",
+        "Subscription (x)": "72.89",
         "Shares Offered*": "2,17,72,310",
-        "Shares bid for": "1,57,83,58,173",
-        "Total Amt* (₹ Cr.)": "63,765.67"
+        "Shares bid for": "1,58,70,72,487",
+        "Total Amt* (₹ Cr.)": "64,117.73"
       }
     ],
     "dayWise": [
@@ -486,12 +486,12 @@
       {
         "Date": "Sep 11 (Day 3)",
         "QIB (Ex Anchor)": "177.29",
-        "NII": "67.79",
+        "NII": "67.93",
         "NII (> ₹10L)": "73.16",
-        "NII (< ₹10L)": "57.04",
-        "Retail": "14.88",
-        "EMP": "19.97",
-        "Total": "72.49"
+        "NII (< ₹10L)": "57.45",
+        "Retail": "15.62",
+        "EMP": "21.03",
+        "Total": "72.89"
       }
     ]
   },
@@ -514,10 +514,10 @@
       "listing": "2026-09-17"
     },
     "gmp": {
-      "value": 142.0,
-      "percent": 35.15,
-      "xLot": 5254.0,
-      "updatedOn": "11-Sep 15:55"
+      "value": 148.0,
+      "percent": 36.63,
+      "xLot": 5476.0,
+      "updatedOn": "11-Sep 20:58"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/rentomojo-logo.png",
@@ -527,5 +527,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-11T10:54:34+00:00"
+  "scrapedAt": "2026-09-11T16:09:25+00:00"
 }

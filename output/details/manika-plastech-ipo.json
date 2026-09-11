@@ -388,9 +388,9 @@
     "source": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/"
   },
   "subscription": {
-    "summary": "Manika Plastech IPO subscribed 1.26 times. The public issue subscribed 2.14 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.89 times in the NII category by September 11, 2026 4:19:44 PM (Day 1).",
-    "total": 1.26,
-    "applications": 53153.0,
+    "summary": "Manika Plastech IPO subscribed 1.49 times. The public issue subscribed 2.24 times in the retail category, 0.36 times in QIB (Ex Anchor), and 1.26 times in the NII category by September 11, 2026 5:08:14 PM (Day 1).",
+    "total": 1.49,
+    "applications": 56964.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -401,56 +401,56 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.36",
         "Shares Offered*": "58,37,210",
-        "Shares bid for": "4,872",
-        "Total Amt* (₹ Cr.)": "0.021"
+        "Shares bid for": "20,98,440",
+        "Total Amt* (₹ Cr.)": "9.023"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.89",
+        "Subscription (x)": "1.26",
         "Shares Offered*": "43,77,907",
-        "Shares bid for": "39,06,648",
-        "Total Amt* (₹ Cr.)": "16.799"
+        "Shares bid for": "55,05,360",
+        "Total Amt* (₹ Cr.)": "23.673"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.45",
+        "Subscription (x)": "0.61",
         "Shares Offered*": "29,18,605",
-        "Shares bid for": "13,08,480",
-        "Total Amt* (₹ Cr.)": "5.626"
+        "Shares bid for": "17,85,588",
+        "Total Amt* (₹ Cr.)": "7.678"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.78",
+        "Subscription (x)": "2.55",
         "Shares Offered*": "14,59,302",
-        "Shares bid for": "25,98,168",
-        "Total Amt* (₹ Cr.)": "11.172"
+        "Shares bid for": "37,19,772",
+        "Total Amt* (₹ Cr.)": "15.995"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.14",
+        "Subscription (x)": "2.24",
         "Shares Offered*": "1,02,15,116",
-        "Shares bid for": "2,18,86,764",
-        "Total Amt* (₹ Cr.)": "94.113"
+        "Shares bid for": "2,29,23,456",
+        "Total Amt* (₹ Cr.)": "98.571"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.26",
+        "Subscription (x)": "1.49",
         "Shares Offered*": "2,04,30,233",
-        "Shares bid for": "2,57,98,284",
-        "Total Amt* (₹ Cr.)": "110.933"
+        "Shares bid for": "3,05,27,256",
+        "Total Amt* (₹ Cr.)": "131.267"
       }
     ],
     "dayWise": [
       {
         "Date": "Sep 11 (Day 1)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII": "0.89",
-        "NII (> ₹10L)": "0.45",
-        "NII (< ₹10L)": "1.78",
-        "Retail": "2.14",
-        "Total": "1.26"
+        "QIB (Ex Anchor)": "0.36",
+        "NII": "1.26",
+        "NII (> ₹10L)": "0.61",
+        "NII (< ₹10L)": "2.55",
+        "Retail": "2.24",
+        "Total": "1.49"
       }
     ]
   },
@@ -476,7 +476,7 @@
       "value": 10.0,
       "percent": 23.26,
       "xLot": 3480.0,
-      "updatedOn": "11-Sep 16:02"
+      "updatedOn": "11-Sep 20:53"
     },
     "leadManager": "Pantomath Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
@@ -486,5 +486,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-11T10:54:03+00:00"
+  "scrapedAt": "2026-09-11T16:08:53+00:00"
 }

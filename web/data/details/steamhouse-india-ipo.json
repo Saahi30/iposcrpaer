@@ -341,9 +341,9 @@
     "source": "https://www.chittorgarh.com/ipo/steamhouse-india-ipo/2514/"
   },
   "subscription": {
-    "summary": "Steamhouse India IPO subscribed 31.62 times. The public issue subscribed 16.91 times in the retail category, 46.19 times in QIB (Ex Anchor), and 46.51 times in the NII category by September 11, 2026 4:17:56 PM (Day 3).",
-    "total": 31.62,
-    "applications": 1579547.0,
+    "summary": "Steamhouse India IPO subscribed 32.07 times. The public issue subscribed 17.78 times in the retail category, 46.19 times in QIB (Ex Anchor), and 46.60 times in the NII category by September 11, 2026 6:53:18 PM (Day 3).",
+    "total": 32.07,
+    "applications": 1657586.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -361,10 +361,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "46.51",
+        "Subscription (x)": "46.60",
         "Shares Offered*": "76,66,667",
-        "Shares bid for": "35,66,07,665",
-        "Total Amt* (₹ Cr.)": "2,888.52"
+        "Shares bid for": "35,72,55,165",
+        "Total Amt* (₹ Cr.)": "2,893.77"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -375,24 +375,24 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "49.07",
+        "Subscription (x)": "49.33",
         "Shares Offered*": "25,55,556",
-        "Shares bid for": "12,54,13,905",
-        "Total Amt* (₹ Cr.)": "1,015.85"
+        "Shares bid for": "12,60,61,405",
+        "Total Amt* (₹ Cr.)": "1,021.10"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "16.91",
+        "Subscription (x)": "17.78",
         "Shares Offered*": "1,78,88,889",
-        "Shares bid for": "30,24,93,870",
-        "Total Amt* (₹ Cr.)": "2,450.20"
+        "Shares bid for": "31,81,05,465",
+        "Total Amt* (₹ Cr.)": "2,576.65"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "31.62",
+        "Subscription (x)": "32.07",
         "Shares Offered*": "3,57,77,779",
-        "Shares bid for": "1,13,12,25,235",
-        "Total Amt* (₹ Cr.)": "9,162.92"
+        "Shares bid for": "1,14,74,84,330",
+        "Total Amt* (₹ Cr.)": "9,294.62"
       }
     ],
     "dayWise": [
@@ -417,11 +417,11 @@
       {
         "Date": "Sep 11 (Day 3)",
         "QIB (Ex Anchor)": "46.19",
-        "NII": "46.51",
+        "NII": "46.60",
         "NII (> ₹10L)": "45.23",
-        "NII (< ₹10L)": "49.07",
-        "Retail": "16.91",
-        "Total": "31.62"
+        "NII (< ₹10L)": "49.33",
+        "Retail": "17.78",
+        "Total": "32.07"
       }
     ]
   },
@@ -447,7 +447,7 @@
       "value": 21.0,
       "percent": 25.93,
       "xLot": 3885.0,
-      "updatedOn": "11-Sep 15:58"
+      "updatedOn": "11-Sep 20:54"
     },
     "leadManager": "Equirus Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/steamhouse-india-logo.png",
@@ -457,5 +457,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-11T10:54:26+00:00"
+  "scrapedAt": "2026-09-11T16:09:17+00:00"
 }
