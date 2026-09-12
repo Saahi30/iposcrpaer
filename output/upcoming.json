@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-12T03:51:53+00:00",
+  "scrapedAt": "2026-09-12T10:21:52+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 12
   },
   "ipos": [
+    {
+      "slug": "a-one-steels-ipo",
+      "ipoId": 2000,
+      "name": "A-One Steels",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹405.00 Cr",
+      "issueSizeCr": 405.0,
+      "freshIssueCr": 355.0,
+      "ofsCr": 50.0,
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "listing": "2026-10-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "12-Sep 13:50"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "PL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/a-1-steel-india-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/a-one-steels-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=a-one-steels-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
+        "gmp": "https://www.investorgain.com/gmp/a-one-steels-ipo/1611/"
+      },
+      "gmpId": 1611,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
     {
       "slug": "axiom-gas-engineering-ipo",
       "ipoId": 2193,
@@ -50,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 8:54"
+        "updatedOn": "12-Sep 15:36"
       },
       "subscription": {
         "total": null,
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 9:00"
+        "updatedOn": "12-Sep 15:36"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 9:02"
+        "updatedOn": "12-Sep 15:32"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 8:53"
+        "updatedOn": "12-Sep 15:34"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 218.0,
-        "percent": 12.21,
-        "xLot": 1744.0,
-        "updatedOn": "12-Sep 9:00"
+        "value": 208.0,
+        "percent": 11.65,
+        "xLot": 1664.0,
+        "updatedOn": "12-Sep 15:30"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 11.9,
-        "xLot": 1780.0,
-        "updatedOn": "12-Sep 8:55"
+        "value": 24.0,
+        "percent": 28.57,
+        "xLot": 4272.0,
+        "updatedOn": "12-Sep 15:34"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 21.0,
         "percent": 22.58,
         "xLot": 3381.0,
-        "updatedOn": "12-Sep 8:59"
+        "updatedOn": "12-Sep 15:31"
       },
       "subscription": {
         "total": null,
@@ -432,10 +487,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 80.0,
-        "percent": 18.87,
-        "xLot": 2800.0,
-        "updatedOn": "12-Sep 8:59"
+        "value": 106.0,
+        "percent": 25.0,
+        "xLot": 3710.0,
+        "updatedOn": "12-Sep 15:29"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 9:01"
+        "updatedOn": "12-Sep 15:28"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 8:53"
+        "updatedOn": "12-Sep 15:29"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Sep 8:58"
+        "updatedOn": "12-Sep 15:37"
       },
       "subscription": {
         "total": null,
