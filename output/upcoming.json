@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-13T20:32:07+00:00",
+  "scrapedAt": "2026-09-14T04:08:43+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 12,
+    "upcoming": 14,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 14
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "13-Sep 5:55"
+        "updatedOn": "14-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,115 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "skoffset-ipo",
+      "ipoId": 3150,
+      "name": "S.K.Offset",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 119.0,
+        "max": 125.0,
+        "display": "₹119–125"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹29.06 Cr",
+      "issueSizeCr": 29.06,
+      "freshIssueCr": 27.56,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Comfort Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sk-offset-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/skoffset-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=skoffset-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
+        "gmp": "https://www.investorgain.com/gmp/skoffset-ipo/2304/"
+      },
+      "gmpId": 2304,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "robokidz-eduventures-ipo",
+      "ipoId": 3205,
+      "name": "Robokidz Eduventures Ltd.",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 100.0,
+        "max": 106.0,
+        "display": "₹100–106"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹31.09 Cr",
+      "issueSizeCr": 31.09,
+      "freshIssueCr": 29.37,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": null,
+        "listing": "2026-09-28"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/robokidz-eduventures-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=robokidz-eduventures-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2014, Robokidz Eduventures Limited is an education technology company engaged in providing technology-enabled learning and skill development solutions for K-12 students in Robotics, Artificial Intelligence (AI), Coding, Electronics, and STEM (Science, Technology, Engineering, and Mathematics). The company offers end-to-end educational laboratory setup solutions, subscription-based learning programs, teacher training, digital learning platforms, educational kits, and tech",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "axiom-gas-engineering-ipo",
@@ -105,7 +214,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:32"
+        "updatedOn": "14-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -160,7 +269,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:31"
+        "updatedOn": "14-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +324,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:35"
+        "updatedOn": "14-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -270,7 +379,7 @@
         "value": 27.0,
         "percent": 22.88,
         "xLot": 32400.0,
-        "updatedOn": "13-Sep 23:29"
+        "updatedOn": "14-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -325,7 +434,7 @@
         "value": 210.0,
         "percent": 11.76,
         "xLot": 1680.0,
-        "updatedOn": "13-Sep 23:34"
+        "updatedOn": "14-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -380,7 +489,7 @@
         "value": 24.0,
         "percent": 28.57,
         "xLot": 4272.0,
-        "updatedOn": "13-Sep 23:33"
+        "updatedOn": "14-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -435,7 +544,7 @@
         "value": 27.0,
         "percent": 29.03,
         "xLot": 4347.0,
-        "updatedOn": "13-Sep 23:29"
+        "updatedOn": "14-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -490,7 +599,7 @@
         "value": 120.0,
         "percent": 28.3,
         "xLot": 4200.0,
-        "updatedOn": "13-Sep 23:30"
+        "updatedOn": "14-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -545,7 +654,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:37"
+        "updatedOn": "14-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -600,7 +709,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:34"
+        "updatedOn": "14-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -655,7 +764,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Sep 23:31"
+        "updatedOn": "14-Sep 9:00"
       },
       "subscription": {
         "total": null,
