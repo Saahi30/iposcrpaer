@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-14T04:08:43+00:00",
+  "scrapedAt": "2026-09-14T12:15:24+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 14,
+    "upcoming": 15,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 14
+    "total": 15
   },
   "ipos": [
     {
@@ -102,10 +102,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "14-Sep 16:58"
       },
       "subscription": {
         "total": null,
@@ -133,9 +133,64 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
+      "slug": "fx-multitech-ipo",
+      "ipoId": 2849,
+      "name": "FX Multitech",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": "2026-09-24",
+        "listing": "2026-09-28"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "14-Sep 12:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Oneview Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fx-multitech-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/fx-multitech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fx-multitech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/",
+        "gmp": "https://www.investorgain.com/gmp/fx-multitech-ipo/1589/"
+      },
+      "gmpId": 1589,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2008, FX Multitech Limited is engaged in the distribution and export of a diverse portfolio of products catering primarily to the HVAC (Heating, Ventilation and Air Conditioning) and industrial refrigeration industries. The Company offers a wide range of engineering and refrigeration products, including compressors, refrigeration and air-conditioning controls, industrial refrigeration controls, variable frequency drives and automation products, specialized components and to",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "robokidz-eduventures-ipo",
       "ipoId": 3205,
-      "name": "Robokidz Eduventures Ltd.",
+      "name": "Robokidz Eduventures",
       "type": "sme",
       "status": "upcoming",
       "exchange": "BSE SME",
@@ -153,14 +208,14 @@
       "dates": {
         "open": "2026-09-21",
         "close": "2026-09-23",
-        "allotment": null,
+        "allotment": "2026-09-24",
         "listing": "2026-09-28"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 40.0,
+        "percent": 37.74,
+        "xLot": 48000.0,
+        "updatedOn": "14-Sep 16:56"
       },
       "subscription": {
         "total": null,
@@ -178,8 +233,9 @@
       "urls": {
         "local": "./ipo.html?slug=robokidz-eduventures-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/robokidz-eduventures-ipo/2359/"
       },
+      "gmpId": 2359,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
@@ -214,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 8:57"
+        "updatedOn": "14-Sep 16:53"
       },
       "subscription": {
         "total": null,
@@ -269,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 8:55"
+        "updatedOn": "14-Sep 16:56"
       },
       "subscription": {
         "total": null,
@@ -324,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 9:01"
+        "updatedOn": "14-Sep 16:58"
       },
       "subscription": {
         "total": null,
@@ -376,10 +432,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 22.88,
-        "xLot": 32400.0,
-        "updatedOn": "14-Sep 9:00"
+        "value": 44.0,
+        "percent": 37.29,
+        "xLot": 52800.0,
+        "updatedOn": "14-Sep 16:58"
       },
       "subscription": {
         "total": null,
@@ -431,10 +487,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 210.0,
-        "percent": 11.76,
-        "xLot": 1680.0,
-        "updatedOn": "14-Sep 9:02"
+        "value": 208.0,
+        "percent": 11.65,
+        "xLot": 1664.0,
+        "updatedOn": "14-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -489,7 +545,7 @@
         "value": 24.0,
         "percent": 28.57,
         "xLot": 4272.0,
-        "updatedOn": "14-Sep 8:56"
+        "updatedOn": "14-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -544,7 +600,7 @@
         "value": 27.0,
         "percent": 29.03,
         "xLot": 4347.0,
-        "updatedOn": "14-Sep 9:02"
+        "updatedOn": "14-Sep 17:02"
       },
       "subscription": {
         "total": null,
@@ -596,10 +652,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 120.0,
-        "percent": 28.3,
-        "xLot": 4200.0,
-        "updatedOn": "14-Sep 8:57"
+        "value": 134.0,
+        "percent": 31.6,
+        "xLot": 4690.0,
+        "updatedOn": "14-Sep 17:01"
       },
       "subscription": {
         "total": null,
@@ -654,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 8:57"
+        "updatedOn": "14-Sep 17:00"
       },
       "subscription": {
         "total": null,
@@ -709,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 8:55"
+        "updatedOn": "14-Sep 16:54"
       },
       "subscription": {
         "total": null,
@@ -761,10 +817,10 @@
         "listing": "2026-09-22"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "14-Sep 9:00"
+        "value": 10.0,
+        "percent": 2.93,
+        "xLot": 4000.0,
+        "updatedOn": "14-Sep 16:53"
       },
       "subscription": {
         "total": null,
