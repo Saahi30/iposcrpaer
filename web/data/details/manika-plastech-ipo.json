@@ -469,9 +469,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 40.0,
+      "min": 43.0,
       "max": 43.0,
-      "display": "₹40–43"
+      "display": "₹43"
     },
     "lotSize": 348,
     "issueSize": "₹125.50 Cr",
@@ -485,7 +485,7 @@
       "value": 3.0,
       "percent": 6.98,
       "xLot": 1044.0,
-      "updatedOn": "15-Sep 21:35"
+      "updatedOn": "15-Sep 23:34"
     },
     "leadManager": "Pantomath Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
@@ -495,5 +495,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-15T16:35:44+00:00"
+  "scrapedAt": "2026-09-15T21:01:13+00:00"
 }
