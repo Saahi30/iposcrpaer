@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-14T21:39:50+00:00",
+  "scrapedAt": "2026-09-15T04:07:54+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,179 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
-    "upcoming": 15,
+    "open": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 23
   },
   "ipos": [
+    {
+      "slug": "quanto-agroworld-ipo",
+      "ipoId": 2390,
+      "name": "Quanto Agroworld",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 67.0,
+        "max": 67.0,
+        "display": "₹67"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹31.02 Cr",
+      "issueSizeCr": 31.02,
+      "freshIssueCr": 29.47,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-15",
+        "close": "2026-09-17",
+        "allotment": "2026-09-18",
+        "listing": "2026-09-22"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "15-Sep 8:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Sobhagya Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/quanto-agro-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/quanto-agroworld-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=quanto-agroworld-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/quanto-agroworld-ipo/2390/",
+        "gmp": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/"
+      },
+      "gmpId": 1760,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in March 2018 as Quanto Agroworld Private Limited, The Company was established with the objective of undertaking agricultural and farming activities and is engaged in the cultivation, processing and supply of Medicinal and Aromatic Plants (MAPs), with lemongrass being its primary crop and principal commercial focus.The Company operates as a specialty botanical ingredient manufacturer, producing lemongrass-based products including lemongrass biomass, lemongrass tea-cut and lemongrass",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "shakti-polytarp-ipo",
+      "ipoId": 2427,
+      "name": "Shakti Polytarp",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 56.0,
+        "max": 59.0,
+        "display": "₹56–59"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹26.93 Cr",
+      "issueSizeCr": 26.93,
+      "freshIssueCr": 25.57,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-15",
+        "close": "2026-09-17",
+        "allotment": "2026-09-18",
+        "listing": "2026-09-22"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "15-Sep 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "NEXGEN Financial Solutions",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dinotarp-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shakti-polytarp-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shakti-polytarp-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shakti-polytarp-ipo/2427/",
+        "gmp": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/"
+      },
+      "gmpId": 1782,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in March 2018 as Shakti Polytarp Limited, the Company is engaged in the manufacturing of tarpaulins and other plastic-based products, including shade nets. Tarpaulins are water-resistant and durable sheets used to protect goods, equipment and other materials from rain, moisture, sunlight and other environmental conditions.\n\nThe Company manufactures tarpaulins using Polypropylene (PP) granules, Linear Low-Density Polyethylene (LLDPE), Low-Density Polyethylene (LDPE) and High-Density ",
+      "registrar": "Skyline Financial Services Pvt.Ltd."
+    },
+    {
+      "slug": "vama-wovenfab-ipo",
+      "ipoId": 2709,
+      "name": "Vama Wovenfab",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 324.0,
+        "max": 341.0,
+        "display": "₹324–341"
+      },
+      "lotSize": 400,
+      "issueSize": "₹49.54 Cr",
+      "issueSizeCr": 49.54,
+      "freshIssueCr": 47.06,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-15",
+        "close": "2026-09-17",
+        "allotment": "2026-09-18",
+        "listing": "2026-09-22"
+      },
+      "gmp": {
+        "value": 10.0,
+        "percent": 2.93,
+        "xLot": 4000.0,
+        "updatedOn": "15-Sep 8:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Gretex Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vama-wovenfab-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/vama-wovenfab-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vama-wovenfab-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vama-wovenfab-ipo/2709/",
+        "gmp": "https://www.investorgain.com/gmp/vama-wovenfab-ipo/1969/"
+      },
+      "gmpId": 1969,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in March 2011, Vama Wovenfab Limited is an ISO 9001:2015 certified manufacturer of PP and HDPE woven sack bags and fabric-based packaging products. The Company also trades in plastic granules and provides customised bulk packaging solutions to B2B customers across industries such as agriculture, food processing, chemicals, fertilizers, sugar and cement.\n\nThe Company's product portfolio includes PP/HDPE woven bags and fabrics, BOPP bags, HDPE trampoline sheets, coloured woven fabric ",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "manika-plastech-ipo",
       "ipoId": 2483,
@@ -51,7 +216,7 @@
         "value": 11.0,
         "percent": 25.58,
         "xLot": 3828.0,
-        "updatedOn": "14-Sep 23:37"
+        "updatedOn": "15-Sep 8:58"
       },
       "subscription": {
         "total": 1.49,
@@ -157,7 +322,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:32"
+        "updatedOn": "15-Sep 9:02"
       },
       "subscription": {
         "total": 1.15,
@@ -270,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:28"
+        "updatedOn": "15-Sep 8:57"
       },
       "subscription": {
         "total": 0.29,
@@ -383,7 +548,7 @@
         "value": 21.0,
         "percent": 15.0,
         "xLot": 21000.0,
-        "updatedOn": "14-Sep 23:32"
+        "updatedOn": "15-Sep 8:54"
       },
       "subscription": {
         "total": 0.04,
@@ -472,7 +637,7 @@
         "value": 61.0,
         "percent": 22.34,
         "xLot": 24400.0,
-        "updatedOn": "14-Sep 23:32"
+        "updatedOn": "15-Sep 8:58"
       },
       "subscription": {
         "total": 1.31,
@@ -593,7 +758,7 @@
         "value": 20.0,
         "percent": 14.29,
         "xLot": 2140.0,
-        "updatedOn": "14-Sep 23:33"
+        "updatedOn": "15-Sep 8:56"
       },
       "subscription": {
         "total": 1.25,
@@ -699,7 +864,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:37"
+        "updatedOn": "15-Sep 9:00"
       },
       "subscription": {
         "total": 0.95,
@@ -820,7 +985,7 @@
         "value": 40.0,
         "percent": 21.51,
         "xLot": 24000.0,
-        "updatedOn": "14-Sep 23:32"
+        "updatedOn": "15-Sep 8:57"
       },
       "subscription": {
         "total": 0.48,
@@ -941,7 +1106,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "14-Sep 5:55"
+        "updatedOn": "15-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -996,7 +1161,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:35"
+        "updatedOn": "15-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -1049,9 +1214,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "14-Sep 12:30"
+        "updatedOn": "15-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -1106,7 +1271,7 @@
         "value": 45.0,
         "percent": 42.45,
         "xLot": 54000.0,
-        "updatedOn": "14-Sep 23:29"
+        "updatedOn": "15-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -1161,7 +1326,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:28"
+        "updatedOn": "15-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -1216,7 +1381,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:28"
+        "updatedOn": "15-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -1271,7 +1436,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Sep 23:31"
+        "updatedOn": "15-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -1326,7 +1491,7 @@
         "value": 44.0,
         "percent": 37.29,
         "xLot": 52800.0,
-        "updatedOn": "14-Sep 23:28"
+        "updatedOn": "15-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -1381,7 +1546,7 @@
         "value": 208.0,
         "percent": 11.65,
         "xLot": 1664.0,
-        "updatedOn": "14-Sep 23:29"
+        "updatedOn": "15-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -1436,7 +1601,7 @@
         "value": 23.0,
         "percent": 27.38,
         "xLot": 4094.0,
-        "updatedOn": "14-Sep 23:30"
+        "updatedOn": "15-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -1491,7 +1656,7 @@
         "value": 27.0,
         "percent": 29.03,
         "xLot": 4347.0,
-        "updatedOn": "14-Sep 23:33"
+        "updatedOn": "15-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -1546,7 +1711,7 @@
         "value": 140.0,
         "percent": 33.02,
         "xLot": 4900.0,
-        "updatedOn": "14-Sep 23:37"
+        "updatedOn": "15-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -1572,171 +1737,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa and Gujarat. It primarily focuses on Tier II and Tier III and beyond cities and, as of March 31, 2026, operated 503 stores across 215 cities, covering approximately 2,41,365 sq. ft.\n\nThe Company operates under its proprietary brands ‘SS Mobile’, ‘Mobile Exchange Wala’ and ‘The Mobile Space’ through a com",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "quanto-agroworld-ipo",
-      "ipoId": 2390,
-      "name": "Quanto Agroworld",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 67.0,
-        "max": 67.0,
-        "display": "₹67"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹31.02 Cr",
-      "issueSizeCr": 31.02,
-      "freshIssueCr": 29.47,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "14-Sep 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Sobhagya Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/quanto-agro-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/quanto-agroworld-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=quanto-agroworld-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/quanto-agroworld-ipo/2390/",
-        "gmp": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/"
-      },
-      "gmpId": 1760,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2018 as Quanto Agroworld Private Limited, The Company was established with the objective of undertaking agricultural and farming activities and is engaged in the cultivation, processing and supply of Medicinal and Aromatic Plants (MAPs), with lemongrass being its primary crop and principal commercial focus.The Company operates as a specialty botanical ingredient manufacturer, producing lemongrass-based products including lemongrass biomass, lemongrass tea-cut and lemongrass",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "shakti-polytarp-ipo",
-      "ipoId": 2427,
-      "name": "Shakti Polytarp",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 56.0,
-        "max": 59.0,
-        "display": "₹56–59"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹26.93 Cr",
-      "issueSizeCr": 26.93,
-      "freshIssueCr": 25.57,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "14-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "NEXGEN Financial Solutions",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dinotarp-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shakti-polytarp-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shakti-polytarp-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shakti-polytarp-ipo/2427/",
-        "gmp": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/"
-      },
-      "gmpId": 1782,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2018 as Shakti Polytarp Limited, the Company is engaged in the manufacturing of tarpaulins and other plastic-based products, including shade nets. Tarpaulins are water-resistant and durable sheets used to protect goods, equipment and other materials from rain, moisture, sunlight and other environmental conditions.\n\nThe Company manufactures tarpaulins using Polypropylene (PP) granules, Linear Low-Density Polyethylene (LLDPE), Low-Density Polyethylene (LDPE) and High-Density ",
-      "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
-      "slug": "vama-wovenfab-ipo",
-      "ipoId": 2709,
-      "name": "Vama Wovenfab",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 324.0,
-        "max": 341.0,
-        "display": "₹324–341"
-      },
-      "lotSize": 400,
-      "issueSize": "₹49.54 Cr",
-      "issueSizeCr": 49.54,
-      "freshIssueCr": 47.06,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 2.93,
-        "xLot": 4000.0,
-        "updatedOn": "14-Sep 23:35"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Gretex Corporate",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vama-wovenfab-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/vama-wovenfab-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vama-wovenfab-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vama-wovenfab-ipo/2709/",
-        "gmp": "https://www.investorgain.com/gmp/vama-wovenfab-ipo/1969/"
-      },
-      "gmpId": 1969,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2011, Vama Wovenfab Limited is an ISO 9001:2015 certified manufacturer of PP and HDPE woven sack bags and fabric-based packaging products. The Company also trades in plastic granules and provides customised bulk packaging solutions to B2B customers across industries such as agriculture, food processing, chemicals, fertilizers, sugar and cement.\n\nThe Company's product portfolio includes PP/HDPE woven bags and fabrics, BOPP bags, HDPE trampoline sheets, coloured woven fabric ",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }
