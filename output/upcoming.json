@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T16:28:54+00:00",
+  "scrapedAt": "2026-09-16T21:04:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 12
   },
   "ipos": [
+    {
+      "slug": "varmora-granito-ipo",
+      "ipoId": 2563,
+      "name": "Varmora Granito",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 400.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-12-25",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "16-Sep 22:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/varmora-granito-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=varmora-granito-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
+      },
+      "gmpId": 1852,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 21:29"
+        "updatedOn": "16-Sep 23:32"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 21:32"
+        "updatedOn": "16-Sep 23:36"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 21:36"
+        "updatedOn": "16-Sep 23:31"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 21:34"
+        "updatedOn": "16-Sep 23:30"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "16-Sep 21:34"
+        "updatedOn": "16-Sep 23:31"
       },
       "subscription": {
         "total": null,
@@ -380,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 21:29"
+        "updatedOn": "16-Sep 23:29"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 10.0,
         "percent": 9.9,
         "xLot": 12000.0,
-        "updatedOn": "16-Sep 21:32"
+        "updatedOn": "16-Sep 23:32"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 7.0,
         "percent": 7.07,
         "xLot": 1050.0,
-        "updatedOn": "16-Sep 21:34"
+        "updatedOn": "16-Sep 23:34"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 50.0,
         "percent": 42.37,
         "xLot": 60000.0,
-        "updatedOn": "16-Sep 21:36"
+        "updatedOn": "16-Sep 23:31"
       },
       "subscription": {
         "total": null,
@@ -597,10 +652,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 162.0,
-        "percent": 9.08,
-        "xLot": 1296.0,
-        "updatedOn": "16-Sep 21:34"
+        "value": 145.0,
+        "percent": 8.12,
+        "xLot": 1160.0,
+        "updatedOn": "16-Sep 23:37"
       },
       "subscription": {
         "total": null,

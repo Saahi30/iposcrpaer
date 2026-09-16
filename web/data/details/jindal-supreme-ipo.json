@@ -482,9 +482,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 88.0,
+      "min": 93.0,
       "max": 93.0,
-      "display": "₹88–93"
+      "display": "₹93"
     },
     "lotSize": 161,
     "issueSize": "₹124.88 Cr",
@@ -498,7 +498,7 @@
       "value": 25.0,
       "percent": 26.88,
       "xLot": 4025.0,
-      "updatedOn": "16-Sep 21:32"
+      "updatedOn": "16-Sep 23:30"
     },
     "leadManager": "Sarthi Capital Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
@@ -508,5 +508,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-16T16:28:21+00:00"
+  "scrapedAt": "2026-09-16T21:04:00+00:00"
 }
