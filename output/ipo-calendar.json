@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T11:08:40+00:00",
+  "scrapedAt": "2026-09-16T16:28:59+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 127,
+    "totalEvents": 131,
     "mainboard": 62,
-    "sme": 65,
+    "sme": 69,
     "byEventType": {
       "allotment": 29,
-      "close": 50,
-      "open": 42,
+      "close": 52,
+      "open": 44,
       "other": 6
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 123,
+        "total": 127,
         "mainboard": 60,
-        "sme": 63
+        "sme": 67
       },
       "byDate": {
         "2026-09-01": [
@@ -705,7 +705,7 @@
             "eventType": "open",
             "date": "2026-09-08",
             "dateEnd": "2026-09-08",
-            "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+            "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of 0.74 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 643 - Rs 676 Per Equity",
             "type": "mainboard",
             "slug": "prasol-chemicals-ipo",
             "ipoId": 2775,
@@ -715,7 +715,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/prasol-chemicals-ipo/2775/#15419",
               "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.74%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20643%20-%20Rs%20676%20Per%20Equity%20"
             }
           },
           {
@@ -2276,6 +2276,25 @@
               "chittorgarh": "https://www.chittorgarh.com/ipo/spectraa-technology-solutions-ipo/2950/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SpectraA%20Technology%20Solutions%20IPO%20Closes%20on%20Sep%2021%2C%202026&location=&dates=20260921/20260922&details=The%20issue%20of%20SpectraA%20Technology%20Solutions%20Ltd.%20opens%20on%20Sep%2017%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2021%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20b"
             }
+          },
+          {
+            "title": "Vivekanand Cotspin IPO Opens on Sep 21, 2026",
+            "company": "Vivekanand Cotspin",
+            "eventType": "open",
+            "date": "2026-09-21",
+            "dateEnd": "2026-09-21",
+            "details": "Vivekanand Cotspin Ltd. is entering in the capital market with an IPO of 0.62 Equity Shares of Rs 10 aggregating up to Rs 22.94 Crore. The price for the issue has been set at Rs 32 - Rs 37 Per Equity",
+            "type": "sme",
+            "slug": "vivekanand-cotspin-ipo",
+            "ipoId": 2062,
+            "eventId": 15528,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15528",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Opens%20on%20Sep%2021%2C%202026&location=&dates=20260921/20260922&details=Vivekanand%20Cotspin%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.62%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.94%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2032%20-%20Rs%2037%20Per%20Equity%20"
+            }
           }
         ],
         "2026-09-22": [
@@ -2296,6 +2315,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/axiom-gas-engineering-ipo/2193/#15479",
               "chittorgarh": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Axiom%20Gas%20Engineering%20IPO%20Closes%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=The%20issue%20of%20Axiom%20Gas%20Engineering%20Ltd.%20opens%20on%20Sep%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2022%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+            }
+          },
+          {
+            "title": "Himalaya Nutravedics IPO Opens on Sep 22, 2026",
+            "company": "Himalaya Nutravedics",
+            "eventType": "open",
+            "date": "2026-09-22",
+            "dateEnd": "2026-09-22",
+            "details": "Himalaya Nutravedics India Ltd. is entering in the capital market with an IPO of 0.24 Equity Shares of Rs 10 aggregating up to Rs 25.16 Crore. The price for the issue has been set at Rs 100 - Rs 106 P",
+            "type": "sme",
+            "slug": "himalaya-nutravedics-ipo",
+            "ipoId": 2970,
+            "eventId": 15530,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15530",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Himalaya%20Nutravedics%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.24%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.16%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20100%20-%20Rs%20106%20P"
             }
           }
         ],
@@ -2356,6 +2394,25 @@
               "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=S.K.Offset%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.22%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2027.56%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-%20Rs%20125%20Per%20Equity%20Share."
             }
+          },
+          {
+            "title": "Vivekanand Cotspin IPO Closes on Sep 23, 2026",
+            "company": "Vivekanand Cotspin",
+            "eventType": "close",
+            "date": "2026-09-23",
+            "dateEnd": "2026-09-23",
+            "details": "The issue of Vivekanand Cotspin Ltd. opens on Sep 21, 2026 and closes for subscription on Sep 23, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+            "type": "sme",
+            "slug": "vivekanand-cotspin-ipo",
+            "ipoId": 2062,
+            "eventId": 15529,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15529",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20Vivekanand%20Cotspin%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+            }
           }
         ],
         "2026-09-24": [
@@ -2376,6 +2433,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
               "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+            }
+          },
+          {
+            "title": "Himalaya Nutravedics IPO Closes on Sep 24, 2026",
+            "company": "Himalaya Nutravedics",
+            "eventType": "close",
+            "date": "2026-09-24",
+            "dateEnd": "2026-09-24",
+            "details": "The issue of Himalaya Nutravedics India Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been",
+            "type": "sme",
+            "slug": "himalaya-nutravedics-ipo",
+            "ipoId": 2970,
+            "eventId": 15531,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15531",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Himalaya%20Nutravedics%20India%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been"
             }
           }
         ],
@@ -2733,7 +2809,7 @@
           "eventType": "open",
           "date": "2026-09-08",
           "dateEnd": "2026-09-08",
-          "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+          "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of 0.74 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 643 - Rs 676 Per Equity",
           "type": "mainboard",
           "slug": "prasol-chemicals-ipo",
           "ipoId": 2775,
@@ -2743,7 +2819,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/prasol-chemicals-ipo/2775/#15419",
             "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.74%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20643%20-%20Rs%20676%20Per%20Equity%20"
           }
         },
         {
@@ -4666,6 +4742,25 @@
           }
         },
         {
+          "title": "Vivekanand Cotspin IPO Opens on Sep 21, 2026",
+          "company": "Vivekanand Cotspin",
+          "eventType": "open",
+          "date": "2026-09-21",
+          "dateEnd": "2026-09-21",
+          "details": "Vivekanand Cotspin Ltd. is entering in the capital market with an IPO of 0.62 Equity Shares of Rs 10 aggregating up to Rs 22.94 Crore. The price for the issue has been set at Rs 32 - Rs 37 Per Equity",
+          "type": "sme",
+          "slug": "vivekanand-cotspin-ipo",
+          "ipoId": 2062,
+          "eventId": 15528,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15528",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Opens%20on%20Sep%2021%2C%202026&location=&dates=20260921/20260922&details=Vivekanand%20Cotspin%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.62%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.94%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2032%20-%20Rs%2037%20Per%20Equity%20"
+          }
+        },
+        {
           "title": "Axiom Gas Engineering IPO Closes on Sep 22, 2026",
           "company": "Axiom Gas Engineering",
           "eventType": "close",
@@ -4682,6 +4777,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/axiom-gas-engineering-ipo/2193/#15479",
             "chittorgarh": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Axiom%20Gas%20Engineering%20IPO%20Closes%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=The%20issue%20of%20Axiom%20Gas%20Engineering%20Ltd.%20opens%20on%20Sep%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2022%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+          }
+        },
+        {
+          "title": "Himalaya Nutravedics IPO Opens on Sep 22, 2026",
+          "company": "Himalaya Nutravedics",
+          "eventType": "open",
+          "date": "2026-09-22",
+          "dateEnd": "2026-09-22",
+          "details": "Himalaya Nutravedics India Ltd. is entering in the capital market with an IPO of 0.24 Equity Shares of Rs 10 aggregating up to Rs 25.16 Crore. The price for the issue has been set at Rs 100 - Rs 106 P",
+          "type": "sme",
+          "slug": "himalaya-nutravedics-ipo",
+          "ipoId": 2970,
+          "eventId": 15530,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15530",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Himalaya%20Nutravedics%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.24%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.16%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20100%20-%20Rs%20106%20P"
           }
         },
         {
@@ -4739,6 +4853,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15513",
             "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=S.K.Offset%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.22%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2027.56%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-%20Rs%20125%20Per%20Equity%20Share."
+          }
+        },
+        {
+          "title": "Vivekanand Cotspin IPO Closes on Sep 23, 2026",
+          "company": "Vivekanand Cotspin",
+          "eventType": "close",
+          "date": "2026-09-23",
+          "dateEnd": "2026-09-23",
+          "details": "The issue of Vivekanand Cotspin Ltd. opens on Sep 21, 2026 and closes for subscription on Sep 23, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+          "type": "sme",
+          "slug": "vivekanand-cotspin-ipo",
+          "ipoId": 2062,
+          "eventId": 15529,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15529",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20Vivekanand%20Cotspin%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+          }
+        },
+        {
+          "title": "Himalaya Nutravedics IPO Closes on Sep 24, 2026",
+          "company": "Himalaya Nutravedics",
+          "eventType": "close",
+          "date": "2026-09-24",
+          "dateEnd": "2026-09-24",
+          "details": "The issue of Himalaya Nutravedics India Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been",
+          "type": "sme",
+          "slug": "himalaya-nutravedics-ipo",
+          "ipoId": 2970,
+          "eventId": 15531,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15531",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Himalaya%20Nutravedics%20India%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been"
           }
         },
         {
@@ -5248,7 +5400,7 @@
       "eventType": "open",
       "date": "2026-09-08",
       "dateEnd": "2026-09-08",
-      "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+      "details": "Prasol Chemicals Ltd. is entering in the capital market with an IPO of 0.74 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 643 - Rs 676 Per Equity",
       "type": "mainboard",
       "slug": "prasol-chemicals-ipo",
       "ipoId": 2775,
@@ -5258,7 +5410,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/prasol-chemicals-ipo/2775/#15419",
         "chittorgarh": "https://www.chittorgarh.com/ipo/prasol-chemicals-ipo/2775/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Prasol%20Chemicals%20IPO%20Opens%20on%20Sep%208%2C%202026&location=&dates=20260908/20260909&details=Prasol%20Chemicals%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.74%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20643%20-%20Rs%20676%20Per%20Equity%20"
       }
     },
     {
@@ -7181,6 +7333,25 @@
       }
     },
     {
+      "title": "Vivekanand Cotspin IPO Opens on Sep 21, 2026",
+      "company": "Vivekanand Cotspin",
+      "eventType": "open",
+      "date": "2026-09-21",
+      "dateEnd": "2026-09-21",
+      "details": "Vivekanand Cotspin Ltd. is entering in the capital market with an IPO of 0.62 Equity Shares of Rs 10 aggregating up to Rs 22.94 Crore. The price for the issue has been set at Rs 32 - Rs 37 Per Equity",
+      "type": "sme",
+      "slug": "vivekanand-cotspin-ipo",
+      "ipoId": 2062,
+      "eventId": 15528,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15528",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Opens%20on%20Sep%2021%2C%202026&location=&dates=20260921/20260922&details=Vivekanand%20Cotspin%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.62%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.94%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2032%20-%20Rs%2037%20Per%20Equity%20"
+      }
+    },
+    {
       "title": "Axiom Gas Engineering IPO Closes on Sep 22, 2026",
       "company": "Axiom Gas Engineering",
       "eventType": "close",
@@ -7197,6 +7368,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/axiom-gas-engineering-ipo/2193/#15479",
         "chittorgarh": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Axiom%20Gas%20Engineering%20IPO%20Closes%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=The%20issue%20of%20Axiom%20Gas%20Engineering%20Ltd.%20opens%20on%20Sep%2018%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2022%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+      }
+    },
+    {
+      "title": "Himalaya Nutravedics IPO Opens on Sep 22, 2026",
+      "company": "Himalaya Nutravedics",
+      "eventType": "open",
+      "date": "2026-09-22",
+      "dateEnd": "2026-09-22",
+      "details": "Himalaya Nutravedics India Ltd. is entering in the capital market with an IPO of 0.24 Equity Shares of Rs 10 aggregating up to Rs 25.16 Crore. The price for the issue has been set at Rs 100 - Rs 106 P",
+      "type": "sme",
+      "slug": "himalaya-nutravedics-ipo",
+      "ipoId": 2970,
+      "eventId": 15530,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15530",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Himalaya%20Nutravedics%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.24%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2025.16%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20100%20-%20Rs%20106%20P"
       }
     },
     {
@@ -7254,6 +7444,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15513",
         "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=S.K.Offset%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.22%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2027.56%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-%20Rs%20125%20Per%20Equity%20Share."
+      }
+    },
+    {
+      "title": "Vivekanand Cotspin IPO Closes on Sep 23, 2026",
+      "company": "Vivekanand Cotspin",
+      "eventType": "close",
+      "date": "2026-09-23",
+      "dateEnd": "2026-09-23",
+      "details": "The issue of Vivekanand Cotspin Ltd. opens on Sep 21, 2026 and closes for subscription on Sep 23, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+      "type": "sme",
+      "slug": "vivekanand-cotspin-ipo",
+      "ipoId": 2062,
+      "eventId": 15529,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15529",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20Vivekanand%20Cotspin%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+      }
+    },
+    {
+      "title": "Himalaya Nutravedics IPO Closes on Sep 24, 2026",
+      "company": "Himalaya Nutravedics",
+      "eventType": "close",
+      "date": "2026-09-24",
+      "dateEnd": "2026-09-24",
+      "details": "The issue of Himalaya Nutravedics India Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been",
+      "type": "sme",
+      "slug": "himalaya-nutravedics-ipo",
+      "ipoId": 2970,
+      "eventId": 15531,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/himalaya-nutravedics-ipo/2970/#15531",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Himalaya%20Nutravedics%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Himalaya%20Nutravedics%20India%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been"
       }
     },
     {
