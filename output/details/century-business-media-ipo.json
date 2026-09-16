@@ -385,8 +385,8 @@
     "source": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/"
   },
   "subscription": {
-    "summary": "Century Business Media IPO subscribed 1.45 times. The public issue subscribed 0.58 times in the individual investors category, 3.51 times in QIB (Ex Anchor), and 0.73 times in the NII category by September 15, 2026 6:53:40 PM (Day 2).",
-    "total": 1.45,
+    "summary": "Century Business Media IPO subscribed 57.20 times. The public issue subscribed 38.44 times in the individual investors category, 47.53 times in QIB (Ex Anchor), and 113.71 times in the NII category by September 16, 2026 4:34:44 PM (Day 3).",
+    "total": 57.2,
     "applications": null,
     "byCategory": [
       {
@@ -407,51 +407,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "3.51",
+        "Subscription (x)": "47.53",
         "Shares Offered*": "4,38,400",
-        "Shares bid for": "15,40,800",
-        "Total Amt* (₹ Cr.)": "11.402",
+        "Shares bid for": "2,08,35,200",
+        "Total Amt* (₹ Cr.)": "154.180",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.73",
+        "Subscription (x)": "113.71",
         "Shares Offered*": "3,31,200",
-        "Shares bid for": "2,43,200",
-        "Total Amt* (₹ Cr.)": "1.800",
+        "Shares bid for": "3,76,60,800",
+        "Total Amt* (₹ Cr.)": "278.690",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.91",
+        "Subscription (x)": "142.25",
         "Shares Offered*": "2,20,800",
-        "Shares bid for": "2,01,600",
-        "Total Amt* (₹ Cr.)": "1.492",
+        "Shares bid for": "3,14,08,000",
+        "Total Amt* (₹ Cr.)": "232.419",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.38",
+        "Subscription (x)": "56.64",
         "Shares Offered*": "1,10,400",
-        "Shares bid for": "41,600",
-        "Total Amt* (₹ Cr.)": "0.308",
+        "Shares bid for": "62,52,800",
+        "Total Amt* (₹ Cr.)": "46.271",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "38.44",
         "Shares Offered*": "7,71,200",
-        "Shares bid for": "4,44,800",
-        "Total Amt* (₹ Cr.)": "3.292",
+        "Shares bid for": "2,96,41,600",
+        "Total Amt* (₹ Cr.)": "219.348",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.45",
+        "Subscription (x)": "57.20",
         "Shares Offered*": "15,40,800",
-        "Shares bid for": "22,28,800",
-        "Total Amt* (₹ Cr.)": "16.493",
-        "Total Applications": "164"
+        "Shares bid for": "8,81,37,600",
+        "Total Amt* (₹ Cr.)": "652.218",
+        "Total Applications": "12,803"
       }
     ],
     "dayWise": [
@@ -472,6 +472,15 @@
         "NII (< ₹10L)": "0.38",
         "Individual Investors": "0.58",
         "Total": "1.45"
+      },
+      {
+        "Date": "Sep 16 (Day 3)",
+        "QIB (Ex Anchor)": "47.53",
+        "NII*": "113.71",
+        "NII (> ₹10L)": "142.25",
+        "NII (< ₹10L)": "56.64",
+        "Individual Investors": "38.44",
+        "Total": "57.20"
       }
     ]
   },
@@ -497,7 +506,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "16-Sep 8:59"
+      "updatedOn": "16-Sep 15:54"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
@@ -507,5 +516,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-16T04:04:07+00:00"
+  "scrapedAt": "2026-09-16T11:08:15+00:00"
 }

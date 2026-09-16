@@ -387,8 +387,8 @@
     "source": "https://www.chittorgarh.com/ipo/injecto-polymers-ipo/2625/"
   },
   "subscription": {
-    "summary": "Injecto Polymers IPO subscribed 0.85 times. The public issue subscribed 0.84 times in the individual investors category, 1.02 times in QIB (Ex Anchor), and 0.80 times in the NII category by September 15, 2026 6:54:53 PM (Day 2).",
-    "total": 0.85,
+    "summary": "Injecto Polymers IPO subscribed 1.22 times. The public issue subscribed 1.28 times in the individual investors category, 1.57 times in QIB (Ex Anchor), and 1.05 times in the NII category by September 16, 2026 4:34:53 PM (Day 3).",
+    "total": 1.22,
     "applications": null,
     "byCategory": [
       {
@@ -409,51 +409,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.02",
+        "Subscription (x)": "1.57",
         "Shares Offered*": "6,38,400",
-        "Shares bid for": "6,50,400",
-        "Total Amt* (₹ Cr.)": "6.504",
+        "Shares bid for": "9,99,600",
+        "Total Amt* (₹ Cr.)": "9.996",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "1.05",
         "Shares Offered*": "18,66,000",
-        "Shares bid for": "14,94,000",
-        "Total Amt* (₹ Cr.)": "14.940",
+        "Shares bid for": "19,68,000",
+        "Total Amt* (₹ Cr.)": "19.680",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.15",
+        "Subscription (x)": "1.47",
         "Shares Offered*": "12,44,400",
-        "Shares bid for": "14,35,200",
-        "Total Amt* (₹ Cr.)": "14.352",
+        "Shares bid for": "18,28,800",
+        "Total Amt* (₹ Cr.)": "18.288",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.09",
+        "Subscription (x)": "0.22",
         "Shares Offered*": "6,21,600",
-        "Shares bid for": "58,800",
-        "Total Amt* (₹ Cr.)": "0.588",
+        "Shares bid for": "1,39,200",
+        "Total Amt* (₹ Cr.)": "1.392",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.84",
+        "Subscription (x)": "1.28",
         "Shares Offered*": "18,67,200",
-        "Shares bid for": "15,62,400",
-        "Total Amt* (₹ Cr.)": "15.624",
+        "Shares bid for": "23,83,200",
+        "Total Amt* (₹ Cr.)": "23.832",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.85",
+        "Subscription (x)": "1.22",
         "Shares Offered*": "43,71,600",
-        "Shares bid for": "37,06,800",
-        "Total Amt* (₹ Cr.)": "37.068",
-        "Total Applications": "729"
+        "Shares bid for": "53,50,800",
+        "Total Amt* (₹ Cr.)": "53.508",
+        "Total Applications": "1,108"
       }
     ],
     "dayWise": [
@@ -474,6 +474,15 @@
         "NII (< ₹10L)": "0.09",
         "Individual Investors": "0.84",
         "Total": "0.85"
+      },
+      {
+        "Date": "Sep 16 (Day 3)",
+        "QIB (Ex Anchor)": "1.57",
+        "NII*": "1.05",
+        "NII (> ₹10L)": "1.47",
+        "NII (< ₹10L)": "0.22",
+        "Individual Investors": "1.28",
+        "Total": "1.22"
       }
     ]
   },
@@ -499,7 +508,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "16-Sep 9:01"
+      "updatedOn": "16-Sep 16:00"
     },
     "leadManager": "Indcap",
     "logo": "https://www.chittorgarh.net/images/ipo/injecto-polymers-logo.jpeg",
@@ -509,5 +518,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-16T04:04:09+00:00"
+  "scrapedAt": "2026-09-16T11:08:17+00:00"
 }
