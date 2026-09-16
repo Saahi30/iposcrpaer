@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T21:01:55+00:00",
+  "scrapedAt": "2026-09-16T04:04:31+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,179 @@
     "limit": null
   },
   "summary": {
-    "open": 11,
+    "open": 9,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 9
   },
   "ipos": [
+    {
+      "slug": "hero-motors-ipo",
+      "ipoId": 2225,
+      "name": "Hero Motors",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 79.0,
+        "max": 84.0,
+        "display": "₹79–84"
+      },
+      "lotSize": 178,
+      "issueSize": "₹1000.00 Cr",
+      "issueSizeCr": 1000.0,
+      "freshIssueCr": 600.0,
+      "ofsCr": 400.0,
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "listing": "2026-09-23"
+      },
+      "gmp": {
+        "value": 19.0,
+        "percent": 22.62,
+        "xLot": 3382.0,
+        "updatedOn": "16-Sep 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hero-motors-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/hero-motors-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hero-motors-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hero-motors-ipo/2225/",
+        "gmp": "https://www.investorgain.com/gmp/hero-motors-ipo/1688/"
+      },
+      "gmpId": 1688,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in April 1998, Hero Motors Limited is an automotive technology company engaged in designing, developing, manufacturing and supplying engineered powertrain solutions to automotive original equipment manufacturers (OEMs) across the United States, Europe, India and ASEAN region. The Company provides integrated solutions for both electric and non-electric powertrains, serving two-wheelers, performance automotive, e-bikes, off-road vehicles, electric and hybrid cars, heavy-duty vehicles ",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "jindal-supreme-ipo",
+      "ipoId": 2803,
+      "name": "Jindal Supreme",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 93.0,
+        "display": "₹88–93"
+      },
+      "lotSize": 161,
+      "issueSize": "₹124.88 Cr",
+      "issueSizeCr": 124.88,
+      "freshIssueCr": 99.89,
+      "ofsCr": 24.99,
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "listing": "2026-09-23"
+      },
+      "gmp": {
+        "value": 27.0,
+        "percent": 29.03,
+        "xLot": 4347.0,
+        "updatedOn": "16-Sep 9:01"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Sarthi Capital Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/jindal-supreme-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=jindal-supreme-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/",
+        "gmp": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/"
+      },
+      "gmpId": 2057,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 1974 , Jindal Supreme (India) Limited has been engaged in the manufacturing and supply of steel pipes, tubes and other steel products catering to infrastructure and industrial applications for over five decades. Its product portfolio includes Mild Steel (MS) black pipes and tubes, galvanized pipes, metal beam crash barriers and Galvanized Iron (GI) tubular poles. These products are manufactured in various dimensions as per applicable Indian Standards and are used across wat",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "ss-retail-ipo",
+      "ipoId": 2822,
+      "name": "SS Retail",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 403.0,
+        "max": 424.0,
+        "display": "₹403–424"
+      },
+      "lotSize": 35,
+      "issueSize": "₹500.00 Cr",
+      "issueSizeCr": 500.0,
+      "freshIssueCr": 360.0,
+      "ofsCr": 140.0,
+      "dates": {
+        "open": "2026-09-16",
+        "close": "2026-09-18",
+        "allotment": "2026-09-21",
+        "listing": "2026-09-23"
+      },
+      "gmp": {
+        "value": 128.0,
+        "percent": 30.19,
+        "xLot": 4480.0,
+        "updatedOn": "16-Sep 8:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Anand Rathi Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-limited-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/ss-retail-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ss-retail-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ss-retail-ipo/2822/",
+        "gmp": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/"
+      },
+      "gmpId": 2076,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa and Gujarat. It primarily focuses on Tier II and Tier III and beyond cities and, as of March 31, 2026, operated 503 stores across 215 cities, covering approximately 2,41,365 sq. ft.\n\nThe Company operates under its proprietary brands ‘SS Mobile’, ‘Mobile Exchange Wala’ and ‘The Mobile Space’ through a com",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "quanto-agroworld-ipo",
       "ipoId": 2390,
@@ -50,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Sep 23:34"
+        "updatedOn": "16-Sep 8:54"
       },
       "subscription": {
         "total": 0.02,
@@ -131,7 +296,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Sep 23:35"
+        "updatedOn": "16-Sep 8:58"
       },
       "subscription": {
         "total": 0.64,
@@ -244,7 +409,7 @@
         "value": 30.0,
         "percent": 8.8,
         "xLot": 12000.0,
-        "updatedOn": "15-Sep 23:28"
+        "updatedOn": "16-Sep 8:55"
       },
       "subscription": {
         "total": 0.01,
@@ -349,7 +514,7 @@
         "value": 3.0,
         "percent": 6.98,
         "xLot": 1044.0,
-        "updatedOn": "15-Sep 23:34"
+        "updatedOn": "16-Sep 8:54"
       },
       "subscription": {
         "total": 8.78,
@@ -455,7 +620,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Sep 23:29"
+        "updatedOn": "16-Sep 8:59"
       },
       "subscription": {
         "total": 1.45,
@@ -576,7 +741,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Sep 23:30"
+        "updatedOn": "16-Sep 9:01"
       },
       "subscription": {
         "total": 0.85,
@@ -668,564 +833,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in September 1998, Injecto Polymers Private Limited, The Company is engaged in the manufacturing of a diverse range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The Company manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non",
       "registrar": "Integrated Registry Management Services Pvt.Ltd."
-    },
-    {
-      "slug": "panchatv-bharat-ipo",
-      "ipoId": 2373,
-      "name": "Panchatv Bharat",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 140.0,
-        "max": 140.0,
-        "display": "₹140"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹24.58 Cr",
-      "issueSizeCr": 24.58,
-      "freshIssueCr": 23.35,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-10",
-        "close": "2026-09-15",
-        "allotment": "2026-09-16",
-        "listing": "2026-09-18"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 2.14,
-        "xLot": 3000.0,
-        "updatedOn": "15-Sep 23:36"
-      },
-      "subscription": {
-        "total": 1.4,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "88,000",
-            "Shares bid for": "88,000",
-            "Total Amt* (₹ Cr.)": "1.23",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.39",
-            "Shares Offered*": "8,34,000",
-            "Shares bid for": "3,22,000",
-            "Total Amt* (₹ Cr.)": "4.51",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.42",
-            "Shares Offered*": "8,34,000",
-            "Shares bid for": "20,18,000",
-            "Total Amt* (₹ Cr.)": "28.25",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.40",
-            "Shares Offered*": "16,68,000",
-            "Shares bid for": "23,43,000",
-            "Total Amt* (₹ Cr.)": "32.80",
-            "Total Applications": "1,112"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Mark Corporate",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/panchat-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/panchatv-bharat-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=panchatv-bharat-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/panchatv-bharat-ipo/2373/",
-        "gmp": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/"
-      },
-      "gmpId": 1749,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2024 as Panchatv Bharat Private Limited, Panchatv Bharat Limited is engaged in the manufacturing and distribution of unstitched denim fabrics under its own brand ‘NJD’, primarily catering to garment manufacturers, distributors, dealers and wholesalers across India. Its denim fabrics are offered in various textures, finishes and shades based on customer requirements and are distributed across key markets including Delhi, Uttar Pradesh, Gujarat and Rajasthan.\n\nThe Company fol",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "raksan-transformers-ipo",
-      "ipoId": 2767,
-      "name": "Raksan Transformers",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 258.0,
-        "max": 273.0,
-        "display": "₹258–273"
-      },
-      "lotSize": 400,
-      "issueSize": "₹150.50 Cr",
-      "issueSizeCr": 150.5,
-      "freshIssueCr": 112.93,
-      "ofsCr": 30.03,
-      "dates": {
-        "open": "2026-09-10",
-        "close": "2026-09-15",
-        "allotment": "2026-09-16",
-        "listing": "2026-09-18"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 18.32,
-        "xLot": 20000.0,
-        "updatedOn": "15-Sep 23:35"
-      },
-      "subscription": {
-        "total": 47.43,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "15,70,000",
-            "Shares bid for": "15,70,000",
-            "Total Amt* (₹ Cr.)": "42.861",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,76,000",
-            "Shares bid for": "2,76,000",
-            "Total Amt* (₹ Cr.)": "7.535",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "70.51",
-            "Shares Offered*": "10,47,200",
-            "Shares bid for": "7,38,38,400",
-            "Total Amt* (₹ Cr.)": "2,015.788",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "60.46",
-            "Shares Offered*": "7,86,000",
-            "Shares bid for": "4,75,20,000",
-            "Total Amt* (₹ Cr.)": "1,297.296",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "71.80",
-            "Shares Offered*": "5,25,000",
-            "Shares bid for": "3,76,92,800",
-            "Total Amt* (₹ Cr.)": "1,029.013",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "37.65",
-            "Shares Offered*": "2,61,000",
-            "Shares bid for": "98,27,200",
-            "Total Amt* (₹ Cr.)": "268.283",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "28.66",
-            "Shares Offered*": "18,33,600",
-            "Shares bid for": "5,25,46,400",
-            "Total Amt* (₹ Cr.)": "1,434.517",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "47.43",
-            "Shares Offered*": "36,66,800",
-            "Shares bid for": "17,39,04,800",
-            "Total Amt* (₹ Cr.)": "4,747.601",
-            "Total Applications": "83,085"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/raksan-transformer-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/raksan-transformers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=raksan-transformers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/raksan-transformers-ipo/2767/",
-        "gmp": "https://www.investorgain.com/gmp/raksan-transformers-ipo/2022/"
-      },
-      "gmpId": 2022,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in July 1995, Raksan Transformers Limited is an ISO 9001:2015 certified manufacturer of transformers across different voltage ratings. The Company manufactures a diversified range of transformers, including distribution transformers, power transformers, transformers for solar applications and special purpose transformers, which are used across power generation, transmission and distribution networks, as well as various industrial and infrastructure projects. The Company initially fo",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "veegaland-developers-ipo",
-      "ipoId": 2834,
-      "name": "Veegaland Developers",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 130.0,
-        "max": 140.0,
-        "display": "₹130–140"
-      },
-      "lotSize": 107,
-      "issueSize": "₹210.00 Cr",
-      "issueSizeCr": 210.0,
-      "freshIssueCr": 210.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-10",
-        "close": "2026-09-15",
-        "allotment": "2026-09-16",
-        "listing": "2026-09-18"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 7.14,
-        "xLot": 1070.0,
-        "updatedOn": "15-Sep 23:35"
-      },
-      "subscription": {
-        "total": 14.6,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "45,00,000",
-            "Shares bid for": "45,00,000",
-            "Total Amt* (₹ Cr.)": "63.000"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "19.13",
-            "Shares Offered*": "30,00,000",
-            "Shares bid for": "5,73,83,779",
-            "Total Amt* (₹ Cr.)": "803.373"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "19.41",
-            "Shares Offered*": "22,50,000",
-            "Shares bid for": "4,36,76,009",
-            "Total Amt* (₹ Cr.)": "611.464"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "18.59",
-            "Shares Offered*": "15,00,000",
-            "Shares bid for": "2,78,82,274",
-            "Total Amt* (₹ Cr.)": "390.352"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "21.06",
-            "Shares Offered*": "7,50,000",
-            "Shares bid for": "1,57,93,735",
-            "Total Amt* (₹ Cr.)": "221.112"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "9.95",
-            "Shares Offered*": "52,50,000",
-            "Shares bid for": "5,22,14,609",
-            "Total Amt* (₹ Cr.)": "731.005"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "14.60",
-            "Shares Offered*": "1,05,00,000",
-            "Shares bid for": "15,32,74,397",
-            "Total Amt* (₹ Cr.)": "2,145.842"
-          }
-        ],
-        "applications": 434482.0
-      },
-      "leadManager": "Cumulative Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/veegaland-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/veegaland-developers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=veegaland-developers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/veegaland-developers-ipo/2834/",
-        "gmp": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/"
-      },
-      "gmpId": 1601,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2007, Veegaland Developers Limited is engaged in real estate development, focusing on residential, commercial, and mixed-use projects. The company undertakes planning, construction, and execution of property developments. The company emphasizes quality construction, modern design, and timely project delivery. Its portfolio typically includes housing projects, commercial complexes, and integrated developments catering to diverse customer segments.\n\nTheir business projects can be c",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "om-galaxy-ipo",
-      "ipoId": 2987,
-      "name": "Om Galaxy",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 85.0,
-        "max": 90.0,
-        "display": "₹85–90"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹105.00 Cr",
-      "issueSizeCr": 105.0,
-      "freshIssueCr": 99.75,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-10",
-        "close": "2026-09-15",
-        "allotment": "2026-09-16",
-        "listing": "2026-09-18"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "15-Sep 23:36"
-      },
-      "subscription": {
-        "total": 2.07,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "33,21,600",
-            "Shares bid for": "33,21,600",
-            "Total Amt* (₹ Cr.)": "29.894",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "5,84,000",
-            "Shares bid for": "5,84,000",
-            "Total Amt* (₹ Cr.)": "5.256",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "5.37",
-            "Shares Offered*": "22,16,000",
-            "Shares bid for": "1,18,94,400",
-            "Total Amt* (₹ Cr.)": "107.050",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.07",
-            "Shares Offered*": "16,64,000",
-            "Shares bid for": "17,72,800",
-            "Total Amt* (₹ Cr.)": "15.955",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.16",
-            "Shares Offered*": "11,08,800",
-            "Shares bid for": "12,81,600",
-            "Total Amt* (₹ Cr.)": "11.534",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.88",
-            "Shares Offered*": "5,55,200",
-            "Shares bid for": "4,91,200",
-            "Total Amt* (₹ Cr.)": "4.421",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.62",
-            "Shares Offered*": "38,81,600",
-            "Shares bid for": "24,19,200",
-            "Total Amt* (₹ Cr.)": "21.773",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.07",
-            "Shares Offered*": "77,61,600",
-            "Shares bid for": "1,60,86,400",
-            "Total Amt* (₹ Cr.)": "144.778",
-            "Total Applications": "953"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Indorient Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/om-galaxy-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/om-galaxy-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=om-galaxy-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/om-galaxy-ipo/2987/",
-        "gmp": "https://www.investorgain.com/gmp/om-galaxy-ipo/2249/"
-      },
-      "gmpId": 2249,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2008, Om Galaxy Ltd. is engaged in the business of design, development and manufacturing of Pipe fitting and industrial moulds, automotive moulds, Hot Runner System (“ HRS”) and Cleaning Products. As of June 30, 2026, it has 77 SKUs relating to products manufactured under the brand “ WONDRA. ”\n\nIts products are used across industries including building material (Pipe, Fittings, Sanitaryware), Plastics & Polymer processing, Automotive & Auto Components, Industrial & Engineering.\n\n",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "maharaja-speedex-ipo",
-      "ipoId": 3089,
-      "name": "Maharaja & Speedex India",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 177.0,
-        "max": 186.0,
-        "display": "₹177–186"
-      },
-      "lotSize": 600,
-      "issueSize": "₹80.13 Cr",
-      "issueSizeCr": 80.13,
-      "freshIssueCr": 60.09,
-      "ofsCr": 16.03,
-      "dates": {
-        "open": "2026-09-10",
-        "close": "2026-09-15",
-        "allotment": "2026-09-16",
-        "listing": "2026-09-18"
-      },
-      "gmp": {
-        "value": 28.0,
-        "percent": 15.05,
-        "xLot": 16800.0,
-        "updatedOn": "15-Sep 23:30"
-      },
-      "subscription": {
-        "total": 32.41,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "12,27,000",
-            "Shares bid for": "12,27,000",
-            "Total Amt* (₹ Cr.)": "22.822",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,16,000",
-            "Shares bid for": "2,16,000",
-            "Total Amt* (₹ Cr.)": "4.018",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "48.82",
-            "Shares Offered*": "8,18,400",
-            "Shares bid for": "3,99,58,200",
-            "Total Amt* (₹ Cr.)": "743.223",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "40.32",
-            "Shares Offered*": "6,13,800",
-            "Shares bid for": "2,47,48,800",
-            "Total Amt* (₹ Cr.)": "460.328",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "44.60",
-            "Shares Offered*": "4,08,600",
-            "Shares bid for": "1,82,25,000",
-            "Total Amt* (₹ Cr.)": "338.985",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "31.79",
-            "Shares Offered*": "2,05,200",
-            "Shares bid for": "65,23,800",
-            "Total Amt* (₹ Cr.)": "121.343",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "19.65",
-            "Shares Offered*": "14,32,800",
-            "Shares bid for": "2,81,49,600",
-            "Total Amt* (₹ Cr.)": "523.583",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "32.41",
-            "Shares Offered*": "28,65,000",
-            "Shares bid for": "9,28,56,600",
-            "Total Amt* (₹ Cr.)": "1,727.133",
-            "Total Applications": "30,240"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/maharaja-&-speedex-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/maharaja-speedex-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=maharaja-speedex-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/maharaja-speedex-ipo/3089/",
-        "gmp": "https://www.investorgain.com/gmp/maharaja-speedex-ipo/2277/"
-      },
-      "gmpId": 2277,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in February 2006, Maharaja & Speedex India Limited is a drinkware manufacturing and distribution company engaged in the manufacturing, branding, marketing and distribution of stainless-steel bottles and allied drinkware products. The Company offers a diversified portfolio of drinkware products classified into Standard Products and Novelty Products. Standard Products primarily comprise stainless-steel bottles, while Novelty Products include tumblers, feeding bottles and gym shakers. ",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }

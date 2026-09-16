@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-15T21:02:02+00:00",
+  "scrapedAt": "2026-09-16T04:04:38+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 233,
+    "total": 235,
     "mainboard": 82,
-    "sme": 151
+    "sme": 153
   },
   "ipos": [
     {
@@ -5555,6 +5555,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2062,
+      "name": "Vivekanand Cotspin Ltd.",
+      "slug": "vivekanand-cotspin-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": "2026-09-24",
+        "refunds": "2026-09-25",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "21-Sep-2026",
+        "close": "23-Sep-2026",
+        "allotment": "24-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vivekanad-cotspin-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2970,
+      "name": "Himalaya Nutravedics India Ltd.",
+      "slug": "himalaya-nutravedics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-22",
+        "close": "2026-09-24",
+        "allotment": "2026-09-25",
+        "refunds": "2026-09-28",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "22-Sep-2026",
+        "close": "24-Sep-2026",
+        "allotment": "25-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/himalaya-nutravedics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
