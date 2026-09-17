@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T04:11:20+00:00",
+  "scrapedAt": "2026-09-17T11:17:39+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 11,
+    "upcoming": 12,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 11
+    "total": 12
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "17-Sep 9:00"
+        "value": 55.0,
+        "percent": 13.58,
+        "xLot": 2035.0,
+        "updatedOn": "17-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -91,9 +91,9 @@
         "display": null
       },
       "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "issueSize": "₹300.00 Cr",
+      "issueSizeCr": 300.0,
+      "freshIssueCr": 300.0,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-23",
@@ -172,7 +172,7 @@
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/saiurja-ipo-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
       "hasDetail": true,
       "detailPath": "details/sai-urja-indo-ipo.json",
       "urls": {
@@ -184,8 +184,63 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals.\n\nThe company handling control and instrumentation services for the biggest power plant in India, a 4,760 MW thermal power plant in Central India and another 3,000 MW plant in Northern India.\n\nAs of March 31, 2025, the company had a team of 2,469 personnel, up from 1611 in 2024 and",
+      "about": "Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, ",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "liqvd-digital-ipo",
+      "ipoId": 2750,
+      "name": "Liqvd Digital",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 34.14,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "17-Sep 13:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Indorient Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/liqvd-digital-logojpg.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/liqvd-digital-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=liqvd-digital-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+        "gmp": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/"
+      },
+      "gmpId": 2008,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2013, Liqvd Digital India Limited is a digital marketing and media solutions company that helps brands build their online presence, reach the right audience, and drive business growth. Its services include social media management, media planning and buying, online reputation management, creative content production, influencer marketing, SEO, performance marketing, and web and app development.\n\nThe Company works with a diverse range of clients, including large enterprises, mid-siz",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "skoffset-ipo",
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 9:02"
+        "updatedOn": "17-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -256,10 +311,10 @@
         "display": "₹140–148"
       },
       "lotSize": 101,
-      "issueSize": "₹1096.04 Cr",
-      "issueSizeCr": 1096.04,
+      "issueSize": "₹708.02 Cr",
+      "issueSizeCr": 708.02,
       "freshIssueCr": 320.0,
-      "ofsCr": 776.04,
+      "ofsCr": 388.02,
       "dates": {
         "open": "2026-09-22",
         "close": "2026-09-24",
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 9:00"
+        "updatedOn": "17-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -294,7 +349,7 @@
       "faceValue": "₹2 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
+      "about": "Varmora Granito Limited, incorporated in 2003, manufactures and markets ceramic and vitrified tiles, including Glazed Vitrified Tiles (GVT), Polished Vitrified Tiles (PVT) and ceramic tiles. The company focuses on premium, technology-driven products, with GVT and technical tiles accounting for around 84% of its tile revenue in Fiscal 2026.\n\nThe company operates eight manufacturing facilities in the Morbi cluster of Gujarat, with 81.72% of its revenue in Fiscal 2026 generated from in-house manufa",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 8:57"
+        "updatedOn": "17-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -404,7 +459,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital only",
-      "about": "Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector.\n\nThe company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes. These products are widely used in industries such as oil & gas, petrochemicals, power plants, and process industries.\n\nAnand Seamless Limited focuses on q",
+      "about": "Incorporated in 2005, Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector. The company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes. These products are widely used in industries such as oil & gas, petrochemicals, power plants, and process industries.\n\nThe company ca",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -421,9 +476,9 @@
         "display": "₹32–37"
       },
       "lotSize": 3000,
-      "issueSize": "₹24.05 Cr",
-      "issueSizeCr": 24.05,
-      "freshIssueCr": 22.94,
+      "issueSize": "₹22.20 Cr",
+      "issueSizeCr": 22.2,
+      "freshIssueCr": 21.09,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-21",
@@ -435,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 8:53"
+        "updatedOn": "17-Sep 16:00"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 8:59"
+        "updatedOn": "17-Sep 16:01"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "17-Sep 8:54"
+        "updatedOn": "17-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 8:56"
+        "updatedOn": "17-Sep 15:55"
       },
       "subscription": {
         "total": null,

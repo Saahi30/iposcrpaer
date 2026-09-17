@@ -352,8 +352,8 @@
     "source": "https://www.chittorgarh.com/ipo/quanto-agroworld-ipo/2390/"
   },
   "subscription": {
-    "summary": "Quanto Agroworld IPO subscribed 0.06 times. The public issue subscribed 0.11 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.01 times in the NII category by September 16, 2026 5:08:12 PM (Day 2).",
-    "total": 0.06,
+    "summary": "Quanto Agroworld IPO subscribed 1.37 times. The public issue subscribed 0.75 times in the individual investors category, [.] times in QIB (Ex Anchor), and 1.65 times in the NII category by September 17, 2026 4:43:51 PM (Day 3).",
+    "total": 1.37,
     "applications": null,
     "byCategory": [
       {
@@ -366,27 +366,27 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "1.65",
         "Shares Offered*": "21,98,000",
-        "Shares bid for": "28,000",
-        "Total Amt* (₹ Cr.)": "0.19",
+        "Shares bid for": "36,20,000",
+        "Total Amt* (₹ Cr.)": "24.25",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.11",
+        "Subscription (x)": "0.75",
         "Shares Offered*": "22,00,000",
-        "Shares bid for": "2,44,000",
-        "Total Amt* (₹ Cr.)": "1.63",
+        "Shares bid for": "16,48,000",
+        "Total Amt* (₹ Cr.)": "11.04",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "1.37",
         "Shares Offered*": "43,98,000",
-        "Shares bid for": "2,72,000",
-        "Total Amt* (₹ Cr.)": "1.82",
-        "Total Applications": "67"
+        "Shares bid for": "60,14,000",
+        "Total Amt* (₹ Cr.)": "40.29",
+        "Total Applications": "567"
       }
     ],
     "dayWise": [
@@ -401,6 +401,12 @@
         "NII*": "0.01",
         "Individual Investors": "0.11",
         "Total": "0.06"
+      },
+      {
+        "Date": "Sep 17 (Day 3)",
+        "NII*": "1.65",
+        "Individual Investors": "0.75",
+        "Total": "1.37"
       }
     ]
   },
@@ -426,7 +432,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "17-Sep 8:56"
+      "updatedOn": "17-Sep 15:55"
     },
     "leadManager": "Sobhagya Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/quanto-agro-ipo-logo.png",
@@ -436,5 +442,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T04:11:00+00:00"
+  "scrapedAt": "2026-09-17T11:17:17+00:00"
 }

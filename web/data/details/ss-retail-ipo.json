@@ -371,9 +371,9 @@
     "source": "https://www.chittorgarh.com/ipo/ss-retail-ipo/2822/"
   },
   "subscription": {
-    "summary": "SS Retail IPO subscribed 1.52 times. The public issue subscribed 2.33 times in the retail category, 0.21 times in QIB (Ex Anchor), and 1.61 times in the NII category by September 16, 2026 5:08:20 PM (Day 1).",
-    "total": 1.52,
-    "applications": 115358.0,
+    "summary": "SS Retail IPO subscribed 5.94 times. The public issue subscribed 7.81 times in the retail category, 0.24 times in QIB (Ex Anchor), and 10.05 times in the NII category by September 17, 2026 4:44:16 PM (Day 2).",
+    "total": 5.94,
+    "applications": 825904.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -384,52 +384,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.21",
+        "Subscription (x)": "0.24",
         "Shares Offered*": "23,01,886",
-        "Shares bid for": "4,79,395",
-        "Total Amt* (₹ Cr.)": "20.326"
+        "Shares bid for": "5,43,270",
+        "Total Amt* (₹ Cr.)": "23.035"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.61",
+        "Subscription (x)": "10.05",
         "Shares Offered*": "17,26,415",
-        "Shares bid for": "27,71,755",
-        "Total Amt* (₹ Cr.)": "117.522"
+        "Shares bid for": "1,73,44,355",
+        "Total Amt* (₹ Cr.)": "735.401"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.12",
+        "Subscription (x)": "8.20",
         "Shares Offered*": "11,50,943",
-        "Shares bid for": "12,85,095",
-        "Total Amt* (₹ Cr.)": "54.488"
+        "Shares bid for": "94,40,375",
+        "Total Amt* (₹ Cr.)": "400.272"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.58",
+        "Subscription (x)": "13.73",
         "Shares Offered*": "5,75,472",
-        "Shares bid for": "14,86,660",
-        "Total Amt* (₹ Cr.)": "63.034"
+        "Shares bid for": "79,03,980",
+        "Total Amt* (₹ Cr.)": "335.129"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.33",
+        "Subscription (x)": "7.81",
         "Shares Offered*": "40,28,301",
-        "Shares bid for": "93,78,565",
-        "Total Amt* (₹ Cr.)": "397.651"
+        "Shares bid for": "3,14,61,360",
+        "Total Amt* (₹ Cr.)": "1,333.962"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.34",
+        "Subscription (x)": "0.89",
         "Shares Offered*": "3,00,752",
-        "Shares bid for": "1,03,250",
-        "Total Amt* (₹ Cr.)": "4.378"
+        "Shares bid for": "2,66,385",
+        "Total Amt* (₹ Cr.)": "11.295"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.52",
+        "Subscription (x)": "5.94",
         "Shares Offered*": "83,57,354",
-        "Shares bid for": "1,27,32,965",
-        "Total Amt* (₹ Cr.)": "539.878"
+        "Shares bid for": "4,96,15,370",
+        "Total Amt* (₹ Cr.)": "2,103.692"
       }
     ],
     "dayWise": [
@@ -442,6 +442,16 @@
         "Retail": "2.33",
         "EMP": "0.34",
         "Total": "1.52"
+      },
+      {
+        "Date": "Sep 17 (Day 2)",
+        "QIB (Ex Anchor)": "0.24",
+        "NII": "10.05",
+        "NII (> ₹10L)": "8.20",
+        "NII (< ₹10L)": "13.73",
+        "Retail": "7.81",
+        "EMP": "0.89",
+        "Total": "5.94"
       }
     ]
   },
@@ -464,10 +474,10 @@
       "listing": "2026-09-23"
     },
     "gmp": {
-      "value": 80.0,
-      "percent": 18.87,
-      "xLot": 2800.0,
-      "updatedOn": "17-Sep 8:53"
+      "value": 133.0,
+      "percent": 31.37,
+      "xLot": 4655.0,
+      "updatedOn": "17-Sep 16:02"
     },
     "leadManager": "Anand Rathi Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-limited-logo.jpg",
@@ -477,5 +487,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T04:10:59+00:00"
+  "scrapedAt": "2026-09-17T11:17:15+00:00"
 }

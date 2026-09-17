@@ -359,8 +359,8 @@
     "source": "https://www.chittorgarh.com/ipo/vama-wovenfab-ipo/2709/"
   },
   "subscription": {
-    "summary": "Vama Wovenfab IPO subscribed 0.45 times. The public issue subscribed 0.30 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.02 times in the NII category by September 16, 2026 5:08:26 PM (Day 2).",
-    "total": 0.45,
+    "summary": "Vama Wovenfab IPO subscribed 2.65 times. The public issue subscribed 2.78 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 2.22 times in the NII category by September 17, 2026 4:44:07 PM (Day 3).",
+    "total": 2.65,
     "applications": null,
     "byCategory": [
       {
@@ -381,43 +381,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.02",
+        "Subscription (x)": "2.22",
         "Shares Offered*": "2,76,000",
-        "Shares bid for": "2,82,000",
-        "Total Amt* (₹ Cr.)": "9.616",
+        "Shares bid for": "6,14,000",
+        "Total Amt* (₹ Cr.)": "20.937",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.39",
+        "Subscription (x)": "2.32",
         "Shares Offered*": "1,83,600",
-        "Shares bid for": "2,54,800",
-        "Total Amt* (₹ Cr.)": "8.689",
+        "Shares bid for": "4,26,400",
+        "Total Amt* (₹ Cr.)": "14.540",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.29",
+        "Subscription (x)": "2.03",
         "Shares Offered*": "92,400",
-        "Shares bid for": "27,200",
-        "Total Amt* (₹ Cr.)": "0.928",
+        "Shares bid for": "1,87,600",
+        "Total Amt* (₹ Cr.)": "6.397",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.30",
+        "Subscription (x)": "2.78",
         "Shares Offered*": "10,89,600",
-        "Shares bid for": "3,28,000",
-        "Total Amt* (₹ Cr.)": "11.185",
+        "Shares bid for": "30,32,800",
+        "Total Amt* (₹ Cr.)": "103.418",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.45",
+        "Subscription (x)": "2.65",
         "Shares Offered*": "13,80,000",
-        "Shares bid for": "6,24,400",
-        "Total Amt* (₹ Cr.)": "21.292",
-        "Total Applications": "485"
+        "Shares bid for": "36,61,200",
+        "Total Amt* (₹ Cr.)": "124.847",
+        "Total Applications": "4,068"
       }
     ],
     "dayWise": [
@@ -438,6 +438,15 @@
         "NII (< ₹10L)": "0.29",
         "Individual Investors": "0.30",
         "Total": "0.45"
+      },
+      {
+        "Date": "Sep 17 (Day 3)",
+        "QIB (Ex Anchor)": "1.00",
+        "NII*": "2.22",
+        "NII (> ₹10L)": "2.32",
+        "NII (< ₹10L)": "2.03",
+        "Individual Investors": "2.78",
+        "Total": "2.65"
       }
     ]
   },
@@ -460,10 +469,10 @@
       "listing": "2026-09-22"
     },
     "gmp": {
-      "value": 70.0,
-      "percent": 20.53,
-      "xLot": 28000.0,
-      "updatedOn": "17-Sep 8:53"
+      "value": 3.0,
+      "percent": 0.88,
+      "xLot": 1200.0,
+      "updatedOn": "17-Sep 16:02"
     },
     "leadManager": "Gretex Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/vama-wovenfab-logo.jpg",
@@ -473,5 +482,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T04:11:04+00:00"
+  "scrapedAt": "2026-09-17T11:17:20+00:00"
 }
