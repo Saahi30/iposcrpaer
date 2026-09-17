@@ -489,9 +489,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 79.0,
+      "min": 84.0,
       "max": 84.0,
-      "display": "₹79–84"
+      "display": "₹84"
     },
     "lotSize": 178,
     "issueSize": "₹1000.00 Cr",
@@ -505,7 +505,7 @@
       "value": 5.5,
       "percent": 6.55,
       "xLot": 979.0,
-      "updatedOn": "17-Sep 21:37"
+      "updatedOn": "17-Sep 23:37"
     },
     "leadManager": "ICICI Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/hero-motors-logo.jpeg",
@@ -515,5 +515,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T16:34:16+00:00"
+  "scrapedAt": "2026-09-17T21:06:53+00:00"
 }

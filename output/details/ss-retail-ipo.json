@@ -461,9 +461,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 403.0,
+      "min": 424.0,
       "max": 424.0,
-      "display": "₹403–424"
+      "display": "₹424"
     },
     "lotSize": 35,
     "issueSize": "₹500.00 Cr",
@@ -474,10 +474,10 @@
       "listing": "2026-09-23"
     },
     "gmp": {
-      "value": 133.0,
-      "percent": 31.37,
-      "xLot": 4655.0,
-      "updatedOn": "17-Sep 21:37"
+      "value": 137.0,
+      "percent": 32.31,
+      "xLot": 4795.0,
+      "updatedOn": "17-Sep 23:37"
     },
     "leadManager": "Anand Rathi Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-limited-logo.jpg",
@@ -487,5 +487,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T16:34:18+00:00"
+  "scrapedAt": "2026-09-17T21:06:56+00:00"
 }

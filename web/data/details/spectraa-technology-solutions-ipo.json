@@ -530,9 +530,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 112.0,
+      "min": 118.0,
       "max": 118.0,
-      "display": "₹112–118"
+      "display": "₹118"
     },
     "lotSize": 1200,
     "issueSize": "₹42.52 Cr",
@@ -546,7 +546,7 @@
       "value": 30.0,
       "percent": 25.42,
       "xLot": 36000.0,
-      "updatedOn": "17-Sep 21:37"
+      "updatedOn": "17-Sep 23:37"
     },
     "leadManager": "Indcap",
     "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
@@ -556,5 +556,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T16:34:12+00:00"
+  "scrapedAt": "2026-09-17T21:06:50+00:00"
 }
