@@ -388,8 +388,8 @@
     "source": "https://www.chittorgarh.com/ipo/shakti-polytarp-ipo/2427/"
   },
   "subscription": {
-    "summary": "Shakti Polytarp IPO subscribed 11.20 times. The public issue subscribed 2.74 times in the individual investors category, 49.22 times in QIB (Ex Anchor), and 5.30 times in the NII category by September 17, 2026 4:23:35 PM (Day 3).",
-    "total": 11.2,
+    "summary": "Shakti Polytarp IPO subscribed 11.87 times. The public issue subscribed 4.12 times in the individual investors category, 49.22 times in QIB (Ex Anchor), and 5.43 times in the NII category by September 17, 2026 6:31:36 PM (Day 3).",
+    "total": 11.87,
     "applications": null,
     "byCategory": [
       {
@@ -418,10 +418,10 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "5.30",
+        "Subscription (x)": "5.43",
         "Shares Offered*": "13,68,000",
-        "Shares bid for": "72,44,000",
-        "Total Amt* (₹ Cr.)": "42.740",
+        "Shares bid for": "74,24,000",
+        "Total Amt* (₹ Cr.)": "43.802",
         "Total Applications": "0"
       },
       {
@@ -434,27 +434,27 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "3.66",
+        "Subscription (x)": "4.05",
         "Shares Offered*": "4,56,000",
-        "Shares bid for": "16,68,000",
-        "Total Amt* (₹ Cr.)": "9.841",
+        "Shares bid for": "18,48,000",
+        "Total Amt* (₹ Cr.)": "10.903",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "2.74",
+        "Subscription (x)": "4.12",
         "Shares Offered*": "15,80,000",
-        "Shares bid for": "43,32,000",
-        "Total Amt* (₹ Cr.)": "25.559",
+        "Shares bid for": "65,04,000",
+        "Total Amt* (₹ Cr.)": "38.374",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "11.20",
+        "Subscription (x)": "11.87",
         "Shares Offered*": "35,12,000",
-        "Shares bid for": "3,93,38,000",
-        "Total Amt* (₹ Cr.)": "232.094",
-        "Total Applications": "1,600"
+        "Shares bid for": "4,16,90,000",
+        "Total Amt* (₹ Cr.)": "245.971",
+        "Total Applications": "2,173"
       }
     ],
     "dayWise": [
@@ -479,11 +479,11 @@
       {
         "Date": "Sep 17 (Day 3)",
         "QIB (Ex Anchor)": "49.22",
-        "NII*": "5.30",
+        "NII*": "5.43",
         "NII (> ₹10L)": "6.11",
-        "NII (< ₹10L)": "3.66",
-        "Individual Investors": "2.74",
-        "Total": "11.20"
+        "NII (< ₹10L)": "4.05",
+        "Individual Investors": "4.12",
+        "Total": "11.87"
       }
     ]
   },
@@ -506,10 +506,10 @@
       "listing": "2026-09-22"
     },
     "gmp": {
-      "value": 0.0,
-      "percent": 0.0,
-      "xLot": 0.0,
-      "updatedOn": "17-Sep 15:53"
+      "value": 6.0,
+      "percent": 10.17,
+      "xLot": 12000.0,
+      "updatedOn": "17-Sep 21:37"
     },
     "leadManager": "NEXGEN Financial Solutions",
     "logo": "https://www.chittorgarh.net/images/ipo/dinotarp-logo.jpg",
@@ -519,5 +519,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T11:17:19+00:00"
+  "scrapedAt": "2026-09-17T16:34:22+00:00"
 }

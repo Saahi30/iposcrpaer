@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T11:17:44+00:00",
+  "scrapedAt": "2026-09-17T16:34:51+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 136,
-    "mainboard": 63,
-    "sme": 73,
+    "totalEvents": 146,
+    "mainboard": 67,
+    "sme": 79,
     "byEventType": {
       "allotment": 34,
-      "close": 52,
-      "open": 44,
+      "close": 57,
+      "open": 49,
       "other": 6
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 132,
-        "mainboard": 61,
-        "sme": 71
+        "total": 142,
+        "mainboard": 65,
+        "sme": 77
       },
       "byDate": {
         "2026-09-01": [
@@ -2394,6 +2394,44 @@
         ],
         "2026-09-22": [
           {
+            "title": "Varmora Granito IPO Opens on Sep 22, 2026",
+            "company": "Varmora Granito",
+            "eventType": "open",
+            "date": "2026-09-22",
+            "dateEnd": "2026-09-22",
+            "details": "Varmora Granito Ltd. is entering in the capital market with an IPO of 7.41 Equity Shares of Rs 2 aggregating up to Rs 1,096.04 Crore. The price for the issue has been set at Rs 140 - Rs 148 Per Equity",
+            "type": "mainboard",
+            "slug": "varmora-granito-ipo",
+            "ipoId": 2563,
+            "eventId": 15539,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15539",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Varmora%20Granito%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%207.41%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%201%2C096.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20140%20-%20Rs%20148%20Per%20Equity"
+            }
+          },
+          {
+            "title": "Anand Seamless IPO Opens on Sep 22, 2026",
+            "company": "Anand Seamless",
+            "eventType": "open",
+            "date": "2026-09-22",
+            "dateEnd": "2026-09-22",
+            "details": "Anand Seamless Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 24.24 Crore. The price for the issue has been set at Rs 72 Per Equity Share.Incorp",
+            "type": "sme",
+            "slug": "anand-seamless-ipo",
+            "ipoId": 3080,
+            "eventId": 15541,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15541",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Anand%20Seamless%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2024.24%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2072%20Per%20Equity%20Share.Incorp"
+            }
+          },
+          {
             "title": "Axiom Gas Engineering IPO Closes on Sep 22, 2026",
             "company": "Axiom Gas Engineering",
             "eventType": "close",
@@ -2434,6 +2472,25 @@
         ],
         "2026-09-23": [
           {
+            "title": "ArMee Infotech IPO Opens on Sep 23, 2026",
+            "company": "ArMee Infotech",
+            "eventType": "open",
+            "date": "2026-09-23",
+            "dateEnd": "2026-09-23",
+            "details": "ArMee Infotech Ltd. is entering in the capital market with an IPO of 300.00 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+            "type": "mainboard",
+            "slug": "armee-infotech-ipo",
+            "ipoId": 2140,
+            "eventId": 15543,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15543",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=ArMee%20Infotech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20300.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+            }
+          },
+          {
             "title": "FX Multitech IPO Closes on Sep 23, 2026",
             "company": "FX Multitech",
             "eventType": "close",
@@ -2450,6 +2507,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/fx-multitech-ipo/2849/#15518",
               "chittorgarh": "https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=FX%20Multitech%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20FX%20Multitech%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D"
+            }
+          },
+          {
+            "title": "Liqvd Digital IPO Opens on Sep 23, 2026",
+            "company": "Liqvd Digital",
+            "eventType": "open",
+            "date": "2026-09-23",
+            "dateEnd": "2026-09-23",
+            "details": "Liqvd Digital India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+            "type": "sme",
+            "slug": "liqvd-digital-ipo",
+            "ipoId": 2750,
+            "eventId": 15545,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15545",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Liqvd%20Digital%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
             }
           },
           {
@@ -2488,6 +2564,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15513",
               "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=S.K.Offset%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.22%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2027.56%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-%20Rs%20125%20Per%20Equity%20Share."
+            }
+          },
+          {
+            "title": "Sai Urja Indo IPO Opens on Sep 23, 2026",
+            "company": "Sai Urja Indo",
+            "eventType": "open",
+            "date": "2026-09-23",
+            "dateEnd": "2026-09-23",
+            "details": "Sai Urja Indo Ventures Ltd. is entering in the capital market with an IPO of 0.20 Equity Shares of Rs 10 aggregating up to Rs 22.51 Crore. The price for the issue has been set at Rs 107 - Rs 113 Per E",
+            "type": "sme",
+            "slug": "sai-urja-indo-ipo",
+            "ipoId": 2655,
+            "eventId": 15537,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15537",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Sai%20Urja%20Indo%20Ventures%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.20%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.51%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20107%20-%20Rs%20113%20Per%20E"
             }
           },
           {
@@ -2531,6 +2626,44 @@
             }
           },
           {
+            "title": "Varmora Granito IPO Closes on Sep 24, 2026",
+            "company": "Varmora Granito",
+            "eventType": "close",
+            "date": "2026-09-24",
+            "dateEnd": "2026-09-24",
+            "details": "The issue of Varmora Granito Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+            "type": "mainboard",
+            "slug": "varmora-granito-ipo",
+            "ipoId": 2563,
+            "eventId": 15540,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15540",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Varmora%20Granito%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs"
+            }
+          },
+          {
+            "title": "Anand Seamless IPO Closes on Sep 24, 2026",
+            "company": "Anand Seamless",
+            "eventType": "close",
+            "date": "2026-09-24",
+            "dateEnd": "2026-09-24",
+            "details": "The issue of Anand Seamless Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 7",
+            "type": "sme",
+            "slug": "anand-seamless-ipo",
+            "ipoId": 3080,
+            "eventId": 15542,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15542",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Anand%20Seamless%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%207"
+            }
+          },
+          {
             "title": "Himalaya Nutravedics IPO Closes on Sep 24, 2026",
             "company": "Himalaya Nutravedics",
             "eventType": "close",
@@ -2552,6 +2685,44 @@
         ],
         "2026-09-25": [
           {
+            "title": "ArMee Infotech IPO Closes on Sep 25, 2026",
+            "company": "ArMee Infotech",
+            "eventType": "close",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "The issue of ArMee Infotech Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+            "type": "mainboard",
+            "slug": "armee-infotech-ipo",
+            "ipoId": 2140,
+            "eventId": 15544,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15544",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20ArMee%20Infotech%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+            }
+          },
+          {
+            "title": "Liqvd Digital IPO Closes on Sep 25, 2026",
+            "company": "Liqvd Digital",
+            "eventType": "close",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "The issue of Liqvd Digital India Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+            "type": "sme",
+            "slug": "liqvd-digital-ipo",
+            "ipoId": 2750,
+            "eventId": 15546,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15546",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Liqvd%20Digital%20India%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+            }
+          },
+          {
             "title": "S.K.Offset IPO Closes on Sep 25, 2026",
             "company": "S.K.Offset",
             "eventType": "close",
@@ -2568,6 +2739,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15514",
               "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20S.K.Offset%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-"
+            }
+          },
+          {
+            "title": "Sai Urja Indo IPO Closes on Sep 25, 2026",
+            "company": "Sai Urja Indo",
+            "eventType": "close",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "The issue of Sai Urja Indo Ventures Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set",
+            "type": "sme",
+            "slug": "sai-urja-indo-ipo",
+            "ipoId": 2655,
+            "eventId": 15538,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15538",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Sai%20Urja%20Indo%20Ventures%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
             }
           }
         ],
@@ -3716,6 +3906,44 @@
           }
         },
         {
+          "title": "Varmora Granito IPO Opens on Sep 22, 2026",
+          "company": "Varmora Granito",
+          "eventType": "open",
+          "date": "2026-09-22",
+          "dateEnd": "2026-09-22",
+          "details": "Varmora Granito Ltd. is entering in the capital market with an IPO of 7.41 Equity Shares of Rs 2 aggregating up to Rs 1,096.04 Crore. The price for the issue has been set at Rs 140 - Rs 148 Per Equity",
+          "type": "mainboard",
+          "slug": "varmora-granito-ipo",
+          "ipoId": 2563,
+          "eventId": 15539,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15539",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Varmora%20Granito%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%207.41%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%201%2C096.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20140%20-%20Rs%20148%20Per%20Equity"
+          }
+        },
+        {
+          "title": "ArMee Infotech IPO Opens on Sep 23, 2026",
+          "company": "ArMee Infotech",
+          "eventType": "open",
+          "date": "2026-09-23",
+          "dateEnd": "2026-09-23",
+          "details": "ArMee Infotech Ltd. is entering in the capital market with an IPO of 300.00 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+          "type": "mainboard",
+          "slug": "armee-infotech-ipo",
+          "ipoId": 2140,
+          "eventId": 15543,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15543",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=ArMee%20Infotech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20300.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+          }
+        },
+        {
           "title": "A-One Steels IPO Opens on Sep 24, 2026",
           "company": "A-One Steels",
           "eventType": "open",
@@ -3732,6 +3960,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
             "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+          }
+        },
+        {
+          "title": "Varmora Granito IPO Closes on Sep 24, 2026",
+          "company": "Varmora Granito",
+          "eventType": "close",
+          "date": "2026-09-24",
+          "dateEnd": "2026-09-24",
+          "details": "The issue of Varmora Granito Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+          "type": "mainboard",
+          "slug": "varmora-granito-ipo",
+          "ipoId": 2563,
+          "eventId": 15540,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15540",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Varmora%20Granito%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs"
+          }
+        },
+        {
+          "title": "ArMee Infotech IPO Closes on Sep 25, 2026",
+          "company": "ArMee Infotech",
+          "eventType": "close",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "The issue of ArMee Infotech Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+          "type": "mainboard",
+          "slug": "armee-infotech-ipo",
+          "ipoId": 2140,
+          "eventId": 15544,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15544",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20ArMee%20Infotech%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
           }
         },
         {
@@ -4951,6 +5217,25 @@
           }
         },
         {
+          "title": "Anand Seamless IPO Opens on Sep 22, 2026",
+          "company": "Anand Seamless",
+          "eventType": "open",
+          "date": "2026-09-22",
+          "dateEnd": "2026-09-22",
+          "details": "Anand Seamless Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 24.24 Crore. The price for the issue has been set at Rs 72 Per Equity Share.Incorp",
+          "type": "sme",
+          "slug": "anand-seamless-ipo",
+          "ipoId": 3080,
+          "eventId": 15541,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15541",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Anand%20Seamless%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2024.24%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2072%20Per%20Equity%20Share.Incorp"
+          }
+        },
+        {
           "title": "Axiom Gas Engineering IPO Closes on Sep 22, 2026",
           "company": "Axiom Gas Engineering",
           "eventType": "close",
@@ -5008,6 +5293,25 @@
           }
         },
         {
+          "title": "Liqvd Digital IPO Opens on Sep 23, 2026",
+          "company": "Liqvd Digital",
+          "eventType": "open",
+          "date": "2026-09-23",
+          "dateEnd": "2026-09-23",
+          "details": "Liqvd Digital India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+          "type": "sme",
+          "slug": "liqvd-digital-ipo",
+          "ipoId": 2750,
+          "eventId": 15545,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15545",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Liqvd%20Digital%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
+          }
+        },
+        {
           "title": "Robokidz Eduventures IPO Closes on Sep 23, 2026",
           "company": "Robokidz Eduventures",
           "eventType": "close",
@@ -5046,6 +5350,25 @@
           }
         },
         {
+          "title": "Sai Urja Indo IPO Opens on Sep 23, 2026",
+          "company": "Sai Urja Indo",
+          "eventType": "open",
+          "date": "2026-09-23",
+          "dateEnd": "2026-09-23",
+          "details": "Sai Urja Indo Ventures Ltd. is entering in the capital market with an IPO of 0.20 Equity Shares of Rs 10 aggregating up to Rs 22.51 Crore. The price for the issue has been set at Rs 107 - Rs 113 Per E",
+          "type": "sme",
+          "slug": "sai-urja-indo-ipo",
+          "ipoId": 2655,
+          "eventId": 15537,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15537",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Sai%20Urja%20Indo%20Ventures%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.20%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.51%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20107%20-%20Rs%20113%20Per%20E"
+          }
+        },
+        {
           "title": "Vivekanand Cotspin IPO Closes on Sep 23, 2026",
           "company": "Vivekanand Cotspin",
           "eventType": "close",
@@ -5062,6 +5385,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15529",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20Vivekanand%20Cotspin%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+          }
+        },
+        {
+          "title": "Anand Seamless IPO Closes on Sep 24, 2026",
+          "company": "Anand Seamless",
+          "eventType": "close",
+          "date": "2026-09-24",
+          "dateEnd": "2026-09-24",
+          "details": "The issue of Anand Seamless Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 7",
+          "type": "sme",
+          "slug": "anand-seamless-ipo",
+          "ipoId": 3080,
+          "eventId": 15542,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15542",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Anand%20Seamless%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%207"
           }
         },
         {
@@ -5084,6 +5426,25 @@
           }
         },
         {
+          "title": "Liqvd Digital IPO Closes on Sep 25, 2026",
+          "company": "Liqvd Digital",
+          "eventType": "close",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "The issue of Liqvd Digital India Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+          "type": "sme",
+          "slug": "liqvd-digital-ipo",
+          "ipoId": 2750,
+          "eventId": 15546,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15546",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Liqvd%20Digital%20India%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+          }
+        },
+        {
           "title": "S.K.Offset IPO Closes on Sep 25, 2026",
           "company": "S.K.Offset",
           "eventType": "close",
@@ -5100,6 +5461,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15514",
             "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20S.K.Offset%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-"
+          }
+        },
+        {
+          "title": "Sai Urja Indo IPO Closes on Sep 25, 2026",
+          "company": "Sai Urja Indo",
+          "eventType": "close",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "The issue of Sai Urja Indo Ventures Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set",
+          "type": "sme",
+          "slug": "sai-urja-indo-ipo",
+          "ipoId": 2655,
+          "eventId": 15538,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15538",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Sai%20Urja%20Indo%20Ventures%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
           }
         }
       ]
@@ -6402,6 +6782,44 @@
       }
     },
     {
+      "title": "Varmora Granito IPO Opens on Sep 22, 2026",
+      "company": "Varmora Granito",
+      "eventType": "open",
+      "date": "2026-09-22",
+      "dateEnd": "2026-09-22",
+      "details": "Varmora Granito Ltd. is entering in the capital market with an IPO of 7.41 Equity Shares of Rs 2 aggregating up to Rs 1,096.04 Crore. The price for the issue has been set at Rs 140 - Rs 148 Per Equity",
+      "type": "mainboard",
+      "slug": "varmora-granito-ipo",
+      "ipoId": 2563,
+      "eventId": 15539,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15539",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Varmora%20Granito%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%207.41%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%201%2C096.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20140%20-%20Rs%20148%20Per%20Equity"
+      }
+    },
+    {
+      "title": "ArMee Infotech IPO Opens on Sep 23, 2026",
+      "company": "ArMee Infotech",
+      "eventType": "open",
+      "date": "2026-09-23",
+      "dateEnd": "2026-09-23",
+      "details": "ArMee Infotech Ltd. is entering in the capital market with an IPO of 300.00 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+      "type": "mainboard",
+      "slug": "armee-infotech-ipo",
+      "ipoId": 2140,
+      "eventId": 15543,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15543",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=ArMee%20Infotech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20300.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+      }
+    },
+    {
       "title": "A-One Steels IPO Opens on Sep 24, 2026",
       "company": "A-One Steels",
       "eventType": "open",
@@ -6418,6 +6836,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
         "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+      }
+    },
+    {
+      "title": "Varmora Granito IPO Closes on Sep 24, 2026",
+      "company": "Varmora Granito",
+      "eventType": "close",
+      "date": "2026-09-24",
+      "dateEnd": "2026-09-24",
+      "details": "The issue of Varmora Granito Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+      "type": "mainboard",
+      "slug": "varmora-granito-ipo",
+      "ipoId": 2563,
+      "eventId": 15540,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/varmora-granito-ipo/2563/#15540",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Varmora%20Granito%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Varmora%20Granito%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs"
+      }
+    },
+    {
+      "title": "ArMee Infotech IPO Closes on Sep 25, 2026",
+      "company": "ArMee Infotech",
+      "eventType": "close",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "The issue of ArMee Infotech Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs",
+      "type": "mainboard",
+      "slug": "armee-infotech-ipo",
+      "ipoId": 2140,
+      "eventId": 15544,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/armee-infotech-ipo/2140/#15544",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=ArMee%20Infotech%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20ArMee%20Infotech%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
       }
     },
     {
@@ -7637,6 +8093,25 @@
       }
     },
     {
+      "title": "Anand Seamless IPO Opens on Sep 22, 2026",
+      "company": "Anand Seamless",
+      "eventType": "open",
+      "date": "2026-09-22",
+      "dateEnd": "2026-09-22",
+      "details": "Anand Seamless Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 24.24 Crore. The price for the issue has been set at Rs 72 Per Equity Share.Incorp",
+      "type": "sme",
+      "slug": "anand-seamless-ipo",
+      "ipoId": 3080,
+      "eventId": 15541,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15541",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Opens%20on%20Sep%2022%2C%202026&location=&dates=20260922/20260923&details=Anand%20Seamless%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2024.24%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2072%20Per%20Equity%20Share.Incorp"
+      }
+    },
+    {
       "title": "Axiom Gas Engineering IPO Closes on Sep 22, 2026",
       "company": "Axiom Gas Engineering",
       "eventType": "close",
@@ -7694,6 +8169,25 @@
       }
     },
     {
+      "title": "Liqvd Digital IPO Opens on Sep 23, 2026",
+      "company": "Liqvd Digital",
+      "eventType": "open",
+      "date": "2026-09-23",
+      "dateEnd": "2026-09-23",
+      "details": "Liqvd Digital India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 5 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity",
+      "type": "sme",
+      "slug": "liqvd-digital-ipo",
+      "ipoId": 2750,
+      "eventId": 15545,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15545",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Liqvd%20Digital%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%205%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20"
+      }
+    },
+    {
       "title": "Robokidz Eduventures IPO Closes on Sep 23, 2026",
       "company": "Robokidz Eduventures",
       "eventType": "close",
@@ -7732,6 +8226,25 @@
       }
     },
     {
+      "title": "Sai Urja Indo IPO Opens on Sep 23, 2026",
+      "company": "Sai Urja Indo",
+      "eventType": "open",
+      "date": "2026-09-23",
+      "dateEnd": "2026-09-23",
+      "details": "Sai Urja Indo Ventures Ltd. is entering in the capital market with an IPO of 0.20 Equity Shares of Rs 10 aggregating up to Rs 22.51 Crore. The price for the issue has been set at Rs 107 - Rs 113 Per E",
+      "type": "sme",
+      "slug": "sai-urja-indo-ipo",
+      "ipoId": 2655,
+      "eventId": 15537,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15537",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Opens%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=Sai%20Urja%20Indo%20Ventures%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.20%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2022.51%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20107%20-%20Rs%20113%20Per%20E"
+      }
+    },
+    {
       "title": "Vivekanand Cotspin IPO Closes on Sep 23, 2026",
       "company": "Vivekanand Cotspin",
       "eventType": "close",
@@ -7748,6 +8261,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/vivekanand-cotspin-ipo/2062/#15529",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vivekanand%20Cotspin%20IPO%20Closes%20on%20Sep%2023%2C%202026&location=&dates=20260923/20260924&details=The%20issue%20of%20Vivekanand%20Cotspin%20Ltd.%20opens%20on%20Sep%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+      }
+    },
+    {
+      "title": "Anand Seamless IPO Closes on Sep 24, 2026",
+      "company": "Anand Seamless",
+      "eventType": "close",
+      "date": "2026-09-24",
+      "dateEnd": "2026-09-24",
+      "details": "The issue of Anand Seamless Ltd. opens on Sep 22, 2026 and closes for subscription on Sep 24, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 7",
+      "type": "sme",
+      "slug": "anand-seamless-ipo",
+      "ipoId": 3080,
+      "eventId": 15542,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/anand-seamless-ipo/3080/#15542",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Anand%20Seamless%20IPO%20Closes%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=The%20issue%20of%20Anand%20Seamless%20Ltd.%20opens%20on%20Sep%2022%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2024%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%207"
       }
     },
     {
@@ -7770,6 +8302,25 @@
       }
     },
     {
+      "title": "Liqvd Digital IPO Closes on Sep 25, 2026",
+      "company": "Liqvd Digital",
+      "eventType": "close",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "The issue of Liqvd Digital India Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at",
+      "type": "sme",
+      "slug": "liqvd-digital-ipo",
+      "ipoId": 2750,
+      "eventId": 15546,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15546",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Liqvd%20Digital%20India%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+      }
+    },
+    {
       "title": "S.K.Offset IPO Closes on Sep 25, 2026",
       "company": "S.K.Offset",
       "eventType": "close",
@@ -7786,6 +8337,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/skoffset-ipo/3150/#15514",
         "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=S.K.Offset%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20S.K.Offset%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20119%20-"
+      }
+    },
+    {
+      "title": "Sai Urja Indo IPO Closes on Sep 25, 2026",
+      "company": "Sai Urja Indo",
+      "eventType": "close",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "The issue of Sai Urja Indo Ventures Ltd. opens on Sep 23, 2026 and closes for subscription on Sep 25, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set",
+      "type": "sme",
+      "slug": "sai-urja-indo-ipo",
+      "ipoId": 2655,
+      "eventId": 15538,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sai-urja-indo-ipo/2655/#15538",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sai%20Urja%20Indo%20IPO%20Closes%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=The%20issue%20of%20Sai%20Urja%20Indo%20Ventures%20Ltd.%20opens%20on%20Sep%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set"
       }
     },
     {

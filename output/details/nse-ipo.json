@@ -390,9 +390,9 @@
     "source": "https://www.chittorgarh.com/ipo/nse-ipo/3151/"
   },
   "subscription": {
-    "summary": "NSE IPO subscribed 0.41 times. The public issue subscribed 0.42 times in the retail category, 0.19 times in QIB (Ex Anchor), and 0.69 times in the NII category by September 17, 2026 4:44:33 PM (Day 1).",
-    "total": 0.41,
-    "applications": 1129482.0,
+    "summary": "NSE IPO subscribed 0.43 times. The public issue subscribed 0.44 times in the retail category, 0.19 times in QIB (Ex Anchor), and 0.72 times in the NII category by September 17, 2026 6:54:33 PM (Day 1).",
+    "total": 0.43,
+    "applications": 1199778.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -405,62 +405,62 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.19",
         "Shares Offered*": "2,52,07,868",
-        "Shares bid for": "47,27,736",
-        "Total Amt* (₹ Cr.)": "843.901"
+        "Shares bid for": "47,28,464",
+        "Total Amt* (₹ Cr.)": "844.031"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.69",
+        "Subscription (x)": "0.72",
         "Shares Offered*": "1,89,00,482",
-        "Shares bid for": "1,29,54,304",
-        "Total Amt* (₹ Cr.)": "2,312.343"
+        "Shares bid for": "1,36,18,136",
+        "Total Amt* (₹ Cr.)": "2,430.837"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "0.61",
         "Shares Offered*": "1,26,00,321",
-        "Shares bid for": "73,24,512",
-        "Total Amt* (₹ Cr.)": "1,307.425"
+        "Shares bid for": "77,13,400",
+        "Total Amt* (₹ Cr.)": "1,376.842"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.89",
+        "Subscription (x)": "0.94",
         "Shares Offered*": "63,00,161",
-        "Shares bid for": "56,29,792",
-        "Total Amt* (₹ Cr.)": "1,004.918"
+        "Shares bid for": "59,04,736",
+        "Total Amt* (₹ Cr.)": "1,053.995"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.42",
+        "Subscription (x)": "0.44",
         "Shares Offered*": "4,41,01,125",
-        "Shares bid for": "1,86,05,840",
-        "Total Amt* (₹ Cr.)": "3,321.142"
+        "Shares bid for": "1,95,70,392",
+        "Total Amt* (₹ Cr.)": "3,493.315"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.92",
+        "Subscription (x)": "0.97",
         "Shares Offered*": "4,33,437",
-        "Shares bid for": "4,00,504",
-        "Total Amt* (₹ Cr.)": "71.490"
+        "Shares bid for": "4,20,536",
+        "Total Amt* (₹ Cr.)": "75.066"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "0.43",
         "Shares Offered*": "8,86,42,912",
-        "Shares bid for": "3,66,88,384",
-        "Total Amt* (₹ Cr.)": "6,548.877"
+        "Shares bid for": "3,83,37,528",
+        "Total Amt* (₹ Cr.)": "6,843.249"
       }
     ],
     "dayWise": [
       {
         "Date": "Sep 17 (Day 1)",
         "QIB (Ex Anchor)": "0.19",
-        "NII": "0.69",
-        "NII (> ₹10L)": "0.58",
-        "NII (< ₹10L)": "0.89",
-        "Retail": "0.42",
-        "EMP": "0.92",
-        "Total": "0.41"
+        "NII": "0.72",
+        "NII (> ₹10L)": "0.61",
+        "NII (< ₹10L)": "0.94",
+        "Retail": "0.44",
+        "EMP": "0.97",
+        "Total": "0.43"
       }
     ]
   },
@@ -483,10 +483,10 @@
       "listing": "2026-09-24"
     },
     "gmp": {
-      "value": 148.0,
-      "percent": 8.29,
-      "xLot": 1184.0,
-      "updatedOn": "17-Sep 16:02"
+      "value": 146.0,
+      "percent": 8.18,
+      "xLot": 1168.0,
+      "updatedOn": "17-Sep 21:37"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
@@ -496,5 +496,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T11:17:11+00:00"
+  "scrapedAt": "2026-09-17T16:34:14+00:00"
 }

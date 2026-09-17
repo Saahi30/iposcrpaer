@@ -408,9 +408,9 @@
     "source": "https://www.chittorgarh.com/ipo/hero-motors-ipo/2225/"
   },
   "subscription": {
-    "summary": "Hero Motors IPO subscribed 3.54 times. The public issue subscribed 5.29 times in the retail category, 0.07 times in QIB (Ex Anchor), and 4.07 times in the NII category by September 17, 2026 4:43:59 PM (Day 2).",
-    "total": 3.54,
-    "applications": 964837.0,
+    "summary": "Hero Motors IPO subscribed 3.58 times. The public issue subscribed 5.34 times in the retail category, 0.07 times in QIB (Ex Anchor), and 4.14 times in the NII category by September 17, 2026 5:07:59 PM (Day 2).",
+    "total": 3.58,
+    "applications": 980598.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -423,43 +423,43 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.07",
         "Shares Offered*": "2,38,09,525",
-        "Shares bid for": "16,32,260",
-        "Total Amt* (₹ Cr.)": "13.711"
+        "Shares bid for": "16,70,530",
+        "Total Amt* (₹ Cr.)": "14.032"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "4.07",
+        "Subscription (x)": "4.14",
         "Shares Offered*": "1,78,57,143",
-        "Shares bid for": "7,27,38,810",
-        "Total Amt* (₹ Cr.)": "611.006"
+        "Shares bid for": "7,39,87,124",
+        "Total Amt* (₹ Cr.)": "621.492"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.72",
+        "Subscription (x)": "2.78",
         "Shares Offered*": "1,19,04,762",
-        "Shares bid for": "3,24,10,596",
-        "Total Amt* (₹ Cr.)": "272.249"
+        "Shares bid for": "3,31,16,188",
+        "Total Amt* (₹ Cr.)": "278.176"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "6.78",
+        "Subscription (x)": "6.87",
         "Shares Offered*": "59,52,381",
-        "Shares bid for": "4,03,28,214",
-        "Total Amt* (₹ Cr.)": "338.757"
+        "Shares bid for": "4,08,70,936",
+        "Total Amt* (₹ Cr.)": "343.316"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "5.29",
+        "Subscription (x)": "5.34",
         "Shares Offered*": "4,16,66,666",
-        "Shares bid for": "22,02,24,448",
-        "Total Amt* (₹ Cr.)": "1,849.885"
+        "Shares bid for": "22,26,29,228",
+        "Total Amt* (₹ Cr.)": "1,870.086"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.54",
+        "Subscription (x)": "3.58",
         "Shares Offered*": "8,33,33,334",
-        "Shares bid for": "29,45,95,518",
-        "Total Amt* (₹ Cr.)": "2,474.602"
+        "Shares bid for": "29,82,86,882",
+        "Total Amt* (₹ Cr.)": "2,505.610"
       }
     ],
     "dayWise": [
@@ -475,11 +475,11 @@
       {
         "Date": "Sep 17 (Day 2)",
         "QIB (Ex Anchor)": "0.07",
-        "NII": "4.07",
-        "NII (> ₹10L)": "2.72",
-        "NII (< ₹10L)": "6.78",
-        "Retail": "5.29",
-        "Total": "3.54"
+        "NII": "4.14",
+        "NII (> ₹10L)": "2.78",
+        "NII (< ₹10L)": "6.87",
+        "Retail": "5.34",
+        "Total": "3.58"
       }
     ]
   },
@@ -502,10 +502,10 @@
       "listing": "2026-09-23"
     },
     "gmp": {
-      "value": 7.0,
-      "percent": 8.33,
-      "xLot": 1246.0,
-      "updatedOn": "17-Sep 16:02"
+      "value": 5.5,
+      "percent": 6.55,
+      "xLot": 979.0,
+      "updatedOn": "17-Sep 21:37"
     },
     "leadManager": "ICICI Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/hero-motors-logo.jpeg",
@@ -515,5 +515,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-17T11:17:13+00:00"
+  "scrapedAt": "2026-09-17T16:34:16+00:00"
 }

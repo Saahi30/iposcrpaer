@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T11:17:45+00:00",
+  "scrapedAt": "2026-09-17T16:34:52+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 240,
-    "mainboard": 84,
-    "sme": 156
+    "total": 242,
+    "mainboard": 85,
+    "sme": 157
   },
   "ipos": [
     {
@@ -5064,13 +5064,13 @@
         "close": "2026-09-15",
         "allotment": "2026-09-16",
         "refunds": "2026-09-17",
-        "listing": null
+        "listing": "2026-09-18"
       },
       "displayDates": {
         "open": "10-Sep-2026",
         "close": "15-Sep-2026",
         "allotment": "16-Sep-2026",
-        "listing": null
+        "listing": "18-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/maharaja-&-speedex-logo.png",
       "urls": {
@@ -5088,13 +5088,13 @@
         "close": "2026-09-15",
         "allotment": "2026-09-16",
         "refunds": "2026-09-17",
-        "listing": null
+        "listing": "2026-09-18"
       },
       "displayDates": {
         "open": "10-Sep-2026",
         "close": "15-Sep-2026",
         "allotment": "16-Sep-2026",
-        "listing": null
+        "listing": "18-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/om-galaxy-logo.png",
       "urls": {
@@ -5112,13 +5112,13 @@
         "close": "2026-09-15",
         "allotment": "2026-09-16",
         "refunds": "2026-09-17",
-        "listing": null
+        "listing": "2026-09-18"
       },
       "displayDates": {
         "open": "10-Sep-2026",
         "close": "15-Sep-2026",
         "allotment": "16-Sep-2026",
-        "listing": null
+        "listing": "18-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/panchat-ipo-logo.png",
       "urls": {
@@ -5136,13 +5136,13 @@
         "close": "2026-09-15",
         "allotment": "2026-09-16",
         "refunds": "2026-09-17",
-        "listing": null
+        "listing": "2026-09-18"
       },
       "displayDates": {
         "open": "10-Sep-2026",
         "close": "15-Sep-2026",
         "allotment": "16-Sep-2026",
-        "listing": null
+        "listing": "18-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/raksan-transformer-ipo-logo.png",
       "urls": {
@@ -5679,6 +5679,30 @@
       }
     },
     {
+      "ipoId": 2647,
+      "name": "Elevate Campuses Ltd.",
+      "slug": "elevate-campuses-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "refunds": "2026-09-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Sep-2026",
+        "close": "25-Sep-2026",
+        "allotment": "28-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/elevate-campuses-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2750,
       "name": "Liqvd Digital India Ltd.",
       "slug": "liqvd-digital-ipo",
@@ -5747,6 +5771,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3171,
+      "name": "Unitec Fibres Ltd.",
+      "slug": "unitec-fibres-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "refunds": "2026-09-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Sep-2026",
+        "close": "25-Sep-2026",
+        "allotment": "28-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/unitec-fibres-ltd.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },

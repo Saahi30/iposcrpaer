@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T11:17:39+00:00",
+  "scrapedAt": "2026-09-17T16:34:45+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 12,
+    "upcoming": 14,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 14
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 55.0,
         "percent": 13.58,
         "xLot": 2035.0,
-        "updatedOn": "17-Sep 16:02"
+        "updatedOn": "17-Sep 21:37"
       },
       "subscription": {
         "total": null,
@@ -131,6 +131,61 @@
       "saleType": "Fresh capital only",
       "about": "Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.\n\nAs on June 30, 2026, The comp",
       "registrar": "Cameo Corporate Services Ltd."
+    },
+    {
+      "slug": "elevate-campuses-ipo",
+      "ipoId": 2647,
+      "name": "Elevate Campuses",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹2100.00 Cr",
+      "issueSizeCr": 2100.0,
+      "freshIssueCr": 2100.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "17-Sep 20:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/elevate-campuses-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/elevate-campuses-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=elevate-campuses-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/",
+        "gmp": "https://www.investorgain.com/gmp/elevate-campuses-ipo/1917/"
+      },
+      "gmpId": 1917,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2005, Elevate Campuses Ltd. is an education infrastructure company engaged in owning, operating and managing on-campus student accommodation for higher education institutions (HEIs) and owning K-12 school assets. The Company operates its student accommodation business under the Good Host Spaces and ScholarZ brands.\n\nAs of March 31, 2026, the Company’s Pre-Acquisition Group had a student accommodation capacity of 80,255 students across 15 cities in India and one city in the United",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "sai-urja-indo-ipo",
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 15:57"
+        "updatedOn": "17-Sep 21:34"
       },
       "subscription": {
         "total": null,
@@ -296,6 +351,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "unitec-fibres-ipo",
+      "ipoId": 3171,
+      "name": "Unitec Fibres",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": null,
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "17-Sep 21:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/unitec-fibres-ltd.jpg",
+      "hasDetail": true,
+      "detailPath": "details/unitec-fibres-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=unitec-fibres-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
+        "gmp": "https://www.investorgain.com/gmp/unitec-fibres-ipo/2326/"
+      },
+      "gmpId": 2326,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2005, Unitec Fibres Limited is a manufacturer of Recycled Polyester Staple Fibre (RPSF), producing sustainable polyester fibres from recycled PET flakes, PET chips, and other post-consumer polyester waste. The company supplies RPSF to industries such as automobiles, home furnishings, and textiles, where its products are used in carpets, roof liners, trunks, sofas, curtains, and spinning applications.\n\nThe company operates two manufacturing facilities at the M.I.D.C. Tara",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "varmora-granito-ipo",
@@ -325,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 16:00"
+        "updatedOn": "17-Sep 21:35"
       },
       "subscription": {
         "total": null,
@@ -380,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 15:54"
+        "updatedOn": "17-Sep 21:32"
       },
       "subscription": {
         "total": null,
@@ -432,10 +542,10 @@
         "listing": "2026-09-29"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "17-Sep 21:30"
       },
       "subscription": {
         "total": null,
@@ -490,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 16:00"
+        "updatedOn": "17-Sep 21:29"
       },
       "subscription": {
         "total": null,
@@ -545,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 16:01"
+        "updatedOn": "17-Sep 21:33"
       },
       "subscription": {
         "total": null,
@@ -600,7 +710,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "17-Sep 16:02"
+        "updatedOn": "17-Sep 21:37"
       },
       "subscription": {
         "total": null,
@@ -655,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 15:55"
+        "updatedOn": "17-Sep 21:30"
       },
       "subscription": {
         "total": null,
