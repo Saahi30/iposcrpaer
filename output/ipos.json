@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T21:04:40+00:00",
+  "scrapedAt": "2026-09-17T04:11:20+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,234 @@
     "limit": null
   },
   "summary": {
-    "open": 9,
-    "upcoming": 12,
+    "open": 10,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 21
   },
   "ipos": [
+    {
+      "slug": "kheria-autocomp-ipo",
+      "ipoId": 2760,
+      "name": "Kheria Autocomp",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 96.0,
+        "max": 101.0,
+        "display": "₹96–101"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹46.44 Cr",
+      "issueSizeCr": 46.44,
+      "freshIssueCr": 44.12,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 10.0,
+        "percent": 9.9,
+        "xLot": 12000.0,
+        "updatedOn": "17-Sep 8:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "SMC Capitals",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/kheria-autocomp-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=kheria-autocomp-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/",
+        "gmp": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/"
+      },
+      "gmpId": 2016,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Kheria Autocomp Ltd. is an auto ancillary unit engaged in the business of plastic injection moulding, specializing in the manufacture and sub-assembly operations of plastic components, primarily for the automotive sector.\n\nThe Company operates as a Tier-II supplier, producing moulded plastic components as per specifications for Tier-I vendors who supply to Original Equipment Manufacturers (OEMs) in the passenger vehicle categories.\n\nIts product range is supplied for both in",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "sonaselection-india-ipo",
+      "ipoId": 2805,
+      "name": "Sonaselection India",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 94.0,
+        "max": 99.0,
+        "display": "₹94–99"
+      },
+      "lotSize": 150,
+      "issueSize": "₹141.57 Cr",
+      "issueSizeCr": 141.57,
+      "freshIssueCr": 141.57,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 7.0,
+        "percent": 7.07,
+        "xLot": 1050.0,
+        "updatedOn": "17-Sep 8:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/sonaselection-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sonaselection-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/",
+        "gmp": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/"
+      },
+      "gmpId": 2059,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2022, the Company is an integrated fabric manufacturing and processing company engaged in the production of value-added textile products. It manufactures 100% cotton fabric, cotton lycra (stretch) fabric, cotton blends and polyester blends, and also undertakes processing of 100% cotton, cotton blends, polyester-viscose (P/V) and polyester fabrics. The Company transitioned from a job-work based processing model to a manufacturing-led model after acquiring an established t",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "spectraa-technology-solutions-ipo",
+      "ipoId": 2950,
+      "name": "SpectraA Technology Solutions",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 112.0,
+        "max": 118.0,
+        "display": "₹112–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹42.52 Cr",
+      "issueSizeCr": 42.52,
+      "freshIssueCr": 36.26,
+      "ofsCr": 4.11,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 50.0,
+        "percent": 42.37,
+        "xLot": 60000.0,
+        "updatedOn": "17-Sep 8:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Indcap",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/spectraa-technology-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=spectraa-technology-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/spectraa-technology-solutions-ipo/2950/",
+        "gmp": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/"
+      },
+      "gmpId": 2211,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in January 2009, SpectraA Technology Solutions Limited is an engineering and technology solutions provider engaged in the design, fabrication, installation, commissioning and decommissioning of greenfield and brownfield projects. The Company undertakes projects from engineering and design to fabrication, installation, commissioning and handover, with in-house manufacturing of key equipment and customised process plant systems. Its product portfolio includes commercial brewery equipm",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "nse-ipo",
+      "ipoId": 3151,
+      "name": "NSE",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 1700.0,
+        "max": 1785.0,
+        "display": "₹1700–1785"
+      },
+      "lotSize": 8,
+      "issueSize": "₹22561.57 Cr",
+      "issueSizeCr": 22561.57,
+      "freshIssueCr": null,
+      "ofsCr": 22561.57,
+      "dates": {
+        "open": "2026-09-17",
+        "close": "2026-09-21",
+        "allotment": "2026-09-22",
+        "listing": "2026-09-24"
+      },
+      "gmp": {
+        "value": 125.0,
+        "percent": 7.0,
+        "xLot": 1000.0,
+        "updatedOn": "17-Sep 8:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/nse-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=nse-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nse-ipo/3151/",
+        "gmp": "https://www.investorgain.com/gmp/nse-ipo/2305/"
+      },
+      "gmpId": 2305,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its leadership ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "hero-motors-ipo",
       "ipoId": 2225,
@@ -51,7 +271,7 @@
         "value": 13.0,
         "percent": 15.48,
         "xLot": 2314.0,
-        "updatedOn": "16-Sep 23:35"
+        "updatedOn": "17-Sep 8:55"
       },
       "subscription": {
         "total": 1.48,
@@ -157,7 +377,7 @@
         "value": 25.0,
         "percent": 26.88,
         "xLot": 4025.0,
-        "updatedOn": "16-Sep 23:30"
+        "updatedOn": "17-Sep 8:53"
       },
       "subscription": {
         "total": 7.56,
@@ -260,10 +480,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 90.0,
-        "percent": 21.23,
-        "xLot": 3150.0,
-        "updatedOn": "16-Sep 23:34"
+        "value": 80.0,
+        "percent": 18.87,
+        "xLot": 2800.0,
+        "updatedOn": "17-Sep 8:53"
       },
       "subscription": {
         "total": 1.52,
@@ -376,7 +596,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:31"
+        "updatedOn": "17-Sep 8:56"
       },
       "subscription": {
         "total": 0.06,
@@ -465,7 +685,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:34"
+        "updatedOn": "17-Sep 8:54"
       },
       "subscription": {
         "total": 0.72,
@@ -586,7 +806,7 @@
         "value": 70.0,
         "percent": 20.53,
         "xLot": 28000.0,
-        "updatedOn": "16-Sep 23:30"
+        "updatedOn": "17-Sep 8:53"
       },
       "subscription": {
         "total": 0.45,
@@ -672,409 +892,6 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
-      "slug": "manika-plastech-ipo",
-      "ipoId": 2483,
-      "name": "Manika Plastech",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 40.0,
-        "max": 43.0,
-        "display": "₹40–43"
-      },
-      "lotSize": 348,
-      "issueSize": "₹125.50 Cr",
-      "issueSizeCr": 125.5,
-      "freshIssueCr": 92.5,
-      "ofsCr": 33.0,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 4.65,
-        "xLot": 696.0,
-        "updatedOn": "16-Sep 23:28"
-      },
-      "subscription": {
-        "total": 29.46,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "87,55,813",
-            "Shares bid for": "87,55,813",
-            "Total Amt* (₹ Cr.)": "37.65"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "11.22",
-            "Shares Offered*": "58,37,210",
-            "Shares bid for": "6,54,79,332",
-            "Total Amt* (₹ Cr.)": "281.56"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "66.58",
-            "Shares Offered*": "43,77,907",
-            "Shares bid for": "29,14,69,836",
-            "Total Amt* (₹ Cr.)": "1,253.32"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "74.16",
-            "Shares Offered*": "29,18,605",
-            "Shares bid for": "21,64,32,336",
-            "Total Amt* (₹ Cr.)": "930.66"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "51.42",
-            "Shares Offered*": "14,59,302",
-            "Shares bid for": "7,50,37,500",
-            "Total Amt* (₹ Cr.)": "322.66"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "23.98",
-            "Shares Offered*": "1,02,15,116",
-            "Shares bid for": "24,49,44,672",
-            "Total Amt* (₹ Cr.)": "1,053.26"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "29.46",
-            "Shares Offered*": "2,04,30,233",
-            "Shares bid for": "60,18,93,840",
-            "Total Amt* (₹ Cr.)": "2,588.14"
-          }
-        ],
-        "applications": 457032.0
-      },
-      "leadManager": "Pantomath Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/manika-plastech-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/manika-plastech-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=manika-plastech-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
-        "gmp": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/"
-      },
-      "gmpId": 1806,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1996, Manika Plastech Limited is engaged in the manufacturing of rigid polymer packaging products, including battery casings, pails and thinwall containers.\n\nThe Company manufactures battery casings, pails and thinwall containers, which cater to various industrial and consumer applications. The Company also manufactures pails used for packaging paints, lubricants and industrial chemicals, while its food-grade thinwall containers are used for the packaging and distribution of dair",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "century-business-media-ipo",
-      "ipoId": 2604,
-      "name": "Century Business Media",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 70.0,
-        "max": 74.0,
-        "display": "₹70–74"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹17.11 Cr",
-      "issueSizeCr": 17.11,
-      "freshIssueCr": 16.24,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "16-Sep 23:30"
-      },
-      "subscription": {
-        "total": 57.93,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "6,54,400",
-            "Shares bid for": "6,54,400",
-            "Total Amt* (₹ Cr.)": "4.843",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,16,800",
-            "Shares bid for": "1,16,800",
-            "Total Amt* (₹ Cr.)": "0.864",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "47.53",
-            "Shares Offered*": "4,38,400",
-            "Shares bid for": "2,08,35,200",
-            "Total Amt* (₹ Cr.)": "154.180",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "113.88",
-            "Shares Offered*": "3,31,200",
-            "Shares bid for": "3,77,18,400",
-            "Total Amt* (₹ Cr.)": "279.116",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "142.25",
-            "Shares Offered*": "2,20,800",
-            "Shares bid for": "3,14,08,000",
-            "Total Amt* (₹ Cr.)": "232.419",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "57.16",
-            "Shares Offered*": "1,10,400",
-            "Shares bid for": "63,10,400",
-            "Total Amt* (₹ Cr.)": "46.697",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "39.81",
-            "Shares Offered*": "7,71,200",
-            "Shares bid for": "3,07,00,800",
-            "Total Amt* (₹ Cr.)": "227.186",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "57.93",
-            "Shares Offered*": "15,40,800",
-            "Shares bid for": "8,92,54,400",
-            "Total Amt* (₹ Cr.)": "660.483",
-            "Total Applications": "13,090"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/century-business-media-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/century-business-media-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=century-business-media-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/century-business-media-ipo/2604/",
-        "gmp": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/"
-      },
-      "gmpId": 1887,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 1999 as Century Business Private Limited, The Company primarily operates across the Airport Out-of-Home (AOOH) and Railway Out-of-Home (ROOH) segments, providing advertising spaces within and outside airport terminal buildings and through digital and static hoardings across railway stations and railway land. It has also expanded into Metro Out-of-Home (MOOH) advertising, including Platform Screen Door (PSD) advertising, and in-shop branding. Its traditional city media p",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "injecto-polymers-ipo",
-      "ipoId": 2625,
-      "name": "Injecto Polymers",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 98.0,
-        "max": 100.0,
-        "display": "₹98–100"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹56.12 Cr",
-      "issueSizeCr": 56.12,
-      "freshIssueCr": 53.29,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-11",
-        "close": "2026-09-16",
-        "allotment": "2026-09-17",
-        "listing": "2026-09-21"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "16-Sep 23:34"
-      },
-      "subscription": {
-        "total": 1.23,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "9,57,600",
-            "Shares bid for": "9,57,600",
-            "Total Amt* (₹ Cr.)": "9.576",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,83,200",
-            "Shares bid for": "2,83,200",
-            "Total Amt* (₹ Cr.)": "2.832",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.57",
-            "Shares Offered*": "6,38,400",
-            "Shares bid for": "9,99,600",
-            "Total Amt* (₹ Cr.)": "9.996",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.05",
-            "Shares Offered*": "18,66,000",
-            "Shares bid for": "19,68,000",
-            "Total Amt* (₹ Cr.)": "19.680",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.47",
-            "Shares Offered*": "12,44,400",
-            "Shares bid for": "18,28,800",
-            "Total Amt* (₹ Cr.)": "18.288",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.22",
-            "Shares Offered*": "6,21,600",
-            "Shares bid for": "1,39,200",
-            "Total Amt* (₹ Cr.)": "1.392",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.28",
-            "Shares Offered*": "18,67,200",
-            "Shares bid for": "23,88,000",
-            "Total Amt* (₹ Cr.)": "23.880",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.23",
-            "Shares Offered*": "43,71,600",
-            "Shares bid for": "53,55,600",
-            "Total Amt* (₹ Cr.)": "53.556",
-            "Total Applications": "1,110"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Indcap",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/injecto-polymers-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/injecto-polymers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=injecto-polymers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/injecto-polymers-ipo/2625/",
-        "gmp": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/"
-      },
-      "gmpId": 1899,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 1998, Injecto Polymers Private Limited, The Company is engaged in the manufacturing of a diverse range of plastic packaging products and the trading of plastic granules and Polyvinyl Chloride (PVC) resins. The Company manufactures a wide range of packaging products, including Polypropylene (PP) Woven Fabrics, PP Woven Bags, Biaxially Oriented Polypropylene (BoPP) Bags, Leno Bags, Low-Density and Polyester Pouches, Flexible Intermediate Bulk Container (FIBC) Bags and Non",
-      "registrar": "Integrated Registry Management Services Pvt.Ltd."
-    },
-    {
-      "slug": "varmora-granito-ipo",
-      "ipoId": 2563,
-      "name": "Varmora Granito",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
-      },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": 400.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-12-25",
-        "close": null,
-        "allotment": null,
-        "listing": null
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "16-Sep 22:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/varmora-granito-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=varmora-granito-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
-        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
-      },
-      "gmpId": 1852,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
       "name": "A-One Steels",
@@ -1083,11 +900,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 385.0,
+        "max": 405.0,
+        "display": "₹385–405"
       },
-      "lotSize": null,
+      "lotSize": 37,
       "issueSize": "₹405.00 Cr",
       "issueSizeCr": 405.0,
       "freshIssueCr": 355.0,
@@ -1101,8 +918,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "16-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "17-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -1128,6 +945,116 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "armee-infotech-ipo",
+      "ipoId": 2140,
+      "name": "ArMee Infotech",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "17-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Khandwala Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/armee-infotech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/armee-infotech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=armee-infotech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+        "gmp": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/"
+      },
+      "gmpId": 1667,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.\n\nAs on June 30, 2026, The comp",
+      "registrar": "Cameo Corporate Services Ltd."
+    },
+    {
+      "slug": "sai-urja-indo-ipo",
+      "ipoId": 2655,
+      "name": "Sai Urja Indo",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 107.0,
+        "max": 113.0,
+        "display": "₹107–113"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24.95 Cr",
+      "issueSizeCr": 24.95,
+      "freshIssueCr": 18.22,
+      "ofsCr": 4.28,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Shannon Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/saiurja-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sai-urja-indo-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sai-urja-indo-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "gmp": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/"
+      },
+      "gmpId": 1924,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals.\n\nThe company handling control and instrumentation services for the biggest power plant in India, a 4,760 MW thermal power plant in Central India and another 3,000 MW plant in Northern India.\n\nAs of March 31, 2025, the company had a team of 2,469 personnel, up from 1611 in 2024 and",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "skoffset-ipo",
@@ -1157,7 +1084,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:32"
+        "updatedOn": "17-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1183,6 +1110,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "varmora-granito-ipo",
+      "ipoId": 2563,
+      "name": "Varmora Granito",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 140.0,
+        "max": 148.0,
+        "display": "₹140–148"
+      },
+      "lotSize": 101,
+      "issueSize": "₹1096.04 Cr",
+      "issueSizeCr": 1096.04,
+      "freshIssueCr": 320.0,
+      "ofsCr": 776.04,
+      "dates": {
+        "open": "2026-09-22",
+        "close": "2026-09-24",
+        "allotment": "2026-09-25",
+        "listing": "2026-09-29"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "17-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/varmora-granito-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=varmora-granito-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
+      },
+      "gmpId": 1852,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "himalaya-nutravedics-ipo",
@@ -1212,7 +1194,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:36"
+        "updatedOn": "17-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -1238,6 +1220,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 2022, Himalaya Nutravedics India Limited is engaged in the manufacturing, marketing and distribution of Ayurvedic and nutraceutical formulations in India and also undertakes third-party contract manufacturing for other Ayurvedic and nutraceutical companies. The Company manufactures a diversified portfolio comprising classical (Shastric) Ayurvedic formulations, proprietary Ayurvedic formulations and nutraceutical supplements. Its products are available in multiple dosage form",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "anand-seamless-ipo",
+      "ipoId": 3080,
+      "name": "Anand Seamless",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 72.0,
+        "max": 72.0,
+        "display": "₹72"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹25.52 Cr",
+      "issueSizeCr": 25.52,
+      "freshIssueCr": 24.24,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-22",
+        "close": "2026-09-24",
+        "allotment": "2026-09-25",
+        "listing": "2026-09-29"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aftertrade Broking",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/anand-seamless-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/anand-seamless-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=anand-seamless-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+        "gmp": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/"
+      },
+      "gmpId": 2269,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector.\n\nThe company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes. These products are widely used in industries such as oil & gas, petrochemicals, power plants, and process industries.\n\nAnand Seamless Limited focuses on q",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "vivekanand-cotspin-ipo",
@@ -1267,7 +1304,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:31"
+        "updatedOn": "17-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -1322,7 +1359,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:30"
+        "updatedOn": "17-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -1377,7 +1414,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "16-Sep 23:31"
+        "updatedOn": "17-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -1413,14 +1450,14 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 50.0,
-        "max": 53.0,
-        "display": "₹50–53"
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
       },
       "lotSize": 2000,
-      "issueSize": "₹49.81 Cr",
-      "issueSizeCr": 49.81,
-      "freshIssueCr": 47.28,
+      "issueSize": "₹50.75 Cr",
+      "issueSizeCr": 50.75,
+      "freshIssueCr": 48.17,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-18",
@@ -1432,7 +1469,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:29"
+        "updatedOn": "17-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -1458,226 +1495,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Axiom Gas Engineering Ltd. specialises in green energy engineering solutions. The company offers Auto LPG, CNG, and LNG solutions, catering to retail and industrial sectors with a commitment to quality, innovation, and environmental sustainability. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name, \"PRIMEFUEL\" across multiple states in India including Telangana, Karnataka, and Maharashtra.",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "kheria-autocomp-ipo",
-      "ipoId": 2760,
-      "name": "Kheria Autocomp",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 96.0,
-        "max": 101.0,
-        "display": "₹96–101"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹46.44 Cr",
-      "issueSizeCr": 46.44,
-      "freshIssueCr": 44.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 9.9,
-        "xLot": 12000.0,
-        "updatedOn": "16-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "SMC Capitals",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kheria-autocomp-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kheria-autocomp-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/",
-        "gmp": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/"
-      },
-      "gmpId": 2016,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2009, Kheria Autocomp Ltd. is an auto ancillary unit engaged in the business of plastic injection moulding, specializing in the manufacture and sub-assembly operations of plastic components, primarily for the automotive sector.\n\nThe Company operates as a Tier-II supplier, producing moulded plastic components as per specifications for Tier-I vendors who supply to Original Equipment Manufacturers (OEMs) in the passenger vehicle categories.\n\nIts product range is supplied for both in",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "sonaselection-india-ipo",
-      "ipoId": 2805,
-      "name": "Sonaselection India",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 94.0,
-        "max": 99.0,
-        "display": "₹94–99"
-      },
-      "lotSize": 150,
-      "issueSize": "₹141.57 Cr",
-      "issueSizeCr": 141.57,
-      "freshIssueCr": 141.57,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 7.0,
-        "percent": 7.07,
-        "xLot": 1050.0,
-        "updatedOn": "16-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/sonaselection-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sonaselection-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/",
-        "gmp": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/"
-      },
-      "gmpId": 2059,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2022, the Company is an integrated fabric manufacturing and processing company engaged in the production of value-added textile products. It manufactures 100% cotton fabric, cotton lycra (stretch) fabric, cotton blends and polyester blends, and also undertakes processing of 100% cotton, cotton blends, polyester-viscose (P/V) and polyester fabrics. The Company transitioned from a job-work based processing model to a manufacturing-led model after acquiring an established t",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "spectraa-technology-solutions-ipo",
-      "ipoId": 2950,
-      "name": "SpectraA Technology Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 112.0,
-        "max": 118.0,
-        "display": "₹112–118"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹42.52 Cr",
-      "issueSizeCr": 42.52,
-      "freshIssueCr": 36.26,
-      "ofsCr": 4.11,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 42.37,
-        "xLot": 60000.0,
-        "updatedOn": "16-Sep 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Indcap",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/spectraa-technology-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=spectraa-technology-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/spectraa-technology-solutions-ipo/2950/",
-        "gmp": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/"
-      },
-      "gmpId": 2211,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 2009, SpectraA Technology Solutions Limited is an engineering and technology solutions provider engaged in the design, fabrication, installation, commissioning and decommissioning of greenfield and brownfield projects. The Company undertakes projects from engineering and design to fabrication, installation, commissioning and handover, with in-house manufacturing of key equipment and customised process plant systems. Its product portfolio includes commercial brewery equipm",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "nse-ipo",
-      "ipoId": 3151,
-      "name": "NSE",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 1700.0,
-        "max": 1785.0,
-        "display": "₹1700–1785"
-      },
-      "lotSize": 8,
-      "issueSize": "₹22561.57 Cr",
-      "issueSizeCr": 22561.57,
-      "freshIssueCr": null,
-      "ofsCr": 22561.57,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 145.0,
-        "percent": 8.12,
-        "xLot": 1160.0,
-        "updatedOn": "16-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/nse-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=nse-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/nse-ipo/3151/",
-        "gmp": "https://www.investorgain.com/gmp/nse-ipo/2305/"
-      },
-      "gmpId": 2305,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its leadership ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-16T21:04:40+00:00",
+  "scrapedAt": "2026-09-17T04:11:20+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,68 +15,13 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 12,
+    "upcoming": 11,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 12
+    "total": 11
   },
   "ipos": [
-    {
-      "slug": "varmora-granito-ipo",
-      "ipoId": 2563,
-      "name": "Varmora Granito",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
-      },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": 400.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-12-25",
-        "close": null,
-        "allotment": null,
-        "listing": null
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "16-Sep 22:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/varmora-granito-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=varmora-granito-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
-        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
-      },
-      "gmpId": 1852,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
-      "registrar": "Kfin Technologies Ltd."
-    },
     {
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
@@ -86,11 +31,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 385.0,
+        "max": 405.0,
+        "display": "₹385–405"
       },
-      "lotSize": null,
+      "lotSize": 37,
       "issueSize": "₹405.00 Cr",
       "issueSizeCr": 405.0,
       "freshIssueCr": 355.0,
@@ -104,8 +49,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "16-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "17-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -131,6 +76,116 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "armee-infotech-ipo",
+      "ipoId": 2140,
+      "name": "ArMee Infotech",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "17-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Khandwala Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/armee-infotech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/armee-infotech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=armee-infotech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
+        "gmp": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/"
+      },
+      "gmpId": 1667,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.\n\nAs on June 30, 2026, The comp",
+      "registrar": "Cameo Corporate Services Ltd."
+    },
+    {
+      "slug": "sai-urja-indo-ipo",
+      "ipoId": 2655,
+      "name": "Sai Urja Indo",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 107.0,
+        "max": 113.0,
+        "display": "₹107–113"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24.95 Cr",
+      "issueSizeCr": 24.95,
+      "freshIssueCr": 18.22,
+      "ofsCr": 4.28,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Shannon Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/saiurja-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sai-urja-indo-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sai-urja-indo-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "gmp": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/"
+      },
+      "gmpId": 1924,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals.\n\nThe company handling control and instrumentation services for the biggest power plant in India, a 4,760 MW thermal power plant in Central India and another 3,000 MW plant in Northern India.\n\nAs of March 31, 2025, the company had a team of 2,469 personnel, up from 1611 in 2024 and",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "skoffset-ipo",
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:32"
+        "updatedOn": "17-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -186,6 +241,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "varmora-granito-ipo",
+      "ipoId": 2563,
+      "name": "Varmora Granito",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 140.0,
+        "max": 148.0,
+        "display": "₹140–148"
+      },
+      "lotSize": 101,
+      "issueSize": "₹1096.04 Cr",
+      "issueSizeCr": 1096.04,
+      "freshIssueCr": 320.0,
+      "ofsCr": 776.04,
+      "dates": {
+        "open": "2026-09-22",
+        "close": "2026-09-24",
+        "allotment": "2026-09-25",
+        "listing": "2026-09-29"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "17-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/varmora-granito-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=varmora-granito-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
+        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
+      },
+      "gmpId": 1852,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2003, Varmora Granito Limited is engaged in the business of manufacturing and marketing ceramic and vitrified tiles. The company’s product portfolio includes a wide range of tiles across formats such as glazed vitrified tiles (GVT), polished vitrified tiles (PVT), and ceramic tiles.\n\nThe company distributes its products through a multi-channel network comprising:\n\nAs of March 31, 2025, the company’s distribution network covered 949 cities across 27 states and union territories in",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "himalaya-nutravedics-ipo",
@@ -215,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:36"
+        "updatedOn": "17-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -241,6 +351,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 2022, Himalaya Nutravedics India Limited is engaged in the manufacturing, marketing and distribution of Ayurvedic and nutraceutical formulations in India and also undertakes third-party contract manufacturing for other Ayurvedic and nutraceutical companies. The Company manufactures a diversified portfolio comprising classical (Shastric) Ayurvedic formulations, proprietary Ayurvedic formulations and nutraceutical supplements. Its products are available in multiple dosage form",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "anand-seamless-ipo",
+      "ipoId": 3080,
+      "name": "Anand Seamless",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 72.0,
+        "max": 72.0,
+        "display": "₹72"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹25.52 Cr",
+      "issueSizeCr": 25.52,
+      "freshIssueCr": 24.24,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-22",
+        "close": "2026-09-24",
+        "allotment": "2026-09-25",
+        "listing": "2026-09-29"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aftertrade Broking",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/anand-seamless-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/anand-seamless-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=anand-seamless-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
+        "gmp": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/"
+      },
+      "gmpId": 2269,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector.\n\nThe company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes. These products are widely used in industries such as oil & gas, petrochemicals, power plants, and process industries.\n\nAnand Seamless Limited focuses on q",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "vivekanand-cotspin-ipo",
@@ -270,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:31"
+        "updatedOn": "17-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -325,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:30"
+        "updatedOn": "17-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -380,7 +545,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "16-Sep 23:31"
+        "updatedOn": "17-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -416,14 +581,14 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 50.0,
-        "max": 53.0,
-        "display": "₹50–53"
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
       },
       "lotSize": 2000,
-      "issueSize": "₹49.81 Cr",
-      "issueSizeCr": 49.81,
-      "freshIssueCr": 47.28,
+      "issueSize": "₹50.75 Cr",
+      "issueSizeCr": 50.75,
+      "freshIssueCr": 48.17,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-18",
@@ -435,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Sep 23:29"
+        "updatedOn": "17-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -461,226 +626,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2007, Axiom Gas Engineering Ltd. specialises in green energy engineering solutions. The company offers Auto LPG, CNG, and LNG solutions, catering to retail and industrial sectors with a commitment to quality, innovation, and environmental sustainability. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name, \"PRIMEFUEL\" across multiple states in India including Telangana, Karnataka, and Maharashtra.",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "kheria-autocomp-ipo",
-      "ipoId": 2760,
-      "name": "Kheria Autocomp",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 96.0,
-        "max": 101.0,
-        "display": "₹96–101"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹46.44 Cr",
-      "issueSizeCr": 46.44,
-      "freshIssueCr": 44.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 9.9,
-        "xLot": 12000.0,
-        "updatedOn": "16-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "SMC Capitals",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/kheria-autocomp-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=kheria-autocomp-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/",
-        "gmp": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/"
-      },
-      "gmpId": 2016,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2009, Kheria Autocomp Ltd. is an auto ancillary unit engaged in the business of plastic injection moulding, specializing in the manufacture and sub-assembly operations of plastic components, primarily for the automotive sector.\n\nThe Company operates as a Tier-II supplier, producing moulded plastic components as per specifications for Tier-I vendors who supply to Original Equipment Manufacturers (OEMs) in the passenger vehicle categories.\n\nIts product range is supplied for both in",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "sonaselection-india-ipo",
-      "ipoId": 2805,
-      "name": "Sonaselection India",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 94.0,
-        "max": 99.0,
-        "display": "₹94–99"
-      },
-      "lotSize": 150,
-      "issueSize": "₹141.57 Cr",
-      "issueSizeCr": 141.57,
-      "freshIssueCr": 141.57,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 7.0,
-        "percent": 7.07,
-        "xLot": 1050.0,
-        "updatedOn": "16-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/sonaselection-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sonaselection-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/",
-        "gmp": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/"
-      },
-      "gmpId": 2059,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2022, the Company is an integrated fabric manufacturing and processing company engaged in the production of value-added textile products. It manufactures 100% cotton fabric, cotton lycra (stretch) fabric, cotton blends and polyester blends, and also undertakes processing of 100% cotton, cotton blends, polyester-viscose (P/V) and polyester fabrics. The Company transitioned from a job-work based processing model to a manufacturing-led model after acquiring an established t",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "spectraa-technology-solutions-ipo",
-      "ipoId": 2950,
-      "name": "SpectraA Technology Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 112.0,
-        "max": 118.0,
-        "display": "₹112–118"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹42.52 Cr",
-      "issueSizeCr": 42.52,
-      "freshIssueCr": 36.26,
-      "ofsCr": 4.11,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 42.37,
-        "xLot": 60000.0,
-        "updatedOn": "16-Sep 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Indcap",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/spectraa-technology-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=spectraa-technology-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/spectraa-technology-solutions-ipo/2950/",
-        "gmp": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/"
-      },
-      "gmpId": 2211,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 2009, SpectraA Technology Solutions Limited is an engineering and technology solutions provider engaged in the design, fabrication, installation, commissioning and decommissioning of greenfield and brownfield projects. The Company undertakes projects from engineering and design to fabrication, installation, commissioning and handover, with in-house manufacturing of key equipment and customised process plant systems. Its product portfolio includes commercial brewery equipm",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "nse-ipo",
-      "ipoId": 3151,
-      "name": "NSE",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 1700.0,
-        "max": 1785.0,
-        "display": "₹1700–1785"
-      },
-      "lotSize": 8,
-      "issueSize": "₹22561.57 Cr",
-      "issueSizeCr": 22561.57,
-      "freshIssueCr": null,
-      "ofsCr": 22561.57,
-      "dates": {
-        "open": "2026-09-17",
-        "close": "2026-09-21",
-        "allotment": "2026-09-22",
-        "listing": "2026-09-24"
-      },
-      "gmp": {
-        "value": 145.0,
-        "percent": 8.12,
-        "xLot": 1160.0,
-        "updatedOn": "16-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/nse-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=nse-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/nse-ipo/3151/",
-        "gmp": "https://www.investorgain.com/gmp/nse-ipo/2305/"
-      },
-      "gmpId": 2305,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its leadership ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
