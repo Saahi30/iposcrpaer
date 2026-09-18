@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T21:07:25+00:00",
+  "scrapedAt": "2026-09-18T03:56:18+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 242,
-    "mainboard": 85,
-    "sme": 157
+    "total": 245,
+    "mainboard": 87,
+    "sme": 158
   },
   "ipos": [
     {
@@ -5655,6 +5655,30 @@
       }
     },
     {
+      "ipoId": 3007,
+      "name": "Adroit Industries (India) Ltd.",
+      "slug": "adroit-industries-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "refunds": "2026-09-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Sep-2026",
+        "close": "25-Sep-2026",
+        "allotment": "28-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/adroit_ai_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2140,
       "name": "ArMee Infotech Ltd.",
       "slug": "armee-infotech-ipo",
@@ -5727,6 +5751,30 @@
       }
     },
     {
+      "ipoId": 2724,
+      "name": "Pooja Logistics Ltd.",
+      "slug": "pooja-logistics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "refunds": "2026-09-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Sep-2026",
+        "close": "25-Sep-2026",
+        "allotment": "28-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pooja-logistics-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 3150,
       "name": "S.K.Offset Ltd.",
       "slug": "skoffset-ipo",
@@ -5772,6 +5820,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2287,
+      "name": "Swastika Infra Ltd.",
+      "slug": "swastika-infra-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "refunds": "2026-09-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Sep-2026",
+        "close": "25-Sep-2026",
+        "allotment": "28-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/swastika-infra-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

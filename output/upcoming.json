@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T21:07:21+00:00",
+  "scrapedAt": "2026-09-18T03:56:13+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 14,
+    "upcoming": 16,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 14
+    "total": 16
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 55.0,
         "percent": 13.58,
         "xLot": 2035.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -86,11 +86,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 350.0,
+        "max": 375.0,
+        "display": "₹350–375"
       },
-      "lotSize": null,
+      "lotSize": 40,
       "issueSize": "₹300.00 Cr",
       "issueSizeCr": 300.0,
       "freshIssueCr": 300.0,
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "17-Sep 9:00"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -133,6 +133,61 @@
       "registrar": "Cameo Corporate Services Ltd."
     },
     {
+      "slug": "swastika-infra-ipo",
+      "ipoId": 2287,
+      "name": "Swastika Infra",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 175.0,
+        "max": 185.0,
+        "display": "₹175–185"
+      },
+      "lotSize": 81,
+      "issueSize": "₹160.87 Cr",
+      "issueSizeCr": 160.87,
+      "freshIssueCr": 128.5,
+      "ofsCr": 32.38,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 8:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Srujan Alpha Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/swastika-infra-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/swastika-infra-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=swastika-infra-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/",
+        "gmp": "https://www.investorgain.com/gmp/swastika-infra-ipo/1708/"
+      },
+      "gmpId": 1708,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in August 2019, Swastika Infra Limited is an Engineering, Procurement, and Construction (EPC) company specializing in power distribution infrastructure projects (EPC Power Projects) and the sale of electrical products.\n\nAs of February 28, 2025, the company had 104 full-time employees.",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "elevate-campuses-ipo",
       "ipoId": 2647,
       "name": "Elevate Campuses",
@@ -141,11 +196,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 343.0,
+        "max": 362.0,
+        "display": "₹343–362"
       },
-      "lotSize": null,
+      "lotSize": 41,
       "issueSize": "₹2100.00 Cr",
       "issueSizeCr": 2100.0,
       "freshIssueCr": 2100.0,
@@ -158,9 +213,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "17-Sep 20:30"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:34"
+        "updatedOn": "18-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -240,6 +295,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, ",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "pooja-logistics-ipo",
+      "ipoId": 2724,
+      "name": "Pooja Logistics",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 109.0,
+        "max": 115.0,
+        "display": "₹109–115"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹44.23 Cr",
+      "issueSizeCr": 44.23,
+      "freshIssueCr": 41.95,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Share India Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pooja-logistics-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pooja-logistics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pooja-logistics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/",
+        "gmp": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/"
+      },
+      "gmpId": 1982,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”).\n\nThe company offers cold chain logistics services to a range of industries. Their in-house fleet as on 31st August, 2025 comprises over 357 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -268,9 +378,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "17-Sep 13:00"
+        "updatedOn": "18-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -295,6 +405,60 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2013, Liqvd Digital India Limited is a digital marketing and media solutions company that helps brands build their online presence, reach the right audience, and drive business growth. Its services include social media management, media planning and buying, online reputation management, creative content production, influencer marketing, SEO, performance marketing, and web and app development.\n\nThe Company works with a diverse range of clients, including large enterprises, mid-siz",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "adroit-industries-ipo",
+      "ipoId": 3007,
+      "name": "Adroit Industries (India) Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 126.0,
+        "max": 134.0,
+        "display": "₹126–134"
+      },
+      "lotSize": 111,
+      "issueSize": "₹150.71 Cr",
+      "issueSizeCr": 150.71,
+      "freshIssueCr": 132.62,
+      "ofsCr": 18.09,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": null,
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/adroit_ai_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/adroit-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=adroit-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Adroit Industries (India) Ltd., incorporated in 1966, is a manufacturer of propeller shafts and torque-transmission components used in vehicles and industrial machinery.\n\nThe company has a fully integrated manufacturing setup, handling everything from forging and machining to assembly and testing, which helps maintain quality and efficiency.\n\nThe company offers over 5,000 products to distributors, large component manufacturers, and OEMs. These are mainly used in commercial vehicles, defense, hea",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -325,7 +489,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:35"
+        "updatedOn": "18-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -361,14 +525,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 83.0,
+        "max": 88.0,
+        "display": "₹83–88"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹34.47 Cr",
+      "issueSizeCr": 34.47,
+      "freshIssueCr": 32.71,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-23",
@@ -378,9 +542,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "17-Sep 21:30"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -435,7 +599,7 @@
         "value": 10.0,
         "percent": 6.76,
         "xLot": 1010.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -490,7 +654,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -545,7 +709,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:36"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -600,7 +764,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:29"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +819,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "17-Sep 23:34"
+        "updatedOn": "18-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -710,7 +874,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -736,61 +900,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in December 2014, Robokidz Eduventures Limited is an education technology company engaged in providing technology-enabled learning and skill development solutions for K-12 students in Robotics, Artificial Intelligence (AI), Coding, Electronics, and STEM (Science, Technology, Engineering, and Mathematics). The company offers end-to-end educational laboratory setup solutions, subscription-based learning programs, teacher training, digital learning platforms, educational kits, and tech",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "axiom-gas-engineering-ipo",
-      "ipoId": 2193,
-      "name": "Axiom Gas Engineering",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹50.75 Cr",
-      "issueSizeCr": 50.75,
-      "freshIssueCr": 48.17,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-18",
-        "close": "2026-09-22",
-        "allotment": "2026-09-23",
-        "listing": "2026-09-25"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "17-Sep 23:35"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "SKI Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/axiom-gas-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/axiom-gas-engineering-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=axiom-gas-engineering-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/",
-        "gmp": "https://www.investorgain.com/gmp/axiom-gas-engineering-ipo/1682/"
-      },
-      "gmpId": 1682,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2007, Axiom Gas Engineering Ltd. specialises in green energy engineering solutions. The company offers Auto LPG, CNG, and LNG solutions, catering to retail and industrial sectors with a commitment to quality, innovation, and environmental sustainability. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name, \"PRIMEFUEL\" across multiple states in India including Telangana, Karnataka, and Maharashtra.",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }

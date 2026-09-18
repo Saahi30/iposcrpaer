@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-17T21:07:21+00:00",
+  "scrapedAt": "2026-09-18T03:56:13+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,69 @@
     "limit": null
   },
   "summary": {
-    "open": 10,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "axiom-gas-engineering-ipo",
+      "ipoId": 2193,
+      "name": "Axiom Gas Engineering",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹50.75 Cr",
+      "issueSizeCr": 50.75,
+      "freshIssueCr": 48.17,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-18",
+        "close": "2026-09-22",
+        "allotment": "2026-09-23",
+        "listing": "2026-09-25"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 8:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "SKI Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/axiom-gas-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/axiom-gas-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=axiom-gas-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/",
+        "gmp": "https://www.investorgain.com/gmp/axiom-gas-engineering-ipo/1682/"
+      },
+      "gmpId": 1682,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2007, Axiom Gas Engineering Ltd. specialises in green energy engineering solutions. The company offers Auto LPG, CNG, and LNG solutions, catering to retail and industrial sectors with a commitment to quality, innovation, and environmental sustainability. The company operates 20+ Auto LPG Dispensing Stations (ALDS) under the name, \"PRIMEFUEL\" across multiple states in India including Telangana, Karnataka, and Maharashtra.",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "kheria-autocomp-ipo",
       "ipoId": 2760,
@@ -50,7 +105,7 @@
         "value": 10.0,
         "percent": 9.9,
         "xLot": 12000.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 0.21,
@@ -163,7 +218,7 @@
         "value": 2.0,
         "percent": 2.02,
         "xLot": 300.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 0.47,
@@ -266,10 +321,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 25.42,
-        "xLot": 36000.0,
-        "updatedOn": "17-Sep 23:37"
+        "value": 50.0,
+        "percent": 42.37,
+        "xLot": 60000.0,
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 5.66,
@@ -382,7 +437,7 @@
         "value": 142.0,
         "percent": 7.96,
         "xLot": 1136.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 0.43,
@@ -495,7 +550,7 @@
         "value": 5.5,
         "percent": 6.55,
         "xLot": 979.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 3.58,
@@ -598,10 +653,10 @@
         "listing": "2026-09-23"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 32.26,
-        "xLot": 4830.0,
-        "updatedOn": "17-Sep 23:37"
+        "value": 31.0,
+        "percent": 33.33,
+        "xLot": 4991.0,
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 31.54,
@@ -707,7 +762,7 @@
         "value": 137.0,
         "percent": 32.31,
         "xLot": 4795.0,
-        "updatedOn": "17-Sep 23:37"
+        "updatedOn": "18-Sep 9:02"
       },
       "subscription": {
         "total": 6.1,
@@ -791,329 +846,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa and Gujarat. It primarily focuses on Tier II and Tier III and beyond cities and, as of March 31, 2026, operated 503 stores across 215 cities, covering approximately 2,41,365 sq. ft.\n\nThe Company operates under its proprietary brands ‘SS Mobile’, ‘Mobile Exchange Wala’ and ‘The Mobile Space’ through a com",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "quanto-agroworld-ipo",
-      "ipoId": 2390,
-      "name": "Quanto Agroworld",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 67.0,
-        "max": 67.0,
-        "display": "₹67"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹31.02 Cr",
-      "issueSizeCr": 31.02,
-      "freshIssueCr": 29.47,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "17-Sep 23:34"
-      },
-      "subscription": {
-        "total": 1.39,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,32,000",
-            "Shares bid for": "2,32,000",
-            "Total Amt* (₹ Cr.)": "1.55",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.66",
-            "Shares Offered*": "21,98,000",
-            "Shares bid for": "36,50,000",
-            "Total Amt* (₹ Cr.)": "24.46",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.79",
-            "Shares Offered*": "22,00,000",
-            "Shares bid for": "17,28,000",
-            "Total Amt* (₹ Cr.)": "11.58",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.39",
-            "Shares Offered*": "43,98,000",
-            "Shares bid for": "61,24,000",
-            "Total Amt* (₹ Cr.)": "41.03",
-            "Total Applications": "587"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Sobhagya Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/quanto-agro-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/quanto-agroworld-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=quanto-agroworld-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/quanto-agroworld-ipo/2390/",
-        "gmp": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/"
-      },
-      "gmpId": 1760,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2018 as Quanto Agroworld Private Limited, The Company was established with the objective of undertaking agricultural and farming activities and is engaged in the cultivation, processing and supply of Medicinal and Aromatic Plants (MAPs), with lemongrass being its primary crop and principal commercial focus.The Company operates as a specialty botanical ingredient manufacturer, producing lemongrass-based products including lemongrass biomass, lemongrass tea-cut and lemongrass",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "shakti-polytarp-ipo",
-      "ipoId": 2427,
-      "name": "Shakti Polytarp",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 56.0,
-        "max": 59.0,
-        "display": "₹56–59"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹26.93 Cr",
-      "issueSizeCr": 26.93,
-      "freshIssueCr": 25.57,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 6.0,
-        "percent": 10.17,
-        "xLot": 12000.0,
-        "updatedOn": "17-Sep 23:37"
-      },
-      "subscription": {
-        "total": 11.87,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "8,22,000",
-            "Shares bid for": "8,22,000",
-            "Total Amt* (₹ Cr.)": "4.850",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,30,000",
-            "Shares bid for": "2,30,000",
-            "Total Amt* (₹ Cr.)": "1.357",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "49.22",
-            "Shares Offered*": "5,64,000",
-            "Shares bid for": "2,77,62,000",
-            "Total Amt* (₹ Cr.)": "163.796",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "5.43",
-            "Shares Offered*": "13,68,000",
-            "Shares bid for": "74,24,000",
-            "Total Amt* (₹ Cr.)": "43.802",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "6.11",
-            "Shares Offered*": "9,12,000",
-            "Shares bid for": "55,76,000",
-            "Total Amt* (₹ Cr.)": "32.898",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.05",
-            "Shares Offered*": "4,56,000",
-            "Shares bid for": "18,48,000",
-            "Total Amt* (₹ Cr.)": "10.903",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "4.12",
-            "Shares Offered*": "15,80,000",
-            "Shares bid for": "65,04,000",
-            "Total Amt* (₹ Cr.)": "38.374",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "11.87",
-            "Shares Offered*": "35,12,000",
-            "Shares bid for": "4,16,90,000",
-            "Total Amt* (₹ Cr.)": "245.971",
-            "Total Applications": "2,173"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "NEXGEN Financial Solutions",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dinotarp-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shakti-polytarp-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shakti-polytarp-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shakti-polytarp-ipo/2427/",
-        "gmp": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/"
-      },
-      "gmpId": 1782,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2018 as Shakti Polytarp Limited, the Company is engaged in the manufacturing of tarpaulins and other plastic-based products, including shade nets. Tarpaulins are water-resistant and durable sheets used to protect goods, equipment and other materials from rain, moisture, sunlight and other environmental conditions.\n\nThe Company manufactures tarpaulins using Polypropylene (PP) granules, Linear Low-Density Polyethylene (LLDPE), Low-Density Polyethylene (LDPE) and High-Density ",
-      "registrar": "Skyline Financial Services Pvt.Ltd."
-    },
-    {
-      "slug": "vama-wovenfab-ipo",
-      "ipoId": 2709,
-      "name": "Vama Wovenfab",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 324.0,
-        "max": 341.0,
-        "display": "₹324–341"
-      },
-      "lotSize": 400,
-      "issueSize": "₹49.54 Cr",
-      "issueSizeCr": 49.54,
-      "freshIssueCr": 47.06,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-15",
-        "close": "2026-09-17",
-        "allotment": "2026-09-18",
-        "listing": "2026-09-22"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 0.88,
-        "xLot": 1200.0,
-        "updatedOn": "17-Sep 23:37"
-      },
-      "subscription": {
-        "total": 2.53,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "72,800",
-            "Shares bid for": "72,800",
-            "Total Amt* (₹ Cr.)": "2.482",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.00",
-            "Shares Offered*": "14,400",
-            "Shares bid for": "14,400",
-            "Total Amt* (₹ Cr.)": "0.491",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.56",
-            "Shares Offered*": "2,76,000",
-            "Shares bid for": "4,30,800",
-            "Total Amt* (₹ Cr.)": "14.690",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "2.32",
-            "Shares Offered*": "1,83,600",
-            "Shares bid for": "4,26,400",
-            "Total Amt* (₹ Cr.)": "14.540",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "2.03",
-            "Shares Offered*": "92,400",
-            "Shares bid for": "1,87,600",
-            "Total Amt* (₹ Cr.)": "6.397",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.80",
-            "Shares Offered*": "10,89,600",
-            "Shares bid for": "30,52,800",
-            "Total Amt* (₹ Cr.)": "104.100",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.53",
-            "Shares Offered*": "13,80,000",
-            "Shares bid for": "34,98,000",
-            "Total Amt* (₹ Cr.)": "119.282",
-            "Total Applications": "4,089"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Gretex Corporate",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vama-wovenfab-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/vama-wovenfab-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vama-wovenfab-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vama-wovenfab-ipo/2709/",
-        "gmp": "https://www.investorgain.com/gmp/vama-wovenfab-ipo/1969/"
-      },
-      "gmpId": 1969,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2011, Vama Wovenfab Limited is an ISO 9001:2015 certified manufacturer of PP and HDPE woven sack bags and fabric-based packaging products. The Company also trades in plastic granules and provides customised bulk packaging solutions to B2B customers across industries such as agriculture, food processing, chemicals, fertilizers, sugar and cement.\n\nThe Company's product portfolio includes PP/HDPE woven bags and fabrics, BOPP bags, HDPE trampoline sheets, coloured woven fabric ",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }
