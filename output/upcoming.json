@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-18T03:56:13+00:00",
+  "scrapedAt": "2026-09-18T10:51:04+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -47,10 +47,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 55.0,
-        "percent": 13.58,
-        "xLot": 2035.0,
-        "updatedOn": "18-Sep 9:02"
+        "value": 56.0,
+        "percent": 13.83,
+        "xLot": 2072.0,
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 9:01"
+        "updatedOn": "18-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -146,8 +146,8 @@
         "display": "₹175–185"
       },
       "lotSize": 81,
-      "issueSize": "₹160.87 Cr",
-      "issueSizeCr": 160.87,
+      "issueSize": "₹160.88 Cr",
+      "issueSizeCr": 160.88,
       "freshIssueCr": 128.5,
       "ofsCr": 32.38,
       "dates": {
@@ -157,10 +157,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "18-Sep 8:55"
+        "value": 5.0,
+        "percent": 2.7,
+        "xLot": 405.0,
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -184,7 +184,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in August 2019, Swastika Infra Limited is an Engineering, Procurement, and Construction (EPC) company specializing in power distribution infrastructure projects (EPC Power Projects) and the sale of electrical products.\n\nAs of February 28, 2025, the company had 104 full-time employees.",
+      "about": "Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and u",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 8:58"
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 8:53"
+        "updatedOn": "18-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -322,10 +322,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 15:54"
       },
       "subscription": {
         "total": null,
@@ -410,7 +410,7 @@
     {
       "slug": "adroit-industries-ipo",
       "ipoId": 3007,
-      "name": "Adroit Industries (India) Ltd.",
+      "name": "Adroit Industries",
       "type": "mainboard",
       "status": "upcoming",
       "exchange": "BSE, NSE",
@@ -428,14 +428,14 @@
       "dates": {
         "open": "2026-09-23",
         "close": "2026-09-25",
-        "allotment": null,
+        "allotment": "2026-09-28",
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -453,12 +453,13 @@
       "urls": {
         "local": "./ipo.html?slug=adroit-industries-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/adroit-industries-ipo/2268/"
       },
+      "gmpId": 2268,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Adroit Industries (India) Ltd., incorporated in 1966, is a manufacturer of propeller shafts and torque-transmission components used in vehicles and industrial machinery.\n\nThe company has a fully integrated manufacturing setup, handling everything from forging and machining to assembly and testing, which helps maintain quality and efficiency.\n\nThe company offers over 5,000 products to distributors, large component manufacturers, and OEMs. These are mainly used in commercial vehicles, defense, hea",
+      "about": "Incorporated in January 1995, Adroit Industries (India) Limited is a vertically integrated manufacturer and supplier of propeller shafts and torque-transmission components used in driveline systems. The Company offers a portfolio of over 5,000 SKUs comprising precision-machined torque-transmission components, complete propeller shaft assemblies and forged components. Its vertically integrated manufacturing capabilities cover forging, precision machining, heat treatment, assembly, balancing and t",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -489,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 8:58"
+        "updatedOn": "18-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -544,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 9:00"
+        "updatedOn": "18-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -596,10 +597,10 @@
         "listing": "2026-09-29"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 6.76,
-        "xLot": 1010.0,
-        "updatedOn": "18-Sep 9:02"
+        "value": 11.0,
+        "percent": 7.43,
+        "xLot": 1111.0,
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,
@@ -654,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 8:59"
+        "updatedOn": "18-Sep 15:58"
       },
       "subscription": {
         "total": null,
@@ -709,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 9:02"
+        "updatedOn": "18-Sep 15:57"
       },
       "subscription": {
         "total": null,
@@ -764,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 9:02"
+        "updatedOn": "18-Sep 15:55"
       },
       "subscription": {
         "total": null,
@@ -819,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 9:00"
+        "updatedOn": "18-Sep 15:53"
       },
       "subscription": {
         "total": null,
@@ -874,7 +875,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "18-Sep 9:02"
+        "updatedOn": "18-Sep 16:02"
       },
       "subscription": {
         "total": null,

@@ -428,9 +428,9 @@
     "source": "https://www.chittorgarh.com/ipo/sonaselection-india-ipo/2805/"
   },
   "subscription": {
-    "summary": "Sonaselection India IPO subscribed 0.47 times. The public issue subscribed 0.77 times in the retail category, 0.11 times in QIB (Ex Anchor), and 0.24 times in the NII category by September 17, 2026 5:06:25 PM (Day 1).",
-    "total": 0.47,
-    "applications": 18567.0,
+    "summary": "Sonaselection India IPO subscribed 0.20 times. The public issue subscribed 0.37 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.07 times in the NII category by September 18, 2026 4:06:19 PM (Day 2).",
+    "total": 0.2,
+    "applications": 30846.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -441,45 +441,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.11",
+        "Subscription (x)": "0.00",
         "Shares Offered*": "28,60,000",
-        "Shares bid for": "3,03,000",
-        "Total Amt* (₹ Cr.)": "3.000"
+        "Shares bid for": "0",
+        "Total Amt* (₹ Cr.)": "0"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.24",
+        "Subscription (x)": "0.07",
         "Shares Offered*": "21,45,000",
-        "Shares bid for": "5,07,300",
-        "Total Amt* (₹ Cr.)": "5.022"
+        "Shares bid for": "1,49,100",
+        "Total Amt* (₹ Cr.)": "1.476"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "0.05",
         "Shares Offered*": "14,30,000",
-        "Shares bid for": "2,90,700",
-        "Total Amt* (₹ Cr.)": "2.878"
+        "Shares bid for": "66,000",
+        "Total Amt* (₹ Cr.)": "0.653"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.30",
+        "Subscription (x)": "0.12",
         "Shares Offered*": "7,15,000",
-        "Shares bid for": "2,16,600",
-        "Total Amt* (₹ Cr.)": "2.144"
+        "Shares bid for": "83,100",
+        "Total Amt* (₹ Cr.)": "0.823"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.77",
+        "Subscription (x)": "0.37",
         "Shares Offered*": "50,05,000",
-        "Shares bid for": "38,70,750",
-        "Total Amt* (₹ Cr.)": "38.320"
+        "Shares bid for": "18,66,000",
+        "Total Amt* (₹ Cr.)": "18.473"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.47",
+        "Subscription (x)": "0.20",
         "Shares Offered*": "1,00,10,000",
-        "Shares bid for": "46,81,050",
-        "Total Amt* (₹ Cr.)": "46.342"
+        "Shares bid for": "20,15,100",
+        "Total Amt* (₹ Cr.)": "19.949"
       }
     ],
     "dayWise": [
@@ -491,6 +491,15 @@
         "NII (< ₹10L)": "0.30",
         "Retail": "0.77",
         "Total": "0.47"
+      },
+      {
+        "Date": "Sep 18 (Day 2)",
+        "QIB (Ex Anchor)": "0.00",
+        "NII": "0.07",
+        "NII (> ₹10L)": "0.05",
+        "NII (< ₹10L)": "0.12",
+        "Retail": "0.37",
+        "Total": "0.20"
       }
     ]
   },
@@ -516,7 +525,7 @@
       "value": 2.0,
       "percent": 2.02,
       "xLot": 300.0,
-      "updatedOn": "18-Sep 9:02"
+      "updatedOn": "18-Sep 16:02"
     },
     "leadManager": "Choice Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
@@ -526,5 +535,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-18T03:55:41+00:00"
+  "scrapedAt": "2026-09-18T10:50:32+00:00"
 }

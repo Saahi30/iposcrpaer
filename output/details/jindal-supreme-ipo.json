@@ -411,9 +411,9 @@
     "source": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/"
   },
   "subscription": {
-    "summary": "Jindal Supreme IPO subscribed 31.54 times. The public issue subscribed 39.80 times in the retail category, 12.50 times in QIB (Ex Anchor), and 37.63 times in the NII category by September 17, 2026 5:07:42 PM (Day 2).",
-    "total": 31.54,
-    "applications": 987107.0,
+    "summary": "Jindal Supreme IPO subscribed 177.03 times. The public issue subscribed 141.75 times in the retail category, 126.41 times in QIB (Ex Anchor), and 326.84 times in the NII category by September 18, 2026 4:05:58 PM (Day 3).",
+    "total": 177.03,
+    "applications": 3677508.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -424,45 +424,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "12.50",
+        "Subscription (x)": "126.41",
         "Shares Offered*": "26,85,600",
-        "Shares bid for": "3,35,65,119",
-        "Total Amt* (₹ Cr.)": "312.16"
+        "Shares bid for": "33,94,88,625",
+        "Total Amt* (₹ Cr.)": "3,157.24"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "37.63",
+        "Subscription (x)": "326.84",
         "Shares Offered*": "20,14,200",
-        "Shares bid for": "7,57,92,360",
-        "Total Amt* (₹ Cr.)": "704.87"
+        "Shares bid for": "65,83,20,467",
+        "Total Amt* (₹ Cr.)": "6,122.38"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "26.46",
+        "Subscription (x)": "304.18",
         "Shares Offered*": "13,42,800",
-        "Shares bid for": "3,55,25,616",
-        "Total Amt* (₹ Cr.)": "330.39"
+        "Shares bid for": "40,84,58,610",
+        "Total Amt* (₹ Cr.)": "3,798.67"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "59.97",
+        "Subscription (x)": "372.15",
         "Shares Offered*": "6,71,400",
-        "Shares bid for": "4,02,66,744",
-        "Total Amt* (₹ Cr.)": "374.48"
+        "Shares bid for": "24,98,61,857",
+        "Total Amt* (₹ Cr.)": "2,323.72"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "39.80",
+        "Subscription (x)": "141.75",
         "Shares Offered*": "46,99,800",
-        "Shares bid for": "18,70,68,154",
-        "Total Amt* (₹ Cr.)": "1,739.73"
+        "Shares bid for": "66,61,90,308",
+        "Total Amt* (₹ Cr.)": "6,195.57"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "31.54",
+        "Subscription (x)": "177.03",
         "Shares Offered*": "93,99,600",
-        "Shares bid for": "29,64,25,633",
-        "Total Amt* (₹ Cr.)": "2,756.76"
+        "Shares bid for": "1,66,39,99,400",
+        "Total Amt* (₹ Cr.)": "15,475.19"
       }
     ],
     "dayWise": [
@@ -483,6 +483,15 @@
         "NII (< ₹10L)": "59.97",
         "Retail": "39.80",
         "Total": "31.54"
+      },
+      {
+        "Date": "Sep 18 (Day 3)",
+        "QIB (Ex Anchor)": "126.41",
+        "NII": "326.84",
+        "NII (> ₹10L)": "304.18",
+        "NII (< ₹10L)": "372.15",
+        "Retail": "141.75",
+        "Total": "177.03"
       }
     ]
   },
@@ -508,7 +517,7 @@
       "value": 31.0,
       "percent": 33.33,
       "xLot": 4991.0,
-      "updatedOn": "18-Sep 9:02"
+      "updatedOn": "18-Sep 16:02"
     },
     "leadManager": "Sarthi Capital Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
@@ -518,5 +527,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-18T03:55:47+00:00"
+  "scrapedAt": "2026-09-18T10:50:38+00:00"
 }
