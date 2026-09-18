@@ -392,7 +392,7 @@
   "subscription": {
     "summary": "NSE IPO subscribed 1.04 times. The public issue subscribed 0.69 times in the retail category, 1.32 times in QIB (Ex Anchor), and 1.46 times in the NII category by September 18, 2026 4:06:09 PM (Day 2).",
     "total": 1.04,
-    "applications": 1957105.0,
+    "applications": 2038323.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -493,10 +493,10 @@
       "listing": "2026-09-24"
     },
     "gmp": {
-      "value": 110.0,
-      "percent": 6.16,
-      "xLot": 880.0,
-      "updatedOn": "18-Sep 16:02"
+      "value": 113.0,
+      "percent": 6.33,
+      "xLot": 904.0,
+      "updatedOn": "18-Sep 21:02"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
@@ -506,5 +506,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-18T10:50:35+00:00"
+  "scrapedAt": "2026-09-18T16:05:46+00:00"
 }

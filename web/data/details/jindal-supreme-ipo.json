@@ -413,7 +413,7 @@
   "subscription": {
     "summary": "Jindal Supreme IPO subscribed 177.03 times. The public issue subscribed 141.75 times in the retail category, 126.41 times in QIB (Ex Anchor), and 326.84 times in the NII category by September 18, 2026 4:05:58 PM (Day 3).",
     "total": 177.03,
-    "applications": 3677508.0,
+    "applications": 3751547.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -514,10 +514,10 @@
       "listing": "2026-09-23"
     },
     "gmp": {
-      "value": 31.0,
-      "percent": 33.33,
-      "xLot": 4991.0,
-      "updatedOn": "18-Sep 16:02"
+      "value": 26.0,
+      "percent": 27.96,
+      "xLot": 4186.0,
+      "updatedOn": "18-Sep 21:02"
     },
     "leadManager": "Sarthi Capital Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
@@ -527,5 +527,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-18T10:50:38+00:00"
+  "scrapedAt": "2026-09-18T16:05:50+00:00"
 }
