@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T10:34:57+00:00",
+  "scrapedAt": "2026-09-19T15:39:03+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 247,
+    "total": 248,
     "mainboard": 87,
-    "sme": 160
+    "sme": 161
   },
   "ipos": [
     {
@@ -5916,6 +5916,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2809,
+      "name": "Peshwa Wheat Ltd.",
+      "slug": "peshwa-wheat-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "refunds": "2026-09-30",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Sep-2026",
+        "close": "28-Sep-2026",
+        "allotment": "29-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/peshwa-wheat-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {

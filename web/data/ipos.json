@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T10:34:50+00:00",
+  "scrapedAt": "2026-09-19T15:38:57+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 5,
-    "upcoming": 18,
+    "upcoming": 19,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 23
+    "total": 24
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:36"
+        "updatedOn": "19-Sep 20:34"
       },
       "subscription": {
         "total": 0.62,
@@ -164,7 +164,7 @@
         "value": 7.0,
         "percent": 6.93,
         "xLot": 8400.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": 0.41,
@@ -285,7 +285,7 @@
         "value": 2.0,
         "percent": 2.02,
         "xLot": 300.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": 0.2,
@@ -391,7 +391,7 @@
         "value": 45.0,
         "percent": 38.14,
         "xLot": 54000.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": 19.93,
@@ -509,10 +509,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 87.0,
-        "percent": 4.87,
-        "xLot": 696.0,
-        "updatedOn": "19-Sep 15:37"
+        "value": 61.0,
+        "percent": 3.42,
+        "xLot": 488.0,
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": 1.04,
@@ -677,10 +677,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 62.0,
-        "percent": 15.31,
-        "xLot": 2294.0,
-        "updatedOn": "19-Sep 15:37"
+        "value": 64.0,
+        "percent": 15.8,
+        "xLot": 2368.0,
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -706,6 +706,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "peshwa-wheat-ipo",
+      "ipoId": 2809,
+      "name": "Peshwa Wheat",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "listing": "2026-10-01"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "19-Sep 20:20"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Finaax Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/peshwa-wheat-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/peshwa-wheat-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=peshwa-wheat-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/",
+        "gmp": "https://www.investorgain.com/gmp/peshwa-wheat-ipo/2063/"
+      },
+      "gmpId": 2063,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2023, Peshwa Wheat Ltd is engaged in the processing of wheat-based products such as Atta (wheat flour), Sortex Wheat, Broken Wheat, and other flour products including Gram Flour (Besan) and Maize Flour. The company supplies products mainly in 50 kg and 30 kg packaging. During production, by-products like wheat bran are used for cattle feed, to operate with zero waste and zero discharge.\n\nThe company operate a modern, fully integrated flour processing unit located at Indore, Madhy",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "armee-infotech-ipo",
@@ -735,7 +790,7 @@
         "value": 1.0,
         "percent": 0.27,
         "xLot": 40.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -790,7 +845,7 @@
         "value": 3.0,
         "percent": 1.62,
         "xLot": 243.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -900,7 +955,7 @@
         "value": 16.0,
         "percent": 4.42,
         "xLot": 656.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -955,7 +1010,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:32"
+        "updatedOn": "19-Sep 20:29"
       },
       "subscription": {
         "total": null,
@@ -1010,7 +1065,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:28"
+        "updatedOn": "19-Sep 20:35"
       },
       "subscription": {
         "total": null,
@@ -1065,7 +1120,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:30"
+        "updatedOn": "19-Sep 20:31"
       },
       "subscription": {
         "total": null,
@@ -1120,7 +1175,7 @@
         "value": 41.0,
         "percent": 30.6,
         "xLot": 4551.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -1175,7 +1230,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:30"
+        "updatedOn": "19-Sep 20:34"
       },
       "subscription": {
         "total": null,
@@ -1230,7 +1285,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:30"
+        "updatedOn": "19-Sep 20:31"
       },
       "subscription": {
         "total": null,
@@ -1282,10 +1337,10 @@
         "listing": "2026-09-29"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 10.14,
-        "xLot": 1515.0,
-        "updatedOn": "19-Sep 15:37"
+        "value": 12.0,
+        "percent": 8.11,
+        "xLot": 1212.0,
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
@@ -1340,7 +1395,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:32"
+        "updatedOn": "19-Sep 20:36"
       },
       "subscription": {
         "total": null,
@@ -1395,7 +1450,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:34"
+        "updatedOn": "19-Sep 20:35"
       },
       "subscription": {
         "total": null,
@@ -1450,7 +1505,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:28"
+        "updatedOn": "19-Sep 20:28"
       },
       "subscription": {
         "total": null,
@@ -1505,7 +1560,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 15:35"
+        "updatedOn": "19-Sep 20:32"
       },
       "subscription": {
         "total": null,
@@ -1560,7 +1615,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "19-Sep 15:37"
+        "updatedOn": "19-Sep 20:37"
       },
       "subscription": {
         "total": null,
