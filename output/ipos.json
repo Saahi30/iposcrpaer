@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-18T20:39:22+00:00",
+  "scrapedAt": "2026-09-19T03:53:49+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
-    "upcoming": 16,
+    "open": 5,
+    "upcoming": 17,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 24
+    "total": 22
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:30"
+        "updatedOn": "19-Sep 9:01"
       },
       "subscription": {
         "total": 0.62,
@@ -164,7 +164,7 @@
         "value": 7.0,
         "percent": 6.93,
         "xLot": 8400.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": 0.41,
@@ -285,7 +285,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": 0.2,
@@ -391,7 +391,7 @@
         "value": 45.0,
         "percent": 38.14,
         "xLot": 54000.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": 19.93,
@@ -512,7 +512,7 @@
         "value": 111.0,
         "percent": 6.22,
         "xLot": 888.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": 1.04,
@@ -598,331 +598,6 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
-      "slug": "hero-motors-ipo",
-      "ipoId": 2225,
-      "name": "Hero Motors",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 79.0,
-        "max": 84.0,
-        "display": "₹79–84"
-      },
-      "lotSize": 178,
-      "issueSize": "₹1000.00 Cr",
-      "issueSizeCr": 1000.0,
-      "freshIssueCr": 600.0,
-      "ofsCr": 400.0,
-      "dates": {
-        "open": "2026-09-16",
-        "close": "2026-09-18",
-        "allotment": "2026-09-21",
-        "listing": "2026-09-23"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "18-Sep 23:37"
-      },
-      "subscription": {
-        "total": 7.01,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,57,14,284",
-            "Shares bid for": "3,57,14,284",
-            "Total Amt* (₹ Cr.)": "300.00"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.59",
-            "Shares Offered*": "2,38,09,525",
-            "Shares bid for": "3,77,55,046",
-            "Total Amt* (₹ Cr.)": "317.14"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "10.47",
-            "Shares Offered*": "1,78,57,143",
-            "Shares bid for": "18,69,46,636",
-            "Total Amt* (₹ Cr.)": "1,570.35"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "8.62",
-            "Shares Offered*": "1,19,04,762",
-            "Shares bid for": "10,26,02,048",
-            "Total Amt* (₹ Cr.)": "861.86"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "14.17",
-            "Shares Offered*": "59,52,381",
-            "Shares bid for": "8,43,44,588",
-            "Total Amt* (₹ Cr.)": "708.49"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "8.62",
-            "Shares Offered*": "4,16,66,666",
-            "Shares bid for": "35,92,01,508",
-            "Total Amt* (₹ Cr.)": "3,017.29"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "7.01",
-            "Shares Offered*": "8,33,33,334",
-            "Shares bid for": "58,39,03,190",
-            "Total Amt* (₹ Cr.)": "4,904.79"
-          }
-        ],
-        "applications": 1626725.0
-      },
-      "leadManager": "ICICI Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/hero-motors-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/hero-motors-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hero-motors-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hero-motors-ipo/2225/",
-        "gmp": "https://www.investorgain.com/gmp/hero-motors-ipo/1688/"
-      },
-      "gmpId": 1688,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in April 1998, Hero Motors Limited is an automotive technology company engaged in designing, developing, manufacturing and supplying engineered powertrain solutions to automotive original equipment manufacturers (OEMs) across the United States, Europe, India and ASEAN region. The Company provides integrated solutions for both electric and non-electric powertrains, serving two-wheelers, performance automotive, e-bikes, off-road vehicles, electric and hybrid cars, heavy-duty vehicles ",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "jindal-supreme-ipo",
-      "ipoId": 2803,
-      "name": "Jindal Supreme",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 93.0,
-        "display": "₹88–93"
-      },
-      "lotSize": 161,
-      "issueSize": "₹124.88 Cr",
-      "issueSizeCr": 124.88,
-      "freshIssueCr": 99.89,
-      "ofsCr": 24.99,
-      "dates": {
-        "open": "2026-09-16",
-        "close": "2026-09-18",
-        "allotment": "2026-09-21",
-        "listing": "2026-09-23"
-      },
-      "gmp": {
-        "value": 26.5,
-        "percent": 28.49,
-        "xLot": 4266.5,
-        "updatedOn": "18-Sep 23:37"
-      },
-      "subscription": {
-        "total": 177.03,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "40,28,400",
-            "Shares bid for": "40,28,400",
-            "Total Amt* (₹ Cr.)": "37.46"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "126.41",
-            "Shares Offered*": "26,85,600",
-            "Shares bid for": "33,94,88,625",
-            "Total Amt* (₹ Cr.)": "3,157.24"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "326.84",
-            "Shares Offered*": "20,14,200",
-            "Shares bid for": "65,83,20,467",
-            "Total Amt* (₹ Cr.)": "6,122.38"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "304.18",
-            "Shares Offered*": "13,42,800",
-            "Shares bid for": "40,84,58,610",
-            "Total Amt* (₹ Cr.)": "3,798.67"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "372.15",
-            "Shares Offered*": "6,71,400",
-            "Shares bid for": "24,98,61,857",
-            "Total Amt* (₹ Cr.)": "2,323.72"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "141.75",
-            "Shares Offered*": "46,99,800",
-            "Shares bid for": "66,61,90,308",
-            "Total Amt* (₹ Cr.)": "6,195.57"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "177.03",
-            "Shares Offered*": "93,99,600",
-            "Shares bid for": "1,66,39,99,400",
-            "Total Amt* (₹ Cr.)": "15,475.19"
-          }
-        ],
-        "applications": 3751547.0
-      },
-      "leadManager": "Sarthi Capital Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/jindal-supreme-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/jindal-supreme-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=jindal-supreme-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/jindal-supreme-ipo/2803/",
-        "gmp": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/"
-      },
-      "gmpId": 2057,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in March 1974 , Jindal Supreme (India) Limited has been engaged in the manufacturing and supply of steel pipes, tubes and other steel products catering to infrastructure and industrial applications for over five decades. Its product portfolio includes Mild Steel (MS) black pipes and tubes, galvanized pipes, metal beam crash barriers and Galvanized Iron (GI) tubular poles. These products are manufactured in various dimensions as per applicable Indian Standards and are used across wat",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "ss-retail-ipo",
-      "ipoId": 2822,
-      "name": "SS Retail",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 403.0,
-        "max": 424.0,
-        "display": "₹403–424"
-      },
-      "lotSize": 35,
-      "issueSize": "₹500.00 Cr",
-      "issueSizeCr": 500.0,
-      "freshIssueCr": 360.0,
-      "ofsCr": 140.0,
-      "dates": {
-        "open": "2026-09-16",
-        "close": "2026-09-18",
-        "allotment": "2026-09-21",
-        "listing": "2026-09-23"
-      },
-      "gmp": {
-        "value": 145.0,
-        "percent": 34.2,
-        "xLot": 5075.0,
-        "updatedOn": "18-Sep 23:37"
-      },
-      "subscription": {
-        "total": 107.41,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "34,52,829",
-            "Shares bid for": "34,52,829",
-            "Total Amt* (₹ Cr.)": "146.40"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "214.22",
-            "Shares Offered*": "23,01,886",
-            "Shares bid for": "49,30,99,775",
-            "Total Amt* (₹ Cr.)": "20,907.43"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "150.33",
-            "Shares Offered*": "17,26,415",
-            "Shares bid for": "25,95,27,660",
-            "Total Amt* (₹ Cr.)": "11,003.97"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "165.06",
-            "Shares Offered*": "11,50,943",
-            "Shares bid for": "18,99,79,440",
-            "Total Amt* (₹ Cr.)": "8,055.13"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "120.85",
-            "Shares Offered*": "5,75,472",
-            "Shares bid for": "6,95,48,220",
-            "Total Amt* (₹ Cr.)": "2,948.84"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "35.81",
-            "Shares Offered*": "40,28,301",
-            "Shares bid for": "14,42,56,525",
-            "Total Amt* (₹ Cr.)": "6,116.48"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "2.72",
-            "Shares Offered*": "3,00,752",
-            "Shares bid for": "8,17,285",
-            "Total Amt* (₹ Cr.)": "34.65"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "107.41",
-            "Shares Offered*": "83,57,354",
-            "Shares bid for": "89,77,01,245",
-            "Total Amt* (₹ Cr.)": "38,062.53"
-          }
-        ],
-        "applications": 4097637.0
-      },
-      "leadManager": "Anand Rathi Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ss-retail-limited-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/ss-retail-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ss-retail-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ss-retail-ipo/2822/",
-        "gmp": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/"
-      },
-      "gmpId": 2076,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated June 2016, SS Retail Ltd. is a multi-brand retail chain for mobile phones, accessories and other electronic items, with operations across Maharashtra, Karnataka, Madhya Pradesh, Goa and Gujarat. It primarily focuses on Tier II and Tier III and beyond cities and, as of March 31, 2026, operated 503 stores across 215 cities, covering approximately 2,41,365 sq. ft.\n\nThe Company operates under its proprietary brands ‘SS Mobile’, ‘Mobile Exchange Wala’ and ‘The Mobile Space’ through a com",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
       "name": "A-One Steels",
@@ -950,7 +625,7 @@
         "value": 60.0,
         "percent": 14.81,
         "xLot": 2220.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1005,7 +680,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:31"
+        "updatedOn": "19-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -1060,7 +735,7 @@
         "value": 5.0,
         "percent": 2.7,
         "xLot": 405.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1086,6 +761,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and u",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "core-integra-consulting-ipo",
+      "ipoId": 2605,
+      "name": "Core Integra Consulting",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 74.0,
+        "max": 78.0,
+        "display": "₹74–78"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹21.99 Cr",
+      "issueSizeCr": 21.99,
+      "freshIssueCr": 20.88,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Marwadi Chandarana Intermediaries",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/coreintegra-consulting-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/core-integra-consulting-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=core-integra-consulting-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/",
+        "gmp": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/"
+      },
+      "gmpId": 1888,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Core Integra Consulting Services Limited is an integrated human resource solutions provider offering staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and Reg Tech platforms under one umbrella. The human resource services offer targeted support in recruitment, staffing, payroll processing, HR advisory including labour compliances, licenses and registration, policy drafting, just in time hiring solutions, retainersh",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
       "slug": "elevate-campuses-ipo",
@@ -1115,7 +845,7 @@
         "value": 15.0,
         "percent": 4.14,
         "xLot": 615.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1170,7 +900,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:29"
+        "updatedOn": "19-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -1225,7 +955,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:34"
+        "updatedOn": "19-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -1261,15 +991,15 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 2000,
+      "issueSize": "₹39.01 Cr",
+      "issueSizeCr": 39.01,
       "freshIssueCr": 34.14,
-      "ofsCr": null,
+      "ofsCr": 4.87,
       "dates": {
         "open": "2026-09-23",
         "close": "2026-09-25",
@@ -1279,8 +1009,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "18-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "19-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -1335,7 +1065,7 @@
         "value": 37.0,
         "percent": 27.61,
         "xLot": 4107.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1390,7 +1120,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:34"
+        "updatedOn": "19-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -1445,7 +1175,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -1500,7 +1230,7 @@
         "value": 15.0,
         "percent": 10.14,
         "xLot": 1515.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1555,7 +1285,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:30"
+        "updatedOn": "19-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -1610,7 +1340,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:29"
+        "updatedOn": "19-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -1665,7 +1395,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:32"
+        "updatedOn": "19-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -1720,7 +1450,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:33"
+        "updatedOn": "19-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -1775,7 +1505,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-18T20:39:22+00:00",
+  "scrapedAt": "2026-09-19T03:53:49+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 16,
+    "upcoming": 17,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 16
+    "total": 17
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 60.0,
         "percent": 14.81,
         "xLot": 2220.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:31"
+        "updatedOn": "19-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 5.0,
         "percent": 2.7,
         "xLot": 405.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -186,6 +186,61 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and u",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "core-integra-consulting-ipo",
+      "ipoId": 2605,
+      "name": "Core Integra Consulting",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 74.0,
+        "max": 78.0,
+        "display": "₹74–78"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹21.99 Cr",
+      "issueSizeCr": 21.99,
+      "freshIssueCr": 20.88,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-23",
+        "close": "2026-09-25",
+        "allotment": "2026-09-28",
+        "listing": "2026-09-30"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Marwadi Chandarana Intermediaries",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/coreintegra-consulting-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/core-integra-consulting-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=core-integra-consulting-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/",
+        "gmp": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/"
+      },
+      "gmpId": 1888,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2009, Core Integra Consulting Services Limited is an integrated human resource solutions provider offering staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and Reg Tech platforms under one umbrella. The human resource services offer targeted support in recruitment, staffing, payroll processing, HR advisory including labour compliances, licenses and registration, policy drafting, just in time hiring solutions, retainersh",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
       "slug": "elevate-campuses-ipo",
@@ -215,7 +270,7 @@
         "value": 15.0,
         "percent": 4.14,
         "xLot": 615.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:29"
+        "updatedOn": "19-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:34"
+        "updatedOn": "19-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -361,15 +416,15 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 2000,
+      "issueSize": "₹39.01 Cr",
+      "issueSizeCr": 39.01,
       "freshIssueCr": 34.14,
-      "ofsCr": null,
+      "ofsCr": 4.87,
       "dates": {
         "open": "2026-09-23",
         "close": "2026-09-25",
@@ -379,8 +434,8 @@
       "gmp": {
         "value": 0.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "18-Sep 5:55"
+        "xLot": 0.0,
+        "updatedOn": "19-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -435,7 +490,7 @@
         "value": 37.0,
         "percent": 27.61,
         "xLot": 4107.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:34"
+        "updatedOn": "19-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 15.0,
         "percent": 10.14,
         "xLot": 1515.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:30"
+        "updatedOn": "19-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -710,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:29"
+        "updatedOn": "19-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -765,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:32"
+        "updatedOn": "19-Sep 8:59"
       },
       "subscription": {
         "total": null,
@@ -820,7 +875,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "18-Sep 23:33"
+        "updatedOn": "19-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -875,7 +930,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "18-Sep 23:37"
+        "updatedOn": "19-Sep 9:02"
       },
       "subscription": {
         "total": null,
