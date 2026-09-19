@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T03:53:49+00:00",
+  "scrapedAt": "2026-09-19T10:34:50+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 5,
-    "upcoming": 17,
+    "upcoming": 18,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 22
+    "total": 23
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 9:01"
+        "updatedOn": "19-Sep 15:36"
       },
       "subscription": {
         "total": 0.62,
@@ -164,7 +164,7 @@
         "value": 7.0,
         "percent": 6.93,
         "xLot": 8400.0,
-        "updatedOn": "19-Sep 9:02"
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": 0.41,
@@ -282,10 +282,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 2.0,
+        "percent": 2.02,
+        "xLot": 300.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": 0.2,
@@ -391,7 +391,7 @@
         "value": 45.0,
         "percent": 38.14,
         "xLot": 54000.0,
-        "updatedOn": "19-Sep 9:02"
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": 19.93,
@@ -509,10 +509,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 111.0,
-        "percent": 6.22,
-        "xLot": 888.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 87.0,
+        "percent": 4.87,
+        "xLot": 696.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": 1.04,
@@ -598,6 +598,61 @@
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
+      "slug": "bench-mark-infotech-services-ipo",
+      "ipoId": 3212,
+      "name": "Bench Mark Infotech Services",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "19-Sep 11:50"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bench-mark-infotech-services-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bench-mark-infotech-services-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/",
+        "gmp": "https://www.investorgain.com/gmp/bench-mark-infotech-services-ipo/2366/"
+      },
+      "gmpId": 2366,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2007, Bench Mark Infotech Services Limited is an integrated IT and digital infrastructure solutions company providing end-to-end technology infrastructure solutions to government departments, public sector undertakings, institutional customers, and private sector clients across India. The company specializes in turnkey execution of networking, communication systems, structured cabling, fibre optic infrastructure, surveillance systems, audio-visual solutions, data centre infrastru",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
       "name": "A-One Steels",
@@ -622,10 +677,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 60.0,
-        "percent": 14.81,
-        "xLot": 2220.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 62.0,
+        "percent": 15.31,
+        "xLot": 2294.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -677,10 +732,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "19-Sep 9:00"
+        "value": 1.0,
+        "percent": 0.27,
+        "xLot": 40.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -732,10 +787,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 2.7,
-        "xLot": 405.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 3.0,
+        "percent": 1.62,
+        "xLot": 243.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -842,10 +897,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 4.14,
-        "xLot": 615.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 16.0,
+        "percent": 4.42,
+        "xLot": 656.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -900,7 +955,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:54"
+        "updatedOn": "19-Sep 15:32"
       },
       "subscription": {
         "total": null,
@@ -955,7 +1010,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:57"
+        "updatedOn": "19-Sep 15:28"
       },
       "subscription": {
         "total": null,
@@ -979,7 +1034,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”).\n\nThe company offers cold chain logistics services to a range of industries. Their in-house fleet as on 31st August, 2025 comprises over 357 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.",
+      "about": "Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”). The company offers cold chain logistics services to a range of industries. Their in-house fleet as on March 31, 2026 comprises over 424 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.\n\nThe company cater to clients operating in the confectionery, dairy and d",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -1010,7 +1065,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:58"
+        "updatedOn": "19-Sep 15:30"
       },
       "subscription": {
         "total": null,
@@ -1062,10 +1117,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 37.0,
-        "percent": 27.61,
-        "xLot": 4107.0,
-        "updatedOn": "19-Sep 9:02"
+        "value": 41.0,
+        "percent": 30.6,
+        "xLot": 4551.0,
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -1120,7 +1175,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:58"
+        "updatedOn": "19-Sep 15:30"
       },
       "subscription": {
         "total": null,
@@ -1175,7 +1230,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:56"
+        "updatedOn": "19-Sep 15:30"
       },
       "subscription": {
         "total": null,
@@ -1230,7 +1285,7 @@
         "value": 15.0,
         "percent": 10.14,
         "xLot": 1515.0,
-        "updatedOn": "19-Sep 9:02"
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,
@@ -1285,7 +1340,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:57"
+        "updatedOn": "19-Sep 15:32"
       },
       "subscription": {
         "total": null,
@@ -1340,7 +1395,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:56"
+        "updatedOn": "19-Sep 15:34"
       },
       "subscription": {
         "total": null,
@@ -1395,7 +1450,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 8:59"
+        "updatedOn": "19-Sep 15:28"
       },
       "subscription": {
         "total": null,
@@ -1450,7 +1505,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Sep 9:01"
+        "updatedOn": "19-Sep 15:35"
       },
       "subscription": {
         "total": null,
@@ -1505,7 +1560,7 @@
         "value": 51.0,
         "percent": 48.11,
         "xLot": 61200.0,
-        "updatedOn": "19-Sep 9:02"
+        "updatedOn": "19-Sep 15:37"
       },
       "subscription": {
         "total": null,

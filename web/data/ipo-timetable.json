@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-19T03:53:55+00:00",
+  "scrapedAt": "2026-09-19T10:34:57+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 246,
+    "total": 247,
     "mainboard": 87,
-    "sme": 159
+    "sme": 160
   },
   "ipos": [
     {
@@ -5916,6 +5916,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3212,
+      "name": "Bench Mark Infotech Services Ltd.",
+      "slug": "bench-mark-infotech-services-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]
