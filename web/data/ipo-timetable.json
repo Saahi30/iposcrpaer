@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-20T20:33:21+00:00",
+  "scrapedAt": "2026-09-21T04:08:08+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 248,
-    "mainboard": 87,
-    "sme": 161
+    "total": 250,
+    "mainboard": 88,
+    "sme": 162
   },
   "ipos": [
     {
@@ -5919,6 +5919,30 @@
       }
     },
     {
+      "ipoId": 2936,
+      "name": "Moneyview Ltd.",
+      "slug": "moneyview-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "refunds": "2026-09-30",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Sep-2026",
+        "close": "28-Sep-2026",
+        "allotment": "29-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/moneyview-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/moneyview-ipo/2936/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2809,
       "name": "Peshwa Wheat Ltd.",
       "slug": "peshwa-wheat-ipo",
@@ -5963,6 +5987,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2716,
+      "name": "Himalayan Solar Ltd.",
+      "slug": "himalayan-solar-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/himalayan-solar-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }

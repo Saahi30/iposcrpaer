@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-20T20:33:14+00:00",
+  "scrapedAt": "2026-09-21T04:08:01+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,179 @@
     "limit": null
   },
   "summary": {
-    "open": 5,
+    "open": 8,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 8
   },
   "ipos": [
+    {
+      "slug": "vivekanand-cotspin-ipo",
+      "ipoId": 2062,
+      "name": "Vivekanand Cotspin",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 32.0,
+        "max": 37.0,
+        "display": "₹32–37"
+      },
+      "lotSize": 3000,
+      "issueSize": "₹22.20 Cr",
+      "issueSizeCr": 22.2,
+      "freshIssueCr": 21.09,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": "2026-09-24",
+        "listing": "2026-09-28"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 8:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Swastika Investmart",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vivekanad-cotspin-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vivekanand-cotspin-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vivekanand-cotspin-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/",
+        "gmp": "https://www.investorgain.com/gmp/vivekanand-cotspin-ipo/1636/"
+      },
+      "gmpId": 1636,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in July 2015, Vivekanand Cotspin Limited processes cotton and manufactures yarn through ginning and spinning, including trading.\n\nThe company's products include cotton bales, seeds, and yarn.\n\nThe company operates in two primary areas: cotton ginning and spinning.\n\nThe company focuses on spinning clean cotton fibres into yarn.",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "fx-multitech-ipo",
+      "ipoId": 2849,
+      "name": "FX Multitech",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 110.0,
+        "max": 116.0,
+        "display": "₹110–116"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹45.24 Cr",
+      "issueSizeCr": 45.24,
+      "freshIssueCr": 38.92,
+      "ofsCr": 4.04,
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": "2026-09-24",
+        "listing": "2026-09-28"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 8:57"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Oneview Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fx-multitech-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/fx-multitech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fx-multitech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/",
+        "gmp": "https://www.investorgain.com/gmp/fx-multitech-ipo/1589/"
+      },
+      "gmpId": 1589,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2008, FX Multitech Limited is engaged in the distribution and export of a diverse portfolio of products catering primarily to the HVAC (Heating, Ventilation and Air Conditioning) and industrial refrigeration industries. The Company offers a wide range of engineering and refrigeration products, including compressors, refrigeration and air-conditioning controls, industrial refrigeration controls, variable frequency drives and automation products, specialized components and to",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "robokidz-eduventures-ipo",
+      "ipoId": 3205,
+      "name": "Robokidz Eduventures",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 100.0,
+        "max": 106.0,
+        "display": "₹100–106"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹31.09 Cr",
+      "issueSizeCr": 31.09,
+      "freshIssueCr": 29.37,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-21",
+        "close": "2026-09-23",
+        "allotment": "2026-09-24",
+        "listing": "2026-09-28"
+      },
+      "gmp": {
+        "value": 51.0,
+        "percent": 48.11,
+        "xLot": 61200.0,
+        "updatedOn": "21-Sep 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GYR Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/robokidz-eduventures-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=robokidz-eduventures-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/",
+        "gmp": "https://www.investorgain.com/gmp/robokidz-eduventures-ipo/2359/"
+      },
+      "gmpId": 2359,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2014, Robokidz Eduventures Limited is an education technology company engaged in providing technology-enabled learning and skill development solutions for K-12 students in Robotics, Artificial Intelligence (AI), Coding, Electronics, and STEM (Science, Technology, Engineering, and Mathematics). The company offers end-to-end educational laboratory setup solutions, subscription-based learning programs, teacher training, digital learning platforms, educational kits, and tech",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "axiom-gas-engineering-ipo",
       "ipoId": 2193,
@@ -50,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Sep 23:33"
+        "updatedOn": "21-Sep 8:57"
       },
       "subscription": {
         "total": 0.62,
@@ -163,7 +328,7 @@
         "value": 3.0,
         "percent": 2.97,
         "xLot": 3600.0,
-        "updatedOn": "20-Sep 23:37"
+        "updatedOn": "21-Sep 9:02"
       },
       "subscription": {
         "total": 0.41,
@@ -284,7 +449,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Sep 23:37"
+        "updatedOn": "21-Sep 9:02"
       },
       "subscription": {
         "total": 0.2,
@@ -390,7 +555,7 @@
         "value": 45.0,
         "percent": 38.14,
         "xLot": 54000.0,
-        "updatedOn": "20-Sep 23:37"
+        "updatedOn": "21-Sep 9:02"
       },
       "subscription": {
         "total": 19.93,
@@ -508,10 +673,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 48.0,
-        "percent": 2.69,
-        "xLot": 384.0,
-        "updatedOn": "20-Sep 23:37"
+        "value": 50.0,
+        "percent": 2.8,
+        "xLot": 400.0,
+        "updatedOn": "21-Sep 9:02"
       },
       "subscription": {
         "total": 1.04,
