@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T12:23:29+00:00",
+  "scrapedAt": "2026-09-21T21:50:23+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 8,
-    "upcoming": 20,
+    "upcoming": 21,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 28
+    "total": 29
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:29"
+        "updatedOn": "21-Sep 23:30"
       },
       "subscription": {
         "total": 0.08,
@@ -164,7 +164,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:36"
+        "updatedOn": "21-Sep 23:32"
       },
       "subscription": {
         "total": 0.29,
@@ -277,7 +277,7 @@
         "value": 55.0,
         "percent": 51.89,
         "xLot": 66000.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": 9.29,
@@ -390,7 +390,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:32"
+        "updatedOn": "21-Sep 23:29"
       },
       "subscription": {
         "total": 0.85,
@@ -445,19 +445,19 @@
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "1.03",
+            "Subscription (x)": "1.04",
             "Shares Offered*": "35,68,000",
-            "Shares bid for": "36,84,000",
-            "Total Amt* (₹ Cr.)": "19.894",
-            "Total Applications": "921"
+            "Shares bid for": "36,96,000",
+            "Total Amt* (₹ Cr.)": "19.958",
+            "Total Applications": "924"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "0.85",
             "Shares Offered*": "78,50,000",
-            "Shares bid for": "66,74,000",
-            "Total Amt* (₹ Cr.)": "36.040",
-            "Total Applications": "989"
+            "Shares bid for": "66,86,000",
+            "Total Amt* (₹ Cr.)": "36.104",
+            "Total Applications": "992"
           }
         ],
         "applications": null
@@ -511,10 +511,10 @@
         "value": 3.0,
         "percent": 2.97,
         "xLot": 3600.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
-        "total": 2.47,
+        "total": 2.48,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -566,19 +566,19 @@
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "3.07",
+            "Subscription (x)": "3.08",
             "Shares Offered*": "15,28,800",
-            "Shares bid for": "46,89,600",
-            "Total Amt* (₹ Cr.)": "47.365",
-            "Total Applications": "1,954"
+            "Shares bid for": "47,06,400",
+            "Total Amt* (₹ Cr.)": "47.535",
+            "Total Applications": "1,961"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "2.47",
+            "Subscription (x)": "2.48",
             "Shares Offered*": "30,57,600",
-            "Shares bid for": "75,55,200",
-            "Total Amt* (₹ Cr.)": "76.308",
-            "Total Applications": "2,283"
+            "Shares bid for": "75,72,000",
+            "Total Amt* (₹ Cr.)": "76.477",
+            "Total Applications": "2,290"
           }
         ],
         "applications": null
@@ -632,7 +632,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": 2.01,
@@ -653,10 +653,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "1.99",
+            "Subscription (x)": "2.00",
             "Shares Offered*": "21,45,000",
-            "Shares bid for": "42,78,150",
-            "Total Amt* (₹ Cr.)": "42.354"
+            "Shares bid for": "42,80,250",
+            "Total Amt* (₹ Cr.)": "42.374"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -669,25 +669,25 @@
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "1.96",
             "Shares Offered*": "7,15,000",
-            "Shares bid for": "13,99,650",
-            "Total Amt* (₹ Cr.)": "13.857"
+            "Shares bid for": "14,01,750",
+            "Total Amt* (₹ Cr.)": "13.877"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "2.50",
             "Shares Offered*": "50,05,000",
-            "Shares bid for": "1,25,00,100",
-            "Total Amt* (₹ Cr.)": "123.751"
+            "Shares bid for": "1,25,34,150",
+            "Total Amt* (₹ Cr.)": "124.088"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "2.01",
             "Shares Offered*": "1,00,10,000",
-            "Shares bid for": "2,01,04,050",
-            "Total Amt* (₹ Cr.)": "199.030"
+            "Shares bid for": "2,01,40,200",
+            "Total Amt* (₹ Cr.)": "199.388"
           }
         ],
-        "applications": 65304.0
+        "applications": 65491.0
       },
       "leadManager": "Choice Capital",
       "symbols": {
@@ -735,10 +735,10 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 45.0,
-        "percent": 38.14,
-        "xLot": 54000.0,
-        "updatedOn": "21-Sep 17:37"
+        "value": 67.0,
+        "percent": 56.78,
+        "xLot": 80400.0,
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": 304.06,
@@ -793,19 +793,19 @@
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "313.16",
+            "Subscription (x)": "313.17",
             "Shares Offered*": "11,97,600",
-            "Shares bid for": "37,50,45,600",
-            "Total Amt* (₹ Cr.)": "4,425.54",
-            "Total Applications": "1,56,269"
+            "Shares bid for": "37,50,50,400",
+            "Total Amt* (₹ Cr.)": "4,425.59",
+            "Total Applications": "1,56,271"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "304.06",
             "Shares Offered*": "23,96,400",
-            "Shares bid for": "72,86,41,200",
-            "Total Amt* (₹ Cr.)": "8,597.97",
-            "Total Applications": "1,88,893"
+            "Shares bid for": "72,86,46,000",
+            "Total Amt* (₹ Cr.)": "8,598.02",
+            "Total Applications": "1,88,895"
           }
         ],
         "applications": null
@@ -856,13 +856,13 @@
         "listing": "2026-09-24"
       },
       "gmp": {
-        "value": 55.0,
-        "percent": 3.08,
-        "xLot": 440.0,
-        "updatedOn": "21-Sep 17:37"
+        "value": 65.0,
+        "percent": 3.64,
+        "xLot": 520.0,
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
-        "total": 5.69,
+        "total": 5.71,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -880,10 +880,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "6.54",
+            "Subscription (x)": "6.55",
             "Shares Offered*": "1,89,00,482",
-            "Shares bid for": "12,36,75,416",
-            "Total Amt* (₹ Cr.)": "22,076.062"
+            "Shares bid for": "12,37,43,408",
+            "Total Amt* (₹ Cr.)": "22,088.198"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -894,34 +894,34 @@
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.08",
+            "Subscription (x)": "4.09",
             "Shares Offered*": "63,00,161",
-            "Shares bid for": "2,57,03,840",
-            "Total Amt* (₹ Cr.)": "4,588.135"
+            "Shares bid for": "2,57,71,832",
+            "Total Amt* (₹ Cr.)": "4,600.272"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "1.36",
+            "Subscription (x)": "1.39",
             "Shares Offered*": "4,41,01,125",
-            "Shares bid for": "5,99,83,288",
-            "Total Amt* (₹ Cr.)": "10,707.017"
+            "Shares bid for": "6,15,16,672",
+            "Total Amt* (₹ Cr.)": "10,980.726"
           },
           {
             "Category": "Employees",
-            "Subscription (x)": "2.36",
+            "Subscription (x)": "2.40",
             "Shares Offered*": "4,33,437",
-            "Shares bid for": "10,22,680",
-            "Total Amt* (₹ Cr.)": "182.548"
+            "Shares bid for": "10,38,264",
+            "Total Amt* (₹ Cr.)": "185.330"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "5.69",
+            "Subscription (x)": "5.71",
             "Shares Offered*": "8,86,42,912",
-            "Shares bid for": "50,43,96,888",
-            "Total Amt* (₹ Cr.)": "90,034.845"
+            "Shares bid for": "50,60,13,848",
+            "Total Amt* (₹ Cr.)": "90,323.472"
           }
         ],
-        "applications": 3778313.0
+        "applications": 3841852.0
       },
       "leadManager": "Kotak Mahindra Capital",
       "symbols": {
@@ -942,6 +942,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "OFS only",
       "about": "Incorporated in 1992, National Stock Exchange of India Limited (NSE) is India's largest stock exchange and one of the world's leading multi-asset exchange platforms. NSE provides a vertically integrated ecosystem comprising trading, clearing, settlement, listing, market data, index services, and regulatory oversight across multiple asset classes, including equities, derivatives, currency derivatives, commodities, debt securities, and mutual funds.\n\nNSE has consistently maintained its leadership ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "acevector-ipo",
+      "ipoId": 2543,
+      "name": "Acevector",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 287.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "21-Sep 18:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/acevector-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=acevector-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
+        "gmp": "https://www.investorgain.com/gmp/acevector-ipo/1840/"
+      },
+      "gmpId": 1840,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2007, Acevector Ltd. operates an asset-light digital commerce ecosystem through its subsidiaries, spanning data, technology, and AI-driven businesses. Its operations include a value-focused e-commerce marketplace, e-commerce enablement SaaS platforms, and consumer brand businesses.\n\nThe ecosystem comprises: (i) Snapdeal, a value-driven lifestyle e-commerce marketplace offering affordable and quality merchandise across lifestyle categories (ii) Uniware, Convertway, and Shipway, pr",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -972,7 +1027,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:30"
+        "updatedOn": "21-Sep 23:35"
       },
       "subscription": {
         "total": null,
@@ -1024,10 +1079,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 23:34"
       },
       "subscription": {
         "total": null,
@@ -1051,7 +1106,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2026, we have a qualitative experience in implementation of more than 85000 HP capacity",
+      "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2026, the company has implemented more than 85000 HP capacity of Solar Water Pumping Sy",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -1082,7 +1137,7 @@
         "value": 12.0,
         "percent": 10.91,
         "xLot": 14400.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1137,7 +1192,7 @@
         "value": 60.0,
         "percent": 14.81,
         "xLot": 2220.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1189,10 +1244,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 23:35"
       },
       "subscription": {
         "total": null,
@@ -1247,7 +1302,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:31"
+        "updatedOn": "21-Sep 23:31"
       },
       "subscription": {
         "total": null,
@@ -1299,10 +1354,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "21-Sep 17:36"
+        "value": 5.0,
+        "percent": 14.71,
+        "xLot": 2205.0,
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1409,10 +1464,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 1.0,
-        "percent": 0.27,
-        "xLot": 40.0,
-        "updatedOn": "21-Sep 17:37"
+        "value": 12.0,
+        "percent": 3.2,
+        "xLot": 480.0,
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1464,10 +1519,10 @@
         "listing": "2026-09-30"
       },
       "gmp": {
-        "value": 3.0,
-        "percent": 1.62,
-        "xLot": 243.0,
-        "updatedOn": "21-Sep 17:37"
+        "value": 8.0,
+        "percent": 4.32,
+        "xLot": 648.0,
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1522,7 +1577,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:34"
+        "updatedOn": "21-Sep 23:33"
       },
       "subscription": {
         "total": null,
@@ -1577,7 +1632,7 @@
         "value": 16.0,
         "percent": 4.42,
         "xLot": 656.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1632,7 +1687,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:36"
+        "updatedOn": "21-Sep 23:29"
       },
       "subscription": {
         "total": null,
@@ -1687,7 +1742,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:31"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1742,7 +1797,7 @@
         "value": 32.0,
         "percent": 23.88,
         "xLot": 3552.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1797,7 +1852,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:30"
+        "updatedOn": "21-Sep 23:31"
       },
       "subscription": {
         "total": null,
@@ -1852,7 +1907,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:30"
+        "updatedOn": "21-Sep 23:30"
       },
       "subscription": {
         "total": null,
@@ -1907,7 +1962,7 @@
         "value": 9.0,
         "percent": 6.08,
         "xLot": 909.0,
-        "updatedOn": "21-Sep 17:37"
+        "updatedOn": "21-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -1962,7 +2017,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:34"
+        "updatedOn": "21-Sep 23:33"
       },
       "subscription": {
         "total": null,
@@ -2017,7 +2072,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 17:30"
+        "updatedOn": "21-Sep 23:32"
       },
       "subscription": {
         "total": null,

@@ -441,9 +441,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 100.0,
+      "min": 106.0,
       "max": 106.0,
-      "display": "₹100–106"
+      "display": "₹106"
     },
     "lotSize": 1200,
     "issueSize": "₹31.09 Cr",
@@ -457,7 +457,7 @@
       "value": 55.0,
       "percent": 51.89,
       "xLot": 66000.0,
-      "updatedOn": "21-Sep 17:37"
+      "updatedOn": "21-Sep 23:37"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
@@ -467,5 +467,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-21T12:22:46+00:00"
+  "scrapedAt": "2026-09-21T21:49:39+00:00"
 }
