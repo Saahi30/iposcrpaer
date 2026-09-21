@@ -419,8 +419,8 @@
     "source": "https://www.chittorgarh.com/ipo/kheria-autocomp-ipo/2760/"
   },
   "subscription": {
-    "summary": "Kheria Autocomp IPO subscribed 0.41 times. The public issue subscribed 0.58 times in the individual investors category, 0.23 times in QIB (Ex Anchor), and 0.26 times in the NII category by September 18, 2026 6:54:05 PM (Day 2).",
-    "total": 0.41,
+    "summary": "Kheria Autocomp IPO subscribed 2.47 times. The public issue subscribed 3.07 times in the individual investors category, 1.05 times in QIB (Ex Anchor), and 2.97 times in the NII category by September 21, 2026 5:50:01 PM (Day 3).",
+    "total": 2.47,
     "applications": null,
     "byCategory": [
       {
@@ -441,51 +441,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.23",
+        "Subscription (x)": "1.05",
         "Shares Offered*": "8,73,600",
-        "Shares bid for": "1,98,000",
-        "Total Amt* (₹ Cr.)": "2.000",
-        "Total Applications": "1"
+        "Shares bid for": "9,16,800",
+        "Total Amt* (₹ Cr.)": "9.260",
+        "Total Applications": "4"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.26",
+        "Subscription (x)": "2.97",
         "Shares Offered*": "6,55,200",
-        "Shares bid for": "1,71,600",
-        "Total Amt* (₹ Cr.)": "1.733",
+        "Shares bid for": "19,48,800",
+        "Total Amt* (₹ Cr.)": "19.683",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "2.42",
         "Shares Offered*": "4,35,600",
-        "Shares bid for": "54,000",
-        "Total Amt* (₹ Cr.)": "0.545",
+        "Shares bid for": "10,54,800",
+        "Total Amt* (₹ Cr.)": "10.653",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.54",
+        "Subscription (x)": "4.07",
         "Shares Offered*": "2,19,600",
-        "Shares bid for": "1,17,600",
-        "Total Amt* (₹ Cr.)": "1.188",
+        "Shares bid for": "8,94,000",
+        "Total Amt* (₹ Cr.)": "9.029",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "3.07",
         "Shares Offered*": "15,28,800",
-        "Shares bid for": "8,92,800",
-        "Total Amt* (₹ Cr.)": "9.017",
-        "Total Applications": "372"
+        "Shares bid for": "46,89,600",
+        "Total Amt* (₹ Cr.)": "47.365",
+        "Total Applications": "1,954"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "2.47",
         "Shares Offered*": "30,57,600",
-        "Shares bid for": "12,62,400",
-        "Total Amt* (₹ Cr.)": "12.750",
-        "Total Applications": "407"
+        "Shares bid for": "75,55,200",
+        "Total Amt* (₹ Cr.)": "76.308",
+        "Total Applications": "2,283"
       }
     ],
     "dayWise": [
@@ -506,6 +506,15 @@
         "NII (< ₹10L)": "0.54",
         "Individual Investors": "0.58",
         "Total": "0.41"
+      },
+      {
+        "Date": "Sep 21 (Day 3)",
+        "QIB (Ex Anchor)": "1.05",
+        "NII*": "2.97",
+        "NII (> ₹10L)": "2.42",
+        "NII (< ₹10L)": "4.07",
+        "Individual Investors": "3.07",
+        "Total": "2.47"
       }
     ]
   },
@@ -531,7 +540,7 @@
       "value": 3.0,
       "percent": 2.97,
       "xLot": 3600.0,
-      "updatedOn": "21-Sep 9:02"
+      "updatedOn": "21-Sep 17:37"
     },
     "leadManager": "SMC Capitals",
     "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
@@ -541,5 +550,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-21T04:07:23+00:00"
+  "scrapedAt": "2026-09-21T12:22:50+00:00"
 }

@@ -362,11 +362,78 @@
     "source": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/"
   },
   "subscription": {
-    "summary": null,
-    "total": null,
+    "summary": "Robokidz Eduventures IPO subscribed 9.29 times. The public issue subscribed 14.81 times in the individual investors category, 0.07 times in QIB (Ex Anchor), and 8.63 times in the NII category by September 21, 2026 5:06:06 PM (Day 1).",
+    "total": 9.29,
     "applications": null,
-    "byCategory": [],
-    "dayWise": []
+    "byCategory": [
+      {
+        "Category": "Anchor",
+        "Subscription (x)": "1",
+        "Shares Offered*": "8,28,000",
+        "Shares bid for": "8,28,000",
+        "Total Amt* (₹ Cr.)": "8.777",
+        "Total Applications": "-"
+      },
+      {
+        "Category": "QIB (Ex Anchor)",
+        "Subscription (x)": "0.07",
+        "Shares Offered*": "5,53,200",
+        "Shares bid for": "40,800",
+        "Total Amt* (₹ Cr.)": "0.432",
+        "Total Applications": "0"
+      },
+      {
+        "Category": "NII***",
+        "Subscription (x)": "8.63",
+        "Shares Offered*": "4,17,600",
+        "Shares bid for": "36,04,800",
+        "Total Amt* (₹ Cr.)": "38.211",
+        "Total Applications": "0"
+      },
+      {
+        "Category": "bNII (> ₹10L)",
+        "Subscription (x)": "8.19",
+        "Shares Offered*": "2,78,400",
+        "Shares bid for": "22,80,000",
+        "Total Amt* (₹ Cr.)": "24.168",
+        "Total Applications": ""
+      },
+      {
+        "Category": "sNII (< ₹10L)",
+        "Subscription (x)": "9.52",
+        "Shares Offered*": "1,39,200",
+        "Shares bid for": "13,24,800",
+        "Total Amt* (₹ Cr.)": "14.043",
+        "Total Applications": ""
+      },
+      {
+        "Category": "Individual Investors",
+        "Subscription (x)": "14.81",
+        "Shares Offered*": "9,72,000",
+        "Shares bid for": "1,44,00,000",
+        "Total Amt* (₹ Cr.)": "152.640",
+        "Total Applications": "0"
+      },
+      {
+        "Category": "Total **",
+        "Subscription (x)": "9.29",
+        "Shares Offered*": "19,42,800",
+        "Shares bid for": "1,80,45,600",
+        "Total Amt* (₹ Cr.)": "191.283",
+        "Total Applications": "6,594"
+      }
+    ],
+    "dayWise": [
+      {
+        "Date": "Sep 21 (Day 1)",
+        "QIB (Ex Anchor)": "0.07",
+        "NII*": "8.63",
+        "NII (> ₹10L)": "8.19",
+        "NII (< ₹10L)": "9.52",
+        "Individual Investors": "14.81",
+        "Total": "9.29"
+      }
+    ]
   },
   "overview": {
     "name": "Robokidz Eduventures",
@@ -387,10 +454,10 @@
       "listing": "2026-09-28"
     },
     "gmp": {
-      "value": 51.0,
-      "percent": 48.11,
-      "xLot": 61200.0,
-      "updatedOn": "21-Sep 9:02"
+      "value": 55.0,
+      "percent": 51.89,
+      "xLot": 66000.0,
+      "updatedOn": "21-Sep 17:37"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
@@ -400,5 +467,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-21T04:07:20+00:00"
+  "scrapedAt": "2026-09-21T12:22:46+00:00"
 }

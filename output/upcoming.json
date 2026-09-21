@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T04:08:01+00:00",
+  "scrapedAt": "2026-09-21T12:23:29+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 19,
+    "upcoming": 20,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 19
+    "total": 20
   },
   "ipos": [
+    {
+      "slug": "sai-urja-indo-ipo",
+      "ipoId": 2655,
+      "name": "Sai Urja Indo",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 107.0,
+        "max": 113.0,
+        "display": "₹107–113"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹24.95 Cr",
+      "issueSizeCr": 24.95,
+      "freshIssueCr": 18.22,
+      "ofsCr": 4.28,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 17:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Shannon Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
+      "hasDetail": true,
+      "detailPath": "details/sai-urja-indo-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sai-urja-indo-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
+        "gmp": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/"
+      },
+      "gmpId": 1924,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, ",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "himalayan-solar-ipo",
       "ipoId": 2716,
@@ -74,7 +129,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems.\n\nThey provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2025, they have a qualitative experience in implementation of more than 61000 HP capac",
+      "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2026, we have a qualitative experience in implementation of more than 85000 HP capacity",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -102,10 +157,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "21-Sep 8:59"
+        "value": 12.0,
+        "percent": 10.91,
+        "xLot": 14400.0,
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 60.0,
         "percent": 14.81,
         "xLot": 2220.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -185,6 +240,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "roopa-screen-ipo",
+      "ipoId": 2651,
+      "name": "Roopa Screen",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 60.0,
+        "max": 64.0,
+        "display": "₹60–64"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹19.20 Cr",
+      "issueSizeCr": 19.2,
+      "freshIssueCr": 17.86,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "listing": "2026-10-01"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Seren Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/roopa-screen-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/roopa-screen-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=roopa-screen-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
+        "gmp": "https://www.investorgain.com/gmp/roopa-screen-ipo/1920/"
+      },
+      "gmpId": 1920,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2013, Roopa Screen Ltd manufactures rotary nickel screens used in rotary screen-printing machines, mainly by textile manufacturers for continuous fabric printing. These cylindrical, perforated metal screens act as stencils, allowing printing paste to pass through and create patterns on fabric. In addition to rotary nickel screens, they are also engaged in the trading of nickel cathodes, which are primarily used as a key raw material in the production process of nickel screens. Su",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -215,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:58"
+        "updatedOn": "21-Sep 17:31"
       },
       "subscription": {
         "total": null,
@@ -267,10 +377,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Sep 17:36"
       },
       "subscription": {
         "total": null,
@@ -300,7 +410,7 @@
     {
       "slug": "green-asia-impex-ipo",
       "ipoId": 2963,
-      "name": "Green Asia Impex Ltd.",
+      "name": "Green Asia Impex",
       "type": "sme",
       "status": "upcoming",
       "exchange": "NSE SME",
@@ -311,14 +421,14 @@
         "display": "₹85–90"
       },
       "lotSize": 1600,
-      "issueSize": "₹71.0 Cr",
-      "issueSizeCr": 71.0,
-      "freshIssueCr": 65.0,
-      "ofsCr": 6.0,
+      "issueSize": "₹60.10 Cr",
+      "issueSizeCr": 60.1,
+      "freshIssueCr": 53.1,
+      "ofsCr": 7.0,
       "dates": {
         "open": "2026-09-24",
         "close": "2026-09-28",
-        "allotment": null,
+        "allotment": "2026-09-29",
         "listing": "2026-10-01"
       },
       "gmp": {
@@ -343,12 +453,13 @@
       "urls": {
         "local": "./ipo.html?slug=green-asia-impex-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/green-asia-impex-ipo/2224/"
       },
+      "gmpId": 2224,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Founded in August 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies.\n\nThe company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.\n\nThe Company operates in both shrimp processing and chilli trading segments, offering a diversified agri-export portfol",
+      "about": "Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.\n\nThe Company operates in both shrimp processing and chilli trading segments, offering a diversified agri-export portfolio.",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -379,7 +490,7 @@
         "value": 1.0,
         "percent": 0.27,
         "xLot": 40.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -434,7 +545,7 @@
         "value": 3.0,
         "percent": 1.62,
         "xLot": 243.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -489,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 5:55"
+        "updatedOn": "21-Sep 17:34"
       },
       "subscription": {
         "total": null,
@@ -544,7 +655,7 @@
         "value": 16.0,
         "percent": 4.42,
         "xLot": 656.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -570,61 +681,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2005, Elevate Campuses Ltd. is an education infrastructure company engaged in owning, operating and managing on-campus student accommodation for higher education institutions (HEIs) and owning K-12 school assets. The Company operates its student accommodation business under the Good Host Spaces and ScholarZ brands.\n\nAs of March 31, 2026, the Company’s Pre-Acquisition Group had a student accommodation capacity of 80,255 students across 15 cities in India and one city in the United",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "sai-urja-indo-ipo",
-      "ipoId": 2655,
-      "name": "Sai Urja Indo",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 107.0,
-        "max": 113.0,
-        "display": "₹107–113"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹24.95 Cr",
-      "issueSizeCr": 24.95,
-      "freshIssueCr": 18.22,
-      "ofsCr": 4.28,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "21-Sep 8:57"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Shannon Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
-      "hasDetail": true,
-      "detailPath": "details/sai-urja-indo-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sai-urja-indo-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
-        "gmp": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/"
-      },
-      "gmpId": 1924,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, ",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "pooja-logistics-ipo",
@@ -654,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:53"
+        "updatedOn": "21-Sep 17:36"
       },
       "subscription": {
         "total": null,
@@ -709,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:57"
+        "updatedOn": "21-Sep 17:31"
       },
       "subscription": {
         "total": null,
@@ -764,7 +820,7 @@
         "value": 32.0,
         "percent": 23.88,
         "xLot": 3552.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -819,7 +875,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:53"
+        "updatedOn": "21-Sep 17:30"
       },
       "subscription": {
         "total": null,
@@ -874,7 +930,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:58"
+        "updatedOn": "21-Sep 17:30"
       },
       "subscription": {
         "total": null,
@@ -929,7 +985,7 @@
         "value": 9.0,
         "percent": 6.08,
         "xLot": 909.0,
-        "updatedOn": "21-Sep 9:02"
+        "updatedOn": "21-Sep 17:37"
       },
       "subscription": {
         "total": null,
@@ -984,7 +1040,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:59"
+        "updatedOn": "21-Sep 17:34"
       },
       "subscription": {
         "total": null,
@@ -1039,7 +1095,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 8:56"
+        "updatedOn": "21-Sep 17:30"
       },
       "subscription": {
         "total": null,

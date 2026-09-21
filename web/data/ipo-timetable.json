@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T04:08:08+00:00",
+  "scrapedAt": "2026-09-21T12:23:35+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 250,
+    "total": 252,
     "mainboard": 88,
-    "sme": 162
+    "sme": 164
   },
   "ipos": [
     {
@@ -5823,30 +5823,6 @@
       }
     },
     {
-      "ipoId": 2655,
-      "name": "Sai Urja Indo Ventures Ltd.",
-      "slug": "sai-urja-indo-ipo",
-      "type": "sme",
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "refunds": "2026-09-29",
-        "listing": null
-      },
-      "displayDates": {
-        "open": "23-Sep-2026",
-        "close": "25-Sep-2026",
-        "allotment": "28-Sep-2026",
-        "listing": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
-      "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
-        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
-      }
-    },
-    {
       "ipoId": 2287,
       "name": "Swastika Infra Ltd.",
       "slug": "swastika-infra-ipo",
@@ -5919,6 +5895,30 @@
       }
     },
     {
+      "ipoId": 2963,
+      "name": "Green Asia Impex Ltd.",
+      "slug": "green-asia-impex-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "refunds": "2026-09-30",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Sep-2026",
+        "close": "28-Sep-2026",
+        "allotment": "29-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/green_asia_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2936,
       "name": "Moneyview Ltd.",
       "slug": "moneyview-ipo",
@@ -5967,6 +5967,30 @@
       }
     },
     {
+      "ipoId": 2651,
+      "name": "Roopa Screen Ltd.",
+      "slug": "roopa-screen-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-24",
+        "close": "2026-09-28",
+        "allotment": "2026-09-29",
+        "refunds": "2026-09-30",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "24-Sep-2026",
+        "close": "28-Sep-2026",
+        "allotment": "29-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/roopa-screen-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 3212,
       "name": "Bench Mark Infotech Services Ltd.",
       "slug": "bench-mark-infotech-services-ipo",
@@ -6011,6 +6035,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/himalayan-solar-ipo-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2655,
+      "name": "Sai Urja Indo Ventures Ltd.",
+      "slug": "sai-urja-indo-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
