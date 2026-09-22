@@ -371,8 +371,8 @@
     "source": "https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/"
   },
   "subscription": {
-    "summary": "FX Multitech IPO subscribed 0.29 times. The public issue subscribed 0.07 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.19 times in the NII category by September 21, 2026 5:05:56 PM (Day 1).",
-    "total": 0.29,
+    "summary": "FX Multitech IPO subscribed 0.38 times. The public issue subscribed 0.20 times in the individual investors category, 0.01 times in QIB (Ex Anchor), and 1.29 times in the NII category by September 22, 2026 4:39:37 PM (Day 2).",
+    "total": 0.38,
     "applications": null,
     "byCategory": [
       {
@@ -384,52 +384,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,96,800",
+        "Shares bid for": "1,96,800",
+        "Total Amt* (₹ Cr.)": "2.283",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.01",
         "Shares Offered*": "7,44,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "9,600",
+        "Total Amt* (₹ Cr.)": "0.111",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.19",
+        "Subscription (x)": "1.29",
         "Shares Offered*": "5,58,000",
-        "Shares bid for": "6,66,000",
-        "Total Amt* (₹ Cr.)": "7.726",
+        "Shares bid for": "7,21,200",
+        "Total Amt* (₹ Cr.)": "8.366",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.74",
+        "Subscription (x)": "1.77",
         "Shares Offered*": "3,71,200",
-        "Shares bid for": "6,44,400",
-        "Total Amt* (₹ Cr.)": "7.475",
+        "Shares bid for": "6,56,400",
+        "Total Amt* (₹ Cr.)": "7.614",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "0.35",
         "Shares Offered*": "1,86,000",
-        "Shares bid for": "21,600",
-        "Total Amt* (₹ Cr.)": "0.251",
+        "Shares bid for": "64,800",
+        "Total Amt* (₹ Cr.)": "0.752",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "0.20",
         "Shares Offered*": "12,98,400",
-        "Shares bid for": "86,400",
-        "Total Amt* (₹ Cr.)": "1.002",
+        "Shares bid for": "2,54,400",
+        "Total Amt* (₹ Cr.)": "2.951",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.29",
+        "Subscription (x)": "0.38",
         "Shares Offered*": "26,00,400",
-        "Shares bid for": "7,52,400",
-        "Total Amt* (₹ Cr.)": "8.728",
-        "Total Applications": "48"
+        "Shares bid for": "9,85,200",
+        "Total Amt* (₹ Cr.)": "11.428",
+        "Total Applications": "143"
       }
     ],
     "dayWise": [
@@ -441,6 +449,15 @@
         "NII (< ₹10L)": "0.12",
         "Individual Investors": "0.07",
         "Total": "0.29"
+      },
+      {
+        "Date": "Sep 22 (Day 2)",
+        "QIB (Ex Anchor)": "0.01",
+        "NII*": "1.29",
+        "NII (> ₹10L)": "1.77",
+        "NII (< ₹10L)": "0.35",
+        "Individual Investors": "0.20",
+        "Total": "0.38"
       }
     ]
   },
@@ -466,7 +483,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "22-Sep 8:53"
+      "updatedOn": "22-Sep 16:33"
     },
     "leadManager": "Oneview Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/fx-multitech-ipo-logo.png",
@@ -476,5 +493,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-22T04:03:59+00:00"
+  "scrapedAt": "2026-09-22T11:13:50+00:00"
 }

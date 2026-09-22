@@ -347,8 +347,8 @@
     "source": "https://www.chittorgarh.com/ipo/axiom-gas-engineering-ipo/2193/"
   },
   "subscription": {
-    "summary": "Axiom Gas Engineering IPO subscribed 0.85 times. The public issue subscribed 1.04 times in the individual investors category, 0.80 times in QIB (Ex Anchor), and 0.68 times in the NII category by September 21, 2026 6:54:59 PM (Day 2).",
-    "total": 0.85,
+    "summary": "Axiom Gas Engineering IPO subscribed 1.38 times. The public issue subscribed 1.85 times in the individual investors category, 1.10 times in QIB (Ex Anchor), and 0.98 times in the NII category by September 22, 2026 4:39:59 PM (Day 3).",
+    "total": 1.38,
     "applications": null,
     "byCategory": [
       {
@@ -369,51 +369,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "1.10",
         "Shares Offered*": "7,14,000",
-        "Shares bid for": "5,72,000",
-        "Total Amt* (₹ Cr.)": "3.089",
-        "Total Applications": "3"
+        "Shares bid for": "7,82,000",
+        "Total Amt* (₹ Cr.)": "4.223",
+        "Total Applications": "5"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.68",
+        "Subscription (x)": "0.98",
         "Shares Offered*": "35,68,000",
-        "Shares bid for": "24,18,000",
-        "Total Amt* (₹ Cr.)": "13.057",
+        "Shares bid for": "34,96,000",
+        "Total Amt* (₹ Cr.)": "18.878",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.72",
+        "Subscription (x)": "1.02",
         "Shares Offered*": "23,78,000",
-        "Shares bid for": "17,12,000",
-        "Total Amt* (₹ Cr.)": "9.245",
+        "Shares bid for": "24,18,000",
+        "Total Amt* (₹ Cr.)": "13.057",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.59",
+        "Subscription (x)": "0.91",
         "Shares Offered*": "11,90,000",
-        "Shares bid for": "7,06,000",
-        "Total Amt* (₹ Cr.)": "3.812",
+        "Shares bid for": "10,78,000",
+        "Total Amt* (₹ Cr.)": "5.821",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.04",
+        "Subscription (x)": "1.85",
         "Shares Offered*": "35,68,000",
-        "Shares bid for": "36,96,000",
-        "Total Amt* (₹ Cr.)": "19.958",
-        "Total Applications": "924"
+        "Shares bid for": "65,92,000",
+        "Total Amt* (₹ Cr.)": "35.597",
+        "Total Applications": "1,648"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.85",
+        "Subscription (x)": "1.38",
         "Shares Offered*": "78,50,000",
-        "Shares bid for": "66,86,000",
-        "Total Amt* (₹ Cr.)": "36.104",
-        "Total Applications": "992"
+        "Shares bid for": "1,08,70,000",
+        "Total Amt* (₹ Cr.)": "58.698",
+        "Total Applications": "1,789"
       }
     ],
     "dayWise": [
@@ -434,6 +434,15 @@
         "NII (< ₹10L)": "0.59",
         "Individual Investors": "1.04",
         "Total": "0.85"
+      },
+      {
+        "Date": "Sep 22 (Day 3)",
+        "QIB (Ex Anchor)": "1.10",
+        "NII*": "0.98",
+        "NII (> ₹10L)": "1.02",
+        "NII (< ₹10L)": "0.91",
+        "Individual Investors": "1.85",
+        "Total": "1.38"
       }
     ]
   },
@@ -459,7 +468,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "22-Sep 8:57"
+      "updatedOn": "22-Sep 16:31"
     },
     "leadManager": "SKI Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/axiom-gas-logo.jpeg",
@@ -469,5 +478,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-22T04:04:02+00:00"
+  "scrapedAt": "2026-09-22T11:13:54+00:00"
 }

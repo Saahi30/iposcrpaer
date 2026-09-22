@@ -438,8 +438,8 @@
     "source": "https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/"
   },
   "subscription": {
-    "summary": "Vivekanand Cotspin IPO subscribed 0.08 times. The public issue subscribed 0.05 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.26 times in the NII category by September 21, 2026 5:05:52 PM (Day 1).",
-    "total": 0.08,
+    "summary": "Vivekanand Cotspin IPO subscribed 0.17 times. The public issue subscribed 0.20 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.35 times in the NII category by September 22, 2026 4:39:54 PM (Day 2).",
+    "total": 0.17,
     "applications": null,
     "byCategory": [
       {
@@ -448,6 +448,14 @@
         "Shares Offered*": "17,10,000",
         "Shares bid for": "17,10,000",
         "Total Amt* (₹ Cr.)": "6.327",
+        "Total Applications": "-"
+      },
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "3,00,000",
+        "Shares bid for": "3,00,000",
+        "Total Amt* (₹ Cr.)": "1.110",
         "Total Applications": "-"
       },
       {
@@ -460,43 +468,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.26",
+        "Subscription (x)": "0.35",
         "Shares Offered*": "8,55,000",
-        "Shares bid for": "2,25,000",
-        "Total Amt* (₹ Cr.)": "0.833",
+        "Shares bid for": "2,97,000",
+        "Total Amt* (₹ Cr.)": "1.099",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.31",
+        "Subscription (x)": "0.36",
         "Shares Offered*": "5,70,000",
-        "Shares bid for": "1,74,000",
-        "Total Amt* (₹ Cr.)": "0.644",
+        "Shares bid for": "2,04,000",
+        "Total Amt* (₹ Cr.)": "0.755",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.18",
+        "Subscription (x)": "0.33",
         "Shares Offered*": "2,85,000",
-        "Shares bid for": "51,000",
-        "Total Amt* (₹ Cr.)": "0.189",
+        "Shares bid for": "93,000",
+        "Total Amt* (₹ Cr.)": "0.344",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.05",
+        "Subscription (x)": "0.20",
         "Shares Offered*": "20,01,000",
-        "Shares bid for": "96,000",
-        "Total Amt* (₹ Cr.)": "0.355",
+        "Shares bid for": "3,96,000",
+        "Total Amt* (₹ Cr.)": "1.465",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.17",
         "Shares Offered*": "39,99,000",
-        "Shares bid for": "3,21,000",
-        "Total Amt* (₹ Cr.)": "1.188",
-        "Total Applications": "22"
+        "Shares bid for": "6,93,000",
+        "Total Amt* (₹ Cr.)": "2.564",
+        "Total Applications": "79"
       }
     ],
     "dayWise": [
@@ -508,6 +516,15 @@
         "NII (< ₹10L)": "0.18",
         "Individual Investors": "0.05",
         "Total": "0.08"
+      },
+      {
+        "Date": "Sep 22 (Day 2)",
+        "QIB (Ex Anchor)": "0.00",
+        "NII*": "0.35",
+        "NII (> ₹10L)": "0.36",
+        "NII (< ₹10L)": "0.33",
+        "Individual Investors": "0.20",
+        "Total": "0.17"
       }
     ]
   },
@@ -533,7 +550,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "22-Sep 9:01"
+      "updatedOn": "22-Sep 16:29"
     },
     "leadManager": "Swastika Investmart",
     "logo": "https://www.chittorgarh.net/images/ipo/vivekanad-cotspin-logo.png",
@@ -543,5 +560,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-22T04:03:57+00:00"
+  "scrapedAt": "2026-09-22T11:13:49+00:00"
 }

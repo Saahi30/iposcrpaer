@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T04:04:44+00:00",
+  "scrapedAt": "2026-09-22T11:14:38+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 183,
-    "mainboard": 82,
+    "totalEvents": 189,
+    "mainboard": 88,
     "sme": 101,
     "byEventType": {
       "allotment": 43,
-      "close": 71,
-      "open": 63,
+      "close": 74,
+      "open": 66,
       "other": 6
     }
   },
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 179,
-        "mainboard": 80,
+        "total": 185,
+        "mainboard": 86,
         "sme": 99
       },
       "byDate": {
@@ -1262,7 +1262,7 @@
             "eventType": "open",
             "date": "2026-09-11",
             "dateEnd": "2026-09-11",
-            "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Shar",
+            "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of 2.92 Equity Shares of Rs 2 aggregating up to Rs 125.50 Crore. The price for the issue has been set at Rs 40 - Rs 43 Per Equity Sha",
             "type": "mainboard",
             "slug": "manika-plastech-ipo",
             "ipoId": 2483,
@@ -1272,7 +1272,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/manika-plastech-ipo/2483/#15456",
               "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Shar"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.92%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20125.50%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2040%20-%20Rs%2043%20Per%20Equity%20Sha"
             }
           },
           {
@@ -3103,6 +3103,63 @@
             }
           },
           {
+            "title": "German Green Steel IPO Opens on Sep 25, 2026",
+            "company": "German Green Steel",
+            "eventType": "open",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "German Green Steel & Power Ltd. is entering in the capital market with an IPO of 2.19 Equity Shares of Rs 10 aggregating up to Rs 303.90 Crore. The price for the issue has been set at Rs 132 - Rs 139",
+            "type": "mainboard",
+            "slug": "german-green-steel-and-power-ipo",
+            "ipoId": 2497,
+            "eventId": 15590,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15590",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=German%20Green%20Steel%20%26%20Power%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.19%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20303.90%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20132%20-%20Rs%20139%20"
+            }
+          },
+          {
+            "title": "Orient Cables IPO Opens on Sep 25, 2026",
+            "company": "Orient Cables",
+            "eventType": "open",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "Orient Cables (India) Ltd. is entering in the capital market with an IPO of 2.03 Equity Shares of Rs 1 aggregating up to Rs 552.00 Crore. The price for the issue has been set at Rs 258 - Rs 272 Per Eq",
+            "type": "mainboard",
+            "slug": "orient-cables-ipo",
+            "ipoId": 2532,
+            "eventId": 15592,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15592",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Orient%20Cables%20(India)%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.03%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%20552.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20258%20-%20Rs%20272%20Per%20Eq"
+            }
+          },
+          {
+            "title": "Runwal Enterprises IPO Opens on Sep 25, 2026",
+            "company": "Runwal Enterprises",
+            "eventType": "open",
+            "date": "2026-09-25",
+            "dateEnd": "2026-09-25",
+            "details": "Runwal Enterprises Ltd. is entering in the capital market with an IPO of 1.64 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 290 - Rs 305 Per Equit",
+            "type": "mainboard",
+            "slug": "runwal-enterprises-ipo",
+            "ipoId": 2298,
+            "eventId": 15588,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15588",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Runwal%20Enterprises%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.64%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20290%20-%20Rs%20305%20Per%20Equit"
+            }
+          },
+          {
             "title": "Swastika Infra IPO Closes on Sep 25, 2026",
             "company": "Swastika Infra",
             "eventType": "close",
@@ -3408,6 +3465,63 @@
               "news": "https://www.chittorgarh.com/ipo_news/acevector-ipo/2543/#15581",
               "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acevector%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Acevector%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-"
+            }
+          },
+          {
+            "title": "German Green Steel IPO Closes on Sep 29, 2026",
+            "company": "German Green Steel",
+            "eventType": "close",
+            "date": "2026-09-29",
+            "dateEnd": "2026-09-29",
+            "details": "The issue of German Green Steel & Power Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has bee",
+            "type": "mainboard",
+            "slug": "german-green-steel-and-power-ipo",
+            "ipoId": 2497,
+            "eventId": 15591,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15591",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20bee"
+            }
+          },
+          {
+            "title": "Orient Cables IPO Closes on Sep 29, 2026",
+            "company": "Orient Cables",
+            "eventType": "close",
+            "date": "2026-09-29",
+            "dateEnd": "2026-09-29",
+            "details": "The issue of Orient Cables (India) Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set",
+            "type": "mainboard",
+            "slug": "orient-cables-ipo",
+            "ipoId": 2532,
+            "eventId": 15593,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15593",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Orient%20Cables%20(India)%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set"
+            }
+          },
+          {
+            "title": "Runwal Enterprises IPO Closes on Sep 29, 2026",
+            "company": "Runwal Enterprises",
+            "eventType": "close",
+            "date": "2026-09-29",
+            "dateEnd": "2026-09-29",
+            "details": "The issue of Runwal Enterprises Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+            "type": "mainboard",
+            "slug": "runwal-enterprises-ipo",
+            "ipoId": 2298,
+            "eventId": 15589,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15589",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Runwal%20Enterprises%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
             }
           },
           {
@@ -4141,7 +4255,7 @@
           "eventType": "open",
           "date": "2026-09-11",
           "dateEnd": "2026-09-11",
-          "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Shar",
+          "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of 2.92 Equity Shares of Rs 2 aggregating up to Rs 125.50 Crore. The price for the issue has been set at Rs 40 - Rs 43 Per Equity Sha",
           "type": "mainboard",
           "slug": "manika-plastech-ipo",
           "ipoId": 2483,
@@ -4151,7 +4265,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/manika-plastech-ipo/2483/#15456",
             "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Shar"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.92%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20125.50%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2040%20-%20Rs%2043%20Per%20Equity%20Sha"
           }
         },
         {
@@ -4934,6 +5048,63 @@
           }
         },
         {
+          "title": "German Green Steel IPO Opens on Sep 25, 2026",
+          "company": "German Green Steel",
+          "eventType": "open",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "German Green Steel & Power Ltd. is entering in the capital market with an IPO of 2.19 Equity Shares of Rs 10 aggregating up to Rs 303.90 Crore. The price for the issue has been set at Rs 132 - Rs 139",
+          "type": "mainboard",
+          "slug": "german-green-steel-and-power-ipo",
+          "ipoId": 2497,
+          "eventId": 15590,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15590",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=German%20Green%20Steel%20%26%20Power%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.19%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20303.90%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20132%20-%20Rs%20139%20"
+          }
+        },
+        {
+          "title": "Orient Cables IPO Opens on Sep 25, 2026",
+          "company": "Orient Cables",
+          "eventType": "open",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "Orient Cables (India) Ltd. is entering in the capital market with an IPO of 2.03 Equity Shares of Rs 1 aggregating up to Rs 552.00 Crore. The price for the issue has been set at Rs 258 - Rs 272 Per Eq",
+          "type": "mainboard",
+          "slug": "orient-cables-ipo",
+          "ipoId": 2532,
+          "eventId": 15592,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15592",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Orient%20Cables%20(India)%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.03%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%20552.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20258%20-%20Rs%20272%20Per%20Eq"
+          }
+        },
+        {
+          "title": "Runwal Enterprises IPO Opens on Sep 25, 2026",
+          "company": "Runwal Enterprises",
+          "eventType": "open",
+          "date": "2026-09-25",
+          "dateEnd": "2026-09-25",
+          "details": "Runwal Enterprises Ltd. is entering in the capital market with an IPO of 1.64 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 290 - Rs 305 Per Equit",
+          "type": "mainboard",
+          "slug": "runwal-enterprises-ipo",
+          "ipoId": 2298,
+          "eventId": 15588,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15588",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Runwal%20Enterprises%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.64%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20290%20-%20Rs%20305%20Per%20Equit"
+          }
+        },
+        {
           "title": "Swastika Infra IPO Closes on Sep 25, 2026",
           "company": "Swastika Infra",
           "eventType": "close",
@@ -5007,6 +5178,63 @@
             "news": "https://www.chittorgarh.com/ipo_news/acevector-ipo/2543/#15581",
             "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acevector%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Acevector%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-"
+          }
+        },
+        {
+          "title": "German Green Steel IPO Closes on Sep 29, 2026",
+          "company": "German Green Steel",
+          "eventType": "close",
+          "date": "2026-09-29",
+          "dateEnd": "2026-09-29",
+          "details": "The issue of German Green Steel & Power Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has bee",
+          "type": "mainboard",
+          "slug": "german-green-steel-and-power-ipo",
+          "ipoId": 2497,
+          "eventId": 15591,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15591",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20bee"
+          }
+        },
+        {
+          "title": "Orient Cables IPO Closes on Sep 29, 2026",
+          "company": "Orient Cables",
+          "eventType": "close",
+          "date": "2026-09-29",
+          "dateEnd": "2026-09-29",
+          "details": "The issue of Orient Cables (India) Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set",
+          "type": "mainboard",
+          "slug": "orient-cables-ipo",
+          "ipoId": 2532,
+          "eventId": 15593,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15593",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Orient%20Cables%20(India)%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set"
+          }
+        },
+        {
+          "title": "Runwal Enterprises IPO Closes on Sep 29, 2026",
+          "company": "Runwal Enterprises",
+          "eventType": "close",
+          "date": "2026-09-29",
+          "dateEnd": "2026-09-29",
+          "details": "The issue of Runwal Enterprises Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+          "type": "mainboard",
+          "slug": "runwal-enterprises-ipo",
+          "ipoId": 2298,
+          "eventId": 15589,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15589",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Runwal%20Enterprises%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
           }
         },
         {
@@ -7720,7 +7948,7 @@
       "eventType": "open",
       "date": "2026-09-11",
       "dateEnd": "2026-09-11",
-      "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 2 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Shar",
+      "details": "Manika Plastech Ltd. is entering in the capital market with an IPO of 2.92 Equity Shares of Rs 2 aggregating up to Rs 125.50 Crore. The price for the issue has been set at Rs 40 - Rs 43 Per Equity Sha",
       "type": "mainboard",
       "slug": "manika-plastech-ipo",
       "ipoId": 2483,
@@ -7730,7 +7958,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/manika-plastech-ipo/2483/#15456",
         "chittorgarh": "https://www.chittorgarh.com/ipo/manika-plastech-ipo/2483/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Shar"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Manika%20Plastech%20IPO%20Opens%20on%20Sep%2011%2C%202026&location=&dates=20260911/20260912&details=Manika%20Plastech%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.92%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20125.50%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2040%20-%20Rs%2043%20Per%20Equity%20Sha"
       }
     },
     {
@@ -8513,6 +8741,63 @@
       }
     },
     {
+      "title": "German Green Steel IPO Opens on Sep 25, 2026",
+      "company": "German Green Steel",
+      "eventType": "open",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "German Green Steel & Power Ltd. is entering in the capital market with an IPO of 2.19 Equity Shares of Rs 10 aggregating up to Rs 303.90 Crore. The price for the issue has been set at Rs 132 - Rs 139",
+      "type": "mainboard",
+      "slug": "german-green-steel-and-power-ipo",
+      "ipoId": 2497,
+      "eventId": 15590,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15590",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=German%20Green%20Steel%20%26%20Power%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.19%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20303.90%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20132%20-%20Rs%20139%20"
+      }
+    },
+    {
+      "title": "Orient Cables IPO Opens on Sep 25, 2026",
+      "company": "Orient Cables",
+      "eventType": "open",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "Orient Cables (India) Ltd. is entering in the capital market with an IPO of 2.03 Equity Shares of Rs 1 aggregating up to Rs 552.00 Crore. The price for the issue has been set at Rs 258 - Rs 272 Per Eq",
+      "type": "mainboard",
+      "slug": "orient-cables-ipo",
+      "ipoId": 2532,
+      "eventId": 15592,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15592",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Orient%20Cables%20(India)%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.03%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%20552.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20258%20-%20Rs%20272%20Per%20Eq"
+      }
+    },
+    {
+      "title": "Runwal Enterprises IPO Opens on Sep 25, 2026",
+      "company": "Runwal Enterprises",
+      "eventType": "open",
+      "date": "2026-09-25",
+      "dateEnd": "2026-09-25",
+      "details": "Runwal Enterprises Ltd. is entering in the capital market with an IPO of 1.64 Equity Shares of Rs 2 aggregating up to Rs 500.00 Crore. The price for the issue has been set at Rs 290 - Rs 305 Per Equit",
+      "type": "mainboard",
+      "slug": "runwal-enterprises-ipo",
+      "ipoId": 2298,
+      "eventId": 15588,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15588",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Opens%20on%20Sep%2025%2C%202026&location=&dates=20260925/20260926&details=Runwal%20Enterprises%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.64%20Equity%20Shares%20of%20Rs%202%20aggregating%20up%20to%20Rs%20500.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20290%20-%20Rs%20305%20Per%20Equit"
+      }
+    },
+    {
       "title": "Swastika Infra IPO Closes on Sep 25, 2026",
       "company": "Swastika Infra",
       "eventType": "close",
@@ -8586,6 +8871,63 @@
         "news": "https://www.chittorgarh.com/ipo_news/acevector-ipo/2543/#15581",
         "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acevector%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Acevector%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-"
+      }
+    },
+    {
+      "title": "German Green Steel IPO Closes on Sep 29, 2026",
+      "company": "German Green Steel",
+      "eventType": "close",
+      "date": "2026-09-29",
+      "dateEnd": "2026-09-29",
+      "details": "The issue of German Green Steel & Power Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has bee",
+      "type": "mainboard",
+      "slug": "german-green-steel-and-power-ipo",
+      "ipoId": 2497,
+      "eventId": 15591,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15591",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20bee"
+      }
+    },
+    {
+      "title": "Orient Cables IPO Closes on Sep 29, 2026",
+      "company": "Orient Cables",
+      "eventType": "close",
+      "date": "2026-09-29",
+      "dateEnd": "2026-09-29",
+      "details": "The issue of Orient Cables (India) Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set",
+      "type": "mainboard",
+      "slug": "orient-cables-ipo",
+      "ipoId": 2532,
+      "eventId": 15593,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/orient-cables-ipo/2532/#15593",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Orient%20Cables%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Orient%20Cables%20(India)%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set"
+      }
+    },
+    {
+      "title": "Runwal Enterprises IPO Closes on Sep 29, 2026",
+      "company": "Runwal Enterprises",
+      "eventType": "close",
+      "date": "2026-09-29",
+      "dateEnd": "2026-09-29",
+      "details": "The issue of Runwal Enterprises Ltd. opens on Sep 25, 2026 and closes for subscription on Sep 29, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at",
+      "type": "mainboard",
+      "slug": "runwal-enterprises-ipo",
+      "ipoId": 2298,
+      "eventId": 15589,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15589",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Runwal%20Enterprises%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
       }
     },
     {

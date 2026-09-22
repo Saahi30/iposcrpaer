@@ -302,8 +302,8 @@
       "max": 32.0,
       "display": "₹30–32"
     },
-    "lotSize": null,
-    "issueSize": "₹420.0 Cr",
+    "lotSize": 468,
+    "issueSize": "₹420.00 Cr",
     "dates": {
       "open": "2026-09-25",
       "close": "2026-09-29",
@@ -313,8 +313,8 @@
     "gmp": {
       "value": 0.0,
       "percent": 0.0,
-      "xLot": null,
-      "updatedOn": "22-Sep 5:55"
+      "xLot": 0.0,
+      "updatedOn": "22-Sep 16:32"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
@@ -324,5 +324,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-22T04:04:11+00:00"
+  "scrapedAt": "2026-09-22T11:14:02+00:00"
 }
