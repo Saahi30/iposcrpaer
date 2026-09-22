@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T21:50:29+00:00",
+  "scrapedAt": "2026-09-22T04:04:46+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 253,
-    "mainboard": 89,
-    "sme": 164
+    "total": 257,
+    "mainboard": 92,
+    "sme": 165
   },
   "ipos": [
     {
@@ -6039,6 +6039,54 @@
       }
     },
     {
+      "ipoId": 2998,
+      "name": "Dudani Retail Ltd.",
+      "slug": "dudani-retail-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dudaniretail_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2497,
+      "name": "German Green Steel & Power Ltd.",
+      "slug": "german-green-steel-and-power-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/german-green-steel-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2716,
       "name": "Himalayan Solar Ltd.",
       "slug": "himalayan-solar-ipo",
@@ -6060,6 +6108,54 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2532,
+      "name": "Orient Cables (India) Ltd.",
+      "slug": "orient-cables-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/orient-cables-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2298,
+      "name": "Runwal Enterprises Ltd.",
+      "slug": "runwal-enterprises-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/runwal-enterprises-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

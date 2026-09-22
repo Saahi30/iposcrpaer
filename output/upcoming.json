@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-21T21:50:23+00:00",
+  "scrapedAt": "2026-09-22T04:04:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,20 +15,20 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 21,
+    "upcoming": 23,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 21
+    "total": 23
   },
   "ipos": [
     {
-      "slug": "acevector-ipo",
-      "ipoId": 2543,
-      "name": "Acevector",
-      "type": "mainboard",
+      "slug": "pind-hospitality-ipo",
+      "ipoId": 2197,
+      "name": "Pind Hospitality Ltd.",
+      "type": "sme",
       "status": "upcoming",
-      "exchange": "BSE, NSE",
+      "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
         "min": null,
@@ -38,7 +38,61 @@
       "lotSize": null,
       "issueSize": "₹0.0 Cr",
       "issueSizeCr": 0.0,
-      "freshIssueCr": 287.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-12-31",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Fedex Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/pind-punjab-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/pind-hospitality-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=pind-hospitality-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 15, 2021, Pind Hospitality Limited is engaged in the hospitality sector, specifically in hotels and restaurants.\n\nThe company has completed over 5 lakh deliveries and is recognized as one of the long-standing restaurant partners in Pune by third-party food delivery apps.\n\nThe company served 2.18 lakh, 4.23 lakh, 4.43 lakh, and 0.96 lakh orders through food delivery apps in the six months ending September 2024, 2024, 2023, and 2022, respectively.\n\nAs of September 30, 2024, th",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "runwal-enterprises-ipo",
+      "ipoId": 2298,
+      "name": "Runwal Enterprises",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 290.0,
+        "max": 305.0,
+        "display": "₹290–305"
+      },
+      "lotSize": 49,
+      "issueSize": "₹500.00 Cr",
+      "issueSizeCr": 500.0,
+      "freshIssueCr": 500.0,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-25",
@@ -47,10 +101,174 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 0.0,
+        "value": null,
         "percent": null,
         "xLot": null,
-        "updatedOn": "21-Sep 18:40"
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/runwal-enterprises-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/runwal-enterprises-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=runwal-enterprises-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+        "gmp": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/"
+      },
+      "gmpId": 1711,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2016, Runwal Enterprises Limited is a real estate developer present across the full spectrum of real estate development. The company specializes in residential projects across the affordable, mid-income, and luxury segments, as well as in the development of commercial spaces, retail malls, and educational buildings.\n\nAs of September 30, 2024, Runwal Enterprises Limited has 15 completed projects, 25 ongoing projects, and 32 upcoming projects. The residential portfolio includes an ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "german-green-steel-and-power-ipo",
+      "ipoId": 2497,
+      "name": "German Green Steel",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 132.0,
+        "max": 139.0,
+        "display": "₹132–139"
+      },
+      "lotSize": 107,
+      "issueSize": "₹303.90 Cr",
+      "issueSizeCr": 303.9,
+      "freshIssueCr": 290.0,
+      "ofsCr": 13.9,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Systematix Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/german-green-steel-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/german-green-steel-and-power-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=german-green-steel-and-power-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+        "gmp": "https://www.investorgain.com/gmp/german-green-steel-and-power-ipo/1812/"
+      },
+      "gmpId": 1812,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2008, German Green Steel and Power Limited is an iron and steel manufacturer primarily operating in the western region of India, with a strong presence in Gujarat and a focus on TMX Bars. The company is predominantly conducted on a business-to-business basis with three (3) major types of customers, namely (i) distributors, (ii) dealers and (iii) institutional customers. The brand “German TMT” has established strong recognition for TMT Bars in Gujarat.\n\nThe company's manufacturing",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "orient-cables-ipo",
+      "ipoId": 2532,
+      "name": "Orient Cables (India) Ltd.",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 258.0,
+        "max": 272.0,
+        "display": "₹258–272"
+      },
+      "lotSize": 55,
+      "issueSize": "₹552.0 Cr",
+      "issueSizeCr": 552.0,
+      "freshIssueCr": 320.0,
+      "ofsCr": 232.0,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": null,
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/orient-cables-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/orient-cables-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=orient-cables-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
+        "gmp": null
+      },
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2005, Orient Cables (India) Limited is a manufacturer of networking cables and passive networking equipment. The Company has nearly two decades of experience in the networking cables and passive networking equipment industry and caters to industries including broadband, telecommunications, data centres, renewable energy, smart building automation and security, system integration, FMEG and automotive.\n\nIts product portfolio includes CAT5, CAT5e, CAT6 and CAT6A networking",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "acevector-ipo",
+      "ipoId": 2543,
+      "name": "Acevector",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 30.0,
+        "max": 32.0,
+        "display": "₹30–32"
+      },
+      "lotSize": 468,
+      "issueSize": "₹420.0 Cr",
+      "issueSizeCr": 420.0,
+      "freshIssueCr": 287.0,
+      "ofsCr": 133.0,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "22-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +323,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:35"
+        "updatedOn": "22-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -160,7 +378,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:34"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -185,6 +403,61 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2026, the company has implemented more than 85000 HP capacity of Solar Water Pumping Sy",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "dudani-retail-ipo",
+      "ipoId": 2998,
+      "name": "Dudani Retail",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 29.0,
+        "max": 29.0,
+        "display": "₹29"
+      },
+      "lotSize": 4000,
+      "issueSize": "₹10.54 Cr",
+      "issueSizeCr": 10.54,
+      "freshIssueCr": 10.01,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Finshore Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dudaniretail_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/dudani-retail-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=dudani-retail-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/",
+        "gmp": "https://www.investorgain.com/gmp/dudani-retail-ipo/2259/"
+      },
+      "gmpId": 2259,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2015, Dudani Retail Limited is engaged in designs, manufactures, sources, and supplies apparel and related products. It operates through own-brand, licensed manufacturing with Fashion & Lifestyle marketplaces, and a supply arrangement with a quick commerce platform.\n\nThe company's activities include manufacturing women’s ethnic and fusion wear, trading men’s wear, and fulfilling JIT orders for licensed labels through agreements with Fashion & Lifestyle marketplaces. It o",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -215,7 +488,7 @@
         "value": 12.0,
         "percent": 10.91,
         "xLot": 14400.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +543,7 @@
         "value": 60.0,
         "percent": 14.81,
         "xLot": 2220.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -325,7 +598,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:35"
+        "updatedOn": "22-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -380,7 +653,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:31"
+        "updatedOn": "22-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -435,7 +708,7 @@
         "value": 5.0,
         "percent": 14.71,
         "xLot": 2205.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -487,10 +760,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "22-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -545,7 +818,7 @@
         "value": 12.0,
         "percent": 3.2,
         "xLot": 480.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -600,7 +873,7 @@
         "value": 8.0,
         "percent": 4.32,
         "xLot": 648.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +928,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:33"
+        "updatedOn": "22-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -710,7 +983,7 @@
         "value": 16.0,
         "percent": 4.42,
         "xLot": 656.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -765,7 +1038,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:29"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -820,7 +1093,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -875,7 +1148,7 @@
         "value": 32.0,
         "percent": 23.88,
         "xLot": 3552.0,
-        "updatedOn": "21-Sep 23:37"
+        "updatedOn": "22-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -930,7 +1203,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:31"
+        "updatedOn": "22-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -985,7 +1258,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Sep 23:30"
+        "updatedOn": "22-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -1011,171 +1284,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in February 2005, Unitec Fibres Limited is a manufacturer of Recycled Polyester Staple Fibre (RPSF), producing sustainable polyester fibres from recycled PET flakes, PET chips, and other post-consumer polyester waste. The company supplies RPSF to industries such as automobiles, home furnishings, and textiles, where its products are used in carpets, roof liners, trunks, sofas, curtains, and spinning applications.\n\nThe company operates two manufacturing facilities at the M.I.D.C. Tara",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "varmora-granito-ipo",
-      "ipoId": 2563,
-      "name": "Varmora Granito",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 140.0,
-        "max": 148.0,
-        "display": "₹140–148"
-      },
-      "lotSize": 101,
-      "issueSize": "₹708.02 Cr",
-      "issueSizeCr": 708.02,
-      "freshIssueCr": 320.0,
-      "ofsCr": 388.02,
-      "dates": {
-        "open": "2026-09-22",
-        "close": "2026-09-24",
-        "allotment": "2026-09-25",
-        "listing": "2026-09-29"
-      },
-      "gmp": {
-        "value": 9.0,
-        "percent": 6.08,
-        "xLot": 909.0,
-        "updatedOn": "21-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/varmora-granito-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=varmora-granito-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/",
-        "gmp": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/"
-      },
-      "gmpId": 1852,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Varmora Granito Limited, incorporated in 2003, manufactures and markets ceramic and vitrified tiles, including Glazed Vitrified Tiles (GVT), Polished Vitrified Tiles (PVT) and ceramic tiles. The company focuses on premium, technology-driven products, with GVT and technical tiles accounting for around 84% of its tile revenue in Fiscal 2026.\n\nThe company operates eight manufacturing facilities in the Morbi cluster of Gujarat, with 81.72% of its revenue in Fiscal 2026 generated from in-house manufa",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "himalaya-nutravedics-ipo",
-      "ipoId": 2970,
-      "name": "Himalaya Nutravedics",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 100.0,
-        "max": 106.0,
-        "display": "₹100–106"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹26.50 Cr",
-      "issueSizeCr": 26.5,
-      "freshIssueCr": 25.16,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-22",
-        "close": "2026-09-24",
-        "allotment": "2026-09-25",
-        "listing": "2026-09-29"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "21-Sep 23:33"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Nirbhay Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/himalaya-nutravedics-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/himalaya-nutravedics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=himalaya-nutravedics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/",
-        "gmp": "https://www.investorgain.com/gmp/himalaya-nutravedics-ipo/2230/"
-      },
-      "gmpId": 2230,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2022, Himalaya Nutravedics India Limited is engaged in the manufacturing, marketing and distribution of Ayurvedic and nutraceutical formulations in India and also undertakes third-party contract manufacturing for other Ayurvedic and nutraceutical companies. The Company manufactures a diversified portfolio comprising classical (Shastric) Ayurvedic formulations, proprietary Ayurvedic formulations and nutraceutical supplements. Its products are available in multiple dosage form",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "anand-seamless-ipo",
-      "ipoId": 3080,
-      "name": "Anand Seamless",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 72.0,
-        "max": 72.0,
-        "display": "₹72"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹25.52 Cr",
-      "issueSizeCr": 25.52,
-      "freshIssueCr": 24.24,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-22",
-        "close": "2026-09-24",
-        "allotment": "2026-09-25",
-        "listing": "2026-09-29"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "21-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Aftertrade Broking",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/anand-seamless-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/anand-seamless-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=anand-seamless-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/",
-        "gmp": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/"
-      },
-      "gmpId": 2269,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2005, Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector. The company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes. These products are widely used in industries such as oil & gas, petrochemicals, power plants, and process industries.\n\nThe company ca",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
