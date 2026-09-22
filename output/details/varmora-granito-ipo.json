@@ -334,9 +334,9 @@
     "source": "https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/"
   },
   "subscription": {
-    "summary": "Varmora Granito IPO subscribed 0.11 times. The public issue subscribed 0.20 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.05 times in the NII category by September 22, 2026 4:39:49 PM (Day 1).",
-    "total": 0.11,
-    "applications": 26264.0,
+    "summary": "Varmora Granito IPO subscribed 0.12 times. The public issue subscribed 0.21 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.05 times in the NII category by September 22, 2026 6:54:51 PM (Day 1).",
+    "total": 0.12,
+    "applications": 27768.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -356,8 +356,8 @@
         "Category": "NII",
         "Subscription (x)": "0.05",
         "Shares Offered*": "71,75,828",
-        "Shares bid for": "3,61,984",
-        "Total Amt* (₹ Cr.)": "5.357"
+        "Shares bid for": "3,66,226",
+        "Total Amt* (₹ Cr.)": "5.420"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -370,22 +370,22 @@
         "Category": "sNII (< ₹10L)",
         "Subscription (x)": "0.12",
         "Shares Offered*": "23,91,943",
-        "Shares bid for": "2,87,042",
-        "Total Amt* (₹ Cr.)": "4.248"
+        "Shares bid for": "2,91,284",
+        "Total Amt* (₹ Cr.)": "4.311"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "0.21",
         "Shares Offered*": "1,67,43,599",
-        "Shares bid for": "33,10,780",
-        "Total Amt* (₹ Cr.)": "49.000"
+        "Shares bid for": "34,93,590",
+        "Total Amt* (₹ Cr.)": "51.705"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.11",
+        "Subscription (x)": "0.12",
         "Shares Offered*": "3,34,87,080",
-        "Shares bid for": "36,74,178",
-        "Total Amt* (₹ Cr.)": "54.378"
+        "Shares bid for": "38,61,230",
+        "Total Amt* (₹ Cr.)": "57.146"
       }
     ],
     "dayWise": [
@@ -395,8 +395,8 @@
         "NII": "0.05",
         "NII (> ₹10L)": "0.02",
         "NII (< ₹10L)": "0.12",
-        "Retail": "0.20",
-        "Total": "0.11"
+        "Retail": "0.21",
+        "Total": "0.12"
       }
     ]
   },
@@ -419,10 +419,10 @@
       "listing": "2026-09-29"
     },
     "gmp": {
-      "value": 4.0,
-      "percent": 2.7,
-      "xLot": 404.0,
-      "updatedOn": "22-Sep 16:37"
+      "value": 3.0,
+      "percent": 2.03,
+      "xLot": 303.0,
+      "updatedOn": "22-Sep 23:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/varmora-granito-logo.png",
@@ -432,5 +432,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-22T11:13:43+00:00"
+  "scrapedAt": "2026-09-22T21:02:31+00:00"
 }
