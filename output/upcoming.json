@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T04:01:52+00:00",
+  "scrapedAt": "2026-09-23T21:18:27+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,123 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 18,
+    "upcoming": 23,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 18
+    "total": 23
   },
   "ipos": [
+    {
+      "slug": "paramount-syntex-ipo",
+      "ipoId": 2743,
+      "name": "Paramount Syntex",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 119.0,
+        "max": 127.0,
+        "display": "₹119–127"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹81.79 Cr",
+      "issueSizeCr": 81.79,
+      "freshIssueCr": 77.69,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": "2026-10-07",
+        "listing": "2026-10-09"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Sobhagya Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/paramount-syntex-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/paramount-syntex-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=paramount-syntex-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+        "gmp": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/"
+      },
+      "gmpId": 2001,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1996, Paramount Syntex Ltd. is engaged in the manufacturing of synthetic fibres, dyed fibres, and various types of yarns, including acrylic, polyester, wool, nylon, and blended yarns. The Company’s manufacturing units are located at Village Mangarh, Machiwara Road, Kohara, Ludhiana, Punjab, with a combined area of approximately 7,268.73 sq. yards.\n\nParamount Syntex operates with a fully integrated setup comprising fibre processing, tow dyeing, hank dyeing, spinning, bulking, and ",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "omara-ventures-india-ipo",
+      "ipoId": 3194,
+      "name": "Omara Ventures India",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 296.0,
+        "max": 311.0,
+        "display": "₹296–311"
+      },
+      "lotSize": 400,
+      "issueSize": "₹41.99 Cr",
+      "issueSizeCr": 41.99,
+      "freshIssueCr": 39.87,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Wealth Mine Networks",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/omara-ventures-india-limited-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/omara-ventures-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=omara-ventures-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
+        "gmp": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/"
+      },
+      "gmpId": 2347,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in October 2020, Omara Ventures India Limited is a retail jewellery company engaged in the sale of diamond jewellery made using natural diamonds and precious and semi-precious gemstones, set in precious metals such as gold, platinum and silver. The Company operates under the brand name “Omara” and primarily caters to business-to-consumer (B2C) customers through its retail boutique.The Company offers a curated portfolio of diamond jewellery comprising necklaces, earrings, rings, brac",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
     {
       "slug": "everestims-technologies-ipo",
       "ipoId": 2063,
@@ -78,6 +188,61 @@
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
+      "slug": "black-opal-consultants-ipo",
+      "ipoId": 2798,
+      "name": "Black Opal Consultants",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 185.0,
+        "max": 197.0,
+        "display": "₹185–197"
+      },
+      "lotSize": 600,
+      "issueSize": "₹55.08 Cr",
+      "issueSizeCr": 55.08,
+      "freshIssueCr": 41.33,
+      "ofsCr": 10.99,
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "listing": "2026-10-07"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Sep 23:33"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Khambatta Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/black-opal-consultants-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/black-opal-consultants-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=black-opal-consultants-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
+        "gmp": "https://www.investorgain.com/gmp/black-opal-consultants-ipo/2052/"
+      },
+      "gmpId": 2052,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2020, Black Opal Consultants Limited works with well-known real estate developers such as Gaurs Group, SKA, Galaxy, Shapoorji Pallonji, Max Estates, and M3M to market and sell their residential and commercial projects. The Company signs exclusive or semi-exclusive sales rights to market and sell specific units within a project in return for brokerage income. The Company also works with its Group Entities, such as Aurika Homes Private Limited to market and sell Aurika Homes’ proje",
+      "registrar": "Skyline Financial Services Pvt.Ltd."
+    },
+    {
       "slug": "pind-hospitality-ipo",
       "ipoId": 2197,
       "name": "Pind Hospitality",
@@ -105,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 8:54"
+        "updatedOn": "23-Sep 23:36"
       },
       "subscription": {
         "total": null,
@@ -146,7 +311,7 @@
         "display": "₹159–167"
       },
       "lotSize": 85,
-      "issueSize": "-",
+      "issueSize": "₹90.17 Cr",
       "issueSizeCr": 90.17,
       "freshIssueCr": 90.17,
       "ofsCr": null,
@@ -157,16 +322,16 @@
         "listing": "2026-10-06"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
-        "xLot": 0.0,
-        "updatedOn": "23-Sep 9:00"
+        "value": 10.0,
+        "percent": 5.99,
+        "xLot": 850.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
         "byCategory": []
       },
-      "leadManager": "JDA Capital Services",
+      "leadManager": "Beeline Capital",
       "symbols": {
         "isin": null,
         "bse": null,
@@ -184,7 +349,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 1994, Shah Investor's Home Ltd. is retail brokering company that offers a range of services covering equity brokerage services and derivatives brokerage services.\n\nThe company offer services facilitate the buying and selling of financial products such as equities, IPO investing, mutual funds distribution, and other securities.\n\nThe company's primarily focus on providing secondary market brokering services to retail customers, comprising both resident and non-resident Indians. In ",
+      "about": "Incorporated in October 1994, Shah Investor’s Home Limited is a retail broking company providing a range of financial services, with over three decades of experience in the securities market. The Company primarily offers equity and derivatives brokerage services, facilitating the buying and selling of equities, IPOs and other securities for retail customers, including resident and non-resident Indians. In addition to its core brokerage operations, the Company provides mutual fund distribution, m",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -201,7 +366,7 @@
         "display": "₹59–62"
       },
       "lotSize": 2000,
-      "issueSize": "-",
+      "issueSize": "₹14.01 Cr",
       "issueSizeCr": 14.01,
       "freshIssueCr": 13.31,
       "ofsCr": null,
@@ -213,9 +378,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 9:00"
+        "updatedOn": "23-Sep 23:36"
       },
       "subscription": {
         "total": null,
@@ -239,7 +404,117 @@
       "faceValue": "₹5 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2021, Shivchem Agro is an ISO 9001:2015, ISO 22000:2018, and ISO 31000:2018 certified agrochemical company based in India. The company manufactures stock, distribute, and sell a wide range of agricultural formulations, including insecticides, fungicides, herbicides, plant growth regulators, rodenticides, and fertilizers. These products are available in both solid (powders) and liquid (emulsifiable concentrates) forms, helping farmers improve crop protection and productivity.\n\nThe",
+      "about": "Incorporated in September 2021, Shivchem Agro Limited is an agrochemical company engaged in the manufacturing, stocking, distribution and sale of agricultural formulations.The Company offers a diversified portfolio of insecticides, fungicides, herbicides, plant growth regulators, rodenticides and fertilizers. As of the date of the Red Herring Prospectus, the Company is licensed to manufacture 176 agrochemical products, including 88 insecticides, 40 fungicides, 37 herbicides, 8 plant growth regul",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "srit-india-ipo",
+      "ipoId": 2858,
+      "name": "SRIT India",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 123.0,
+        "max": 130.0,
+        "display": "₹123–130"
+      },
+      "lotSize": 115,
+      "issueSize": "₹218.40 Cr",
+      "issueSizeCr": 218.4,
+      "freshIssueCr": 218.4,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "listing": "2026-10-06"
+      },
+      "gmp": {
+        "value": 12.0,
+        "percent": 9.23,
+        "xLot": 1380.0,
+        "updatedOn": "23-Sep 23:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/srit-india-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/srit-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=srit-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
+        "gmp": "https://www.investorgain.com/gmp/srit-india-ipo/2121/"
+      },
+      "gmpId": 2121,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 1999, SRIT India Limited is a Bengaluru-headquartered Information Technology and Information Technology enabled Services (IT/ITeS) solutions company providing digital solutions, custom application development and system integration services. With 26 years of industry experience, the Company designs, implements and operates digital platforms for Government entities and Enterprises in India and select overseas markets.The Company operates across three verticals: healthcar",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "acme-universal-safezone-9-ipo",
+      "ipoId": 3206,
+      "name": "Acme Universal Safezone 9",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 65.0,
+        "max": 71.0,
+        "display": "₹65–71"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹35.93 Cr",
+      "issueSizeCr": 35.93,
+      "freshIssueCr": 34.13,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "listing": "2026-10-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Sep 23:35"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Expert Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acme-universal-safezone-9-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/acme-universal-safezone-9-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=acme-universal-safezone-9-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
+        "gmp": "https://www.investorgain.com/gmp/acme-universal-safezone-9-ipo/2360/"
+      },
+      "gmpId": 2360,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in November 2016 (originally established as a partnership firm in April 1994), Acme Universal Safezone 9 Limited is a leading manufacturer of industrial safety footwear under the 'ACME' brand. The company operates in the Personal Protective Equipment (PPE) segment, manufacturing and supplying a wide range of safety shoes for industries such as construction, oil & gas, mining, automotive, pharmaceuticals, chemicals, foundries, and power generation. Its product portfolio includes EVA-",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -267,10 +542,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 5.9,
-        "xLot": 882.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 17.0,
+        "percent": 5.57,
+        "xLot": 833.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -322,10 +597,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 10.79,
-        "xLot": 1605.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 24.0,
+        "percent": 17.27,
+        "xLot": 2568.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -377,10 +652,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 34.0,
-        "percent": 12.5,
-        "xLot": 1870.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 45.0,
+        "percent": 16.54,
+        "xLot": 2475.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -435,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 9:02"
+        "updatedOn": "23-Sep 23:32"
       },
       "subscription": {
         "total": null,
@@ -490,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 8:58"
+        "updatedOn": "23-Sep 23:29"
       },
       "subscription": {
         "total": null,
@@ -545,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 9:01"
+        "updatedOn": "23-Sep 23:34"
       },
       "subscription": {
         "total": null,
@@ -600,7 +875,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 9:00"
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -630,7 +905,7 @@
     {
       "slug": "shree-tnb-polymers-ipo",
       "ipoId": 3095,
-      "name": "Shree TNB Polymers Ltd.",
+      "name": "Shree TNB Polymers",
       "type": "sme",
       "status": "upcoming",
       "exchange": "BSE SME",
@@ -641,21 +916,21 @@
         "display": "₹47–52"
       },
       "lotSize": 2000,
-      "issueSize": "₹31.2 Cr",
+      "issueSize": "₹31.20 Cr",
       "issueSizeCr": 31.2,
       "freshIssueCr": 29.64,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-25",
         "close": "2026-09-29",
-        "allotment": null,
+        "allotment": "2026-09-30",
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Sep 23:33"
       },
       "subscription": {
         "total": null,
@@ -673,8 +948,9 @@
       "urls": {
         "local": "./ipo.html?slug=shree-tnb-polymers-ipo",
         "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
-        "gmp": null
+        "gmp": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/"
       },
+      "gmpId": 2282,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
@@ -709,7 +985,7 @@
         "value": 12.0,
         "percent": 10.91,
         "xLot": 14400.0,
-        "updatedOn": "23-Sep 9:02"
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -761,10 +1037,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 50.0,
-        "percent": 12.35,
-        "xLot": 1850.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 55.0,
+        "percent": 13.58,
+        "xLot": 2035.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -788,7 +1064,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.\n\nThe company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and",
+      "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing. The company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and ",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -816,10 +1092,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 14.0,
-        "percent": 21.88,
-        "xLot": 28000.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 8.0,
+        "percent": 12.5,
+        "xLot": 16000.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -874,7 +1150,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 9:02"
+        "updatedOn": "23-Sep 23:33"
       },
       "subscription": {
         "total": null,
@@ -926,10 +1202,10 @@
         "listing": "2026-10-01"
       },
       "gmp": {
-        "value": 11.0,
-        "percent": 32.35,
-        "xLot": 4851.0,
-        "updatedOn": "23-Sep 9:02"
+        "value": 14.0,
+        "percent": 41.18,
+        "xLot": 6174.0,
+        "updatedOn": "23-Sep 23:37"
       },
       "subscription": {
         "total": null,
@@ -984,7 +1260,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 8:57"
+        "updatedOn": "23-Sep 23:36"
       },
       "subscription": {
         "total": null,

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T04:01:59+00:00",
+  "scrapedAt": "2026-09-23T21:18:33+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 262,
-    "mainboard": 93,
-    "sme": 169
+    "total": 267,
+    "mainboard": 94,
+    "sme": 173
   },
   "ipos": [
     {
@@ -5400,13 +5400,13 @@
         "close": "2026-09-21",
         "allotment": "2026-09-22",
         "refunds": "2026-09-23",
-        "listing": null
+        "listing": "2026-09-24"
       },
       "displayDates": {
         "open": "17-Sep-2026",
         "close": "21-Sep-2026",
         "allotment": "22-Sep-2026",
-        "listing": null
+        "listing": "24-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/kheria-autocomp-logo.png",
       "urls": {
@@ -5424,13 +5424,13 @@
         "close": "2026-09-21",
         "allotment": "2026-09-22",
         "refunds": "2026-09-23",
-        "listing": null
+        "listing": "2026-09-24"
       },
       "displayDates": {
         "open": "17-Sep-2026",
         "close": "21-Sep-2026",
         "allotment": "22-Sep-2026",
-        "listing": null
+        "listing": "24-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/nse-logo.png",
       "urls": {
@@ -5472,13 +5472,13 @@
         "close": "2026-09-21",
         "allotment": "2026-09-22",
         "refunds": "2026-09-23",
-        "listing": null
+        "listing": "2026-09-24"
       },
       "displayDates": {
         "open": "17-Sep-2026",
         "close": "21-Sep-2026",
         "allotment": "22-Sep-2026",
-        "listing": null
+        "listing": "24-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/spectraa-ipo-logo.png",
       "urls": {
@@ -6207,6 +6207,30 @@
       }
     },
     {
+      "ipoId": 3206,
+      "name": "Acme Universal Safezone 9 Ltd.",
+      "slug": "acme-universal-safezone-9-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "refunds": "2026-10-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Sep-2026",
+        "close": "30-Sep-2026",
+        "allotment": "01-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acme-universal-safezone-9-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2197,
       "name": "Pind Hospitality Ltd.",
       "slug": "pind-hospitality-ipo",
@@ -6231,8 +6255,32 @@
       }
     },
     {
+      "ipoId": 2858,
+      "name": "SRIT India Ltd.",
+      "slug": "srit-india-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "refunds": "2026-10-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Sep-2026",
+        "close": "30-Sep-2026",
+        "allotment": "01-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/srit-india-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
       "ipoId": 2657,
-      "name": "Shah Investor's Home Ltd.",
+      "name": "Shah Investor's Home Ltd.;",
       "slug": "shah-investors-home-ipo",
       "type": "mainboard",
       "dates": {
@@ -6279,6 +6327,30 @@
       }
     },
     {
+      "ipoId": 2798,
+      "name": "Black Opal Consultants Ltd.",
+      "slug": "black-opal-consultants-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "refunds": "2026-10-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Sep-2026",
+        "close": "01-Oct-2026",
+        "allotment": "05-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/black-opal-consultants-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2063,
       "name": "EverestIMS Technologies Ltd.",
       "slug": "everestims-technologies-ipo",
@@ -6299,6 +6371,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/everestims-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3194,
+      "name": "Omara Ventures India Ltd.",
+      "slug": "omara-ventures-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/omara-ventures-india-limited-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2743,
+      "name": "Paramount Syntex Ltd.",
+      "slug": "paramount-syntex-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": "2026-10-07",
+        "refunds": "2026-10-08",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "06-Oct-2026",
+        "allotment": "07-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/paramount-syntex-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
