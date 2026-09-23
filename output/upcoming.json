@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T21:03:19+00:00",
+  "scrapedAt": "2026-09-23T04:01:52+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 23,
+    "upcoming": 18,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 23
+    "total": 18
   },
   "ipos": [
+    {
+      "slug": "everestims-technologies-ipo",
+      "ipoId": 2063,
+      "name": "EverestIMS Technologies",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 80.0,
+        "max": 85.0,
+        "display": "₹80–85"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹48.46 Cr",
+      "issueSizeCr": 48.46,
+      "freshIssueCr": 36.61,
+      "ofsCr": 9.41,
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Oneview Corporate",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/everestims-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/everestims-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=everestims-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
+        "gmp": "https://www.investorgain.com/gmp/everestims-technologies-ipo/1637/"
+      },
+      "gmpId": 1637,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in April 2017, EverestIMS Technologies Limited is a software enterprise that offers both Software as a Service (SaaS) solutions and on-premise products and services. The company specializes in digital transformation, IT operations, and AI-driven product solutions to streamline IT processes, improve efficiency, and enhance user experiences. The company offers solutions for remote monitoring of critical network devices, servers, and applications, reducing downtime and improving IT ope",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "pind-hospitality-ipo",
       "ipoId": 2197,
@@ -50,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:32"
+        "updatedOn": "23-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -76,6 +131,116 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 15, 2021, Pind Hospitality Limited is engaged in the hospitality sector, specifically in hotels and restaurants. The company has completed over 5 lakh deliveries and is recognized as one of the long-standing restaurant partners in Pune by third-party food delivery apps.\n\nThe Company have taken four (4) restaurants on leave and license basis in Pune, Maharashtra (“PHL Restaurants”) and one (1) restaurants are taken on leave and license basis by Pind Punjab in Pune, Maharashtr",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "shah-investors-home-ipo",
+      "ipoId": 2657,
+      "name": "Shah Investor's Home",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 159.0,
+        "max": 167.0,
+        "display": "₹159–167"
+      },
+      "lotSize": 85,
+      "issueSize": "-",
+      "issueSizeCr": 90.17,
+      "freshIssueCr": 90.17,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "listing": "2026-10-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "23-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JDA Capital Services",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shah-invesors-home-ipo-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shah-investors-home-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shah-investors-home-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
+        "gmp": "https://www.investorgain.com/gmp/shah-investors-home-ipo/1926/"
+      },
+      "gmpId": 1926,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 1994, Shah Investor's Home Ltd. is retail brokering company that offers a range of services covering equity brokerage services and derivatives brokerage services.\n\nThe company offer services facilitate the buying and selling of financial products such as equities, IPO investing, mutual funds distribution, and other securities.\n\nThe company's primarily focus on providing secondary market brokering services to retail customers, comprising both resident and non-resident Indians. In ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "shivchem-agro-ipo",
+      "ipoId": 2695,
+      "name": "Shivchem Agro",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 59.0,
+        "max": 62.0,
+        "display": "₹59–62"
+      },
+      "lotSize": 2000,
+      "issueSize": "-",
+      "issueSizeCr": 14.01,
+      "freshIssueCr": 13.31,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "listing": "2026-10-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "23-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Shannon Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shivchem-agro-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/shivchem-agro-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shivchem-agro-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shivchem-agro-ipo/2695/",
+        "gmp": "https://www.investorgain.com/gmp/shivchem-agro-ipo/1956/"
+      },
+      "gmpId": 1956,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2021, Shivchem Agro is an ISO 9001:2015, ISO 22000:2018, and ISO 31000:2018 certified agrochemical company based in India. The company manufactures stock, distribute, and sell a wide range of agricultural formulations, including insecticides, fungicides, herbicides, plant growth regulators, rodenticides, and fertilizers. These products are available in both solid (powders) and liquid (emulsifiable concentrates) forms, helping farmers improve crop protection and productivity.\n\nThe",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "runwal-enterprises-ipo",
@@ -105,7 +270,7 @@
         "value": 18.0,
         "percent": 5.9,
         "xLot": 882.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -160,7 +325,7 @@
         "value": 15.0,
         "percent": 10.79,
         "xLot": 1605.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +380,7 @@
         "value": 34.0,
         "percent": 12.5,
         "xLot": 1870.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:36"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -325,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:31"
+        "updatedOn": "23-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -380,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:34"
+        "updatedOn": "23-Sep 9:01"
       },
       "subscription": {
         "total": null,
@@ -435,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:35"
+        "updatedOn": "23-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -461,6 +626,60 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in December 2015, Dudani Retail Limited is an apparel and lifestyle company engaged in the designing, manufacturing, sourcing and supply of apparel and related products through own-brand operations, licensed manufacturing arrangements with Fashion & Lifestyle marketplaces and a supply arrangement with a Quick-Commerce Platform. The Company’s own-brand business primarily focuses on women’s ethnic and fusion wear sold under the brand “Divena”, including suit sets, kurtas, dresses, top",
       "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "shree-tnb-polymers-ipo",
+      "ipoId": 3095,
+      "name": "Shree TNB Polymers Ltd.",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 47.0,
+        "max": 52.0,
+        "display": "₹47–52"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹31.2 Cr",
+      "issueSizeCr": 31.2,
+      "freshIssueCr": 29.64,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": null,
+        "listing": "2026-10-05"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shree-tnb-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shree-tnb-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on March 07, 2007, Shree TNB Polymers Limited is a Silvassa-based polymer manufacturing company specializing in piping systems and plastic solutions. The Company’s products are designed to meet the evolving demands of critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage.\n\nThe company offers a diversified product portfolio comprising HDPE pipes & fittings, PP",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "bench-mark-infotech-services-ipo",
@@ -490,7 +709,7 @@
         "value": 12.0,
         "percent": 10.91,
         "xLot": 14400.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -545,7 +764,7 @@
         "value": 50.0,
         "percent": 12.35,
         "xLot": 1850.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -600,7 +819,7 @@
         "value": 14.0,
         "percent": 21.88,
         "xLot": 28000.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +874,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:35"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -710,7 +929,7 @@
         "value": 11.0,
         "percent": 32.35,
         "xLot": 4851.0,
-        "updatedOn": "22-Sep 23:37"
+        "updatedOn": "23-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -765,7 +984,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Sep 23:36"
+        "updatedOn": "23-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -790,501 +1009,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.\n\nThe Company operates in both shrimp processing and chilli trading segments, offering a diversified agri-export portfolio.",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "armee-infotech-ipo",
-      "ipoId": 2140,
-      "name": "ArMee Infotech",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 350.0,
-        "max": 375.0,
-        "display": "₹350–375"
-      },
-      "lotSize": 40,
-      "issueSize": "₹300.00 Cr",
-      "issueSizeCr": 300.0,
-      "freshIssueCr": 300.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 46.0,
-        "percent": 12.27,
-        "xLot": 1840.0,
-        "updatedOn": "22-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Khandwala Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/armee-infotech-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/armee-infotech-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=armee-infotech-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
-        "gmp": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/"
-      },
-      "gmpId": 1667,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.\n\nAs on June 30, 2026, The comp",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "swastika-infra-ipo",
-      "ipoId": 2287,
-      "name": "Swastika Infra",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 175.0,
-        "max": 185.0,
-        "display": "₹175–185"
-      },
-      "lotSize": 81,
-      "issueSize": "₹160.88 Cr",
-      "issueSizeCr": 160.88,
-      "freshIssueCr": 128.5,
-      "ofsCr": 32.38,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 8.0,
-        "percent": 4.32,
-        "xLot": 648.0,
-        "updatedOn": "22-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Srujan Alpha Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/swastika-infra-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/swastika-infra-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=swastika-infra-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/",
-        "gmp": "https://www.investorgain.com/gmp/swastika-infra-ipo/1708/"
-      },
-      "gmpId": 1708,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and u",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "core-integra-consulting-ipo",
-      "ipoId": 2605,
-      "name": "Core Integra Consulting",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 74.0,
-        "max": 78.0,
-        "display": "₹74–78"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹21.99 Cr",
-      "issueSizeCr": 21.99,
-      "freshIssueCr": 20.88,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Sep 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Marwadi Chandarana Intermediaries",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/coreintegra-consulting-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/core-integra-consulting-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=core-integra-consulting-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/",
-        "gmp": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/"
-      },
-      "gmpId": 1888,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2009, Core Integra Consulting Services Limited is an integrated human resource solutions provider offering staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and Reg Tech platforms under one umbrella. The human resource services offer targeted support in recruitment, staffing, payroll processing, HR advisory including labour compliances, licenses and registration, policy drafting, just in time hiring solutions, retainersh",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "elevate-campuses-ipo",
-      "ipoId": 2647,
-      "name": "Elevate Campuses",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 343.0,
-        "max": 362.0,
-        "display": "₹343–362"
-      },
-      "lotSize": 41,
-      "issueSize": "₹2100.00 Cr",
-      "issueSizeCr": 2100.0,
-      "freshIssueCr": 2100.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 5.0,
-        "percent": 1.38,
-        "xLot": 205.0,
-        "updatedOn": "22-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/elevate-campuses-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/elevate-campuses-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=elevate-campuses-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/",
-        "gmp": "https://www.investorgain.com/gmp/elevate-campuses-ipo/1917/"
-      },
-      "gmpId": 1917,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2005, Elevate Campuses Ltd. is an education infrastructure company engaged in owning, operating and managing on-campus student accommodation for higher education institutions (HEIs) and owning K-12 school assets. The Company operates its student accommodation business under the Good Host Spaces and ScholarZ brands.\n\nAs of March 31, 2026, the Company’s Pre-Acquisition Group had a student accommodation capacity of 80,255 students across 15 cities in India and one city in the United",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "pooja-logistics-ipo",
-      "ipoId": 2724,
-      "name": "Pooja Logistics",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 109.0,
-        "max": 115.0,
-        "display": "₹109–115"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹44.23 Cr",
-      "issueSizeCr": 44.23,
-      "freshIssueCr": 41.95,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Sep 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Share India Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/pooja-logistics-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/pooja-logistics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=pooja-logistics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/",
-        "gmp": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/"
-      },
-      "gmpId": 1982,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”). The company offers cold chain logistics services to a range of industries. Their in-house fleet as on March 31, 2026 comprises over 424 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.\n\nThe company cater to clients operating in the confectionery, dairy and d",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "liqvd-digital-ipo",
-      "ipoId": 2750,
-      "name": "Liqvd Digital",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹39.01 Cr",
-      "issueSizeCr": 39.01,
-      "freshIssueCr": 34.14,
-      "ofsCr": 4.87,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Sep 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Indorient Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/liqvd-digital-logojpg.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/liqvd-digital-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=liqvd-digital-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
-        "gmp": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/"
-      },
-      "gmpId": 2008,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2013, Liqvd Digital India Limited is a digital marketing and media solutions company that helps brands build their online presence, reach the right audience, and drive business growth. Its services include social media management, media planning and buying, online reputation management, creative content production, influencer marketing, SEO, performance marketing, and web and app development.\n\nThe Company works with a diverse range of clients, including large enterprises, mid-siz",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "adroit-industries-ipo",
-      "ipoId": 3007,
-      "name": "Adroit Industries",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 126.0,
-        "max": 134.0,
-        "display": "₹126–134"
-      },
-      "lotSize": 111,
-      "issueSize": "₹150.71 Cr",
-      "issueSizeCr": 150.71,
-      "freshIssueCr": 132.62,
-      "ofsCr": 18.09,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 34.0,
-        "percent": 25.37,
-        "xLot": 3774.0,
-        "updatedOn": "22-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/adroit_ai_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/adroit-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=adroit-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/",
-        "gmp": "https://www.investorgain.com/gmp/adroit-industries-ipo/2268/"
-      },
-      "gmpId": 2268,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 1995, Adroit Industries (India) Limited is a vertically integrated manufacturer and supplier of propeller shafts and torque-transmission components used in driveline systems. The Company offers a portfolio of over 5,000 SKUs comprising precision-machined torque-transmission components, complete propeller shaft assemblies and forged components. Its vertically integrated manufacturing capabilities cover forging, precision machining, heat treatment, assembly, balancing and t",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "skoffset-ipo",
-      "ipoId": 3150,
-      "name": "S.K.Offset",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 119.0,
-        "max": 125.0,
-        "display": "₹119–125"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹29.06 Cr",
-      "issueSizeCr": 29.06,
-      "freshIssueCr": 27.56,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Sep 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Comfort Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sk-offset-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/skoffset-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=skoffset-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
-        "gmp": "https://www.investorgain.com/gmp/skoffset-ipo/2304/"
-      },
-      "gmpId": 2304,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "unitec-fibres-ipo",
-      "ipoId": 3171,
-      "name": "Unitec Fibres",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 83.0,
-        "max": 88.0,
-        "display": "₹83–88"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹34.47 Cr",
-      "issueSizeCr": 34.47,
-      "freshIssueCr": 32.71,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Sep 23:32"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/unitec-fibres-ltd.jpg",
-      "hasDetail": true,
-      "detailPath": "details/unitec-fibres-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=unitec-fibres-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
-        "gmp": "https://www.investorgain.com/gmp/unitec-fibres-ipo/2326/"
-      },
-      "gmpId": 2326,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2005, Unitec Fibres Limited is a manufacturer of Recycled Polyester Staple Fibre (RPSF), producing sustainable polyester fibres from recycled PET flakes, PET chips, and other post-consumer polyester waste. The company supplies RPSF to industries such as automobiles, home furnishings, and textiles, where its products are used in carpets, roof liners, trunks, sofas, curtains, and spinning applications.\n\nThe company operates two manufacturing facilities at the M.I.D.C. Tara",
       "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]

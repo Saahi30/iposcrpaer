@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T21:03:25+00:00",
+  "scrapedAt": "2026-09-23T04:01:59+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 258,
-    "mainboard": 92,
-    "sme": 166
+    "total": 262,
+    "mainboard": 93,
+    "sme": 169
   },
   "ipos": [
     {
@@ -6183,6 +6183,30 @@
       }
     },
     {
+      "ipoId": 3095,
+      "name": "Shree TNB Polymers Ltd.",
+      "slug": "shree-tnb-polymers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-25",
+        "close": "2026-09-29",
+        "allotment": "2026-09-30",
+        "refunds": "2026-10-01",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "25-Sep-2026",
+        "close": "29-Sep-2026",
+        "allotment": "30-Sep-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2197,
       "name": "Pind Hospitality Ltd.",
       "slug": "pind-hospitality-ipo",
@@ -6203,6 +6227,78 @@
       "logo": "https://www.chittorgarh.net/images/ipo/pind-punjab-ipo-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2657,
+      "name": "Shah Investor's Home Ltd.",
+      "slug": "shah-investors-home-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "refunds": "2026-10-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Sep-2026",
+        "close": "30-Sep-2026",
+        "allotment": "01-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shah-invesors-home-ipo-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2695,
+      "name": "Shivchem Agro Ltd.",
+      "slug": "shivchem-agro-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-09-30",
+        "allotment": "2026-10-01",
+        "refunds": "2026-10-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Sep-2026",
+        "close": "30-Sep-2026",
+        "allotment": "01-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shivchem-agro-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shivchem-agro-ipo/2695/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2063,
+      "name": "EverestIMS Technologies Ltd.",
+      "slug": "everestims-technologies-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/everestims-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
