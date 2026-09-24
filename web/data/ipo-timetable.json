@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T21:18:33+00:00",
+  "scrapedAt": "2026-09-24T11:24:03+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 267,
+    "total": 270,
     "mainboard": 94,
-    "sme": 173
+    "sme": 176
   },
   "ipos": [
     {
@@ -5448,13 +5448,13 @@
         "close": "2026-09-21",
         "allotment": "2026-09-22",
         "refunds": "2026-09-23",
-        "listing": null
+        "listing": "2026-09-24"
       },
       "displayDates": {
         "open": "17-Sep-2026",
         "close": "21-Sep-2026",
         "allotment": "22-Sep-2026",
-        "listing": null
+        "listing": "24-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/sonaseclection_logo.jpg",
       "urls": {
@@ -5993,7 +5993,7 @@
     {
       "ipoId": 2543,
       "name": "Acevector Ltd.",
-      "slug": "acevector-ipo",
+      "slug": "snapdeal-ipo",
       "type": "mainboard",
       "dates": {
         "open": "2026-09-25",
@@ -6010,7 +6010,7 @@
       },
       "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
       "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
@@ -6280,7 +6280,7 @@
     },
     {
       "ipoId": 2657,
-      "name": "Shah Investor's Home Ltd.;",
+      "name": "Shah Investor's Home Ltd.",
       "slug": "shah-investors-home-ipo",
       "type": "mainboard",
       "dates": {
@@ -6371,6 +6371,78 @@
       "logo": "https://www.chittorgarh.net/images/ipo/everestims-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2823,
+      "name": "Papadmalji Agro Foods Ltd.",
+      "slug": "papadmalji-agro-foods-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "refunds": "2026-10-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Sep-2026",
+        "close": "01-Oct-2026",
+        "allotment": "05-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/papadmalji-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3197,
+      "name": "Vans Electroengineerings Ltd.",
+      "slug": "vans-electroengineerings-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "refunds": "2026-10-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Sep-2026",
+        "close": "01-Oct-2026",
+        "allotment": "05-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vans-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2424,
+      "name": "Dove Soft Ltd.",
+      "slug": "dove-soft-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dove-soft-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },

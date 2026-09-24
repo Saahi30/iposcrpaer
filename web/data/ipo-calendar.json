@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T21:18:32+00:00",
+  "scrapedAt": "2026-09-24T11:24:02+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 213,
+    "totalEvents": 220,
     "mainboard": 93,
-    "sme": 120,
+    "sme": 127,
     "byEventType": {
       "allotment": 48,
-      "close": 83,
-      "open": 76,
+      "close": 87,
+      "open": 79,
       "other": 6
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=9&year=2026"
       },
       "summary": {
-        "total": 206,
+        "total": 209,
         "mainboard": 91,
-        "sme": 115
+        "sme": 118
       },
       "byDate": {
         "2026-09-01": [
@@ -2973,7 +2973,7 @@
             "eventType": "open",
             "date": "2026-09-24",
             "dateEnd": "2026-09-24",
-            "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equit",
+            "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of 1.00 Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs 385 - Rs 405 Per Equi",
             "type": "mainboard",
             "slug": "a-one-steels-ipo",
             "ipoId": 2000,
@@ -2983,7 +2983,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
               "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20385%20-%20Rs%20405%20Per%20Equi"
             }
           },
           {
@@ -3547,7 +3547,7 @@
             "eventType": "open",
             "date": "2026-09-28",
             "dateEnd": "2026-09-28",
-            "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.54 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+            "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.48 Equity Shares of Rs 10 aggregating up to Rs 34.13 Crore. The price for the issue has been set at Rs 65 - Rs 71 Per",
             "type": "sme",
             "slug": "acme-universal-safezone-9-ipo",
             "ipoId": 3206,
@@ -3557,7 +3557,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15608",
               "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.54%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.48%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2065%20-%20Rs%2071%20Per%20"
             }
           },
           {
@@ -3829,6 +3829,25 @@
             }
           },
           {
+            "title": "Papadmalji Agro Foods IPO Opens on Sep 29, 2026",
+            "company": "Papadmalji Agro Foods",
+            "eventType": "open",
+            "date": "2026-09-29",
+            "dateEnd": "2026-09-29",
+            "details": "Papadmalji Agro Foods Ltd. is entering in the capital market with an IPO of 0.27 Equity Shares of Rs 10 aggregating up to Rs 19.15 Crore. The price for the issue has been set at Rs 69 - Rs 72 Per Equi",
+            "type": "sme",
+            "slug": "papadmalji-agro-foods-ipo",
+            "ipoId": 2823,
+            "eventId": 15621,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15621",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Papadmalji%20Agro%20Foods%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.27%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2019.15%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2069%20-%20Rs%2072%20Per%20Equi"
+            }
+          },
+          {
             "title": "Sai Urja Indo IPO Closes on Sep 29, 2026",
             "company": "Sai Urja Indo",
             "eventType": "close",
@@ -3864,6 +3883,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/shree-tnb-polymers-ipo/3095/#15607",
               "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Shree%20TNB%20Polymers%20IPO%20Closes%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=The%20issue%20of%20Shree%20TNB%20Polymers%20Ltd.%20opens%20on%20Sep%2025%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20"
+            }
+          },
+          {
+            "title": "Vans Electroengineerings IPO Opens on Sep 29, 2026",
+            "company": "Vans Electroengineerings",
+            "eventType": "open",
+            "date": "2026-09-29",
+            "dateEnd": "2026-09-29",
+            "details": "Vans Electroengineerings Ltd. is entering in the capital market with an IPO of 0.29 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+            "type": "sme",
+            "slug": "vans-electroengineerings-ipo",
+            "ipoId": 3197,
+            "eventId": 15623,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15623",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Vans%20Electroengineerings%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.29%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20"
             }
           }
         ],
@@ -3923,6 +3961,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15609",
               "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Closes%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=The%20issue%20of%20Acme%20Universal%20Safezone%209%20Ltd.%20opens%20on%20Sep%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+            }
+          },
+          {
+            "title": "Dove Soft IPO Opens on Sep 30, 2026",
+            "company": "Dove Soft",
+            "eventType": "open",
+            "date": "2026-09-30",
+            "dateEnd": "2026-09-30",
+            "details": "Dove Soft Ltd. is entering in the capital market with an IPO of 0.63 Equity Shares of Rs 10 aggregating up to Rs 69.60 Crore. The price for the issue has been set at Rs 104 - Rs 111 Per Equity Share.I",
+            "type": "sme",
+            "slug": "dove-soft-ipo",
+            "ipoId": 2424,
+            "eventId": 15619,
+            "month": 9,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15619",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Opens%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=Dove%20Soft%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.63%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2069.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20Rs%20111%20Per%20Equity%20Share.I"
             }
           },
           {
@@ -5340,7 +5397,7 @@
           "eventType": "open",
           "date": "2026-09-24",
           "dateEnd": "2026-09-24",
-          "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equit",
+          "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of 1.00 Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs 385 - Rs 405 Per Equi",
           "type": "mainboard",
           "slug": "a-one-steels-ipo",
           "ipoId": 2000,
@@ -5350,7 +5407,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
             "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20385%20-%20Rs%20405%20Per%20Equi"
           }
         },
         {
@@ -7582,7 +7639,7 @@
           "eventType": "open",
           "date": "2026-09-28",
           "dateEnd": "2026-09-28",
-          "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.54 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+          "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.48 Equity Shares of Rs 10 aggregating up to Rs 34.13 Crore. The price for the issue has been set at Rs 65 - Rs 71 Per",
           "type": "sme",
           "slug": "acme-universal-safezone-9-ipo",
           "ipoId": 3206,
@@ -7592,7 +7649,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15608",
             "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.54%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.48%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2065%20-%20Rs%2071%20Per%20"
           }
         },
         {
@@ -7786,6 +7843,25 @@
           }
         },
         {
+          "title": "Papadmalji Agro Foods IPO Opens on Sep 29, 2026",
+          "company": "Papadmalji Agro Foods",
+          "eventType": "open",
+          "date": "2026-09-29",
+          "dateEnd": "2026-09-29",
+          "details": "Papadmalji Agro Foods Ltd. is entering in the capital market with an IPO of 0.27 Equity Shares of Rs 10 aggregating up to Rs 19.15 Crore. The price for the issue has been set at Rs 69 - Rs 72 Per Equi",
+          "type": "sme",
+          "slug": "papadmalji-agro-foods-ipo",
+          "ipoId": 2823,
+          "eventId": 15621,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15621",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Papadmalji%20Agro%20Foods%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.27%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2019.15%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2069%20-%20Rs%2072%20Per%20Equi"
+          }
+        },
+        {
           "title": "Sai Urja Indo IPO Closes on Sep 29, 2026",
           "company": "Sai Urja Indo",
           "eventType": "close",
@@ -7824,6 +7900,25 @@
           }
         },
         {
+          "title": "Vans Electroengineerings IPO Opens on Sep 29, 2026",
+          "company": "Vans Electroengineerings",
+          "eventType": "open",
+          "date": "2026-09-29",
+          "dateEnd": "2026-09-29",
+          "details": "Vans Electroengineerings Ltd. is entering in the capital market with an IPO of 0.29 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+          "type": "sme",
+          "slug": "vans-electroengineerings-ipo",
+          "ipoId": 3197,
+          "eventId": 15623,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15623",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Vans%20Electroengineerings%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.29%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20"
+          }
+        },
+        {
           "title": "Acme Universal Safezone 9 IPO Closes on Sep 30, 2026",
           "company": "Acme Universal Safezone 9",
           "eventType": "close",
@@ -7840,6 +7935,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15609",
             "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Closes%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=The%20issue%20of%20Acme%20Universal%20Safezone%209%20Ltd.%20opens%20on%20Sep%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+          }
+        },
+        {
+          "title": "Dove Soft IPO Opens on Sep 30, 2026",
+          "company": "Dove Soft",
+          "eventType": "open",
+          "date": "2026-09-30",
+          "dateEnd": "2026-09-30",
+          "details": "Dove Soft Ltd. is entering in the capital market with an IPO of 0.63 Equity Shares of Rs 10 aggregating up to Rs 69.60 Crore. The price for the issue has been set at Rs 104 - Rs 111 Per Equity Share.I",
+          "type": "sme",
+          "slug": "dove-soft-ipo",
+          "ipoId": 2424,
+          "eventId": 15619,
+          "month": 9,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15619",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Opens%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=Dove%20Soft%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.63%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2069.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20Rs%20111%20Per%20Equity%20Share.I"
           }
         },
         {
@@ -7929,9 +8043,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 7,
+        "total": 11,
         "mainboard": 2,
-        "sme": 5
+        "sme": 9
       },
       "byDate": {
         "2026-10-01": [
@@ -7952,6 +8066,44 @@
               "news": "https://www.chittorgarh.com/ipo_news/black-opal-consultants-ipo/2798/#15611",
               "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Black%20Opal%20Consultants%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Black%20Opal%20Consultants%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+            }
+          },
+          {
+            "title": "Papadmalji Agro Foods IPO Closes on Oct 1, 2026",
+            "company": "Papadmalji Agro Foods",
+            "eventType": "close",
+            "date": "2026-10-01",
+            "dateEnd": "2026-10-01",
+            "details": "The issue of Papadmalji Agro Foods Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set a",
+            "type": "sme",
+            "slug": "papadmalji-agro-foods-ipo",
+            "ipoId": 2823,
+            "eventId": 15622,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15622",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20a"
+            }
+          },
+          {
+            "title": "Vans Electroengineerings IPO Closes on Oct 1, 2026",
+            "company": "Vans Electroengineerings",
+            "eventType": "close",
+            "date": "2026-10-01",
+            "dateEnd": "2026-10-01",
+            "details": "The issue of Vans Electroengineerings Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been se",
+            "type": "sme",
+            "slug": "vans-electroengineerings-ipo",
+            "ipoId": 3197,
+            "eventId": 15624,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15624",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Vans%20Electroengineerings%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20se"
             }
           }
         ],
@@ -7997,6 +8149,25 @@
         ],
         "2026-10-05": [
           {
+            "title": "Dove Soft IPO Closes on Oct 5, 2026",
+            "company": "Dove Soft",
+            "eventType": "close",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The issue of Dove Soft Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 104 - R",
+            "type": "sme",
+            "slug": "dove-soft-ipo",
+            "ipoId": 2424,
+            "eventId": 15620,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15620",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Dove%20Soft%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20R"
+            }
+          },
+          {
             "title": "EverestIMS Technologies IPO Closes on Oct 5, 2026",
             "company": "EverestIMS Technologies",
             "eventType": "close",
@@ -8032,6 +8203,27 @@
               "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
               "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+            }
+          }
+        ],
+        "2026-10-06": [
+          {
+            "title": "Paramount Syntex IPO Closes on Oct 6, 2026",
+            "company": "Paramount Syntex",
+            "eventType": "close",
+            "date": "2026-10-06",
+            "dateEnd": "2026-10-06",
+            "details": "The issue of Paramount Syntex Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 6, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+            "type": "sme",
+            "slug": "paramount-syntex-ipo",
+            "ipoId": 2743,
+            "eventId": 15617,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15617",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Closes%20on%20Oct%206%2C%202026&location=&dates=20261006/20261007&details=The%20issue%20of%20Paramount%20Syntex%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
             }
           }
         ],
@@ -8135,6 +8327,44 @@
           }
         },
         {
+          "title": "Papadmalji Agro Foods IPO Closes on Oct 1, 2026",
+          "company": "Papadmalji Agro Foods",
+          "eventType": "close",
+          "date": "2026-10-01",
+          "dateEnd": "2026-10-01",
+          "details": "The issue of Papadmalji Agro Foods Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set a",
+          "type": "sme",
+          "slug": "papadmalji-agro-foods-ipo",
+          "ipoId": 2823,
+          "eventId": 15622,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15622",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20a"
+          }
+        },
+        {
+          "title": "Vans Electroengineerings IPO Closes on Oct 1, 2026",
+          "company": "Vans Electroengineerings",
+          "eventType": "close",
+          "date": "2026-10-01",
+          "dateEnd": "2026-10-01",
+          "details": "The issue of Vans Electroengineerings Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been se",
+          "type": "sme",
+          "slug": "vans-electroengineerings-ipo",
+          "ipoId": 3197,
+          "eventId": 15624,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15624",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Vans%20Electroengineerings%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20se"
+          }
+        },
+        {
           "title": "Holiday - Mahatma Gandhi Jayanti",
           "company": "Holiday - Mahatma Gandhi Jayanti",
           "eventType": "other",
@@ -8151,6 +8381,25 @@
             "news": null,
             "chittorgarh": null,
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Mahatma%20Gandhi%20Jayanti&location=&dates=20261002/20261003&details=Mahatma%20Gandhi%20Jayanti"
+          }
+        },
+        {
+          "title": "Dove Soft IPO Closes on Oct 5, 2026",
+          "company": "Dove Soft",
+          "eventType": "close",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The issue of Dove Soft Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 104 - R",
+          "type": "sme",
+          "slug": "dove-soft-ipo",
+          "ipoId": 2424,
+          "eventId": 15620,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15620",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Dove%20Soft%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20R"
           }
         },
         {
@@ -8189,6 +8438,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
             "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+          }
+        },
+        {
+          "title": "Paramount Syntex IPO Closes on Oct 6, 2026",
+          "company": "Paramount Syntex",
+          "eventType": "close",
+          "date": "2026-10-06",
+          "dateEnd": "2026-10-06",
+          "details": "The issue of Paramount Syntex Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 6, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+          "type": "sme",
+          "slug": "paramount-syntex-ipo",
+          "ipoId": 2743,
+          "eventId": 15617,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15617",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Closes%20on%20Oct%206%2C%202026&location=&dates=20261006/20261007&details=The%20issue%20of%20Paramount%20Syntex%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
           }
         },
         {
@@ -9550,7 +9818,7 @@
       "eventType": "open",
       "date": "2026-09-24",
       "dateEnd": "2026-09-24",
-      "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of [.] Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equit",
+      "details": "A-One Steels India Ltd. is entering in the capital market with an IPO of 1.00 Equity Shares of Rs 10 aggregating up to Rs 405.00 Crore. The price for the issue has been set at Rs 385 - Rs 405 Per Equi",
       "type": "mainboard",
       "slug": "a-one-steels-ipo",
       "ipoId": 2000,
@@ -9560,7 +9828,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/a-one-steels-ipo/2000/#15511",
         "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=A-One%20Steels%20IPO%20Opens%20on%20Sep%2024%2C%202026&location=&dates=20260924/20260925&details=A-One%20Steels%20India%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%201.00%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20405.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20385%20-%20Rs%20405%20Per%20Equi"
       }
     },
     {
@@ -11792,7 +12060,7 @@
       "eventType": "open",
       "date": "2026-09-28",
       "dateEnd": "2026-09-28",
-      "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.54 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+      "details": "Acme Universal Safezone 9 Ltd. is entering in the capital market with an IPO of 0.48 Equity Shares of Rs 10 aggregating up to Rs 34.13 Crore. The price for the issue has been set at Rs 65 - Rs 71 Per",
       "type": "sme",
       "slug": "acme-universal-safezone-9-ipo",
       "ipoId": 3206,
@@ -11802,7 +12070,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15608",
         "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.54%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Opens%20on%20Sep%2028%2C%202026&location=&dates=20260928/20260929&details=Acme%20Universal%20Safezone%209%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.48%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.13%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2065%20-%20Rs%2071%20Per%20"
       }
     },
     {
@@ -11996,6 +12264,25 @@
       }
     },
     {
+      "title": "Papadmalji Agro Foods IPO Opens on Sep 29, 2026",
+      "company": "Papadmalji Agro Foods",
+      "eventType": "open",
+      "date": "2026-09-29",
+      "dateEnd": "2026-09-29",
+      "details": "Papadmalji Agro Foods Ltd. is entering in the capital market with an IPO of 0.27 Equity Shares of Rs 10 aggregating up to Rs 19.15 Crore. The price for the issue has been set at Rs 69 - Rs 72 Per Equi",
+      "type": "sme",
+      "slug": "papadmalji-agro-foods-ipo",
+      "ipoId": 2823,
+      "eventId": 15621,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15621",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Papadmalji%20Agro%20Foods%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.27%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2019.15%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2069%20-%20Rs%2072%20Per%20Equi"
+      }
+    },
+    {
       "title": "Sai Urja Indo IPO Closes on Sep 29, 2026",
       "company": "Sai Urja Indo",
       "eventType": "close",
@@ -12034,6 +12321,25 @@
       }
     },
     {
+      "title": "Vans Electroengineerings IPO Opens on Sep 29, 2026",
+      "company": "Vans Electroengineerings",
+      "eventType": "open",
+      "date": "2026-09-29",
+      "dateEnd": "2026-09-29",
+      "details": "Vans Electroengineerings Ltd. is entering in the capital market with an IPO of 0.29 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per",
+      "type": "sme",
+      "slug": "vans-electroengineerings-ipo",
+      "ipoId": 3197,
+      "eventId": 15623,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15623",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Opens%20on%20Sep%2029%2C%202026&location=&dates=20260929/20260930&details=Vans%20Electroengineerings%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.29%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20"
+      }
+    },
+    {
       "title": "Acme Universal Safezone 9 IPO Closes on Sep 30, 2026",
       "company": "Acme Universal Safezone 9",
       "eventType": "close",
@@ -12050,6 +12356,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/acme-universal-safezone-9-ipo/3206/#15609",
         "chittorgarh": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20Universal%20Safezone%209%20IPO%20Closes%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=The%20issue%20of%20Acme%20Universal%20Safezone%209%20Ltd.%20opens%20on%20Sep%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+      }
+    },
+    {
+      "title": "Dove Soft IPO Opens on Sep 30, 2026",
+      "company": "Dove Soft",
+      "eventType": "open",
+      "date": "2026-09-30",
+      "dateEnd": "2026-09-30",
+      "details": "Dove Soft Ltd. is entering in the capital market with an IPO of 0.63 Equity Shares of Rs 10 aggregating up to Rs 69.60 Crore. The price for the issue has been set at Rs 104 - Rs 111 Per Equity Share.I",
+      "type": "sme",
+      "slug": "dove-soft-ipo",
+      "ipoId": 2424,
+      "eventId": 15619,
+      "month": 9,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15619",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Opens%20on%20Sep%2030%2C%202026&location=&dates=20260930/20261001&details=Dove%20Soft%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.63%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2069.60%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20Rs%20111%20Per%20Equity%20Share.I"
       }
     },
     {
@@ -12186,6 +12511,44 @@
       }
     },
     {
+      "title": "Papadmalji Agro Foods IPO Closes on Oct 1, 2026",
+      "company": "Papadmalji Agro Foods",
+      "eventType": "close",
+      "date": "2026-10-01",
+      "dateEnd": "2026-10-01",
+      "details": "The issue of Papadmalji Agro Foods Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set a",
+      "type": "sme",
+      "slug": "papadmalji-agro-foods-ipo",
+      "ipoId": 2823,
+      "eventId": 15622,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15622",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20a"
+      }
+    },
+    {
+      "title": "Vans Electroengineerings IPO Closes on Oct 1, 2026",
+      "company": "Vans Electroengineerings",
+      "eventType": "close",
+      "date": "2026-10-01",
+      "dateEnd": "2026-10-01",
+      "details": "The issue of Vans Electroengineerings Ltd. opens on Sep 29, 2026 and closes for subscription on Oct 1, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been se",
+      "type": "sme",
+      "slug": "vans-electroengineerings-ipo",
+      "ipoId": 3197,
+      "eventId": 15624,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15624",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Closes%20on%20Oct%201%2C%202026&location=&dates=20261001/20261002&details=The%20issue%20of%20Vans%20Electroengineerings%20Ltd.%20opens%20on%20Sep%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20se"
+      }
+    },
+    {
       "title": "Holiday - Mahatma Gandhi Jayanti",
       "company": "Holiday - Mahatma Gandhi Jayanti",
       "eventType": "other",
@@ -12202,6 +12565,25 @@
         "news": null,
         "chittorgarh": null,
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Mahatma%20Gandhi%20Jayanti&location=&dates=20261002/20261003&details=Mahatma%20Gandhi%20Jayanti"
+      }
+    },
+    {
+      "title": "Dove Soft IPO Closes on Oct 5, 2026",
+      "company": "Dove Soft",
+      "eventType": "close",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The issue of Dove Soft Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs 104 - R",
+      "type": "sme",
+      "slug": "dove-soft-ipo",
+      "ipoId": 2424,
+      "eventId": 15620,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15620",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Dove%20Soft%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20104%20-%20R"
       }
     },
     {
@@ -12240,6 +12622,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
         "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+      }
+    },
+    {
+      "title": "Paramount Syntex IPO Closes on Oct 6, 2026",
+      "company": "Paramount Syntex",
+      "eventType": "close",
+      "date": "2026-10-06",
+      "dateEnd": "2026-10-06",
+      "details": "The issue of Paramount Syntex Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 6, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+      "type": "sme",
+      "slug": "paramount-syntex-ipo",
+      "ipoId": 2743,
+      "eventId": 15617,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15617",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Closes%20on%20Oct%206%2C%202026&location=&dates=20261006/20261007&details=The%20issue%20of%20Paramount%20Syntex%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
       }
     },
     {

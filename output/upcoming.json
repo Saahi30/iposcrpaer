@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T21:18:27+00:00",
+  "scrapedAt": "2026-09-24T11:23:57+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 23,
+    "upcoming": 21,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 23
+    "total": 21
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-10-09"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "24-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
+      "slug": "dove-soft-ipo",
+      "ipoId": 2424,
+      "name": "Dove Soft",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 104.0,
+        "max": 111.0,
+        "display": "₹104–111"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹73.26 Cr",
+      "issueSizeCr": 73.26,
+      "freshIssueCr": 55.48,
+      "ofsCr": 14.12,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "24-Sep 16:33"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Swastika Investmart",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/dove-soft-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/dove-soft-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=dove-soft-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+        "gmp": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/"
+      },
+      "gmpId": 1781,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in August 2011, Dove Soft Limited provides integrated cloud-communication solutions through SMS, RCS, Voice, WhatsApp, Email, and other digital channels. The company provides services to enterprises and OTT platforms, including SMS, WhatsApp, Voice, IVR, automated calls, E-mail, and Digital Products. The company serves clients across industries like Telecom, IT, Travel, Entertainment, Media, Advertising, Retail, Real Estate, Healthcare, BFSI, Automobile, E-commerce, and Food & Bever",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
+    {
       "slug": "omara-ventures-india-ipo",
       "ipoId": 3194,
       "name": "Omara Ventures India",
@@ -102,10 +157,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "24-Sep 16:30"
       },
       "subscription": {
         "total": null,
@@ -157,10 +212,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "24-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:33"
+        "updatedOn": "24-Sep 16:29"
       },
       "subscription": {
         "total": null,
@@ -241,6 +296,116 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2020, Black Opal Consultants Limited works with well-known real estate developers such as Gaurs Group, SKA, Galaxy, Shapoorji Pallonji, Max Estates, and M3M to market and sell their residential and commercial projects. The Company signs exclusive or semi-exclusive sales rights to market and sell specific units within a project in return for brokerage income. The Company also works with its Group Entities, such as Aurika Homes Private Limited to market and sell Aurika Homes’ proje",
       "registrar": "Skyline Financial Services Pvt.Ltd."
+    },
+    {
+      "slug": "papadmalji-agro-foods-ipo",
+      "ipoId": 2823,
+      "name": "Papadmalji Agro Foods",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 69.0,
+        "max": 72.0,
+        "display": "₹69–72"
+      },
+      "lotSize": 1600,
+      "issueSize": "₹20.18 Cr",
+      "issueSizeCr": 20.18,
+      "freshIssueCr": 17.49,
+      "ofsCr": 1.66,
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "listing": "2026-10-07"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kreo Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/papadmalji-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/papadmalji-agro-foods-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=papadmalji-agro-foods-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+        "gmp": "https://www.investorgain.com/gmp/papadmalji-agro-foods-ipo/2077/"
+      },
+      "gmpId": 2077,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2017, Papadmalji Agro Foods Ltd is engaged in the processing and manufacturing of agro-based food products, focusing on quality-driven production, sourcing raw agricultural inputs, and delivering packaged food items to consumers. The company offers services including food processing, grading, packaging, storage, and supply of agricultural and processed food products, catering to wholesalers, retailers, and institutional buyers across regional markets.\n\nPapadmalji Agro Foods Ltd e",
+      "registrar": "MAS Services Ltd."
+    },
+    {
+      "slug": "vans-electroengineerings-ipo",
+      "ipoId": 3197,
+      "name": "Vans Electroengineerings",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 112.0,
+        "max": 118.0,
+        "display": "₹112–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹33.98 Cr",
+      "issueSizeCr": 33.98,
+      "freshIssueCr": 32.26,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-29",
+        "close": "2026-10-01",
+        "allotment": "2026-10-05",
+        "listing": "2026-10-07"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vans-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vans-electroengineerings-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vans-electroengineerings-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+        "gmp": "https://www.investorgain.com/gmp/vans-electroengineerings-ipo/2351/"
+      },
+      "gmpId": 2351,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2022, VANS Electroengineerings Limited is engaged in the manufacturing and supply of components used in traction power supply and overhead equipment systems for Indian railway electrification infrastructure, metro systems and renewable energy applications. Its products are primarily supplied to Indian Railways and railway contractors, and the Company operates from its registered office and manufacturing facility in Salem, Tamil Nadu.\n\nThe Company manufactures Single Pole",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "pind-hospitality-ipo",
@@ -270,7 +435,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:36"
+        "updatedOn": "24-Sep 16:31"
       },
       "subscription": {
         "total": null,
@@ -322,10 +487,10 @@
         "listing": "2026-10-06"
       },
       "gmp": {
-        "value": 10.0,
-        "percent": 5.99,
-        "xLot": 850.0,
-        "updatedOn": "23-Sep 23:37"
+        "value": 12.0,
+        "percent": 7.19,
+        "xLot": 1020.0,
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -380,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:36"
+        "updatedOn": "24-Sep 16:28"
       },
       "subscription": {
         "total": null,
@@ -435,7 +600,7 @@
         "value": 12.0,
         "percent": 9.23,
         "xLot": 1380.0,
-        "updatedOn": "23-Sep 23:37"
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -490,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:35"
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -514,7 +679,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in November 2016 (originally established as a partnership firm in April 1994), Acme Universal Safezone 9 Limited is a leading manufacturer of industrial safety footwear under the 'ACME' brand. The company operates in the Personal Protective Equipment (PPE) segment, manufacturing and supplying a wide range of safety shoes for industries such as construction, oil & gas, mining, automotive, pharmaceuticals, chemicals, foundries, and power generation. Its product portfolio includes EVA-",
+      "about": "Incorporated in November 2016, Acme Universal Safezone 9 Limited operates in the Personal Protective Equipment (PPE) segment, focusing on industrial safety footwear for sectors including construction, oil and gas, mining, heavy engineering, automotive, pharmaceuticals, chemical processing, foundry and power generation. It offers 15 product lines across EVA-rubber, Nitrile Rubber and PVC sole types, providing protection against impact, compression, penetration, electrical shock, static electricit",
       "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
@@ -542,10 +707,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 17.0,
-        "percent": 5.57,
-        "xLot": 833.0,
-        "updatedOn": "23-Sep 23:37"
+        "value": 31.0,
+        "percent": 10.16,
+        "xLot": 1519.0,
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -597,10 +762,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 24.0,
-        "percent": 17.27,
-        "xLot": 2568.0,
-        "updatedOn": "23-Sep 23:37"
+        "value": 28.5,
+        "percent": 20.5,
+        "xLot": 3049.5,
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -652,10 +817,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 45.0,
-        "percent": 16.54,
-        "xLot": 2475.0,
-        "updatedOn": "23-Sep 23:37"
+        "value": 60.0,
+        "percent": 22.06,
+        "xLot": 3300.0,
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -683,7 +848,7 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "acevector-ipo",
+      "slug": "snapdeal-ipo",
       "ipoId": 2543,
       "name": "Acevector",
       "type": "mainboard",
@@ -710,7 +875,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:32"
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -724,11 +889,11 @@
       },
       "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
       "hasDetail": true,
-      "detailPath": "details/acevector-ipo.json",
+      "detailPath": "details/snapdeal-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=acevector-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/acevector-ipo/2543/",
-        "gmp": "https://www.investorgain.com/gmp/acevector-ipo/1840/"
+        "local": "./ipo.html?slug=snapdeal-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
+        "gmp": "https://www.investorgain.com/gmp/snapdeal-ipo/1840/"
       },
       "gmpId": 1840,
       "faceValue": "₹1 per share",
@@ -765,7 +930,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:29"
+        "updatedOn": "24-Sep 16:29"
       },
       "subscription": {
         "total": null,
@@ -820,7 +985,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:34"
+        "updatedOn": "24-Sep 16:34"
       },
       "subscription": {
         "total": null,
@@ -875,7 +1040,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Sep 23:37"
+        "updatedOn": "24-Sep 16:36"
       },
       "subscription": {
         "total": null,
@@ -927,10 +1092,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "23-Sep 23:33"
+        "value": 8.0,
+        "percent": 15.38,
+        "xLot": 16000.0,
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -985,7 +1150,7 @@
         "value": 12.0,
         "percent": 10.91,
         "xLot": 14400.0,
-        "updatedOn": "23-Sep 23:37"
+        "updatedOn": "24-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -1011,281 +1176,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2007, Bench Mark Infotech Services Limited is an integrated IT and digital infrastructure solutions company providing end-to-end technology infrastructure solutions to government departments, public sector undertakings, institutional customers, and private sector clients across India. The company specializes in turnkey execution of networking, communication systems, structured cabling, fibre optic infrastructure, surveillance systems, audio-visual solutions, data centre infrastru",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "a-one-steels-ipo",
-      "ipoId": 2000,
-      "name": "A-One Steels",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 385.0,
-        "max": 405.0,
-        "display": "₹385–405"
-      },
-      "lotSize": 37,
-      "issueSize": "₹405.00 Cr",
-      "issueSizeCr": 405.0,
-      "freshIssueCr": 355.0,
-      "ofsCr": 50.0,
-      "dates": {
-        "open": "2026-09-24",
-        "close": "2026-09-28",
-        "allotment": "2026-09-29",
-        "listing": "2026-10-01"
-      },
-      "gmp": {
-        "value": 55.0,
-        "percent": 13.58,
-        "xLot": 2035.0,
-        "updatedOn": "23-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "PL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/a-1-steel-india-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/a-one-steels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=a-one-steels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/",
-        "gmp": "https://www.investorgain.com/gmp/a-one-steels-ipo/1611/"
-      },
-      "gmpId": 1611,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing. The company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.\n\nThe company also manufactures industrial products like met coke and ",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "roopa-screen-ipo",
-      "ipoId": 2651,
-      "name": "Roopa Screen",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 60.0,
-        "max": 64.0,
-        "display": "₹60–64"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹19.20 Cr",
-      "issueSizeCr": 19.2,
-      "freshIssueCr": 17.86,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-24",
-        "close": "2026-09-28",
-        "allotment": "2026-09-29",
-        "listing": "2026-10-01"
-      },
-      "gmp": {
-        "value": 8.0,
-        "percent": 12.5,
-        "xLot": 16000.0,
-        "updatedOn": "23-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Seren Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/roopa-screen-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/roopa-screen-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=roopa-screen-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
-        "gmp": "https://www.investorgain.com/gmp/roopa-screen-ipo/1920/"
-      },
-      "gmpId": 1920,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2013, Roopa Screen Ltd manufactures rotary nickel screens used in rotary screen-printing machines, mainly by textile manufacturers for continuous fabric printing. These cylindrical, perforated metal screens act as stencils, allowing printing paste to pass through and create patterns on fabric. In addition to rotary nickel screens, they are also engaged in the trading of nickel cathodes, which are primarily used as a key raw material in the production process of nickel screens. Su",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "peshwa-wheat-ipo",
-      "ipoId": 2809,
-      "name": "Peshwa Wheat",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 95.0,
-        "max": 101.0,
-        "display": "₹95–101"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹53.52 Cr",
-      "issueSizeCr": 53.52,
-      "freshIssueCr": 50.54,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-24",
-        "close": "2026-09-28",
-        "allotment": "2026-09-29",
-        "listing": "2026-10-01"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "23-Sep 23:33"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Finaax Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/peshwa-wheat-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/peshwa-wheat-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=peshwa-wheat-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/",
-        "gmp": "https://www.investorgain.com/gmp/peshwa-wheat-ipo/2063/"
-      },
-      "gmpId": 2063,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2023, Peshwa Wheat Ltd is engaged in the processing of wheat-based products such as Atta (wheat flour), Sortex Wheat, Broken Wheat, and other flour products including Gram Flour (Besan) and Maize Flour. The company supplies products mainly in 50 kg and 30 kg packaging. During production, by-products like wheat bran are used for cattle feed, to operate with zero waste and zero discharge.\n\nThe company operate a modern, fully integrated flour processing unit located at Indore, Madhy",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "moneyview-ipo",
-      "ipoId": 2936,
-      "name": "Moneyview",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 32.0,
-        "max": 34.0,
-        "display": "₹32–34"
-      },
-      "lotSize": 441,
-      "issueSize": "₹1091.68 Cr",
-      "issueSizeCr": 1091.68,
-      "freshIssueCr": 750.0,
-      "ofsCr": 341.68,
-      "dates": {
-        "open": "2026-09-24",
-        "close": "2026-09-28",
-        "allotment": "2026-09-29",
-        "listing": "2026-10-01"
-      },
-      "gmp": {
-        "value": 14.0,
-        "percent": 41.18,
-        "xLot": 6174.0,
-        "updatedOn": "23-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/moneyview-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/moneyview-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=moneyview-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/moneyview-ipo/2936/",
-        "gmp": "https://www.investorgain.com/gmp/moneyview-ipo/2198/"
-      },
-      "gmpId": 2198,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2014, Moneyview Ltd. is a fintech company incorporated in India that provides digital financial services through its mobile platform. The company focuses on offering accessible and technology-driven financial solutions to individuals. The company operates a digital platform that provides personal loans, credit tracking, and financial management services. It uses data analytics and technology to assess creditworthiness and deliver quick loan approvals to customers.\n\nThe company's ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "green-asia-impex-ipo",
-      "ipoId": 2963,
-      "name": "Green Asia Impex",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 85.0,
-        "max": 90.0,
-        "display": "₹85–90"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹60.10 Cr",
-      "issueSizeCr": 60.1,
-      "freshIssueCr": 53.1,
-      "ofsCr": 7.0,
-      "dates": {
-        "open": "2026-09-24",
-        "close": "2026-09-28",
-        "allotment": "2026-09-29",
-        "listing": "2026-10-01"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "23-Sep 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Indorient Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/green_asia_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/green-asia-impex-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=green-asia-impex-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
-        "gmp": "https://www.investorgain.com/gmp/green-asia-impex-ipo/2224/"
-      },
-      "gmpId": 2224,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.\n\nThe Company operates in both shrimp processing and chilli trading segments, offering a diversified agri-export portfolio.",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
