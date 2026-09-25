@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T11:29:59+00:00",
+  "scrapedAt": "2026-09-25T16:53:53+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -5520,13 +5520,13 @@
         "close": "2026-09-23",
         "allotment": "2026-09-24",
         "refunds": "2026-09-25",
-        "listing": null
+        "listing": "2026-09-28"
       },
       "displayDates": {
         "open": "21-Sep-2026",
         "close": "23-Sep-2026",
         "allotment": "24-Sep-2026",
-        "listing": null
+        "listing": "28-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/fx-multitech-ipo-logo.png",
       "urls": {
@@ -5544,13 +5544,13 @@
         "close": "2026-09-23",
         "allotment": "2026-09-24",
         "refunds": "2026-09-25",
-        "listing": null
+        "listing": "2026-09-28"
       },
       "displayDates": {
         "open": "21-Sep-2026",
         "close": "23-Sep-2026",
         "allotment": "24-Sep-2026",
-        "listing": null
+        "listing": "28-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/robokids-logo.png",
       "urls": {
@@ -5568,13 +5568,13 @@
         "close": "2026-09-23",
         "allotment": "2026-09-24",
         "refunds": "2026-09-25",
-        "listing": null
+        "listing": "2026-09-28"
       },
       "displayDates": {
         "open": "21-Sep-2026",
         "close": "23-Sep-2026",
         "allotment": "24-Sep-2026",
-        "listing": null
+        "listing": "28-Sep-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/vivekanad-cotspin-logo.png",
       "urls": {
@@ -6568,7 +6568,7 @@
     },
     {
       "ipoId": 2703,
-      "name": "SJP Ultrasonic Ltd.",
+      "name": "SJP Ultrasonics Ltd.",
       "slug": "sjp-ultrasonic-ipo",
       "type": "sme",
       "dates": {

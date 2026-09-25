@@ -322,8 +322,8 @@
     "source": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/"
   },
   "subscription": {
-    "summary": "Liqvd Digital IPO subscribed 5.07 times. The public issue subscribed 1.41 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 21.01 times in the NII category by September 25, 2026 4:53:15 PM (Day 3).",
-    "total": 5.07,
+    "summary": "Liqvd Digital IPO subscribed 5.08 times. The public issue subscribed 1.43 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 21.02 times in the NII category by September 25, 2026 6:52:18 PM (Day 3).",
+    "total": 5.08,
     "applications": null,
     "byCategory": [
       {
@@ -336,10 +336,10 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "21.01",
+        "Subscription (x)": "21.02",
         "Shares Offered*": "14,64,000",
-        "Shares bid for": "3,07,58,000",
-        "Total Amt* (₹ Cr.)": "166.093",
+        "Shares bid for": "3,07,70,000",
+        "Total Amt* (₹ Cr.)": "166.158",
         "Total Applications": "0"
       },
       {
@@ -352,27 +352,27 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.30",
+        "Subscription (x)": "2.33",
         "Shares Offered*": "3,60,000",
-        "Shares bid for": "8,28,000",
-        "Total Amt* (₹ Cr.)": "4.471",
+        "Shares bid for": "8,40,000",
+        "Total Amt* (₹ Cr.)": "4.536",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.41",
+        "Subscription (x)": "1.43",
         "Shares Offered*": "39,68,000",
-        "Shares bid for": "56,00,000",
-        "Total Amt* (₹ Cr.)": "30.240",
+        "Shares bid for": "56,80,000",
+        "Total Amt* (₹ Cr.)": "30.672",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "5.07",
+        "Subscription (x)": "5.08",
         "Shares Offered*": "75,94,000",
-        "Shares bid for": "3,85,20,000",
-        "Total Amt* (₹ Cr.)": "208.008",
-        "Total Applications": "2,981"
+        "Shares bid for": "3,86,12,000",
+        "Total Amt* (₹ Cr.)": "208.505",
+        "Total Applications": "2,998"
       }
     ],
     "dayWise": [
@@ -397,11 +397,11 @@
       {
         "Date": "Sep 25 (Day 3)",
         "QIB (Ex Anchor)": "1.00",
-        "NII*": "21.01",
+        "NII*": "21.02",
         "NII (> ₹10L)": "27.11",
-        "NII (< ₹10L)": "2.30",
-        "Individual Investors": "1.41",
-        "Total": "5.07"
+        "NII (< ₹10L)": "2.33",
+        "Individual Investors": "1.43",
+        "Total": "5.08"
       }
     ]
   },
@@ -427,7 +427,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 16:37"
+      "updatedOn": "25-Sep 22:00"
     },
     "leadManager": "Indorient Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/liqvd-digital-logojpg.jpeg",
@@ -437,5 +437,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T11:29:14+00:00"
+  "scrapedAt": "2026-09-25T16:53:12+00:00"
 }
