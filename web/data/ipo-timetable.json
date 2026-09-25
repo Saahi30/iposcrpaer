@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-24T21:20:15+00:00",
+  "scrapedAt": "2026-09-25T04:11:33+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 270,
-    "mainboard": 94,
-    "sme": 176
+    "total": 275,
+    "mainboard": 95,
+    "sme": 180
   },
   "ipos": [
     {
@@ -6423,6 +6423,30 @@
       }
     },
     {
+      "ipoId": 2748,
+      "name": "Acme India Industries Ltd.",
+      "slug": "acme-india-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": "2026-10-07",
+        "refunds": "2026-10-08",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "06-Oct-2026",
+        "allotment": "07-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acme-india-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 2424,
       "name": "Dove Soft Ltd.",
       "slug": "dove-soft-ipo",
@@ -6444,6 +6468,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2974,
+      "name": "Nityas Gems & Jewellery Ltd.",
+      "slug": "nityas-gems-jewellery-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/nityas-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {
@@ -6491,6 +6539,78 @@
       "logo": "https://www.chittorgarh.net/images/ipo/paramount-syntex-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2703,
+      "name": "SJP Ultrasonic Ltd.",
+      "slug": "sjp-ultrasonic-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sjp-ultrasonics-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sjp-ultrasonic-ipo/2703/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3086,
+      "name": "Sollfege Smart Electronics Ltd.",
+      "slug": "sollfege-smart-electronics-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sollfege-smart-Electronics-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3216,
+      "name": "TNA Solutions Ltd.",
+      "slug": "tna-solutions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": "2026-10-07",
+        "refunds": "2026-10-08",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "06-Oct-2026",
+        "allotment": "07-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }

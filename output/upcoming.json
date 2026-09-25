@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-24T21:20:07+00:00",
+  "scrapedAt": "2026-09-25T04:11:27+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,67 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 21,
+    "upcoming": 18,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 21
+    "total": 18
   },
   "ipos": [
+    {
+      "slug": "eventions-ipo",
+      "ipoId": 3006,
+      "name": "Eventions Ltd.",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-01-03",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Professionals",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/eventions-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/eventions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=eventions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eventions-ipo/3006/",
+        "gmp": null
+      },
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated 2020, Eventions Limited is engaged in providing event management and experiential marketing services. It specializes in planning and executing corporate events, brand activations, exhibitions, conferences, and promotional campaigns.\n\nThe company offers end-to-end solutions, including event conceptualization, design, logistics, and on-ground execution. It caters to corporate clients across various industries, helping them enhance brand visibility and customer engagement through custo",
+      "registrar": "Mudra RTA Ventures Private Limited"
+    },
     {
       "slug": "paramount-syntex-ipo",
       "ipoId": 2743,
@@ -50,7 +104,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 5:55"
+        "updatedOn": "25-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -76,6 +130,116 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 1996, Paramount Syntex Ltd. is engaged in the manufacturing of synthetic fibres, dyed fibres, and various types of yarns, including acrylic, polyester, wool, nylon, and blended yarns. The Company’s manufacturing units are located at Village Mangarh, Machiwara Road, Kohara, Ludhiana, Punjab, with a combined area of approximately 7,268.73 sq. yards.\n\nParamount Syntex operates with a fully integrated setup comprising fibre processing, tow dyeing, hank dyeing, spinning, bulking, and ",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "acme-india-industries-ipo",
+      "ipoId": 2748,
+      "name": "Acme India Industries",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 186.0,
+        "max": 196.0,
+        "display": "₹186–196"
+      },
+      "lotSize": 600,
+      "issueSize": "₹121.69 Cr",
+      "issueSizeCr": 121.69,
+      "freshIssueCr": 99.82,
+      "ofsCr": 15.71,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": "2026-10-07",
+        "listing": "2026-10-09"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/acme-india-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/acme-india-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=acme-india-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
+        "gmp": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/"
+      },
+      "gmpId": 2006,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Acme India is engaged in the Indian railway rolling stock sector, with a strong focus on designing, manufacturing, and maintaining railway coach interiors. The company works mainly through government tenders and provide turnkey solutions for furnishing new railway coaches, refurbishing old ones, and upgrading coach toilets. It also manufacture and supply various components to Indian Railways, ensuring our products meet their standards for comfort, safety, hygiene, and functionality.\n\nThe company",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "tna-solutions-ipo",
+      "ipoId": 3216,
+      "name": "TNA Solutions",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 66.0,
+        "max": 70.0,
+        "display": "₹66–70"
+      },
+      "lotSize": 2000,
+      "issueSize": "-",
+      "issueSizeCr": 37.86,
+      "freshIssueCr": 35.95,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-06",
+        "allotment": null,
+        "listing": "2026-10-09"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": 0.0,
+        "updatedOn": "25-Sep 9:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Credora Partners",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/tna-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=tna-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
+        "gmp": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/"
+      },
+      "gmpId": 2370,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 2021, TNA Solutions Limited is engaged in the manufacturing of home textile products for domestic and international customers. Its manufacturing facility is located in Indore, Madhya Pradesh, where it converts processed fabrics into finished home furnishing products based on customer specifications. The Company offers a diversified portfolio of home textile products, including sheet sets, pillow shells and covers, towels, and top-of-bed products such as comforters, quil",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "dove-soft-ipo",
@@ -105,7 +269,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:32"
+        "updatedOn": "25-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -131,6 +295,171 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in August 2011, Dove Soft Limited provides integrated cloud-communication solutions through SMS, RCS, Voice, WhatsApp, Email, and other digital channels. The company provides services to enterprises and OTT platforms, including SMS, WhatsApp, Voice, IVR, automated calls, E-mail, and Digital Products. The company serves clients across industries like Telecom, IT, Travel, Entertainment, Media, Advertising, Retail, Real Estate, Healthcare, BFSI, Automobile, E-commerce, and Food & Bever",
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
+    {
+      "slug": "sjp-ultrasonic-ipo",
+      "ipoId": 2703,
+      "name": "SJP Ultrasonic",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 67.0,
+        "max": 67.0,
+        "display": "₹67"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹23.45 Cr",
+      "issueSizeCr": 23.45,
+      "freshIssueCr": 22.27,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Khandwala Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sjp-ultrasonics-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sjp-ultrasonic-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sjp-ultrasonic-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sjp-ultrasonic-ipo/2703/",
+        "gmp": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/"
+      },
+      "gmpId": 1964,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on January 27, 2012, SJP Ultrasonic Ltd. is engaged in the end-to-end plastic joining and automation solution providers. The company offers specialised solutions mainly in the Automotive industry and industries related to Medical, Electrical, Electronics, Textile, FMCG, Toys, Gift & Stationery, Food & Packaging, Defence & Educational Institutes. The sale of the products and services is majorly made to manufacturers engaged in various industries, which makes model business to busines",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
+      "slug": "nityas-gems-jewellery-ipo",
+      "ipoId": 2974,
+      "name": "Nityas Gems & Jewellery",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 70.0,
+        "max": 75.0,
+        "display": "₹70–75"
+      },
+      "lotSize": 200,
+      "issueSize": "₹108.35 Cr",
+      "issueSizeCr": 108.35,
+      "freshIssueCr": 108.35,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Choice Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/nityas-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/nityas-gems-jewellery-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=nityas-gems-jewellery-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+        "gmp": "https://www.investorgain.com/gmp/nityas-gems-jewellery-ipo/2235/"
+      },
+      "gmpId": 2235,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Founded in April 2026, Nityas Gems and Jewellery Limited specialises in the design, manufacturing, and sale of lab-grown diamond-studded gold jewellery in India.\n\nThe company operate through a business-to-business (B2B) model for retailers and wholesalers, as well as a direct-to-consumer (D2C) approach via our subsidiary, Ayaani Diamonds and Jewellery Private Limited.\n\nThe company's operations encompass the entire jewellery value chain, including raw material management, product design, manufact",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "sollfege-smart-electronics-ipo",
+      "ipoId": 3086,
+      "name": "Sollfege Smart Electronics",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 55.0,
+        "max": 55.0,
+        "display": "₹55"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹21.78 Cr",
+      "issueSizeCr": 21.78,
+      "freshIssueCr": 20.68,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Finshore Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sollfege-smart-Electronics-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sollfege-smart-electronics-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sollfege-smart-electronics-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
+        "gmp": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/"
+      },
+      "gmpId": 2274,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2012, Sollfege Smart Electronics Limited is engaged in the premium segment of audio, video, home automation, smart living, lifestyle electronics, and wellness solutions. The company is focused on delivering integrated and technology-driven solutions that combine high-quality products with design, convenience, and functionality. It operates through a combination of showrooms, experience centres, and an online platform, enabling customers to experience, evaluate, and purchase produ",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "omara-ventures-india-ipo",
@@ -160,7 +489,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:32"
+        "updatedOn": "25-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -215,7 +544,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:28"
+        "updatedOn": "25-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -270,7 +599,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:30"
+        "updatedOn": "25-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -322,10 +651,10 @@
         "listing": "2026-10-07"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "25-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -380,7 +709,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:29"
+        "updatedOn": "25-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -435,7 +764,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:28"
+        "updatedOn": "25-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -490,7 +819,7 @@
         "value": 12.0,
         "percent": 7.19,
         "xLot": 1020.0,
-        "updatedOn": "24-Sep 23:37"
+        "updatedOn": "25-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -545,7 +874,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:31"
+        "updatedOn": "25-Sep 9:00"
       },
       "subscription": {
         "total": null,
@@ -597,10 +926,10 @@
         "listing": "2026-10-06"
       },
       "gmp": {
-        "value": 21.0,
-        "percent": 16.15,
-        "xLot": 2415.0,
-        "updatedOn": "24-Sep 23:37"
+        "value": 22.0,
+        "percent": 16.92,
+        "xLot": 2530.0,
+        "updatedOn": "25-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +984,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "24-Sep 23:32"
+        "updatedOn": "25-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -681,501 +1010,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in November 2016, Acme Universal Safezone 9 Limited operates in the Personal Protective Equipment (PPE) segment, focusing on industrial safety footwear for sectors including construction, oil and gas, mining, heavy engineering, automotive, pharmaceuticals, chemical processing, foundry and power generation. It offers 15 product lines across EVA-rubber, Nitrile Rubber and PVC sole types, providing protection against impact, compression, penetration, electrical shock, static electricit",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "runwal-enterprises-ipo",
-      "ipoId": 2298,
-      "name": "Runwal Enterprises",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 290.0,
-        "max": 305.0,
-        "display": "₹290–305"
-      },
-      "lotSize": 49,
-      "issueSize": "₹499.83 Cr",
-      "issueSizeCr": 499.83,
-      "freshIssueCr": 499.83,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 37.0,
-        "percent": 12.13,
-        "xLot": 1813.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "ICICI Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/runwal-enterprises-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/runwal-enterprises-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=runwal-enterprises-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
-        "gmp": "https://www.investorgain.com/gmp/runwal-enterprises-ipo/1711/"
-      },
-      "gmpId": 1711,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2016, Runwal Enterprises Limited is a real estate developer with a presence across the full spectrum of real estate development, with a focus on residential projects across affordable, mid-income and luxury segments, along with commercial spaces, retail malls and educational buildings. The Company has a strong presence in Mumbai and is a recognized brand in the real estate industry. The Company is ranked third in Mumbai in terms of new launches and sales, with approximat",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "german-green-steel-and-power-ipo",
-      "ipoId": 2497,
-      "name": "German Green Steel",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 132.0,
-        "max": 139.0,
-        "display": "₹132–139"
-      },
-      "lotSize": 107,
-      "issueSize": "₹303.90 Cr",
-      "issueSizeCr": 303.9,
-      "freshIssueCr": 290.0,
-      "ofsCr": 13.9,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 29.0,
-        "percent": 20.86,
-        "xLot": 3103.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Systematix Corporate",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/german-green-steel-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/german-green-steel-and-power-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=german-green-steel-and-power-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
-        "gmp": "https://www.investorgain.com/gmp/german-green-steel-and-power-ipo/1812/"
-      },
-      "gmpId": 1812,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2008, German Green Steel and Power Limited is an iron and steel manufacturer primarily operating in the western region of India, with a strong presence in Gujarat and a focus on TMX Bars. The company is predominantly conducted on a business-to-business basis with three (3) major types of customers, namely (i) distributors, (ii) dealers and (iii) institutional customers. The brand “German TMT” has established strong recognition for TMT Bars in Gujarat.\n\nThe company's manufacturing",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "orient-cables-ipo",
-      "ipoId": 2532,
-      "name": "Orient Cables",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 258.0,
-        "max": 272.0,
-        "display": "₹258–272"
-      },
-      "lotSize": 55,
-      "issueSize": "₹552.00 Cr",
-      "issueSizeCr": 552.0,
-      "freshIssueCr": 320.0,
-      "ofsCr": 232.0,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 113.0,
-        "percent": 41.54,
-        "xLot": 6215.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/orient-cables-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/orient-cables-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=orient-cables-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/",
-        "gmp": "https://www.investorgain.com/gmp/orient-cables-ipo/1832/"
-      },
-      "gmpId": 1832,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in September 2005, Orient Cables (India) Limited is a manufacturer of networking cables and passive networking equipment. The Company has nearly two decades of experience in the networking cables and passive networking equipment industry and caters to industries including broadband, telecommunications, data centres, renewable energy, smart building automation and security, system integration, FMEG and automotive.\n\nIts product portfolio includes CAT5, CAT5e, CAT6 and CAT6A networking",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "snapdeal-ipo",
-      "ipoId": 2543,
-      "name": "Acevector",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 30.0,
-        "max": 32.0,
-        "display": "₹30–32"
-      },
-      "lotSize": 468,
-      "issueSize": "₹420.00 Cr",
-      "issueSizeCr": 420.0,
-      "freshIssueCr": 287.0,
-      "ofsCr": 133.0,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 6.25,
-        "xLot": 936.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/snapdeal-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=snapdeal-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
-        "gmp": "https://www.investorgain.com/gmp/snapdeal-ipo/1840/"
-      },
-      "gmpId": 1840,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2007, Acevector Ltd. operates an asset-light digital commerce ecosystem through its subsidiaries, spanning data, technology, and AI-driven businesses. Its operations include a value-focused e-commerce marketplace, e-commerce enablement SaaS platforms, and consumer brand businesses.\n\nThe ecosystem comprises: (i) Snapdeal, a value-driven lifestyle e-commerce marketplace offering affordable and quality merchandise across lifestyle categories (ii) Uniware, Convertway, and Shipway, pr",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "sai-urja-indo-ipo",
-      "ipoId": 2655,
-      "name": "Sai Urja Indo",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 107.0,
-        "max": 113.0,
-        "display": "₹107–113"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹24.95 Cr",
-      "issueSizeCr": 24.95,
-      "freshIssueCr": 18.22,
-      "ofsCr": 4.28,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "24-Sep 23:28"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Shannon Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sai-urja-ipo.png",
-      "hasDetail": true,
-      "detailPath": "details/sai-urja-indo-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sai-urja-indo-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/",
-        "gmp": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/"
-      },
-      "gmpId": 1924,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&M) and other support services in industrial plants, primarily in power generation industry and other industries like iron & steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, ",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "himalayan-solar-ipo",
-      "ipoId": 2716,
-      "name": "Himalayan Solar",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 98.0,
-        "max": 103.0,
-        "display": "₹98–103"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹68.03 Cr",
-      "issueSizeCr": 68.03,
-      "freshIssueCr": 57.26,
-      "ofsCr": 7.35,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "24-Sep 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Finshore Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/himalayan-solar-ipo-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/himalayan-solar-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=himalayan-solar-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/",
-        "gmp": "https://www.investorgain.com/gmp/himalayan-solar-ipo/1975/"
-      },
-      "gmpId": 1975,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.\n\nAs on March 31, 2026, the company has implemented more than 85000 HP capacity of Solar Water Pumping Sy",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "dudani-retail-ipo",
-      "ipoId": 2998,
-      "name": "Dudani Retail",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 29.0,
-        "max": 29.0,
-        "display": "₹29"
-      },
-      "lotSize": 4000,
-      "issueSize": "₹10.54 Cr",
-      "issueSizeCr": 10.54,
-      "freshIssueCr": 10.01,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 10.34,
-        "xLot": 12000.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Finshore Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dudaniretail_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/dudani-retail-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=dudani-retail-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/",
-        "gmp": "https://www.investorgain.com/gmp/dudani-retail-ipo/2259/"
-      },
-      "gmpId": 2259,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2015, Dudani Retail Limited is an apparel and lifestyle company engaged in the designing, manufacturing, sourcing and supply of apparel and related products through own-brand operations, licensed manufacturing arrangements with Fashion & Lifestyle marketplaces and a supply arrangement with a Quick-Commerce Platform. The Company’s own-brand business primarily focuses on women’s ethnic and fusion wear sold under the brand “Divena”, including suit sets, kurtas, dresses, top",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "shree-tnb-polymers-ipo",
-      "ipoId": 3095,
-      "name": "Shree TNB Polymers",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 47.0,
-        "max": 52.0,
-        "display": "₹47–52"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹31.20 Cr",
-      "issueSizeCr": 31.2,
-      "freshIssueCr": 29.64,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "24-Sep 23:29"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Makers",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/shree-tnb-polymers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shree-tnb-polymers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
-        "gmp": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/"
-      },
-      "gmpId": 2282,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated on March 07, 2007, Shree TNB Polymers Limited is a Silvassa-based polymer manufacturing company specializing in piping systems and plastic solutions. The Company’s products are designed to meet the evolving demands of critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage.\n\nThe company offers a diversified product portfolio comprising HDPE pipes & fittings, PP",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "bench-mark-infotech-services-ipo",
-      "ipoId": 3212,
-      "name": "Bench Mark Infotech Services",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 104.0,
-        "max": 110.0,
-        "display": "₹104–110"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹42.44 Cr",
-      "issueSizeCr": 42.44,
-      "freshIssueCr": 35.27,
-      "ofsCr": 5.04,
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "listing": "2026-10-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "24-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "GYR Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bench-mark-infotech-services-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bench-mark-infotech-services-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/",
-        "gmp": "https://www.investorgain.com/gmp/bench-mark-infotech-services-ipo/2366/"
-      },
-      "gmpId": 2366,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2007, Bench Mark Infotech Services Limited is an integrated IT and digital infrastructure solutions company providing end-to-end technology infrastructure solutions to government departments, public sector undertakings, institutional customers, and private sector clients across India. The company specializes in turnkey execution of networking, communication systems, structured cabling, fibre optic infrastructure, surveillance systems, audio-visual solutions, data centre infrastru",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
