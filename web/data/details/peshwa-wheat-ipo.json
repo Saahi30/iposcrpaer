@@ -474,9 +474,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 95.0,
+      "min": 101.0,
       "max": 101.0,
-      "display": "₹95–101"
+      "display": "₹101"
     },
     "lotSize": 1200,
     "issueSize": "₹53.52 Cr",
@@ -490,7 +490,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 21:53"
+      "updatedOn": "25-Sep 23:30"
     },
     "leadManager": "Finaax Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/peshwa-wheat-logo.png",
@@ -500,5 +500,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T16:52:58+00:00"
+  "scrapedAt": "2026-09-25T21:17:29+00:00"
 }

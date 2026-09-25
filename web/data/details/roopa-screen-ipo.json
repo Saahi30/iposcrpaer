@@ -544,9 +544,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 60.0,
+      "min": 64.0,
       "max": 64.0,
-      "display": "₹60–64"
+      "display": "₹64"
     },
     "lotSize": 2000,
     "issueSize": "₹19.20 Cr",
@@ -560,7 +560,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 22:02"
+      "updatedOn": "25-Sep 23:37"
     },
     "leadManager": "Seren Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/roopa-screen-logo.png",
@@ -570,5 +570,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T16:52:57+00:00"
+  "scrapedAt": "2026-09-25T21:17:28+00:00"
 }

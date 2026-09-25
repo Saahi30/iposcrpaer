@@ -436,9 +436,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 258.0,
+      "min": 272.0,
       "max": 272.0,
-      "display": "₹258–272"
+      "display": "₹272"
     },
     "lotSize": 55,
     "issueSize": "₹552.00 Cr",
@@ -449,10 +449,10 @@
       "listing": "2026-10-05"
     },
     "gmp": {
-      "value": 97.0,
-      "percent": 35.66,
-      "xLot": 5335.0,
-      "updatedOn": "25-Sep 22:02"
+      "value": 80.0,
+      "percent": 29.41,
+      "xLot": 4400.0,
+      "updatedOn": "25-Sep 23:37"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/orient-cables-logo.jpg",
@@ -462,5 +462,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T16:52:45+00:00"
+  "scrapedAt": "2026-09-25T21:17:16+00:00"
 }
