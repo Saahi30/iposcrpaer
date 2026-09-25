@@ -371,8 +371,8 @@
     "source": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/"
   },
   "subscription": {
-    "summary": "Unitec Fibres IPO subscribed 0.09 times. The public issue subscribed 0.12 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.12 times in the NII category by September 24, 2026 5:05:28 PM (Day 2).",
-    "total": 0.09,
+    "summary": "Unitec Fibres IPO subscribed 3.87 times. The public issue subscribed 2.64 times in the individual investors category, 5.30 times in QIB (Ex Anchor), and 4.85 times in the NII category by September 25, 2026 4:54:07 PM (Day 3).",
+    "total": 3.87,
     "applications": null,
     "byCategory": [
       {
@@ -393,51 +393,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "5.30",
         "Shares Offered*": "7,40,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "39,26,400",
+        "Total Amt* (₹ Cr.)": "34.552",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "4.85",
         "Shares Offered*": "5,63,200",
-        "Shares bid for": "67,200",
-        "Total Amt* (₹ Cr.)": "0.591",
+        "Shares bid for": "27,32,800",
+        "Total Amt* (₹ Cr.)": "24.049",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.10",
+        "Subscription (x)": "4.47",
         "Shares Offered*": "3,76,000",
-        "Shares bid for": "38,400",
-        "Total Amt* (₹ Cr.)": "0.338",
+        "Shares bid for": "16,80,000",
+        "Total Amt* (₹ Cr.)": "14.784",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.15",
+        "Subscription (x)": "5.62",
         "Shares Offered*": "1,87,200",
-        "Shares bid for": "28,800",
-        "Total Amt* (₹ Cr.)": "0.253",
+        "Shares bid for": "10,52,800",
+        "Total Amt* (₹ Cr.)": "9.265",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "2.64",
         "Shares Offered*": "13,05,600",
-        "Shares bid for": "1,56,800",
-        "Total Amt* (₹ Cr.)": "1.380",
+        "Shares bid for": "34,49,600",
+        "Total Amt* (₹ Cr.)": "30.356",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.09",
+        "Subscription (x)": "3.87",
         "Shares Offered*": "26,09,600",
-        "Shares bid for": "2,24,000",
-        "Total Amt* (₹ Cr.)": "1.971",
-        "Total Applications": "62"
+        "Shares bid for": "1,01,08,800",
+        "Total Amt* (₹ Cr.)": "88.957",
+        "Total Applications": "1,413"
       }
     ],
     "dayWise": [
@@ -458,6 +458,15 @@
         "NII (< ₹10L)": "0.15",
         "Individual Investors": "0.12",
         "Total": "0.09"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "5.30",
+        "NII*": "4.85",
+        "NII (> ₹10L)": "4.47",
+        "NII (< ₹10L)": "5.62",
+        "Individual Investors": "2.64",
+        "Total": "3.87"
       }
     ]
   },
@@ -483,7 +492,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 8:58"
+      "updatedOn": "25-Sep 16:34"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/unitec-fibres-ltd.jpg",
@@ -493,5 +502,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:58+00:00"
+  "scrapedAt": "2026-09-25T11:29:19+00:00"
 }

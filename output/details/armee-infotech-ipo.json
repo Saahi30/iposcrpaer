@@ -391,9 +391,9 @@
     "source": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/"
   },
   "subscription": {
-    "summary": "ArMee Infotech IPO subscribed 1.26 times. The public issue subscribed 1.45 times in the retail category, 1.01 times in QIB (Ex Anchor), and 0.93 times in the NII category by September 24, 2026 5:04:47 PM (Day 2).",
-    "total": 1.26,
-    "applications": 136612.0,
+    "summary": "ArMee Infotech IPO subscribed 2.61 times. The public issue subscribed 2.64 times in the retail category, 3.20 times in QIB (Ex Anchor), and 2.24 times in the NII category by September 25, 2026 4:52:55 PM (Day 3).",
+    "total": 2.61,
+    "applications": 248836.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -404,45 +404,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.01",
+        "Subscription (x)": "3.20",
         "Shares Offered*": "9,35,000",
-        "Shares bid for": "9,42,160",
-        "Total Amt* (₹ Cr.)": "35.331"
+        "Shares bid for": "29,96,200",
+        "Total Amt* (₹ Cr.)": "112.358"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.93",
+        "Subscription (x)": "2.24",
         "Shares Offered*": "18,00,000",
-        "Shares bid for": "16,66,720",
-        "Total Amt* (₹ Cr.)": "62.502"
+        "Shares bid for": "40,33,400",
+        "Total Amt* (₹ Cr.)": "151.253"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.77",
+        "Subscription (x)": "1.49",
         "Shares Offered*": "12,00,000",
-        "Shares bid for": "9,26,360",
-        "Total Amt* (₹ Cr.)": "34.738"
+        "Shares bid for": "17,90,800",
+        "Total Amt* (₹ Cr.)": "67.155"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.23",
+        "Subscription (x)": "3.74",
         "Shares Offered*": "6,00,000",
-        "Shares bid for": "7,40,360",
-        "Total Amt* (₹ Cr.)": "27.764"
+        "Shares bid for": "22,42,600",
+        "Total Amt* (₹ Cr.)": "84.098"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.45",
+        "Subscription (x)": "2.64",
         "Shares Offered*": "42,00,000",
-        "Shares bid for": "60,98,520",
-        "Total Amt* (₹ Cr.)": "228.695"
+        "Shares bid for": "1,10,87,200",
+        "Total Amt* (₹ Cr.)": "415.770"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.26",
+        "Subscription (x)": "2.61",
         "Shares Offered*": "69,35,000",
-        "Shares bid for": "87,07,400",
-        "Total Amt* (₹ Cr.)": "326.528"
+        "Shares bid for": "1,81,16,800",
+        "Total Amt* (₹ Cr.)": "679.380"
       }
     ],
     "dayWise": [
@@ -463,6 +463,15 @@
         "NII (< ₹10L)": "1.23",
         "Retail": "1.45",
         "Total": "1.26"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "3.20",
+        "NII": "2.24",
+        "NII (> ₹10L)": "1.49",
+        "NII (< ₹10L)": "3.74",
+        "Retail": "2.64",
+        "Total": "2.61"
       }
     ]
   },
@@ -485,10 +494,10 @@
       "listing": "2026-09-30"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 5.33,
-      "xLot": 800.0,
-      "updatedOn": "25-Sep 9:02"
+      "value": 8.0,
+      "percent": 2.13,
+      "xLot": 320.0,
+      "updatedOn": "25-Sep 16:37"
     },
     "leadManager": "Khandwala Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/armee-infotech-logo.png",
@@ -498,5 +507,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:45+00:00"
+  "scrapedAt": "2026-09-25T11:29:05+00:00"
 }

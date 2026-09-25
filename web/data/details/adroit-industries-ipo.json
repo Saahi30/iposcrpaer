@@ -421,9 +421,9 @@
     "source": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/"
   },
   "subscription": {
-    "summary": "Adroit Industries IPO subscribed 18.08 times. The public issue subscribed 23.45 times in the retail category, 1.82 times in QIB (Ex Anchor), and 27.22 times in the NII category by September 24, 2026 5:05:40 PM (Day 2).",
-    "total": 18.08,
-    "applications": 711680.0,
+    "summary": "Adroit Industries IPO subscribed 176.59 times. The public issue subscribed 99.36 times in the retail category, 195.04 times in QIB (Ex Anchor), and 332.20 times in the NII category by September 25, 2026 4:54:20 PM (Day 3).",
+    "total": 176.59,
+    "applications": 3133635.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -434,45 +434,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.82",
+        "Subscription (x)": "195.04",
         "Shares Offered*": "22,49,400",
-        "Shares bid for": "40,90,350",
-        "Total Amt* (₹ Cr.)": "54.81"
+        "Shares bid for": "43,87,19,397",
+        "Total Amt* (₹ Cr.)": "5,878.84"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "27.22",
+        "Subscription (x)": "332.20",
         "Shares Offered*": "16,87,050",
-        "Shares bid for": "4,59,15,483",
-        "Total Amt* (₹ Cr.)": "615.27"
+        "Shares bid for": "56,04,45,105",
+        "Total Amt* (₹ Cr.)": "7,509.96"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "22.55",
+        "Subscription (x)": "345.97",
         "Shares Offered*": "11,24,700",
-        "Shares bid for": "2,53,66,941",
-        "Total Amt* (₹ Cr.)": "339.92"
+        "Shares bid for": "38,91,15,939",
+        "Total Amt* (₹ Cr.)": "5,214.15"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "36.54",
+        "Subscription (x)": "304.67",
         "Shares Offered*": "5,62,350",
-        "Shares bid for": "2,05,48,542",
-        "Total Amt* (₹ Cr.)": "275.35"
+        "Shares bid for": "17,13,29,166",
+        "Total Amt* (₹ Cr.)": "2,295.81"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "23.45",
+        "Subscription (x)": "99.36",
         "Shares Offered*": "39,36,450",
-        "Shares bid for": "9,23,00,052",
-        "Total Amt* (₹ Cr.)": "1,236.82"
+        "Shares bid for": "39,11,08,833",
+        "Total Amt* (₹ Cr.)": "5,240.86"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "18.08",
+        "Subscription (x)": "176.59",
         "Shares Offered*": "78,72,900",
-        "Shares bid for": "14,23,05,885",
-        "Total Amt* (₹ Cr.)": "1,906.90"
+        "Shares bid for": "1,39,02,73,335",
+        "Total Amt* (₹ Cr.)": "18,629.66"
       }
     ],
     "dayWise": [
@@ -493,6 +493,15 @@
         "NII (< ₹10L)": "36.54",
         "Retail": "23.45",
         "Total": "18.08"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "195.04",
+        "NII": "332.20",
+        "NII (> ₹10L)": "345.97",
+        "NII (< ₹10L)": "304.67",
+        "Retail": "99.36",
+        "Total": "176.59"
       }
     ]
   },
@@ -515,10 +524,10 @@
       "listing": "2026-09-30"
     },
     "gmp": {
-      "value": 37.0,
-      "percent": 27.61,
-      "xLot": 4107.0,
-      "updatedOn": "25-Sep 9:02"
+      "value": 40.0,
+      "percent": 29.85,
+      "xLot": 4440.0,
+      "updatedOn": "25-Sep 16:37"
     },
     "leadManager": "Choice Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/adroit_ai_logo.png",
@@ -528,5 +537,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:55+00:00"
+  "scrapedAt": "2026-09-25T11:29:16+00:00"
 }

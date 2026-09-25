@@ -365,8 +365,8 @@
     "source": "https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/"
   },
   "subscription": {
-    "summary": "Coreintegra Consulting IPO subscribed 0.46 times. The public issue subscribed 0.32 times in the individual investors category, 1.05 times in QIB (Ex Anchor), and 0.46 times in the NII category by September 24, 2026 6:54:04 PM (Day 2).",
-    "total": 0.46,
+    "summary": "Coreintegra Consulting IPO subscribed 1.40 times. The public issue subscribed 1.42 times in the individual investors category, 1.05 times in QIB (Ex Anchor), and 1.46 times in the NII category by September 25, 2026 4:54:04 PM (Day 3).",
+    "total": 1.4,
     "applications": null,
     "byCategory": [
       {
@@ -387,43 +387,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "1.46",
         "Shares Offered*": "12,03,200",
-        "Shares bid for": "5,58,400",
-        "Total Amt* (₹ Cr.)": "4.356",
+        "Shares bid for": "17,53,600",
+        "Total Amt* (₹ Cr.)": "13.678",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.25",
+        "Subscription (x)": "1.12",
         "Shares Offered*": "8,01,600",
-        "Shares bid for": "1,96,800",
-        "Total Amt* (₹ Cr.)": "1.535",
+        "Shares bid for": "8,96,000",
+        "Total Amt* (₹ Cr.)": "6.989",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.90",
+        "Subscription (x)": "2.14",
         "Shares Offered*": "4,01,600",
-        "Shares bid for": "3,61,600",
-        "Total Amt* (₹ Cr.)": "2.820",
+        "Shares bid for": "8,57,600",
+        "Total Amt* (₹ Cr.)": "6.689",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.32",
+        "Subscription (x)": "1.42",
         "Shares Offered*": "12,06,400",
-        "Shares bid for": "3,84,000",
-        "Total Amt* (₹ Cr.)": "2.995",
-        "Total Applications": "120"
+        "Shares bid for": "17,12,000",
+        "Total Amt* (₹ Cr.)": "13.354",
+        "Total Applications": "535"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "1.40",
         "Shares Offered*": "26,76,800",
-        "Shares bid for": "12,22,400",
-        "Total Amt* (₹ Cr.)": "9.535",
-        "Total Applications": "161"
+        "Shares bid for": "37,45,600",
+        "Total Amt* (₹ Cr.)": "29.216",
+        "Total Applications": "656"
       }
     ],
     "dayWise": [
@@ -444,6 +444,15 @@
         "NII (< ₹10L)": "0.90",
         "Individual Investors": "0.32",
         "Total": "0.46"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "1.05",
+        "NII*": "1.46",
+        "NII (> ₹10L)": "1.12",
+        "NII (< ₹10L)": "2.14",
+        "Individual Investors": "1.42",
+        "Total": "1.40"
       }
     ]
   },
@@ -469,7 +478,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 9:00"
+      "updatedOn": "25-Sep 16:28"
     },
     "leadManager": "Marwadi Chandarana Intermediaries",
     "logo": "https://www.chittorgarh.net/images/ipo/coreintegra-consulting-logo.jpg",
@@ -479,5 +488,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:49+00:00"
+  "scrapedAt": "2026-09-25T11:29:09+00:00"
 }

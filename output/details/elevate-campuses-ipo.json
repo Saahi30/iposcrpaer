@@ -357,9 +357,9 @@
     "source": "https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/"
   },
   "subscription": {
-    "summary": "Elevate Campuses IPO subscribed 0.24 times. The public issue subscribed 0.25 times in the retail category, 0.19 times in QIB (Ex Anchor), and 0.35 times in the NII category by September 24, 2026 5:04:52 PM (Day 2).",
-    "total": 0.24,
-    "applications": 27777.0,
+    "summary": "Elevate Campuses IPO subscribed 1.88 times. The public issue subscribed 1.03 times in the retail category, 2.66 times in QIB (Ex Anchor), and 0.89 times in the NII category by September 25, 2026 4:53:04 PM (Day 3).",
+    "total": 1.88,
+    "applications": 84813.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -370,45 +370,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.19",
+        "Subscription (x)": "2.66",
         "Shares Offered*": "1,74,03,315",
-        "Shares bid for": "32,35,843",
-        "Total Amt* (₹ Cr.)": "117.138"
+        "Shares bid for": "4,63,16,552",
+        "Total Amt* (₹ Cr.)": "1,676.659"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "0.89",
         "Shares Offered*": "87,01,657",
-        "Shares bid for": "30,35,517",
-        "Total Amt* (₹ Cr.)": "109.886"
+        "Shares bid for": "77,14,806",
+        "Total Amt* (₹ Cr.)": "279.276"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.49",
+        "Subscription (x)": "0.87",
         "Shares Offered*": "58,01,105",
-        "Shares bid for": "28,45,154",
-        "Total Amt* (₹ Cr.)": "102.995"
+        "Shares bid for": "50,61,450",
+        "Total Amt* (₹ Cr.)": "183.224"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "0.91",
         "Shares Offered*": "29,00,552",
-        "Shares bid for": "1,90,363",
-        "Total Amt* (₹ Cr.)": "6.891"
+        "Shares bid for": "26,53,356",
+        "Total Amt* (₹ Cr.)": "96.051"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.25",
+        "Subscription (x)": "1.03",
         "Shares Offered*": "58,01,105",
-        "Shares bid for": "14,31,228",
-        "Total Amt* (₹ Cr.)": "51.810"
+        "Shares bid for": "60,01,334",
+        "Total Amt* (₹ Cr.)": "217.248"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.24",
+        "Subscription (x)": "1.88",
         "Shares Offered*": "3,19,06,077",
-        "Shares bid for": "77,02,588",
-        "Total Amt* (₹ Cr.)": "278.834"
+        "Shares bid for": "6,00,32,692",
+        "Total Amt* (₹ Cr.)": "2,173.183"
       }
     ],
     "dayWise": [
@@ -429,6 +429,15 @@
         "NII (< ₹10L)": "0.07",
         "Retail": "0.25",
         "Total": "0.24"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "2.66",
+        "NII": "0.89",
+        "NII (> ₹10L)": "0.87",
+        "NII (< ₹10L)": "0.91",
+        "Retail": "1.03",
+        "Total": "1.88"
       }
     ]
   },
@@ -451,10 +460,10 @@
       "listing": "2026-09-30"
     },
     "gmp": {
-      "value": 2.5,
-      "percent": 0.69,
-      "xLot": 102.5,
-      "updatedOn": "25-Sep 9:02"
+      "value": 4.0,
+      "percent": 1.1,
+      "xLot": 164.0,
+      "updatedOn": "25-Sep 16:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/elevate-campuses-logo.png",
@@ -464,5 +473,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:50+00:00"
+  "scrapedAt": "2026-09-25T11:29:10+00:00"
 }

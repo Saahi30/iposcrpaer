@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T04:11:27+00:00",
+  "scrapedAt": "2026-09-25T11:29:52+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,67 +15,13 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 18,
+    "upcoming": 19,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 18
+    "total": 19
   },
   "ipos": [
-    {
-      "slug": "eventions-ipo",
-      "ipoId": 3006,
-      "name": "Eventions Ltd.",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
-      },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "dates": {
-        "open": "2027-01-03",
-        "close": null,
-        "allotment": null,
-        "listing": null
-      },
-      "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Corporate Professionals",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/eventions-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/eventions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=eventions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/eventions-ipo/3006/",
-        "gmp": null
-      },
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated 2020, Eventions Limited is engaged in providing event management and experiential marketing services. It specializes in planning and executing corporate events, brand activations, exhibitions, conferences, and promotional campaigns.\n\nThe company offers end-to-end solutions, including event conceptualization, design, logistics, and on-ground execution. It caters to corporate clients across various industries, helping them enhance brand visibility and customer engagement through custo",
-      "registrar": "Mudra RTA Ventures Private Limited"
-    },
     {
       "slug": "paramount-syntex-ipo",
       "ipoId": 2743,
@@ -104,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 5:55"
+        "updatedOn": "25-Sep 16:36"
       },
       "subscription": {
         "total": null,
@@ -183,7 +129,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Acme India is engaged in the Indian railway rolling stock sector, with a strong focus on designing, manufacturing, and maintaining railway coach interiors. The company works mainly through government tenders and provide turnkey solutions for furnishing new railway coaches, refurbishing old ones, and upgrading coach toilets. It also manufacture and supply various components to Indian Railways, ensuring our products meet their standards for comfort, safety, hygiene, and functionality.\n\nThe company",
+      "about": "Incorporated in December 2021, Acme India Industries Limited is engaged in the Indian railway rolling stock sector, focusing on the design, manufacture, supply, installation and warranty maintenance of railway coach interiors and components. The Company provides turnkey furnishing solutions for new railway coaches, refurbishment, upgradation and conversion of old coaches, and modernization of toilet facilities. It manufactures and supplies products including Braille signage, FRP products, sanita",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -200,21 +146,21 @@
         "display": "₹66–70"
       },
       "lotSize": 2000,
-      "issueSize": "-",
+      "issueSize": "₹37.86 Cr",
       "issueSizeCr": 37.86,
       "freshIssueCr": 35.95,
       "ofsCr": null,
       "dates": {
         "open": "2026-09-30",
         "close": "2026-10-06",
-        "allotment": null,
+        "allotment": "2026-10-07",
         "listing": "2026-10-09"
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
+        "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 9:00"
+        "updatedOn": "25-Sep 16:35"
       },
       "subscription": {
         "total": null,
@@ -269,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:53"
+        "updatedOn": "25-Sep 16:31"
       },
       "subscription": {
         "total": null,
@@ -403,8 +349,63 @@
       "faceValue": "₹5 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Founded in April 2026, Nityas Gems and Jewellery Limited specialises in the design, manufacturing, and sale of lab-grown diamond-studded gold jewellery in India.\n\nThe company operate through a business-to-business (B2B) model for retailers and wholesalers, as well as a direct-to-consumer (D2C) approach via our subsidiary, Ayaani Diamonds and Jewellery Private Limited.\n\nThe company's operations encompass the entire jewellery value chain, including raw material management, product design, manufact",
+      "about": "Incorporated in April 2022, Nityas Gems and Jewellery Limited is engaged in the design, manufacturing and sale of lab-grown diamond studded gold jewellery in India. The Company operates through an integrated business model comprising B2B manufacturing and distribution to organised retailers, standalone retailers and wholesalers, along with direct-to-consumer (“D2C”) omnichannel retail operations through its subsidiary, Ayaani Diamonds and Jewellery Private Limited (“Ayaani”). The Company’s opera",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "eventions-ipo",
+      "ipoId": 3006,
+      "name": "Eventions",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 112.0,
+        "max": 118.0,
+        "display": "₹112–118"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹38.12 Cr",
+      "issueSizeCr": 38.12,
+      "freshIssueCr": 36.21,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Professionals",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/eventions-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/eventions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=eventions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eventions-ipo/3006/",
+        "gmp": "https://www.investorgain.com/gmp/eventions-ipo/2267/"
+      },
+      "gmpId": 2267,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2020, Eventions Limited is engaged in the Meetings, Incentives, Conferences and Exhibitions (“MICE”) and event management segment. The Company provides services for planning, coordination and execution of corporate events, conferences and related activities, primarily for corporate and institutional clients.The Company offers a range of services including MICE services, corporate events, conferences, incentive travel programs, virtual events, Free Independent Travel (“FI",
+      "registrar": "Mudra RTA Ventures Private Limited"
     },
     {
       "slug": "sollfege-smart-electronics-ipo",
@@ -489,7 +490,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:58"
+        "updatedOn": "25-Sep 16:31"
       },
       "subscription": {
         "total": null,
@@ -544,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:57"
+        "updatedOn": "25-Sep 16:35"
       },
       "subscription": {
         "total": null,
@@ -599,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:55"
+        "updatedOn": "25-Sep 16:29"
       },
       "subscription": {
         "total": null,
@@ -654,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 5:55"
+        "updatedOn": "25-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -678,7 +679,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2017, Papadmalji Agro Foods Ltd is engaged in the processing and manufacturing of agro-based food products, focusing on quality-driven production, sourcing raw agricultural inputs, and delivering packaged food items to consumers. The company offers services including food processing, grading, packaging, storage, and supply of agricultural and processed food products, catering to wholesalers, retailers, and institutional buyers across regional markets.\n\nPapadmalji Agro Foods Ltd e",
+      "about": "Incorporated in December 2017, Papadmalji Agro Foods Limited is engaged in the manufacturing and marketing of papads and related food products. The Company manufactures a range of products including hand-made papads, machine-made papads, machine-made ready-to-fry papads, rice papads (Khichiya), vrat-special papads and moongodi. It also undertakes white-label manufacturing of hand-made papads for clients and trades in cereal pellets under its own brand. The Company combines traditional hand-made ",
       "registrar": "MAS Services Ltd."
     },
     {
@@ -709,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:54"
+        "updatedOn": "25-Sep 16:35"
       },
       "subscription": {
         "total": null,
@@ -735,6 +736,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in February 2022, VANS Electroengineerings Limited is engaged in the manufacturing and supply of components used in traction power supply and overhead equipment systems for Indian railway electrification infrastructure, metro systems and renewable energy applications. Its products are primarily supplied to Indian Railways and railway contractors, and the Company operates from its registered office and manufacturing facility in Salem, Tamil Nadu.\n\nThe Company manufactures Single Pole",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "shree-tnb-polymers-ipo",
+      "ipoId": 3095,
+      "name": "Shree TNB Polymers",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 50.0,
+        "max": 53.0,
+        "display": "₹50–53"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹31.80 Cr",
+      "issueSizeCr": 31.8,
+      "freshIssueCr": 30.21,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "25-Sep 16:29"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Corporate Makers",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/shree-tnb-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shree-tnb-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
+        "gmp": "https://www.investorgain.com/gmp/shree-tnb-polymers-ipo/2282/"
+      },
+      "gmpId": 2282,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on March 07, 2007, Shree TNB Polymers Limited is a Silvassa-based polymer manufacturing company specializing in piping systems and plastic solutions. The Company’s products are designed to meet the evolving demands of critical applications such as irrigation and agriculture, potable water supply schemes, sewerage and drainage systems, telecom cable protection, construction, and industrial usage.\n\nThe company offers a diversified product portfolio comprising HDPE pipes & fittings, PP",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "pind-hospitality-ipo",
@@ -764,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:55"
+        "updatedOn": "25-Sep 16:34"
       },
       "subscription": {
         "total": null,
@@ -819,7 +875,7 @@
         "value": 12.0,
         "percent": 7.19,
         "xLot": 1020.0,
-        "updatedOn": "25-Sep 9:02"
+        "updatedOn": "25-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -874,7 +930,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 9:00"
+        "updatedOn": "25-Sep 16:36"
       },
       "subscription": {
         "total": null,
@@ -929,7 +985,7 @@
         "value": 22.0,
         "percent": 16.92,
         "xLot": 2530.0,
-        "updatedOn": "25-Sep 9:02"
+        "updatedOn": "25-Sep 16:37"
       },
       "subscription": {
         "total": null,
@@ -984,7 +1040,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 8:57"
+        "updatedOn": "25-Sep 16:33"
       },
       "subscription": {
         "total": null,

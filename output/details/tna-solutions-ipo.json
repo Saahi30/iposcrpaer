@@ -446,19 +446,19 @@
       "max": 70.0,
       "display": "₹66–70"
     },
-    "lotSize": null,
-    "issueSize": "-",
+    "lotSize": 2000,
+    "issueSize": "₹37.86 Cr",
     "dates": {
       "open": "2026-09-30",
       "close": "2026-10-06",
-      "allotment": null,
+      "allotment": "2026-10-07",
       "listing": "2026-10-09"
     },
     "gmp": {
       "value": 0.0,
-      "percent": null,
-      "xLot": null,
-      "updatedOn": "25-Sep 9:00"
+      "percent": 0.0,
+      "xLot": 0.0,
+      "updatedOn": "25-Sep 16:35"
     },
     "leadManager": "Credora Partners",
     "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
@@ -468,5 +468,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:11:05+00:00"
+  "scrapedAt": "2026-09-25T11:29:24+00:00"
 }

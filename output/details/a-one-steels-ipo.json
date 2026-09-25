@@ -417,9 +417,9 @@
     "source": "https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/"
   },
   "subscription": {
-    "summary": "A-One Steels IPO subscribed 0.61 times. The public issue subscribed 0.81 times in the retail category, 0.10 times in QIB (Ex Anchor), and 0.81 times in the NII category by September 24, 2026 5:05:51 PM (Day 1).",
-    "total": 0.61,
-    "applications": 69169.0,
+    "summary": "A-One Steels IPO subscribed 1.41 times. The public issue subscribed 1.85 times in the retail category, 0.10 times in QIB (Ex Anchor), and 2.12 times in the NII category by September 25, 2026 4:54:27 PM (Day 2).",
+    "total": 1.41,
+    "applications": 158794.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -432,50 +432,50 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.10",
         "Shares Offered*": "19,87,592",
-        "Shares bid for": "1,91,697",
-        "Total Amt* (₹ Cr.)": "7.764"
+        "Shares bid for": "1,96,248",
+        "Total Amt* (₹ Cr.)": "7.948"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "2.12",
         "Shares Offered*": "14,91,825",
-        "Shares bid for": "12,02,315",
-        "Total Amt* (₹ Cr.)": "48.694"
+        "Shares bid for": "31,66,867",
+        "Total Amt* (₹ Cr.)": "128.258"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.83",
+        "Subscription (x)": "1.87",
         "Shares Offered*": "9,94,550",
-        "Shares bid for": "8,26,099",
-        "Total Amt* (₹ Cr.)": "33.457"
+        "Shares bid for": "18,60,545",
+        "Total Amt* (₹ Cr.)": "75.352"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.76",
+        "Subscription (x)": "2.63",
         "Shares Offered*": "4,97,275",
-        "Shares bid for": "3,76,216",
-        "Total Amt* (₹ Cr.)": "15.237"
+        "Shares bid for": "13,06,322",
+        "Total Amt* (₹ Cr.)": "52.906"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "1.85",
         "Shares Offered*": "34,80,926",
-        "Shares bid for": "28,33,719",
-        "Total Amt* (₹ Cr.)": "114.766"
+        "Shares bid for": "64,54,872",
+        "Total Amt* (₹ Cr.)": "261.422"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.67",
+        "Subscription (x)": "1.68",
         "Shares Offered*": "54,496",
-        "Shares bid for": "36,556",
-        "Total Amt* (₹ Cr.)": "1.481"
+        "Shares bid for": "91,501",
+        "Total Amt* (₹ Cr.)": "3.706"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.61",
+        "Subscription (x)": "1.41",
         "Shares Offered*": "70,14,839",
-        "Shares bid for": "42,64,287",
-        "Total Amt* (₹ Cr.)": "172.704"
+        "Shares bid for": "99,09,488",
+        "Total Amt* (₹ Cr.)": "401.334"
       }
     ],
     "dayWise": [
@@ -488,6 +488,16 @@
         "Retail": "0.81",
         "EMP": "0.67",
         "Total": "0.61"
+      },
+      {
+        "Date": "Sep 25 (Day 2)",
+        "QIB (Ex Anchor)": "0.10",
+        "NII": "2.12",
+        "NII (> ₹10L)": "1.87",
+        "NII (< ₹10L)": "2.63",
+        "Retail": "1.85",
+        "EMP": "1.68",
+        "Total": "1.41"
       }
     ]
   },
@@ -510,10 +520,10 @@
       "listing": "2026-10-01"
     },
     "gmp": {
-      "value": 49.0,
-      "percent": 12.1,
-      "xLot": 1813.0,
-      "updatedOn": "25-Sep 9:02"
+      "value": 51.0,
+      "percent": 12.59,
+      "xLot": 1887.0,
+      "updatedOn": "25-Sep 16:37"
     },
     "leadManager": "PL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/a-1-steel-india-ipo-logo.png",
@@ -523,5 +533,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:37+00:00"
+  "scrapedAt": "2026-09-25T11:28:47+00:00"
 }

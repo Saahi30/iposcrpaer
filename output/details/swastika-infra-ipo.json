@@ -436,9 +436,9 @@
     "source": "https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/"
   },
   "subscription": {
-    "summary": "Swastika Infra IPO subscribed 1.70 times. The public issue subscribed 1.66 times in the retail category, 1.02 times in QIB (Ex Anchor), and 2.71 times in the NII category by September 24, 2026 5:05:23 PM (Day 2).",
-    "total": 1.7,
-    "applications": 54952.0,
+    "summary": "Swastika Infra IPO subscribed 7.89 times. The public issue subscribed 5.60 times in the retail category, 3.31 times in QIB (Ex Anchor), and 19.33 times in the NII category by September 25, 2026 4:54:00 PM (Day 3).",
+    "total": 7.89,
+    "applications": 194460.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -449,45 +449,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.02",
+        "Subscription (x)": "3.31",
         "Shares Offered*": "17,39,191",
-        "Shares bid for": "17,80,056",
-        "Total Amt* (₹ Cr.)": "32.931"
+        "Shares bid for": "57,55,941",
+        "Total Amt* (₹ Cr.)": "106.485"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.71",
+        "Subscription (x)": "19.33",
         "Shares Offered*": "13,04,392",
-        "Shares bid for": "35,29,899",
-        "Total Amt* (₹ Cr.)": "65.303"
+        "Shares bid for": "2,52,10,845",
+        "Total Amt* (₹ Cr.)": "466.401"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.29",
+        "Subscription (x)": "20.92",
         "Shares Offered*": "8,69,595",
-        "Shares bid for": "28,60,353",
-        "Total Amt* (₹ Cr.)": "52.917"
+        "Shares bid for": "1,81,89,522",
+        "Total Amt* (₹ Cr.)": "336.506"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.54",
+        "Subscription (x)": "16.15",
         "Shares Offered*": "4,34,797",
-        "Shares bid for": "6,69,546",
-        "Total Amt* (₹ Cr.)": "12.387"
+        "Shares bid for": "70,21,323",
+        "Total Amt* (₹ Cr.)": "129.894"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.66",
+        "Subscription (x)": "5.60",
         "Shares Offered*": "30,43,581",
-        "Shares bid for": "50,60,232",
-        "Total Amt* (₹ Cr.)": "93.614"
+        "Shares bid for": "1,70,43,048",
+        "Total Amt* (₹ Cr.)": "315.296"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.70",
+        "Subscription (x)": "7.89",
         "Shares Offered*": "60,87,164",
-        "Shares bid for": "1,03,70,187",
-        "Total Amt* (₹ Cr.)": "191.848"
+        "Shares bid for": "4,80,09,834",
+        "Total Amt* (₹ Cr.)": "888.182"
       }
     ],
     "dayWise": [
@@ -508,6 +508,15 @@
         "NII (< ₹10L)": "1.54",
         "Retail": "1.66",
         "Total": "1.70"
+      },
+      {
+        "Date": "Sep 25 (Day 3)",
+        "QIB (Ex Anchor)": "3.31",
+        "NII": "19.33",
+        "NII (> ₹10L)": "20.92",
+        "NII (< ₹10L)": "16.15",
+        "Retail": "5.60",
+        "Total": "7.89"
       }
     ]
   },
@@ -530,10 +539,10 @@
       "listing": "2026-09-30"
     },
     "gmp": {
-      "value": 9.0,
-      "percent": 4.86,
-      "xLot": 729.0,
-      "updatedOn": "25-Sep 9:02"
+      "value": 4.5,
+      "percent": 2.43,
+      "xLot": 364.5,
+      "updatedOn": "25-Sep 16:37"
     },
     "leadManager": "Srujan Alpha Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/swastika-infra-logo.png",
@@ -543,5 +552,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:47+00:00"
+  "scrapedAt": "2026-09-25T11:29:07+00:00"
 }

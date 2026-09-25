@@ -386,10 +386,18 @@
     "source": "https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/"
   },
   "subscription": {
-    "summary": "Peshwa Wheat IPO subscribed 1.82 times. The public issue subscribed 0.04 times in the individual investors category, 177.12 times in QIB (Ex Anchor), and 0.13 times in the NII category by September 24, 2026 5:05:11 PM (Day 1).",
-    "total": 1.82,
+    "summary": "Peshwa Wheat IPO subscribed 2.03 times. The public issue subscribed 0.48 times in the individual investors category, 177.12 times in QIB (Ex Anchor), and 0.10 times in the NII category by September 25, 2026 4:53:31 PM (Day 2).",
+    "total": 2.03,
     "applications": null,
     "byCategory": [
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "2,95,200",
+        "Shares bid for": "2,95,200",
+        "Total Amt* (₹ Cr.)": "2.982",
+        "Total Applications": "-"
+      },
       {
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "177.12",
@@ -400,43 +408,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.13",
+        "Subscription (x)": "0.10",
         "Shares Offered*": "24,51,600",
-        "Shares bid for": "3,08,400",
-        "Total Amt* (₹ Cr.)": "3.115",
+        "Shares bid for": "2,37,600",
+        "Total Amt* (₹ Cr.)": "2.400",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.18",
+        "Subscription (x)": "0.04",
         "Shares Offered*": "16,34,400",
-        "Shares bid for": "2,95,200",
-        "Total Amt* (₹ Cr.)": "2.982",
+        "Shares bid for": "67,200",
+        "Total Amt* (₹ Cr.)": "0.679",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.02",
+        "Subscription (x)": "0.21",
         "Shares Offered*": "8,17,200",
-        "Shares bid for": "13,200",
-        "Total Amt* (₹ Cr.)": "0.133",
+        "Shares bid for": "1,70,400",
+        "Total Amt* (₹ Cr.)": "1.721",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.04",
+        "Subscription (x)": "0.48",
         "Shares Offered*": "25,03,200",
-        "Shares bid for": "91,200",
-        "Total Amt* (₹ Cr.)": "0.921",
+        "Shares bid for": "12,12,000",
+        "Total Amt* (₹ Cr.)": "12.241",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.82",
+        "Subscription (x)": "2.03",
         "Shares Offered*": "50,04,000",
-        "Shares bid for": "91,14,000",
-        "Total Amt* (₹ Cr.)": "92.051",
-        "Total Applications": "55"
+        "Shares bid for": "1,01,64,000",
+        "Total Amt* (₹ Cr.)": "102.656",
+        "Total Applications": "565"
       }
     ],
     "dayWise": [
@@ -448,6 +456,15 @@
         "NII (< ₹10L)": "0.02",
         "Individual Investors": "0.04",
         "Total": "1.82"
+      },
+      {
+        "Date": "Sep 25 (Day 2)",
+        "QIB (Ex Anchor)": "177.12",
+        "NII*": "0.10",
+        "NII (> ₹10L)": "0.04",
+        "NII (< ₹10L)": "0.21",
+        "Individual Investors": "0.48",
+        "Total": "2.03"
       }
     ]
   },
@@ -473,7 +490,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "25-Sep 8:57"
+      "updatedOn": "25-Sep 16:34"
     },
     "leadManager": "Finaax Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/peshwa-wheat-logo.png",
@@ -483,5 +500,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-25T04:10:40+00:00"
+  "scrapedAt": "2026-09-25T11:28:50+00:00"
 }

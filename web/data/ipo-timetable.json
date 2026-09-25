@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T04:11:33+00:00",
+  "scrapedAt": "2026-09-25T11:29:59+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 275,
+    "total": 276,
     "mainboard": 95,
-    "sme": 180
+    "sme": 181
   },
   "ipos": [
     {
@@ -6183,30 +6183,6 @@
       }
     },
     {
-      "ipoId": 3095,
-      "name": "Shree TNB Polymers Ltd.",
-      "slug": "shree-tnb-polymers-ipo",
-      "type": "sme",
-      "dates": {
-        "open": "2026-09-25",
-        "close": "2026-09-29",
-        "allotment": "2026-09-30",
-        "refunds": "2026-10-01",
-        "listing": null
-      },
-      "displayDates": {
-        "open": "25-Sep-2026",
-        "close": "29-Sep-2026",
-        "allotment": "30-Sep-2026",
-        "listing": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
-      "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
-        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
-      }
-    },
-    {
       "ipoId": 3206,
       "name": "Acme Universal Safezone 9 Ltd.",
       "slug": "acme-universal-safezone-9-ipo",
@@ -6323,6 +6299,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/shivchem-agro-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/shivchem-agro-ipo/2695/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3095,
+      "name": "Shree TNB Polymers Ltd.",
+      "slug": "shree-tnb-polymers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-28",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-tnb-polymers-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
@@ -6467,6 +6467,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/dove-soft-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3006,
+      "name": "Eventions Ltd.",
+      "slug": "eventions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "refunds": "2026-10-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Sep-2026",
+        "close": "05-Oct-2026",
+        "allotment": "06-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/eventions-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eventions-ipo/3006/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
