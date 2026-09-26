@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-26T11:05:05+00:00",
+  "scrapedAt": "2026-09-26T16:04:51+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,12 +17,12 @@
     }
   ],
   "summary": {
-    "totalEvents": 239,
-    "mainboard": 97,
+    "totalEvents": 240,
+    "mainboard": 98,
     "sme": 142,
     "byEventType": {
       "allotment": 54,
-      "close": 93,
+      "close": 94,
       "open": 86,
       "other": 6
     }
@@ -8499,8 +8499,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 18,
-        "mainboard": 3,
+        "total": 19,
+        "mainboard": 4,
         "sme": 15
       },
       "byDate": {
@@ -8621,6 +8621,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15631",
               "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20se"
+            }
+          },
+          {
+            "title": "Vishal Nirmiti IPO Closes on Oct 5, 2026",
+            "company": "Vishal Nirmiti",
+            "eventType": "close",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The issue of Vishal Nirmiti Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs 2",
+            "type": "mainboard",
+            "slug": "vishal-nirmiti-ipo",
+            "ipoId": 2665,
+            "eventId": 15644,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15644",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Vishal%20Nirmiti%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%202"
             }
           },
           {
@@ -8894,6 +8913,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15631",
             "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20se"
+          }
+        },
+        {
+          "title": "Vishal Nirmiti IPO Closes on Oct 5, 2026",
+          "company": "Vishal Nirmiti",
+          "eventType": "close",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The issue of Vishal Nirmiti Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs 2",
+          "type": "mainboard",
+          "slug": "vishal-nirmiti-ipo",
+          "ipoId": 2665,
+          "eventId": 15644,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15644",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Vishal%20Nirmiti%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%202"
           }
         },
         {
@@ -13439,6 +13477,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15631",
         "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20se"
+      }
+    },
+    {
+      "title": "Vishal Nirmiti IPO Closes on Oct 5, 2026",
+      "company": "Vishal Nirmiti",
+      "eventType": "close",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The issue of Vishal Nirmiti Ltd. opens on Sep 30, 2026 and closes for subscription on Oct 5, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has been set at Rs 2",
+      "type": "mainboard",
+      "slug": "vishal-nirmiti-ipo",
+      "ipoId": 2665,
+      "eventId": 15644,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15644",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Vishal%20Nirmiti%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%202"
       }
     },
     {
