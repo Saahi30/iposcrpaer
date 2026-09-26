@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T21:18:18+00:00",
+  "scrapedAt": "2026-09-26T04:16:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 19,
+    "upcoming": 20,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 19
+    "total": 20
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:36"
+        "updatedOn": "26-Sep 8:55"
       },
       "subscription": {
         "total": null,
@@ -102,10 +102,10 @@
         "listing": "2026-10-09"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "26-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:33"
+        "updatedOn": "26-Sep 8:58"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:32"
+        "updatedOn": "26-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -243,6 +243,61 @@
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
+      "slug": "vishal-nirmiti-ipo",
+      "ipoId": 2665,
+      "name": "Vishal Nirmiti",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 208.0,
+        "max": 220.0,
+        "display": "₹208–220"
+      },
+      "lotSize": 68,
+      "issueSize": "₹178.00 Cr",
+      "issueSizeCr": 178.0,
+      "freshIssueCr": 145.0,
+      "ofsCr": 33.0,
+      "dates": {
+        "open": "2026-09-30",
+        "close": "2026-10-05",
+        "allotment": "2026-10-06",
+        "listing": "2026-10-08"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Saffron Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vishal-nirmiti-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vishal-nirmiti-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vishal-nirmiti-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+        "gmp": "https://www.investorgain.com/gmp/vishal-nirmiti-ipo/1602/"
+      },
+      "gmpId": 1602,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1994, Vishal Nirmiti Limited (formerly Sejal Farms Private Limited) is a civil engineering, manufacturing, and construction company primarily engaged in manufacturing and dealing of Pre-Stressed Concrete (PSC) sleepers for railways, pre-cast and pre-stressed concrete products, as well as fabrication and erection of Mild Steel (MS) pipes, liners, and penstock pipes for Pumped Storage Projects (PSPs).\n\nThe company also provides engineering, procurement, and construction (EPC) servi",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "sjp-ultrasonic-ipo",
       "ipoId": 2703,
       "name": "SJP Ultrasonic",
@@ -267,10 +322,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "26-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -322,10 +377,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "26-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -377,10 +432,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "26-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -432,10 +487,10 @@
         "listing": "2026-10-08"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "26-Sep 5:55"
       },
       "subscription": {
         "total": null,
@@ -490,7 +545,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 8:56"
       },
       "subscription": {
         "total": null,
@@ -545,7 +600,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:32"
+        "updatedOn": "26-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -600,7 +655,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:36"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -655,7 +710,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:33"
+        "updatedOn": "26-Sep 8:54"
       },
       "subscription": {
         "total": null,
@@ -710,7 +765,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:35"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -765,7 +820,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:28"
+        "updatedOn": "26-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -820,7 +875,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 8:57"
       },
       "subscription": {
         "total": null,
@@ -875,7 +930,7 @@
         "value": 12.0,
         "percent": 7.19,
         "xLot": 1020.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -930,7 +985,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:35"
+        "updatedOn": "26-Sep 8:53"
       },
       "subscription": {
         "total": null,
@@ -985,7 +1040,7 @@
         "value": 32.0,
         "percent": 24.62,
         "xLot": 3680.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": null,
@@ -1040,7 +1095,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:28"
+        "updatedOn": "26-Sep 8:58"
       },
       "subscription": {
         "total": null,

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-25T21:18:18+00:00",
+  "scrapedAt": "2026-09-26T04:16:00+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 22,
+    "open": 13,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 22
+    "total": 13
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 16.0,
         "percent": 5.25,
         "xLot": 784.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 0.44,
@@ -160,10 +160,10 @@
         "listing": "2026-10-05"
       },
       "gmp": {
-        "value": 26.0,
-        "percent": 18.71,
-        "xLot": 2782.0,
-        "updatedOn": "25-Sep 23:37"
+        "value": 25.0,
+        "percent": 17.99,
+        "xLot": 2675.0,
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 1.82,
@@ -269,7 +269,7 @@
         "value": 80.0,
         "percent": 29.41,
         "xLot": 4400.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 2.07,
@@ -375,7 +375,7 @@
         "value": 2.0,
         "percent": 6.25,
         "xLot": 936.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 0.24,
@@ -481,7 +481,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:28"
+        "updatedOn": "26-Sep 8:53"
       },
       "subscription": {
         "total": 0.04,
@@ -594,7 +594,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 8:59"
       },
       "subscription": {
         "total": 0.51,
@@ -707,7 +707,7 @@
         "value": 3.0,
         "percent": 10.34,
         "xLot": 12000.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 0.08,
@@ -788,7 +788,7 @@
         "value": 16.0,
         "percent": 14.55,
         "xLot": 19200.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 0.26,
@@ -901,7 +901,7 @@
         "value": 51.0,
         "percent": 12.59,
         "xLot": 1887.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 1.43,
@@ -1014,7 +1014,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 5.35,
@@ -1135,7 +1135,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:30"
+        "updatedOn": "26-Sep 8:57"
       },
       "subscription": {
         "total": 2.03,
@@ -1248,7 +1248,7 @@
         "value": 13.5,
         "percent": 39.71,
         "xLot": 5953.5,
-        "updatedOn": "25-Sep 23:37"
+        "updatedOn": "26-Sep 9:02"
       },
       "subscription": {
         "total": 6.22,
@@ -1354,7 +1354,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Sep 23:32"
+        "updatedOn": "26-Sep 8:55"
       },
       "subscription": {
         "total": 0.03,
@@ -1429,1011 +1429,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.\n\nThe Company operates in both shrimp processing and chilli trading segments, offering a diversified agri-export portfolio.",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "armee-infotech-ipo",
-      "ipoId": 2140,
-      "name": "ArMee Infotech",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 350.0,
-        "max": 375.0,
-        "display": "₹350–375"
-      },
-      "lotSize": 40,
-      "issueSize": "₹300.00 Cr",
-      "issueSizeCr": 300.0,
-      "freshIssueCr": 300.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 8.0,
-        "percent": 2.13,
-        "xLot": 320.0,
-        "updatedOn": "25-Sep 23:37"
-      },
-      "subscription": {
-        "total": 2.62,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "10,65,000",
-            "Shares bid for": "10,65,000",
-            "Total Amt* (₹ Cr.)": "39.938"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "3.20",
-            "Shares Offered*": "9,35,000",
-            "Shares bid for": "29,96,200",
-            "Total Amt* (₹ Cr.)": "112.358"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "2.24",
-            "Shares Offered*": "18,00,000",
-            "Shares bid for": "40,36,760",
-            "Total Amt* (₹ Cr.)": "151.379"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.49",
-            "Shares Offered*": "12,00,000",
-            "Shares bid for": "17,90,800",
-            "Total Amt* (₹ Cr.)": "67.155"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "3.74",
-            "Shares Offered*": "6,00,000",
-            "Shares bid for": "22,45,960",
-            "Total Amt* (₹ Cr.)": "84.224"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "2.65",
-            "Shares Offered*": "42,00,000",
-            "Shares bid for": "1,11,26,280",
-            "Total Amt* (₹ Cr.)": "417.236"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.62",
-            "Shares Offered*": "69,35,000",
-            "Shares bid for": "1,81,59,240",
-            "Total Amt* (₹ Cr.)": "680.972"
-          }
-        ],
-        "applications": 249675.0
-      },
-      "leadManager": "Khandwala Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/armee-infotech-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/armee-infotech-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=armee-infotech-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/",
-        "gmp": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/"
-      },
-      "gmpId": 1667,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.\n\nAs on June 30, 2026, The comp",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "swastika-infra-ipo",
-      "ipoId": 2287,
-      "name": "Swastika Infra",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 175.0,
-        "max": 185.0,
-        "display": "₹175–185"
-      },
-      "lotSize": 81,
-      "issueSize": "₹160.88 Cr",
-      "issueSizeCr": 160.88,
-      "freshIssueCr": 128.5,
-      "ofsCr": 32.38,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 4.5,
-        "percent": 2.43,
-        "xLot": 364.5,
-        "updatedOn": "25-Sep 23:37"
-      },
-      "subscription": {
-        "total": 7.91,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "26,08,782",
-            "Shares bid for": "26,08,782",
-            "Total Amt* (₹ Cr.)": "48.262"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "3.31",
-            "Shares Offered*": "17,39,191",
-            "Shares bid for": "57,55,941",
-            "Total Amt* (₹ Cr.)": "106.485"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "19.35",
-            "Shares Offered*": "13,04,392",
-            "Shares bid for": "2,52,33,525",
-            "Total Amt* (₹ Cr.)": "466.820"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "20.92",
-            "Shares Offered*": "8,69,595",
-            "Shares bid for": "1,81,89,522",
-            "Total Amt* (₹ Cr.)": "336.506"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "16.20",
-            "Shares Offered*": "4,34,797",
-            "Shares bid for": "70,44,003",
-            "Total Amt* (₹ Cr.)": "130.314"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "5.64",
-            "Shares Offered*": "30,43,581",
-            "Shares bid for": "1,71,60,822",
-            "Total Amt* (₹ Cr.)": "317.475"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "7.91",
-            "Shares Offered*": "60,87,164",
-            "Shares bid for": "4,81,50,288",
-            "Total Amt* (₹ Cr.)": "890.780"
-          }
-        ],
-        "applications": 195824.0
-      },
-      "leadManager": "Srujan Alpha Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/swastika-infra-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/swastika-infra-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=swastika-infra-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/",
-        "gmp": "https://www.investorgain.com/gmp/swastika-infra-ipo/1708/"
-      },
-      "gmpId": 1708,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and u",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "core-integra-consulting-ipo",
-      "ipoId": 2605,
-      "name": "Core Integra Consulting",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 74.0,
-        "max": 78.0,
-        "display": "₹74–78"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹21.99 Cr",
-      "issueSizeCr": 21.99,
-      "freshIssueCr": 20.88,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Sep 23:29"
-      },
-      "subscription": {
-        "total": 1.4,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,42,400",
-            "Shares bid for": "1,42,400",
-            "Total Amt* (₹ Cr.)": "1.111",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.05",
-            "Shares Offered*": "2,67,200",
-            "Shares bid for": "2,80,000",
-            "Total Amt* (₹ Cr.)": "2.184",
-            "Total Applications": "1"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.46",
-            "Shares Offered*": "12,03,200",
-            "Shares bid for": "17,53,600",
-            "Total Amt* (₹ Cr.)": "13.678",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.12",
-            "Shares Offered*": "8,01,600",
-            "Shares bid for": "8,96,000",
-            "Total Amt* (₹ Cr.)": "6.989",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "2.14",
-            "Shares Offered*": "4,01,600",
-            "Shares bid for": "8,57,600",
-            "Total Amt* (₹ Cr.)": "6.689",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.42",
-            "Shares Offered*": "12,06,400",
-            "Shares bid for": "17,15,200",
-            "Total Amt* (₹ Cr.)": "13.379",
-            "Total Applications": "536"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.40",
-            "Shares Offered*": "26,76,800",
-            "Shares bid for": "37,48,800",
-            "Total Amt* (₹ Cr.)": "29.241",
-            "Total Applications": "657"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Marwadi Chandarana Intermediaries",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/coreintegra-consulting-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/core-integra-consulting-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=core-integra-consulting-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/",
-        "gmp": "https://www.investorgain.com/gmp/core-integra-consulting-ipo/1888/"
-      },
-      "gmpId": 1888,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2009, Core Integra Consulting Services Limited is an integrated human resource solutions provider offering staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and Reg Tech platforms under one umbrella. The human resource services offer targeted support in recruitment, staffing, payroll processing, HR advisory including labour compliances, licenses and registration, policy drafting, just in time hiring solutions, retainersh",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "elevate-campuses-ipo",
-      "ipoId": 2647,
-      "name": "Elevate Campuses",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 343.0,
-        "max": 362.0,
-        "display": "₹343–362"
-      },
-      "lotSize": 41,
-      "issueSize": "₹2100.00 Cr",
-      "issueSizeCr": 2100.0,
-      "freshIssueCr": 2100.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 4.0,
-        "percent": 1.1,
-        "xLot": 164.0,
-        "updatedOn": "25-Sep 23:37"
-      },
-      "subscription": {
-        "total": 1.89,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,61,04,972",
-            "Shares bid for": "2,61,04,972",
-            "Total Amt* (₹ Cr.)": "945.000"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "2.66",
-            "Shares Offered*": "1,74,03,315",
-            "Shares bid for": "4,63,16,552",
-            "Total Amt* (₹ Cr.)": "1,676.659"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "0.89",
-            "Shares Offered*": "87,01,657",
-            "Shares bid for": "77,53,715",
-            "Total Amt* (₹ Cr.)": "280.684"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.87",
-            "Shares Offered*": "58,01,105",
-            "Shares bid for": "50,61,450",
-            "Total Amt* (₹ Cr.)": "183.224"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.93",
-            "Shares Offered*": "29,00,552",
-            "Shares bid for": "26,92,265",
-            "Total Amt* (₹ Cr.)": "97.460"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "1.07",
-            "Shares Offered*": "58,01,105",
-            "Shares bid for": "61,99,405",
-            "Total Amt* (₹ Cr.)": "224.418"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.89",
-            "Shares Offered*": "3,19,06,077",
-            "Shares bid for": "6,02,69,672",
-            "Total Amt* (₹ Cr.)": "2,181.762"
-          }
-        ],
-        "applications": 86331.0
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/elevate-campuses-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/elevate-campuses-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=elevate-campuses-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/",
-        "gmp": "https://www.investorgain.com/gmp/elevate-campuses-ipo/1917/"
-      },
-      "gmpId": 1917,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2005, Elevate Campuses Ltd. is an education infrastructure company engaged in owning, operating and managing on-campus student accommodation for higher education institutions (HEIs) and owning K-12 school assets. The Company operates its student accommodation business under the Good Host Spaces and ScholarZ brands.\n\nAs of March 31, 2026, the Company’s Pre-Acquisition Group had a student accommodation capacity of 80,255 students across 15 cities in India and one city in the United",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "pooja-logistics-ipo",
-      "ipoId": 2724,
-      "name": "Pooja Logistics",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 109.0,
-        "max": 115.0,
-        "display": "₹109–115"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹44.23 Cr",
-      "issueSizeCr": 44.23,
-      "freshIssueCr": 41.95,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Sep 23:33"
-      },
-      "subscription": {
-        "total": 3.11,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "10,62,000",
-            "Shares bid for": "10,62,000",
-            "Total Amt* (₹ Cr.)": "12.213",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,98,000",
-            "Shares bid for": "1,98,000",
-            "Total Amt* (₹ Cr.)": "2.277",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "2.50",
-            "Shares Offered*": "7,14,000",
-            "Shares bid for": "17,85,600",
-            "Total Amt* (₹ Cr.)": "20.534",
-            "Total Applications": "36"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "4.87",
-            "Shares Offered*": "5,40,000",
-            "Shares bid for": "26,31,600",
-            "Total Amt* (₹ Cr.)": "30.263",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "5.13",
-            "Shares Offered*": "3,60,000",
-            "Shares bid for": "18,46,800",
-            "Total Amt* (₹ Cr.)": "21.238",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.36",
-            "Shares Offered*": "1,80,000",
-            "Shares bid for": "7,84,800",
-            "Total Amt* (₹ Cr.)": "9.025",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.86",
-            "Shares Offered*": "12,60,000",
-            "Shares bid for": "36,00,000",
-            "Total Amt* (₹ Cr.)": "41.400",
-            "Total Applications": "1,500"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.11",
-            "Shares Offered*": "25,86,000",
-            "Shares bid for": "80,52,000",
-            "Total Amt* (₹ Cr.)": "92.598",
-            "Total Applications": "1,937"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Share India Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/pooja-logistics-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/pooja-logistics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=pooja-logistics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/",
-        "gmp": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/"
-      },
-      "gmpId": 1982,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”). The company offers cold chain logistics services to a range of industries. Their in-house fleet as on March 31, 2026 comprises over 424 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.\n\nThe company cater to clients operating in the confectionery, dairy and d",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "liqvd-digital-ipo",
-      "ipoId": 2750,
-      "name": "Liqvd Digital",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹39.01 Cr",
-      "issueSizeCr": 39.01,
-      "freshIssueCr": 34.14,
-      "ofsCr": 4.87,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Sep 23:34"
-      },
-      "subscription": {
-        "total": 5.08,
-        "byCategory": [
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.00",
-            "Shares Offered*": "21,62,000",
-            "Shares bid for": "21,62,000",
-            "Total Amt* (₹ Cr.)": "11.675",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "21.02",
-            "Shares Offered*": "14,64,000",
-            "Shares bid for": "3,07,70,000",
-            "Total Amt* (₹ Cr.)": "166.158",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "27.11",
-            "Shares Offered*": "11,04,000",
-            "Shares bid for": "2,99,30,000",
-            "Total Amt* (₹ Cr.)": "161.622",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "2.33",
-            "Shares Offered*": "3,60,000",
-            "Shares bid for": "8,40,000",
-            "Total Amt* (₹ Cr.)": "4.536",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.43",
-            "Shares Offered*": "39,68,000",
-            "Shares bid for": "56,80,000",
-            "Total Amt* (₹ Cr.)": "30.672",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "5.08",
-            "Shares Offered*": "75,94,000",
-            "Shares bid for": "3,86,12,000",
-            "Total Amt* (₹ Cr.)": "208.505",
-            "Total Applications": "2,998"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Indorient Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/liqvd-digital-logojpg.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/liqvd-digital-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=liqvd-digital-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
-        "gmp": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/"
-      },
-      "gmpId": 2008,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2013, Liqvd Digital India Limited is a digital marketing and media solutions company that helps brands build their online presence, reach the right audience, and drive business growth. Its services include social media management, media planning and buying, online reputation management, creative content production, influencer marketing, SEO, performance marketing, and web and app development.\n\nThe Company works with a diverse range of clients, including large enterprises, mid-siz",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "adroit-industries-ipo",
-      "ipoId": 3007,
-      "name": "Adroit Industries",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 126.0,
-        "max": 134.0,
-        "display": "₹126–134"
-      },
-      "lotSize": 111,
-      "issueSize": "₹150.71 Cr",
-      "issueSizeCr": 150.71,
-      "freshIssueCr": 132.62,
-      "ofsCr": 18.09,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 47.0,
-        "percent": 35.07,
-        "xLot": 5217.0,
-        "updatedOn": "25-Sep 23:37"
-      },
-      "subscription": {
-        "total": 176.85,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "33,74,100",
-            "Shares bid for": "33,74,100",
-            "Total Amt* (₹ Cr.)": "45.21"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "195.04",
-            "Shares Offered*": "22,49,400",
-            "Shares bid for": "43,87,19,397",
-            "Total Amt* (₹ Cr.)": "5,878.84"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "332.35",
-            "Shares Offered*": "16,87,050",
-            "Shares bid for": "56,06,83,422",
-            "Total Amt* (₹ Cr.)": "7,513.16"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "345.97",
-            "Shares Offered*": "11,24,700",
-            "Shares bid for": "38,91,15,939",
-            "Total Amt* (₹ Cr.)": "5,214.15"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "305.09",
-            "Shares Offered*": "5,62,350",
-            "Shares bid for": "17,15,67,483",
-            "Total Amt* (₹ Cr.)": "2,299.00"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "99.81",
-            "Shares Offered*": "39,36,450",
-            "Shares bid for": "39,28,92,381",
-            "Total Amt* (₹ Cr.)": "5,264.76"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "176.85",
-            "Shares Offered*": "78,72,900",
-            "Shares bid for": "1,39,22,95,200",
-            "Total Amt* (₹ Cr.)": "18,656.76"
-          }
-        ],
-        "applications": 3147253.0
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/adroit_ai_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/adroit-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=adroit-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/",
-        "gmp": "https://www.investorgain.com/gmp/adroit-industries-ipo/2268/"
-      },
-      "gmpId": 2268,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in January 1995, Adroit Industries (India) Limited is a vertically integrated manufacturer and supplier of propeller shafts and torque-transmission components used in driveline systems. The Company offers a portfolio of over 5,000 SKUs comprising precision-machined torque-transmission components, complete propeller shaft assemblies and forged components. Its vertically integrated manufacturing capabilities cover forging, precision machining, heat treatment, assembly, balancing and t",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "skoffset-ipo",
-      "ipoId": 3150,
-      "name": "S.K.Offset",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 119.0,
-        "max": 125.0,
-        "display": "₹119–125"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹29.06 Cr",
-      "issueSizeCr": 29.06,
-      "freshIssueCr": 27.56,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Sep 23:29"
-      },
-      "subscription": {
-        "total": 1.18,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "5,40,000",
-            "Shares bid for": "5,40,000",
-            "Total Amt* (₹ Cr.)": "6.750",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,20,000",
-            "Shares bid for": "1,20,000",
-            "Total Amt* (₹ Cr.)": "1.500",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "2.61",
-            "Shares Offered*": "3,60,000",
-            "Shares bid for": "9,40,000",
-            "Total Amt* (₹ Cr.)": "11.750",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.80",
-            "Shares Offered*": "3,33,000",
-            "Shares bid for": "2,65,000",
-            "Total Amt* (₹ Cr.)": "3.313",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.57",
-            "Shares Offered*": "2,22,000",
-            "Shares bid for": "1,27,000",
-            "Total Amt* (₹ Cr.)": "1.588",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.03",
-            "Shares Offered*": "1,11,000",
-            "Shares bid for": "1,14,000",
-            "Total Amt* (₹ Cr.)": "1.425",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.78",
-            "Shares Offered*": "9,72,000",
-            "Shares bid for": "7,54,000",
-            "Total Amt* (₹ Cr.)": "9.425",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.18",
-            "Shares Offered*": "16,65,000",
-            "Shares bid for": "19,59,000",
-            "Total Amt* (₹ Cr.)": "24.488",
-            "Total Applications": "408"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Comfort Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sk-offset-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/skoffset-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=skoffset-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/skoffset-ipo/3150/",
-        "gmp": "https://www.investorgain.com/gmp/skoffset-ipo/2304/"
-      },
-      "gmpId": 2304,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions. Its printing services include books, textbooks, brochures, catalogues, stationery, pamphlets, magazines, journals and other commercial printing requirements. The Company also undertakes designing, graphics, lithography and publication-related activities.\n\nT",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "unitec-fibres-ipo",
-      "ipoId": 3171,
-      "name": "Unitec Fibres",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 83.0,
-        "max": 88.0,
-        "display": "₹83–88"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹34.47 Cr",
-      "issueSizeCr": 34.47,
-      "freshIssueCr": 32.71,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-23",
-        "close": "2026-09-25",
-        "allotment": "2026-09-28",
-        "listing": "2026-09-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Sep 23:34"
-      },
-      "subscription": {
-        "total": 3.92,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "11,07,200",
-            "Shares bid for": "11,07,200",
-            "Total Amt* (₹ Cr.)": "9.743",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,00,000",
-            "Shares bid for": "2,00,000",
-            "Total Amt* (₹ Cr.)": "1.760",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "5.30",
-            "Shares Offered*": "7,40,800",
-            "Shares bid for": "39,26,400",
-            "Total Amt* (₹ Cr.)": "34.552",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "4.89",
-            "Shares Offered*": "5,63,200",
-            "Shares bid for": "27,52,000",
-            "Total Amt* (₹ Cr.)": "24.218",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "4.47",
-            "Shares Offered*": "3,76,000",
-            "Shares bid for": "16,80,000",
-            "Total Amt* (₹ Cr.)": "14.784",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "5.73",
-            "Shares Offered*": "1,87,200",
-            "Shares bid for": "10,72,000",
-            "Total Amt* (₹ Cr.)": "9.434",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.73",
-            "Shares Offered*": "13,05,600",
-            "Shares bid for": "35,61,600",
-            "Total Amt* (₹ Cr.)": "31.342",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.92",
-            "Shares Offered*": "26,09,600",
-            "Shares bid for": "1,02,40,000",
-            "Total Amt* (₹ Cr.)": "90.112",
-            "Total Applications": "1,452"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/unitec-fibres-ltd.jpg",
-      "hasDetail": true,
-      "detailPath": "details/unitec-fibres-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=unitec-fibres-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
-        "gmp": "https://www.investorgain.com/gmp/unitec-fibres-ipo/2326/"
-      },
-      "gmpId": 2326,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2005, Unitec Fibres Limited is a manufacturer of Recycled Polyester Staple Fibre (RPSF), producing sustainable polyester fibres from recycled PET flakes, PET chips, and other post-consumer polyester waste. The company supplies RPSF to industries such as automobiles, home furnishings, and textiles, where its products are used in carpets, roof liners, trunks, sofas, curtains, and spinning applications.\n\nThe company operates two manufacturing facilities at the M.I.D.C. Tara",
       "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
