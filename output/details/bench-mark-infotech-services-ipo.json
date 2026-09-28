@@ -398,8 +398,8 @@
     "source": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/"
   },
   "subscription": {
-    "summary": "Bench Mark Infotech Services IPO subscribed 0.26 times. The public issue subscribed 0.41 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.27 times in the NII category by September 25, 2026 6:54:05 PM (Day 1).",
-    "total": 0.26,
+    "summary": "Bench Mark Infotech Services IPO subscribed 0.28 times. The public issue subscribed 0.44 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.27 times in the NII category by September 28, 2026 9:59:08 AM (Day 2).",
+    "total": 0.28,
     "applications": null,
     "byCategory": [
       {
@@ -444,19 +444,19 @@
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "0.44",
         "Shares Offered*": "12,84,000",
-        "Shares bid for": "5,23,200",
-        "Total Amt* (₹ Cr.)": "5.755",
-        "Total Applications": "218"
+        "Shares bid for": "5,64,000",
+        "Total Amt* (₹ Cr.)": "6.204",
+        "Total Applications": "235"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.26",
+        "Subscription (x)": "0.28",
         "Shares Offered*": "25,68,000",
-        "Shares bid for": "6,70,800",
-        "Total Amt* (₹ Cr.)": "7.379",
-        "Total Applications": "239"
+        "Shares bid for": "7,11,600",
+        "Total Amt* (₹ Cr.)": "7.828",
+        "Total Applications": "256"
       }
     ],
     "dayWise": [
@@ -468,6 +468,15 @@
         "NII (< ₹10L)": "0.23",
         "Individual Investors": "0.41",
         "Total": "0.26"
+      },
+      {
+        "Date": "Sep 28 (Day 2)",
+        "QIB (Ex Anchor)": "0.00",
+        "NII*": "0.27",
+        "NII (> ₹10L)": "0.29",
+        "NII (< ₹10L)": "0.23",
+        "Individual Investors": "0.44",
+        "Total": "0.28"
       }
     ]
   },
@@ -493,7 +502,7 @@
       "value": 18.0,
       "percent": 16.36,
       "xLot": 21600.0,
-      "updatedOn": "27-Sep 23:37"
+      "updatedOn": "28-Sep 9:37"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
@@ -503,5 +512,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-27T21:06:38+00:00"
+  "scrapedAt": "2026-09-28T04:32:20+00:00"
 }
