@@ -340,33 +340,33 @@
     "source": "https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/"
   },
   "subscription": {
-    "summary": "Dudani Retail IPO subscribed 0.08 times. The public issue subscribed 0.16 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.01 times in the NII category by September 25, 2026 5:07:00 PM (Day 1).",
-    "total": 0.08,
+    "summary": "Dudani Retail IPO subscribed 0.28 times. The public issue subscribed 0.50 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.06 times in the NII category by September 28, 2026 5:04:53 PM (Day 2).",
+    "total": 0.28,
     "applications": null,
     "byCategory": [
       {
         "Category": "NII***",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.06",
         "Shares Offered*": "17,24,000",
-        "Shares bid for": "16,000",
-        "Total Amt* (₹ Cr.)": "0.05",
+        "Shares bid for": "1,08,000",
+        "Total Amt* (₹ Cr.)": "0.31",
         "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "0.50",
         "Shares Offered*": "17,28,000",
-        "Shares bid for": "2,72,000",
-        "Total Amt* (₹ Cr.)": "0.79",
+        "Shares bid for": "8,56,000",
+        "Total Amt* (₹ Cr.)": "2.48",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.28",
         "Shares Offered*": "34,52,000",
-        "Shares bid for": "2,88,000",
-        "Total Amt* (₹ Cr.)": "0.84",
-        "Total Applications": "39"
+        "Shares bid for": "9,64,000",
+        "Total Amt* (₹ Cr.)": "2.80",
+        "Total Applications": "115"
       }
     ],
     "dayWise": [
@@ -375,6 +375,12 @@
         "NII*": "0.01",
         "Individual Investors": "0.16",
         "Total": "0.08"
+      },
+      {
+        "Date": "Sep 28 (Day 2)",
+        "NII*": "0.06",
+        "Individual Investors": "0.50",
+        "Total": "0.28"
       }
     ]
   },
@@ -400,7 +406,7 @@
       "value": 3.0,
       "percent": 10.34,
       "xLot": 12000.0,
-      "updatedOn": "28-Sep 9:37"
+      "updatedOn": "28-Sep 18:37"
     },
     "leadManager": "Finshore Management",
     "logo": "https://www.chittorgarh.net/images/ipo/dudaniretail_logo.png",
@@ -410,5 +416,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T04:32:19+00:00"
+  "scrapedAt": "2026-09-28T13:20:28+00:00"
 }

@@ -365,9 +365,9 @@
     "source": "https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/"
   },
   "subscription": {
-    "summary": "Orient Cables IPO subscribed 2.07 times. The public issue subscribed 2.56 times in the retail category, 0.01 times in QIB (Ex Anchor), and 3.67 times in the NII category by September 25, 2026 5:07:28 PM (Day 1).",
-    "total": 2.07,
-    "applications": 290030.0,
+    "summary": "Orient Cables IPO subscribed 8.77 times. The public issue subscribed 9.66 times in the retail category, 0.06 times in QIB (Ex Anchor), and 18.31 times in the NII category by September 28, 2026 5:05:13 PM (Day 2).",
+    "total": 8.77,
+    "applications": 1113977.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -378,45 +378,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.06",
         "Shares Offered*": "40,58,825",
-        "Shares bid for": "58,740",
-        "Total Amt* (₹ Cr.)": "1.60"
+        "Shares bid for": "2,45,520",
+        "Total Amt* (₹ Cr.)": "6.68"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "3.67",
+        "Subscription (x)": "18.31",
         "Shares Offered*": "30,44,118",
-        "Shares bid for": "1,11,65,110",
-        "Total Amt* (₹ Cr.)": "303.69"
+        "Shares bid for": "5,57,45,360",
+        "Total Amt* (₹ Cr.)": "1,516.27"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.69",
+        "Subscription (x)": "15.08",
         "Shares Offered*": "20,29,412",
-        "Shares bid for": "54,68,430",
-        "Total Amt* (₹ Cr.)": "148.74"
+        "Shares bid for": "3,06,11,790",
+        "Total Amt* (₹ Cr.)": "832.64"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "5.61",
+        "Subscription (x)": "24.77",
         "Shares Offered*": "10,14,706",
-        "Shares bid for": "56,96,680",
-        "Total Amt* (₹ Cr.)": "154.95"
+        "Shares bid for": "2,51,33,570",
+        "Total Amt* (₹ Cr.)": "683.63"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.56",
+        "Subscription (x)": "9.66",
         "Shares Offered*": "71,02,941",
-        "Shares bid for": "1,81,96,585",
-        "Total Amt* (₹ Cr.)": "494.95"
+        "Shares bid for": "6,85,89,070",
+        "Total Amt* (₹ Cr.)": "1,865.62"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "2.07",
+        "Subscription (x)": "8.77",
         "Shares Offered*": "1,42,05,884",
-        "Shares bid for": "2,94,20,435",
-        "Total Amt* (₹ Cr.)": "800.24"
+        "Shares bid for": "12,45,79,950",
+        "Total Amt* (₹ Cr.)": "3,388.57"
       }
     ],
     "dayWise": [
@@ -428,6 +428,15 @@
         "NII (< ₹10L)": "5.61",
         "Retail": "2.56",
         "Total": "2.07"
+      },
+      {
+        "Date": "Sep 28 (Day 2)",
+        "QIB (Ex Anchor)": "0.06",
+        "NII": "18.31",
+        "NII (> ₹10L)": "15.08",
+        "NII (< ₹10L)": "24.77",
+        "Retail": "9.66",
+        "Total": "8.77"
       }
     ]
   },
@@ -450,10 +459,10 @@
       "listing": "2026-10-05"
     },
     "gmp": {
-      "value": 90.0,
-      "percent": 33.09,
-      "xLot": 4950.0,
-      "updatedOn": "28-Sep 9:37"
+      "value": 87.0,
+      "percent": 31.99,
+      "xLot": 4785.0,
+      "updatedOn": "28-Sep 18:37"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/orient-cables-logo.jpg",
@@ -463,5 +472,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T04:32:12+00:00"
+  "scrapedAt": "2026-09-28T13:20:13+00:00"
 }

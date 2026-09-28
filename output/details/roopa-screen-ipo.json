@@ -449,8 +449,8 @@
     "source": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/"
   },
   "subscription": {
-    "summary": "Roopa Screen IPO subscribed 5.35 times. The public issue subscribed 9.60 times in the individual investors category, 2.57 times in QIB (Ex Anchor), and 4.64 times in the NII category by September 25, 2026 5:07:39 PM (Day 2).",
-    "total": 5.35,
+    "summary": "Roopa Screen IPO subscribed 271.94 times. The public issue subscribed 529.82 times in the individual investors category, 44.81 times in QIB (Ex Anchor), and 421.94 times in the NII category by September 28, 2026 6:48:20 PM (Day 3).",
+    "total": 271.94,
     "applications": null,
     "byCategory": [
       {
@@ -471,51 +471,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "2.57",
+        "Subscription (x)": "44.81",
         "Shares Offered*": "13,90,000",
-        "Shares bid for": "35,68,000",
-        "Total Amt* (₹ Cr.)": "22.84",
+        "Shares bid for": "6,22,88,000",
+        "Total Amt* (₹ Cr.)": "398.64",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "4.64",
+        "Subscription (x)": "421.94",
         "Shares Offered*": "4,20,000",
-        "Shares bid for": "19,48,000",
-        "Total Amt* (₹ Cr.)": "12.47",
+        "Shares bid for": "17,72,14,000",
+        "Total Amt* (₹ Cr.)": "1,134.17",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.50",
+        "Subscription (x)": "429.12",
         "Shares Offered*": "2,80,000",
-        "Shares bid for": "9,80,000",
-        "Total Amt* (₹ Cr.)": "6.27",
+        "Shares bid for": "12,01,54,000",
+        "Total Amt* (₹ Cr.)": "768.99",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "6.91",
+        "Subscription (x)": "407.57",
         "Shares Offered*": "1,40,000",
-        "Shares bid for": "9,68,000",
-        "Total Amt* (₹ Cr.)": "6.20",
+        "Shares bid for": "5,70,60,000",
+        "Total Amt* (₹ Cr.)": "365.18",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "9.60",
+        "Subscription (x)": "529.82",
         "Shares Offered*": "9,80,000",
-        "Shares bid for": "94,08,000",
-        "Total Amt* (₹ Cr.)": "60.21",
+        "Shares bid for": "51,92,24,000",
+        "Total Amt* (₹ Cr.)": "3,323.03",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "5.35",
+        "Subscription (x)": "271.94",
         "Shares Offered*": "27,90,000",
-        "Shares bid for": "1,49,24,000",
-        "Total Amt* (₹ Cr.)": "95.51",
-        "Total Applications": "2,593"
+        "Shares bid for": "75,87,26,000",
+        "Total Amt* (₹ Cr.)": "4,855.85",
+        "Total Applications": "1,46,988"
       }
     ],
     "dayWise": [
@@ -536,6 +536,15 @@
         "NII (< ₹10L)": "6.91",
         "Individual Investors": "9.60",
         "Total": "5.35"
+      },
+      {
+        "Date": "Sep 28 (Day 3)",
+        "QIB (Ex Anchor)": "44.81",
+        "NII*": "421.94",
+        "NII (> ₹10L)": "429.12",
+        "NII (< ₹10L)": "407.57",
+        "Individual Investors": "529.82",
+        "Total": "271.94"
       }
     ]
   },
@@ -558,10 +567,10 @@
       "listing": "2026-10-01"
     },
     "gmp": {
-      "value": 32.0,
-      "percent": 50.0,
-      "xLot": 64000.0,
-      "updatedOn": "28-Sep 9:37"
+      "value": 38.0,
+      "percent": 59.38,
+      "xLot": 76000.0,
+      "updatedOn": "28-Sep 18:37"
     },
     "leadManager": "Seren Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/roopa-screen-logo.png",
@@ -571,5 +580,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T04:32:24+00:00"
+  "scrapedAt": "2026-09-28T13:20:45+00:00"
 }

@@ -381,9 +381,9 @@
     "source": "https://www.chittorgarh.com/ipo/moneyview-ipo/2936/"
   },
   "subscription": {
-    "summary": "Moneyview IPO subscribed 6.22 times. The public issue subscribed 5.41 times in the retail category, 0.26 times in QIB (Ex Anchor), and 16.08 times in the NII category by September 25, 2026 5:07:22 PM (Day 2).",
-    "total": 6.22,
-    "applications": 1270090.0,
+    "summary": "Moneyview IPO subscribed 101.87 times. The public issue subscribed 20.41 times in the retail category, 230.54 times in QIB (Ex Anchor), and 120.37 times in the NII category by September 28, 2026 6:50:00 PM (Day 3).",
+    "total": 101.87,
+    "applications": 4855511.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -394,45 +394,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.26",
+        "Subscription (x)": "230.54",
         "Shares Offered*": "6,42,16,489",
-        "Shares bid for": "1,65,82,482",
-        "Total Amt* (₹ Cr.)": "56.38"
+        "Shares bid for": "14,80,46,83,992",
+        "Total Amt* (₹ Cr.)": "50,335.93"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "16.08",
+        "Subscription (x)": "120.37",
         "Shares Offered*": "4,81,62,365",
-        "Shares bid for": "77,43,59,838",
-        "Total Amt* (₹ Cr.)": "2,632.82"
+        "Shares bid for": "5,79,70,88,766",
+        "Total Amt* (₹ Cr.)": "19,710.10"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "14.95",
+        "Subscription (x)": "137.19",
         "Shares Offered*": "3,21,08,244",
-        "Shares bid for": "47,99,57,499",
-        "Total Amt* (₹ Cr.)": "1,631.86"
+        "Shares bid for": "4,40,48,89,251",
+        "Total Amt* (₹ Cr.)": "14,976.62"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "18.34",
+        "Subscription (x)": "86.72",
         "Shares Offered*": "1,60,54,122",
-        "Shares bid for": "29,44,02,339",
-        "Total Amt* (₹ Cr.)": "1,000.97"
+        "Shares bid for": "1,39,21,99,515",
+        "Total Amt* (₹ Cr.)": "4,733.48"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "5.41",
+        "Subscription (x)": "20.41",
         "Shares Offered*": "11,23,78,852",
-        "Shares bid for": "60,78,69,108",
-        "Total Amt* (₹ Cr.)": "2,066.75"
+        "Shares bid for": "2,29,33,83,897",
+        "Total Amt* (₹ Cr.)": "7,797.51"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "6.22",
+        "Subscription (x)": "101.87",
         "Shares Offered*": "22,47,57,706",
-        "Shares bid for": "1,39,88,11,428",
-        "Total Amt* (₹ Cr.)": "4,755.96"
+        "Shares bid for": "22,89,51,56,655",
+        "Total Amt* (₹ Cr.)": "77,843.53"
       }
     ],
     "dayWise": [
@@ -453,6 +453,15 @@
         "NII (< ₹10L)": "18.34",
         "Retail": "5.41",
         "Total": "6.22"
+      },
+      {
+        "Date": "Sep 28 (Day 3)",
+        "QIB (Ex Anchor)": "230.54",
+        "NII": "120.37",
+        "NII (> ₹10L)": "137.19",
+        "NII (< ₹10L)": "86.72",
+        "Retail": "20.41",
+        "Total": "101.87"
       }
     ]
   },
@@ -475,10 +484,10 @@
       "listing": "2026-10-01"
     },
     "gmp": {
-      "value": 14.0,
-      "percent": 41.18,
-      "xLot": 6174.0,
-      "updatedOn": "28-Sep 9:37"
+      "value": 12.5,
+      "percent": 36.76,
+      "xLot": 5512.5,
+      "updatedOn": "28-Sep 18:37"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/moneyview-ipo-logo.jpg",
@@ -488,5 +497,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T04:32:27+00:00"
+  "scrapedAt": "2026-09-28T13:20:54+00:00"
 }

@@ -398,8 +398,8 @@
     "source": "https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/"
   },
   "subscription": {
-    "summary": "Bench Mark Infotech Services IPO subscribed 0.28 times. The public issue subscribed 0.44 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.27 times in the NII category by September 28, 2026 9:59:08 AM (Day 2).",
-    "total": 0.28,
+    "summary": "Bench Mark Infotech Services IPO subscribed 1.30 times. The public issue subscribed 2.14 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.08 times in the NII category by September 28, 2026 6:50:01 PM (Day 2).",
+    "total": 1.3,
     "applications": null,
     "byCategory": [
       {
@@ -408,6 +408,14 @@
         "Shares Offered*": "10,96,800",
         "Shares bid for": "10,96,800",
         "Total Amt* (₹ Cr.)": "12.065",
+        "Total Applications": "-"
+      },
+      {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,93,200",
+        "Shares bid for": "1,93,200",
+        "Total Amt* (₹ Cr.)": "2.125",
         "Total Applications": "-"
       },
       {
@@ -420,43 +428,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "1.08",
         "Shares Offered*": "5,50,800",
-        "Shares bid for": "1,47,600",
-        "Total Amt* (₹ Cr.)": "1.624",
-        "Total Applications": "0"
+        "Shares bid for": "5,95,200",
+        "Total Amt* (₹ Cr.)": "6.547",
+        "Total Applications": "113"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.29",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "3,67,200",
-        "Shares bid for": "1,05,600",
-        "Total Amt* (₹ Cr.)": "1.162",
+        "Shares bid for": "3,66,000",
+        "Total Amt* (₹ Cr.)": "4.026",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.23",
+        "Subscription (x)": "1.25",
         "Shares Offered*": "1,83,600",
-        "Shares bid for": "42,000",
-        "Total Amt* (₹ Cr.)": "0.462",
+        "Shares bid for": "2,29,200",
+        "Total Amt* (₹ Cr.)": "2.521",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.44",
+        "Subscription (x)": "2.14",
         "Shares Offered*": "12,84,000",
-        "Shares bid for": "5,64,000",
-        "Total Amt* (₹ Cr.)": "6.204",
-        "Total Applications": "235"
+        "Shares bid for": "27,48,000",
+        "Total Amt* (₹ Cr.)": "30.228",
+        "Total Applications": "1,145"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.28",
+        "Subscription (x)": "1.30",
         "Shares Offered*": "25,68,000",
-        "Shares bid for": "7,11,600",
-        "Total Amt* (₹ Cr.)": "7.828",
-        "Total Applications": "256"
+        "Shares bid for": "33,43,200",
+        "Total Amt* (₹ Cr.)": "36.775",
+        "Total Applications": "1,258"
       }
     ],
     "dayWise": [
@@ -472,11 +480,11 @@
       {
         "Date": "Sep 28 (Day 2)",
         "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.27",
-        "NII (> ₹10L)": "0.29",
-        "NII (< ₹10L)": "0.23",
-        "Individual Investors": "0.44",
-        "Total": "0.28"
+        "NII*": "1.08",
+        "NII (> ₹10L)": "1.00",
+        "NII (< ₹10L)": "1.25",
+        "Individual Investors": "2.14",
+        "Total": "1.30"
       }
     ]
   },
@@ -499,10 +507,10 @@
       "listing": "2026-10-05"
     },
     "gmp": {
-      "value": 18.0,
-      "percent": 16.36,
-      "xLot": 21600.0,
-      "updatedOn": "28-Sep 9:37"
+      "value": 25.0,
+      "percent": 22.73,
+      "xLot": 30000.0,
+      "updatedOn": "28-Sep 18:37"
     },
     "leadManager": "GYR Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bench-mark-infotech-services-logo.png",
@@ -512,5 +520,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T04:32:20+00:00"
+  "scrapedAt": "2026-09-28T13:20:31+00:00"
 }
