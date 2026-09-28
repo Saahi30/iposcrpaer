@@ -346,7 +346,7 @@
   "subscription": {
     "summary": "Snapdeal IPO subscribed 1.19 times. The public issue subscribed 1.43 times in the retail category, 1.05 times in QIB (Ex Anchor), and 1.31 times in the NII category by September 28, 2026 5:04:07 PM (Day 2).",
     "total": 1.19,
-    "applications": 38340.0,
+    "applications": 38344.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -438,10 +438,10 @@
       "listing": "2026-10-05"
     },
     "gmp": {
-      "value": 1.25,
-      "percent": 3.91,
-      "xLot": 585.0,
-      "updatedOn": "28-Sep 18:37"
+      "value": 2.0,
+      "percent": 6.25,
+      "xLot": 936.0,
+      "updatedOn": "28-Sep 23:37"
     },
     "leadManager": "IIFL Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/acevector-logo.png",
@@ -451,5 +451,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T13:20:15+00:00"
+  "scrapedAt": "2026-09-28T23:03:59+00:00"
 }

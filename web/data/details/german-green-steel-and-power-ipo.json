@@ -349,7 +349,7 @@
   "subscription": {
     "summary": "German Green Steel IPO subscribed 5.39 times. The public issue subscribed 6.47 times in the retail category, 1.40 times in QIB (Ex Anchor), and 8.22 times in the NII category by September 28, 2026 5:04:59 PM (Day 2).",
     "total": 5.39,
-    "applications": 427115.0,
+    "applications": 427270.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -428,9 +428,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 132.0,
+      "min": 139.0,
       "max": 139.0,
-      "display": "₹132–139"
+      "display": "₹139"
     },
     "lotSize": 107,
     "issueSize": "₹303.90 Cr",
@@ -441,10 +441,10 @@
       "listing": "2026-10-05"
     },
     "gmp": {
-      "value": 26.0,
-      "percent": 18.71,
-      "xLot": 2782.0,
-      "updatedOn": "28-Sep 18:37"
+      "value": 24.5,
+      "percent": 17.63,
+      "xLot": 2621.5,
+      "updatedOn": "28-Sep 23:37"
     },
     "leadManager": "Systematix Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/german-green-steel-logo.png",
@@ -454,5 +454,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-28T13:20:09+00:00"
+  "scrapedAt": "2026-09-28T23:03:56+00:00"
 }
