@@ -352,7 +352,7 @@
   "subscription": {
     "summary": "Shah Investor's Home IPO subscribed 1.10 times. The public issue subscribed 0.90 times in the retail category, 1.08 times in QIB (Ex Anchor), and 1.59 times in the NII category by September 29, 2026 5:06:53 PM (Day 2).",
     "total": 1.1,
-    "applications": 17973.0,
+    "applications": 18020.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -444,10 +444,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 13.0,
-      "percent": 7.78,
-      "xLot": 1105.0,
-      "updatedOn": "29-Sep 17:37"
+      "value": 15.0,
+      "percent": 8.98,
+      "xLot": 1275.0,
+      "updatedOn": "29-Sep 23:37"
     },
     "leadManager": "Beeline Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/shah-invesors-home-ipo-logo.jpg",
@@ -457,5 +457,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-29T12:25:52+00:00"
+  "scrapedAt": "2026-09-29T22:02:16+00:00"
 }

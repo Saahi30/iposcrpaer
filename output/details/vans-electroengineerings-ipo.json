@@ -512,9 +512,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 112.0,
+      "min": 118.0,
       "max": 118.0,
-      "display": "₹112–118"
+      "display": "₹118"
     },
     "lotSize": 1200,
     "issueSize": "₹33.98 Cr",
@@ -525,10 +525,10 @@
       "listing": "2026-10-07"
     },
     "gmp": {
-      "value": 70.0,
-      "percent": 59.32,
-      "xLot": 84000.0,
-      "updatedOn": "29-Sep 17:37"
+      "value": 90.0,
+      "percent": 76.27,
+      "xLot": 108000.0,
+      "updatedOn": "29-Sep 23:37"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/vans-logo.png",
@@ -538,5 +538,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-29T12:25:46+00:00"
+  "scrapedAt": "2026-09-29T22:02:10+00:00"
 }

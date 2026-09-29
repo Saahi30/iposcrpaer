@@ -396,7 +396,7 @@
   "subscription": {
     "summary": "SRIT India IPO subscribed 4.16 times. The public issue subscribed 6.05 times in the retail category, 0.03 times in QIB (Ex Anchor), and 5.25 times in the NII category by September 29, 2026 5:07:07 PM (Day 2).",
     "total": 4.16,
-    "applications": 279134.0,
+    "applications": 280149.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -475,9 +475,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 123.0,
+      "min": 130.0,
       "max": 130.0,
-      "display": "₹123–130"
+      "display": "₹130"
     },
     "lotSize": 115,
     "issueSize": "₹218.40 Cr",
@@ -488,10 +488,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 24.0,
-      "percent": 18.46,
-      "xLot": 2760.0,
-      "updatedOn": "29-Sep 17:37"
+      "value": 31.0,
+      "percent": 23.85,
+      "xLot": 3565.0,
+      "updatedOn": "29-Sep 23:37"
     },
     "leadManager": "Choice Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/srit-india-logo.png",
@@ -501,5 +501,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-29T12:25:55+00:00"
+  "scrapedAt": "2026-09-29T22:02:21+00:00"
 }
