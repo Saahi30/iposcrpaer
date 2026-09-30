@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-29T22:03:03+00:00",
+  "scrapedAt": "2026-09-30T04:48:05+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,562 +15,67 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 10,
+    "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 1
   },
   "ipos": [
     {
-      "slug": "paramount-syntex-ipo",
-      "ipoId": 2743,
-      "name": "Paramount Syntex",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 119.0,
-        "max": 127.0,
-        "display": "₹119–127"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹81.79 Cr",
-      "issueSizeCr": 81.79,
-      "freshIssueCr": 77.69,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Sobhagya Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paramount-syntex-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/paramount-syntex-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paramount-syntex-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
-        "gmp": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/"
-      },
-      "gmpId": 2001,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 1996, Paramount Syntex Ltd. is engaged in the manufacturing of synthetic fibres, dyed fibres, and various types of yarns, including acrylic, polyester, wool, nylon, and blended yarns. The Company’s manufacturing units are located at Village Mangarh, Machiwara Road, Kohara, Ludhiana, Punjab, with a combined area of approximately 7,268.73 sq. yards.\n\nParamount Syntex operates with a fully integrated setup comprising fibre processing, tow dyeing, hank dyeing, spinning, bulking, and ",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "acme-india-industries-ipo",
-      "ipoId": 2748,
-      "name": "Acme India Industries",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 186.0,
-        "max": 196.0,
-        "display": "₹186–196"
-      },
-      "lotSize": 600,
-      "issueSize": "₹121.69 Cr",
-      "issueSizeCr": 121.69,
-      "freshIssueCr": 99.82,
-      "ofsCr": 15.71,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 30.0,
-        "percent": 15.31,
-        "xLot": 18000.0,
-        "updatedOn": "29-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/acme-india-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/acme-india-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=acme-india-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
-        "gmp": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/"
-      },
-      "gmpId": 2006,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in December 2021, Acme India Industries Limited is engaged in the Indian railway rolling stock sector, focusing on the design, manufacture, supply, installation and warranty maintenance of railway coach interiors and components. The Company provides turnkey furnishing solutions for new railway coaches, refurbishment, upgradation and conversion of old coaches, and modernization of toilet facilities. It manufactures and supplies products including Braille signage, FRP products, sanita",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "tna-solutions-ipo",
-      "ipoId": 3216,
-      "name": "TNA Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 66.0,
-        "max": 70.0,
-        "display": "₹66–70"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹37.86 Cr",
-      "issueSizeCr": 37.86,
-      "freshIssueCr": 35.95,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 7.0,
-        "percent": 10.0,
-        "xLot": 14000.0,
-        "updatedOn": "29-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Credora Partners",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/tna-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=tna-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
-        "gmp": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/"
-      },
-      "gmpId": 2370,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 2021, TNA Solutions Limited is engaged in the manufacturing of home textile products for domestic and international customers. Its manufacturing facility is located in Indore, Madhya Pradesh, where it converts processed fabrics into finished home furnishing products based on customer specifications. The Company offers a diversified portfolio of home textile products, including sheet sets, pillow shells and covers, towels, and top-of-bed products such as comforters, quil",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "dove-soft-ipo",
-      "ipoId": 2424,
-      "name": "Dove Soft",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 104.0,
-        "max": 111.0,
-        "display": "₹104–111"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹73.26 Cr",
-      "issueSizeCr": 73.26,
-      "freshIssueCr": 55.48,
-      "ofsCr": 14.12,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Swastika Investmart",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/dove-soft-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/dove-soft-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=dove-soft-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
-        "gmp": "https://www.investorgain.com/gmp/dove-soft-ipo/1781/"
-      },
-      "gmpId": 1781,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in August 2011, Dove Soft Limited provides integrated cloud-communication solutions through SMS, RCS, Voice, WhatsApp, Email, and other digital channels. The company provides services to enterprises and OTT platforms, including SMS, WhatsApp, Voice, IVR, automated calls, E-mail, and Digital Products. The company serves clients across industries like Telecom, IT, Travel, Entertainment, Media, Advertising, Retail, Real Estate, Healthcare, BFSI, Automobile, E-commerce, and Food & Bever",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "vishal-nirmiti-ipo",
-      "ipoId": 2665,
-      "name": "Vishal Nirmiti",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 208.0,
-        "max": 220.0,
-        "display": "₹208–220"
-      },
-      "lotSize": 68,
-      "issueSize": "₹178.00 Cr",
-      "issueSizeCr": 178.0,
-      "freshIssueCr": 145.0,
-      "ofsCr": 33.0,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 6.0,
-        "percent": 2.73,
-        "xLot": 408.0,
-        "updatedOn": "29-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Saffron Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vishal-nirmiti-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/vishal-nirmiti-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vishal-nirmiti-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
-        "gmp": "https://www.investorgain.com/gmp/vishal-nirmiti-ipo/1602/"
-      },
-      "gmpId": 1602,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1994, Vishal Nirmiti Limited (formerly Sejal Farms Private Limited) is a civil engineering, manufacturing, and construction company primarily engaged in manufacturing and dealing of Pre-Stressed Concrete (PSC) sleepers for railways, pre-cast and pre-stressed concrete products, as well as fabrication and erection of Mild Steel (MS) pipes, liners, and penstock pipes for Pumped Storage Projects (PSPs).\n\nThe company also provides engineering, procurement, and construction (EPC) servi",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "sjp-ultrasonic-ipo",
-      "ipoId": 2703,
-      "name": "SJP Ultrasonic",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 67.0,
-        "max": 67.0,
-        "display": "₹67"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹23.45 Cr",
-      "issueSizeCr": 23.45,
-      "freshIssueCr": 22.27,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:34"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Khandwala Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sjp-ultrasonics-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sjp-ultrasonic-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sjp-ultrasonic-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sjp-ultrasonic-ipo/2703/",
-        "gmp": "https://www.investorgain.com/gmp/sjp-ultrasonic-ipo/1964/"
-      },
-      "gmpId": 1964,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 2012, SJP Ultrasonics Ltd. is engaged in the end-to-end plastic joining and automation solution providers. The company offers specialised solutions mainly in the Automotive industry and industries related to Medical, Electrical, Electronics, Textile, FMCG, Toys, Gift & Stationery, Food & Packaging, Defence & Educational Institutes. The sale of the products and services is majorly made to manufacturers engaged in various industries, which makes model business to business (B2B).\n\nT",
-      "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "nityas-gems-jewellery-ipo",
-      "ipoId": 2974,
-      "name": "Nityas Gems & Jewellery",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 70.0,
-        "max": 75.0,
-        "display": "₹70–75"
-      },
-      "lotSize": 200,
-      "issueSize": "₹108.35 Cr",
-      "issueSizeCr": 108.35,
-      "freshIssueCr": 108.35,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 5.0,
-        "percent": 6.67,
-        "xLot": 1000.0,
-        "updatedOn": "29-Sep 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Choice Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/nityas-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/nityas-gems-jewellery-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=nityas-gems-jewellery-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
-        "gmp": "https://www.investorgain.com/gmp/nityas-gems-jewellery-ipo/2235/"
-      },
-      "gmpId": 2235,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in April 2022, Nityas Gems and Jewellery Limited is engaged in the design, manufacturing and sale of lab-grown diamond studded gold jewellery in India. The Company operates through an integrated business model comprising B2B manufacturing and distribution to organised retailers, standalone retailers and wholesalers, along with direct-to-consumer (“D2C”) omnichannel retail operations through its subsidiary, Ayaani Diamonds and Jewellery Private Limited (“Ayaani”). The Company’s opera",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "eventions-ipo",
-      "ipoId": 3006,
-      "name": "Eventions",
+      "slug": "rkfashion-accessories-ipo",
+      "ipoId": 3138,
+      "name": "R.K.Fashion Accessories",
       "type": "sme",
       "status": "upcoming",
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 112.0,
-        "max": 118.0,
-        "display": "₹112–118"
+        "min": 77.0,
+        "max": 82.0,
+        "display": "₹77–82"
       },
-      "lotSize": 1200,
-      "issueSize": "₹38.12 Cr",
-      "issueSizeCr": 38.12,
-      "freshIssueCr": 36.21,
+      "lotSize": 1600,
+      "issueSize": "₹34.99 Cr",
+      "issueSizeCr": 34.99,
+      "freshIssueCr": 33.23,
       "ofsCr": null,
       "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
+        "open": "2026-10-05",
+        "close": "2026-10-07",
+        "allotment": "2026-10-08",
+        "listing": "2026-10-12"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:28"
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
       },
       "subscription": {
         "total": null,
         "byCategory": []
       },
-      "leadManager": "Corporate Professionals",
+      "leadManager": "Affinity Global",
       "symbols": {
         "isin": null,
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/eventions-ipo-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/rk-fashion-logo_page-0001.jpg",
       "hasDetail": true,
-      "detailPath": "details/eventions-ipo.json",
+      "detailPath": "details/rkfashion-accessories-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=eventions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/eventions-ipo/3006/",
-        "gmp": "https://www.investorgain.com/gmp/eventions-ipo/2267/"
+        "local": "./ipo.html?slug=rkfashion-accessories-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
+        "gmp": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/"
       },
-      "gmpId": 2267,
+      "gmpId": 2292,
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2020, Eventions Limited is engaged in the Meetings, Incentives, Conferences and Exhibitions (“MICE”) and event management segment. The Company provides services for planning, coordination and execution of corporate events, conferences and related activities, primarily for corporate and institutional clients.The Company offers a range of services including MICE services, corporate events, conferences, incentive travel programs, virtual events, Free Independent Travel (“FI",
-      "registrar": "Mudra RTA Ventures Private Limited"
-    },
-    {
-      "slug": "sollfege-smart-electronics-ipo",
-      "ipoId": 3086,
-      "name": "Sollfege Smart Electronics",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 55.0,
-        "max": 55.0,
-        "display": "₹55"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹21.78 Cr",
-      "issueSizeCr": 21.78,
-      "freshIssueCr": 20.68,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:35"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Finshore Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sollfege-smart-Electronics-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sollfege-smart-electronics-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sollfege-smart-electronics-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
-        "gmp": "https://www.investorgain.com/gmp/sollfege-smart-electronics-ipo/2274/"
-      },
-      "gmpId": 2274,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in November 2012, Sollfege Smart Electronics Limited is engaged in the distribution, integration and implementation of premium audio, video, home automation, smart living, lifestyle and wellness solutions in India. The Company initially focused on the distribution of high-end audio and video equipment and has expanded its business into integrated technology solutions for high-end residential, commercial and institutional spaces. The Company offers a diverse portfolio of premium tech",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "omara-ventures-india-ipo",
-      "ipoId": 3194,
-      "name": "Omara Ventures India",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 296.0,
-        "max": 311.0,
-        "display": "₹296–311"
-      },
-      "lotSize": 400,
-      "issueSize": "₹41.99 Cr",
-      "issueSizeCr": 41.99,
-      "freshIssueCr": 39.87,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-05",
-        "allotment": "2026-10-06",
-        "listing": "2026-10-08"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Sep 23:28"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Wealth Mine Networks",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/omara-ventures-india-limited-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/omara-ventures-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=omara-ventures-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
-        "gmp": "https://www.investorgain.com/gmp/omara-ventures-india-ipo/2347/"
-      },
-      "gmpId": 2347,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in October 2020, Omara Ventures India Limited is a retail jewellery company engaged in the sale of diamond jewellery made using natural diamonds and precious and semi-precious gemstones, set in precious metals such as gold, platinum and silver. The Company operates under the brand name “Omara” and primarily caters to business-to-consumer (B2C) customers through its retail boutique.The Company offers a curated portfolio of diamond jewellery comprising necklaces, earrings, rings, brac",
-      "registrar": "Bigshare Services Pvt.Ltd."
+      "about": "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with trading of branded cosmetics. The company offers traditional and contemporary jewellery products under brands such as “City Girl” and “Manikya”.\n\nThe company operates through B2B wholesale, e-commerce retailing, and corporate retail tie-ups while expanding its B2C presence in Kolkata. Its product portfolio includ",
+      "registrar": "Cameo Corporate Services Ltd."
     }
   ]
 }

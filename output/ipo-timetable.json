@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-29T22:03:09+00:00",
+  "scrapedAt": "2026-09-30T04:48:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/9/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 277,
+    "total": 278,
     "mainboard": 96,
-    "sme": 181
+    "sme": 182
   },
   "ipos": [
     {
@@ -6660,6 +6660,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3138,
+      "name": "R.K.Fashion Accessories Ltd.",
+      "slug": "rkfashion-accessories-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-05",
+        "close": "2026-10-07",
+        "allotment": "2026-10-08",
+        "refunds": "2026-10-09",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "05-Oct-2026",
+        "close": "07-Oct-2026",
+        "allotment": "08-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/rk-fashion-logo_page-0001.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]

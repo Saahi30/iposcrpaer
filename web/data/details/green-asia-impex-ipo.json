@@ -328,7 +328,7 @@
     "source": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/"
   },
   "subscription": {
-    "summary": "Green Asia Impex IPO subscribed 0.52 times. The public issue subscribed 0.22 times in the individual investors category, 1.47 times in QIB (Ex Anchor), and 0.02 times in the NII category by September 29, 2026 6:54:05 PM (Day 4).",
+    "summary": "Green Asia Impex IPO subscribed 0.52 times. The public issue subscribed 0.23 times in the individual investors category, 1.47 times in QIB (Ex Anchor), and 0.02 times in the NII category by September 30, 2026 10:14:09 AM (Day 5).",
     "total": 0.52,
     "applications": null,
     "byCategory": [
@@ -374,19 +374,19 @@
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.22",
+        "Subscription (x)": "0.23",
         "Shares Offered*": "22,17,600",
-        "Shares bid for": "4,96,000",
-        "Total Amt* (₹ Cr.)": "4.414",
-        "Total Applications": "155"
+        "Shares bid for": "5,08,800",
+        "Total Amt* (₹ Cr.)": "4.528",
+        "Total Applications": "159"
       },
       {
         "Category": "Total **",
         "Subscription (x)": "0.52",
         "Shares Offered*": "63,48,800",
-        "Shares bid for": "33,18,400",
-        "Total Amt* (₹ Cr.)": "29.534",
-        "Total Applications": "173"
+        "Shares bid for": "33,31,200",
+        "Total Amt* (₹ Cr.)": "29.648",
+        "Total Applications": "177"
       }
     ],
     "dayWise": [
@@ -425,6 +425,15 @@
         "NII (< ₹10L)": "0.02",
         "Individual Investors": "0.22",
         "Total": "0.52"
+      },
+      {
+        "Date": "Sep 30 (Day 5)",
+        "QIB (Ex Anchor)": "1.47",
+        "NII*": "0.02",
+        "NII (> ₹10L)": "0.00",
+        "NII (< ₹10L)": "0.02",
+        "Individual Investors": "0.23",
+        "Total": "0.52"
       }
     ]
   },
@@ -450,7 +459,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "29-Sep 23:31"
+      "updatedOn": "30-Sep 10:01"
     },
     "leadManager": "Indorient Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/green_asia_logo.png",
@@ -460,5 +469,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-29T22:02:41+00:00"
+  "scrapedAt": "2026-09-30T04:48:03+00:00"
 }
