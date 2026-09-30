@@ -425,8 +425,8 @@
     "source": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/"
   },
   "subscription": {
-    "summary": "Vans Electroengineerings IPO subscribed 5.07 times. The public issue subscribed 8.70 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 3.98 times in the NII category by September 30, 2026 10:13:50 AM (Day 2).",
-    "total": 5.07,
+    "summary": "Vans Electroengineerings IPO subscribed 64.69 times. The public issue subscribed 101.85 times in the individual investors category, 0.03 times in QIB (Ex Anchor), and 71.87 times in the NII category by September 30, 2026 5:05:57 PM (Day 2).",
+    "total": 64.69,
     "applications": null,
     "byCategory": [
       {
@@ -447,59 +447,59 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.03",
         "Shares Offered*": "5,37,600",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "14,400",
+        "Total Amt* (₹ Cr.)": "0.17",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "3.98",
+        "Subscription (x)": "71.87",
         "Shares Offered*": "4,03,200",
-        "Shares bid for": "16,03,200",
-        "Total Amt* (₹ Cr.)": "18.92",
+        "Shares bid for": "2,89,76,400",
+        "Total Amt* (₹ Cr.)": "341.92",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.08",
+        "Subscription (x)": "68.65",
         "Shares Offered*": "2,66,400",
-        "Shares bid for": "8,20,800",
-        "Total Amt* (₹ Cr.)": "9.69",
+        "Shares bid for": "1,82,89,200",
+        "Total Amt* (₹ Cr.)": "215.81",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "5.72",
+        "Subscription (x)": "78.12",
         "Shares Offered*": "1,36,800",
-        "Shares bid for": "7,82,400",
-        "Total Amt* (₹ Cr.)": "9.23",
+        "Shares bid for": "1,06,87,200",
+        "Total Amt* (₹ Cr.)": "126.11",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "8.70",
+        "Subscription (x)": "101.85",
         "Shares Offered*": "9,40,800",
-        "Shares bid for": "81,82,800",
-        "Total Amt* (₹ Cr.)": "96.56",
+        "Shares bid for": "9,58,23,600",
+        "Total Amt* (₹ Cr.)": "1,130.72",
         "Total Applications": "0"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.38",
         "Shares Offered*": "48,000",
-        "Shares bid for": "3,600",
-        "Total Amt* (₹ Cr.)": "0.04",
+        "Shares bid for": "18,000",
+        "Total Amt* (₹ Cr.)": "0.21",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "5.07",
+        "Subscription (x)": "64.69",
         "Shares Offered*": "19,29,600",
-        "Shares bid for": "97,89,600",
-        "Total Amt* (₹ Cr.)": "115.52",
-        "Total Applications": "3,939"
+        "Shares bid for": "12,48,32,400",
+        "Total Amt* (₹ Cr.)": "1,473.02",
+        "Total Applications": "44,643"
       }
     ],
     "dayWise": [
@@ -515,13 +515,13 @@
       },
       {
         "Date": "Sep 30 (Day 2)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "3.98",
-        "NII (> ₹10L)": "3.08",
-        "NII (< ₹10L)": "5.72",
-        "Individual Investors": "8.70",
-        "EMP": "0.08",
-        "Total": "5.07"
+        "QIB (Ex Anchor)": "0.03",
+        "NII*": "71.87",
+        "NII (> ₹10L)": "68.65",
+        "NII (< ₹10L)": "78.12",
+        "Individual Investors": "101.85",
+        "EMP": "0.38",
+        "Total": "64.69"
       }
     ]
   },
@@ -544,10 +544,10 @@
       "listing": "2026-10-07"
     },
     "gmp": {
-      "value": 90.0,
-      "percent": 76.27,
-      "xLot": 108000.0,
-      "updatedOn": "30-Sep 10:02"
+      "value": 85.0,
+      "percent": 72.03,
+      "xLot": 102000.0,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Hem Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/vans-logo.png",
@@ -557,5 +557,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:51+00:00"
+  "scrapedAt": "2026-09-30T12:11:25+00:00"
 }

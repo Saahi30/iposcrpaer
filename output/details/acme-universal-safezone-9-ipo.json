@@ -362,8 +362,8 @@
     "source": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/"
   },
   "subscription": {
-    "summary": "Acme Universal Safezone 9 IPO subscribed 0.52 times. The public issue subscribed 0.48 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.29 times in the NII category by September 30, 2026 10:14:40 AM (Day 3).",
-    "total": 0.52,
+    "summary": "Acme Universal Safezone 9 IPO subscribed 23.41 times. The public issue subscribed 15.23 times in the individual investors category, 31.29 times in QIB (Ex Anchor), and 31.98 times in the NII category by September 30, 2026 5:38:37 PM (Day 3).",
+    "total": 23.41,
     "applications": null,
     "byCategory": [
       {
@@ -384,51 +384,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "31.29",
         "Shares Offered*": "9,60,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "3,00,36,800",
+        "Total Amt* (₹ Cr.)": "213.261",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.29",
+        "Subscription (x)": "31.98",
         "Shares Offered*": "7,24,800",
-        "Shares bid for": "9,32,800",
-        "Total Amt* (₹ Cr.)": "6.623",
+        "Shares bid for": "2,31,80,800",
+        "Total Amt* (₹ Cr.)": "164.584",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.03",
+        "Subscription (x)": "39.48",
         "Shares Offered*": "4,83,200",
-        "Shares bid for": "4,96,000",
-        "Total Amt* (₹ Cr.)": "3.522",
+        "Shares bid for": "1,90,76,800",
+        "Total Amt* (₹ Cr.)": "135.445",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.81",
+        "Subscription (x)": "16.99",
         "Shares Offered*": "2,41,600",
-        "Shares bid for": "4,36,800",
-        "Total Amt* (₹ Cr.)": "3.101",
+        "Shares bid for": "41,04,000",
+        "Total Amt* (₹ Cr.)": "29.138",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.48",
+        "Subscription (x)": "15.23",
         "Shares Offered*": "16,83,200",
-        "Shares bid for": "8,09,600",
-        "Total Amt* (₹ Cr.)": "5.748",
+        "Shares bid for": "2,56,32,000",
+        "Total Amt* (₹ Cr.)": "181.987",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.52",
+        "Subscription (x)": "23.41",
         "Shares Offered*": "33,68,000",
-        "Shares bid for": "17,42,400",
-        "Total Amt* (₹ Cr.)": "12.371",
-        "Total Applications": "382"
+        "Shares bid for": "7,88,49,600",
+        "Total Amt* (₹ Cr.)": "559.832",
+        "Total Applications": "10,193"
       }
     ],
     "dayWise": [
@@ -452,12 +452,12 @@
       },
       {
         "Date": "Sep 30 (Day 3)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "1.29",
-        "NII (> ₹10L)": "1.03",
-        "NII (< ₹10L)": "1.81",
-        "Individual Investors": "0.48",
-        "Total": "0.52"
+        "QIB (Ex Anchor)": "31.29",
+        "NII*": "31.98",
+        "NII (> ₹10L)": "39.48",
+        "NII (< ₹10L)": "16.99",
+        "Individual Investors": "15.23",
+        "Total": "23.41"
       }
     ]
   },
@@ -480,10 +480,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 0.0,
-      "percent": 0.0,
-      "xLot": 0.0,
-      "updatedOn": "30-Sep 10:01"
+      "value": 5.5,
+      "percent": 7.75,
+      "xLot": 8800.0,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Expert Global",
     "logo": "https://www.chittorgarh.net/images/ipo/acme-universal-safezone-9-logo.png",
@@ -493,5 +493,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:48:01+00:00"
+  "scrapedAt": "2026-09-30T12:11:34+00:00"
 }

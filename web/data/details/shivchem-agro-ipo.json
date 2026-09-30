@@ -344,8 +344,8 @@
     "source": "https://www.chittorgarh.com/ipo/shivchem-agro-ipo/2695/"
   },
   "subscription": {
-    "summary": "Shivchem Agro IPO subscribed 0.72 times. The public issue subscribed 0.91 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.60 times in the NII category by September 30, 2026 10:13:23 AM (Day 3).",
-    "total": 0.72,
+    "summary": "Shivchem Agro IPO subscribed 2.20 times. The public issue subscribed 3.50 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.00 times in the NII category by September 30, 2026 5:39:18 PM (Day 3).",
+    "total": 2.2,
     "applications": null,
     "byCategory": [
       {
@@ -358,51 +358,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "1,08,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "1,08,000",
+        "Total Amt* (₹ Cr.)": "0.670",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.60",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "10,14,000",
-        "Shares bid for": "6,08,000",
-        "Total Amt* (₹ Cr.)": "3.770",
+        "Shares bid for": "10,18,000",
+        "Total Amt* (₹ Cr.)": "6.312",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "0.97",
         "Shares Offered*": "6,76,000",
-        "Shares bid for": "5,40,000",
-        "Total Amt* (₹ Cr.)": "3.348",
+        "Shares bid for": "6,54,000",
+        "Total Amt* (₹ Cr.)": "4.055",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "1.08",
         "Shares Offered*": "3,38,000",
-        "Shares bid for": "68,000",
-        "Total Amt* (₹ Cr.)": "0.422",
+        "Shares bid for": "3,64,000",
+        "Total Amt* (₹ Cr.)": "2.257",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.91",
+        "Subscription (x)": "3.50",
         "Shares Offered*": "10,24,000",
-        "Shares bid for": "9,36,000",
-        "Total Amt* (₹ Cr.)": "5.803",
+        "Shares bid for": "35,88,000",
+        "Total Amt* (₹ Cr.)": "22.246",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.72",
+        "Subscription (x)": "2.20",
         "Shares Offered*": "21,46,000",
-        "Shares bid for": "15,44,000",
-        "Total Amt* (₹ Cr.)": "9.573",
-        "Total Applications": "258"
+        "Shares bid for": "47,14,000",
+        "Total Amt* (₹ Cr.)": "29.227",
+        "Total Applications": "969"
       }
     ],
     "dayWise": [
@@ -426,12 +426,12 @@
       },
       {
         "Date": "Sep 30 (Day 3)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.60",
-        "NII (> ₹10L)": "0.80",
-        "NII (< ₹10L)": "0.20",
-        "Individual Investors": "0.91",
-        "Total": "0.72"
+        "QIB (Ex Anchor)": "1.00",
+        "NII*": "1.00",
+        "NII (> ₹10L)": "0.97",
+        "NII (< ₹10L)": "1.08",
+        "Individual Investors": "3.50",
+        "Total": "2.20"
       }
     ]
   },
@@ -454,10 +454,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 10.0,
-      "percent": 16.13,
-      "xLot": 20000.0,
-      "updatedOn": "30-Sep 10:02"
+      "value": 1.0,
+      "percent": 1.61,
+      "xLot": 2000.0,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Shannon Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/shivchem-agro-logo.png",
@@ -467,5 +467,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:58+00:00"
+  "scrapedAt": "2026-09-30T12:11:31+00:00"
 }

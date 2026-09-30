@@ -350,9 +350,9 @@
     "source": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/"
   },
   "subscription": {
-    "summary": "Shah Investor's Home IPO subscribed 1.46 times. The public issue subscribed 1.33 times in the retail category, 1.08 times in QIB (Ex Anchor), and 2.28 times in the NII category by September 30, 2026 10:13:18 AM (Day 3).",
-    "total": 1.46,
-    "applications": 27504.0,
+    "summary": "Shah Investor's Home IPO subscribed 38.12 times. The public issue subscribed 19.26 times in the retail category, 28.05 times in QIB (Ex Anchor), and 95.54 times in the NII category by September 30, 2026 5:39:12 PM (Day 3).",
+    "total": 38.12,
+    "applications": 419543.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -363,45 +363,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.08",
+        "Subscription (x)": "28.05",
         "Shares Offered*": "10,79,840",
-        "Shares bid for": "11,71,385",
-        "Total Amt* (₹ Cr.)": "19.562"
+        "Shares bid for": "3,02,89,750",
+        "Total Amt* (₹ Cr.)": "505.839"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "2.28",
+        "Subscription (x)": "95.54",
         "Shares Offered*": "8,09,880",
-        "Shares bid for": "18,46,115",
-        "Total Amt* (₹ Cr.)": "30.830"
+        "Shares bid for": "7,73,75,415",
+        "Total Amt* (₹ Cr.)": "1,292.169"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.88",
+        "Subscription (x)": "105.15",
         "Shares Offered*": "5,39,920",
-        "Shares bid for": "10,15,835",
-        "Total Amt* (₹ Cr.)": "16.964"
+        "Shares bid for": "5,67,72,435",
+        "Total Amt* (₹ Cr.)": "948.100"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "3.08",
+        "Subscription (x)": "76.32",
         "Shares Offered*": "2,69,960",
-        "Shares bid for": "8,30,280",
-        "Total Amt* (₹ Cr.)": "13.866"
+        "Shares bid for": "2,06,02,980",
+        "Total Amt* (₹ Cr.)": "344.070"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.33",
+        "Subscription (x)": "19.26",
         "Shares Offered*": "18,89,720",
-        "Shares bid for": "25,17,360",
-        "Total Amt* (₹ Cr.)": "42.040"
+        "Shares bid for": "3,63,94,705",
+        "Total Amt* (₹ Cr.)": "607.792"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.46",
+        "Subscription (x)": "38.12",
         "Shares Offered*": "37,79,440",
-        "Shares bid for": "55,34,860",
-        "Total Amt* (₹ Cr.)": "92.432"
+        "Shares bid for": "14,40,59,870",
+        "Total Amt* (₹ Cr.)": "2,405.800"
       }
     ],
     "dayWise": [
@@ -425,12 +425,12 @@
       },
       {
         "Date": "Sep 30 (Day 3)",
-        "QIB (Ex Anchor)": "1.08",
-        "NII": "2.28",
-        "NII (> ₹10L)": "1.88",
-        "NII (< ₹10L)": "3.08",
-        "Retail": "1.33",
-        "Total": "1.46"
+        "QIB (Ex Anchor)": "28.05",
+        "NII": "95.54",
+        "NII (> ₹10L)": "105.15",
+        "NII (< ₹10L)": "76.32",
+        "Retail": "19.26",
+        "Total": "38.12"
       }
     ]
   },
@@ -453,10 +453,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 15.0,
-      "percent": 8.98,
-      "xLot": 1275.0,
-      "updatedOn": "30-Sep 10:02"
+      "value": 12.5,
+      "percent": 7.49,
+      "xLot": 1062.5,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Beeline Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/shah-invesors-home-ipo-logo.jpg",
@@ -466,5 +466,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:56+00:00"
+  "scrapedAt": "2026-09-30T12:11:30+00:00"
 }

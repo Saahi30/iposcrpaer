@@ -374,8 +374,8 @@
     "source": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/"
   },
   "subscription": {
-    "summary": "Black Opal Consultants IPO subscribed 0.40 times. The public issue subscribed 0.45 times in the individual investors category, 0.48 times in QIB (Ex Anchor), and 0.20 times in the NII category by September 30, 2026 10:14:44 AM (Day 2).",
-    "total": 0.4,
+    "summary": "Black Opal Consultants IPO subscribed 1.24 times. The public issue subscribed 1.61 times in the individual investors category, 0.76 times in QIB (Ex Anchor), and 1.03 times in the NII category by September 30, 2026 5:06:40 PM (Day 2).",
+    "total": 1.24,
     "applications": null,
     "byCategory": [
       {
@@ -387,52 +387,60 @@
         "Total Applications": "-"
       },
       {
+        "Category": "Market Maker",
+        "Subscription (x)": "1",
+        "Shares Offered*": "1,39,800",
+        "Shares bid for": "1,39,800",
+        "Total Amt* (₹ Cr.)": "2.754",
+        "Total Applications": "-"
+      },
+      {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.48",
+        "Subscription (x)": "0.76",
         "Shares Offered*": "5,31,000",
-        "Shares bid for": "2,53,800",
-        "Total Amt* (₹ Cr.)": "5.000",
+        "Shares bid for": "4,06,200",
+        "Total Amt* (₹ Cr.)": "8.002",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "1.03",
         "Shares Offered*": "3,99,000",
-        "Shares bid for": "78,000",
-        "Total Amt* (₹ Cr.)": "1.537",
+        "Shares bid for": "4,10,400",
+        "Total Amt* (₹ Cr.)": "8.085",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.21",
+        "Subscription (x)": "0.96",
         "Shares Offered*": "2,65,800",
-        "Shares bid for": "56,400",
-        "Total Amt* (₹ Cr.)": "1.111",
+        "Shares bid for": "2,55,000",
+        "Total Amt* (₹ Cr.)": "5.024",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "1.17",
         "Shares Offered*": "1,33,200",
-        "Shares bid for": "21,600",
-        "Total Amt* (₹ Cr.)": "0.426",
+        "Shares bid for": "1,55,400",
+        "Total Amt* (₹ Cr.)": "3.061",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.45",
+        "Subscription (x)": "1.61",
         "Shares Offered*": "9,30,000",
-        "Shares bid for": "4,18,800",
-        "Total Amt* (₹ Cr.)": "8.250",
+        "Shares bid for": "14,98,800",
+        "Total Amt* (₹ Cr.)": "29.526",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.40",
+        "Subscription (x)": "1.24",
         "Shares Offered*": "18,60,000",
-        "Shares bid for": "7,50,600",
-        "Total Amt* (₹ Cr.)": "14.787",
-        "Total Applications": "373"
+        "Shares bid for": "23,15,400",
+        "Total Amt* (₹ Cr.)": "45.613",
+        "Total Applications": "1,381"
       }
     ],
     "dayWise": [
@@ -447,12 +455,12 @@
       },
       {
         "Date": "Sep 30 (Day 2)",
-        "QIB (Ex Anchor)": "0.48",
-        "NII*": "0.20",
-        "NII (> ₹10L)": "0.21",
-        "NII (< ₹10L)": "0.16",
-        "Individual Investors": "0.45",
-        "Total": "0.40"
+        "QIB (Ex Anchor)": "0.76",
+        "NII*": "1.03",
+        "NII (> ₹10L)": "0.96",
+        "NII (< ₹10L)": "1.17",
+        "Individual Investors": "1.61",
+        "Total": "1.24"
       }
     ]
   },
@@ -475,10 +483,10 @@
       "listing": "2026-10-07"
     },
     "gmp": {
-      "value": 38.0,
-      "percent": 19.29,
-      "xLot": 22800.0,
-      "updatedOn": "30-Sep 10:02"
+      "value": 35.0,
+      "percent": 17.77,
+      "xLot": 21000.0,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Khambatta Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/black-opal-consultants-logo.png",
@@ -488,5 +496,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:48+00:00"
+  "scrapedAt": "2026-09-30T12:11:21+00:00"
 }

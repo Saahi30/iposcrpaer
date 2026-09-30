@@ -447,8 +447,8 @@
     "source": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/"
   },
   "subscription": {
-    "summary": "TNA Solutions IPO subscribed 0.00 times. The public issue subscribed 0.01 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.00 times in the NII category by September 30, 2026 10:13:46 AM (Day 1).",
-    "total": 0.0,
+    "summary": "TNA Solutions IPO subscribed 0.25 times. The public issue subscribed 0.46 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.10 times in the NII category by September 30, 2026 5:05:52 PM (Day 1).",
+    "total": 0.25,
     "applications": null,
     "byCategory": [
       {
@@ -469,54 +469,54 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.10",
         "Shares Offered*": "7,74,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "80,000",
+        "Total Amt* (₹ Cr.)": "0.560",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.06",
         "Shares Offered*": "5,16,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "32,000",
+        "Total Amt* (₹ Cr.)": "0.224",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.19",
         "Shares Offered*": "2,58,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "",
+        "Shares bid for": "48,000",
+        "Total Amt* (₹ Cr.)": "0.336",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.46",
         "Shares Offered*": "18,00,000",
-        "Shares bid for": "16,000",
-        "Total Amt* (₹ Cr.)": "0.112",
+        "Shares bid for": "8,32,000",
+        "Total Amt* (₹ Cr.)": "5.824",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.25",
         "Shares Offered*": "36,00,000",
-        "Shares bid for": "16,000",
-        "Total Amt* (₹ Cr.)": "0.112",
-        "Total Applications": "6"
+        "Shares bid for": "9,12,000",
+        "Total Amt* (₹ Cr.)": "6.384",
+        "Total Applications": "219"
       }
     ],
     "dayWise": [
       {
         "Date": "Sep 30 (Day 1)",
         "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.00",
-        "NII (> ₹10L)": "0.00",
-        "NII (< ₹10L)": "0.00",
-        "Individual Investors": "0.01",
-        "Total": "0.00"
+        "NII*": "0.10",
+        "NII (> ₹10L)": "0.06",
+        "NII (< ₹10L)": "0.19",
+        "Individual Investors": "0.46",
+        "Total": "0.25"
       }
     ]
   },
@@ -542,7 +542,7 @@
       "value": 7.0,
       "percent": 10.0,
       "xLot": 14000.0,
-      "updatedOn": "30-Sep 10:02"
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Credora Partners",
     "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
@@ -552,5 +552,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:33+00:00"
+  "scrapedAt": "2026-09-30T12:11:06+00:00"
 }

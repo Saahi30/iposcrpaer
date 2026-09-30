@@ -330,8 +330,8 @@
     "source": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/"
   },
   "subscription": {
-    "summary": "Pind Hospitality IPO subscribed 0.40 times. The public issue subscribed 0.27 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 0.52 times in the NII category by September 30, 2026 10:13:14 AM (Day 3).",
-    "total": 0.4,
+    "summary": "Pind Hospitality IPO subscribed 2.71 times. The public issue subscribed 4.31 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.15 times in the NII category by September 30, 2026 5:39:05 PM (Day 3).",
+    "total": 2.71,
     "applications": null,
     "byCategory": [
       {
@@ -352,43 +352,43 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.52",
+        "Subscription (x)": "1.15",
         "Shares Offered*": "8,46,000",
-        "Shares bid for": "4,42,800",
-        "Total Amt* (₹ Cr.)": "4.384",
+        "Shares bid for": "9,76,800",
+        "Total Amt* (₹ Cr.)": "9.670",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.78",
+        "Subscription (x)": "1.30",
         "Shares Offered*": "5,64,000",
-        "Shares bid for": "4,39,200",
-        "Total Amt* (₹ Cr.)": "4.348",
+        "Shares bid for": "7,33,200",
+        "Total Amt* (₹ Cr.)": "7.259",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.86",
         "Shares Offered*": "2,82,000",
-        "Shares bid for": "3,600",
-        "Total Amt* (₹ Cr.)": "0.036",
+        "Shares bid for": "2,43,600",
+        "Total Amt* (₹ Cr.)": "2.412",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "4.31",
         "Shares Offered*": "8,44,800",
-        "Shares bid for": "2,30,400",
-        "Total Amt* (₹ Cr.)": "2.281",
+        "Shares bid for": "36,43,200",
+        "Total Amt* (₹ Cr.)": "36.068",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.40",
+        "Subscription (x)": "2.71",
         "Shares Offered*": "17,08,800",
-        "Shares bid for": "6,91,200",
-        "Total Amt* (₹ Cr.)": "6.843",
-        "Total Applications": "113"
+        "Shares bid for": "46,38,000",
+        "Total Amt* (₹ Cr.)": "45.916",
+        "Total Applications": "1,624"
       }
     ],
     "dayWise": [
@@ -413,11 +413,11 @@
       {
         "Date": "Sep 30 (Day 3)",
         "QIB (Ex Anchor)": "1.00",
-        "NII*": "0.52",
-        "NII (> ₹10L)": "0.78",
-        "NII (< ₹10L)": "0.01",
-        "Individual Investors": "0.27",
-        "Total": "0.40"
+        "NII*": "1.15",
+        "NII (> ₹10L)": "1.30",
+        "NII (< ₹10L)": "0.86",
+        "Individual Investors": "4.31",
+        "Total": "2.71"
       }
     ]
   },
@@ -440,10 +440,10 @@
       "listing": "2026-10-06"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 20.2,
-      "xLot": 24000.0,
-      "updatedOn": "30-Sep 10:02"
+      "value": 1.0,
+      "percent": 1.01,
+      "xLot": 1200.0,
+      "updatedOn": "30-Sep 17:02"
     },
     "leadManager": "Fedex Securities",
     "logo": "https://www.chittorgarh.net/images/ipo/pind-punjab-ipo-logo.png",
@@ -453,5 +453,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-09-30T04:47:55+00:00"
+  "scrapedAt": "2026-09-30T12:11:28+00:00"
 }
