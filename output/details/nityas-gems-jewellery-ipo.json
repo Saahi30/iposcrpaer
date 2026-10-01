@@ -400,58 +400,58 @@
     "source": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/"
   },
   "subscription": {
-    "summary": "Nityas Gems & Jewellery IPO subscribed 0.27 times. The public issue subscribed 0.70 times in the retail category, 0.00 times in QIB (Ex Anchor), and 0.16 times in the NII category by October 1, 2026 10:23:50 AM (Day 2).",
-    "total": 0.27,
-    "applications": 14387.0,
+    "summary": "Nityas Gems & Jewellery IPO subscribed 0.69 times. The public issue subscribed 1.32 times in the retail category, 0.38 times in QIB (Ex Anchor), and 0.27 times in the NII category by October 1, 2026 5:08:52 PM (Day 2).",
+    "total": 0.69,
+    "applications": 27724.0,
     "byCategory": [
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.38",
         "Shares Offered*": "71,78,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0"
+        "Shares bid for": "27,16,200",
+        "Total Amt* (₹ Cr.)": "20.372"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "0.27",
         "Shares Offered*": "21,53,400",
-        "Shares bid for": "3,34,800",
-        "Total Amt* (₹ Cr.)": "2.511"
+        "Shares bid for": "5,87,600",
+        "Total Amt* (₹ Cr.)": "4.407"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.10",
+        "Subscription (x)": "0.16",
         "Shares Offered*": "14,35,600",
-        "Shares bid for": "1,42,600",
-        "Total Amt* (₹ Cr.)": "1.070"
+        "Shares bid for": "2,36,400",
+        "Total Amt* (₹ Cr.)": "1.773"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "0.49",
         "Shares Offered*": "7,17,800",
-        "Shares bid for": "1,92,200",
-        "Total Amt* (₹ Cr.)": "1.442"
+        "Shares bid for": "3,51,200",
+        "Total Amt* (₹ Cr.)": "2.634"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.70",
+        "Subscription (x)": "1.32",
         "Shares Offered*": "50,24,600",
-        "Shares bid for": "35,33,600",
-        "Total Amt* (₹ Cr.)": "26.502"
+        "Shares bid for": "66,28,800",
+        "Total Amt* (₹ Cr.)": "49.716"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "0.95",
         "Shares Offered*": "1,00,000",
-        "Shares bid for": "58,400",
-        "Total Amt* (₹ Cr.)": "0.438"
+        "Shares bid for": "94,800",
+        "Total Amt* (₹ Cr.)": "0.711"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "0.69",
         "Shares Offered*": "1,44,56,000",
-        "Shares bid for": "39,26,800",
-        "Total Amt* (₹ Cr.)": "29.451"
+        "Shares bid for": "1,00,27,400",
+        "Total Amt* (₹ Cr.)": "75.206"
       }
     ],
     "dayWise": [
@@ -467,13 +467,13 @@
       },
       {
         "Date": "Oct 1 (Day 2)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII": "0.16",
-        "NII (> ₹10L)": "0.10",
-        "NII (< ₹10L)": "0.27",
-        "Retail": "0.70",
-        "EMP": "0.58",
-        "Total": "0.27"
+        "QIB (Ex Anchor)": "0.38",
+        "NII": "0.27",
+        "NII (> ₹10L)": "0.16",
+        "NII (< ₹10L)": "0.49",
+        "Retail": "1.32",
+        "EMP": "0.95",
+        "Total": "0.69"
       }
     ]
   },
@@ -496,10 +496,10 @@
       "listing": "2026-10-08"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 6.67,
-      "xLot": 1000.0,
-      "updatedOn": "1-Oct 10:02"
+      "value": 3.0,
+      "percent": 4.0,
+      "xLot": 600.0,
+      "updatedOn": "1-Oct 17:37"
     },
     "leadManager": "Choice Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/nityas-logo.jpg",
@@ -509,5 +509,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-01T04:59:54+00:00"
+  "scrapedAt": "2026-10-01T12:45:13+00:00"
 }

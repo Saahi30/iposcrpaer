@@ -353,8 +353,8 @@
     "source": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/"
   },
   "subscription": {
-    "summary": "EverestIMS Technologies IPO subscribed 0.68 times. The public issue subscribed 1.16 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.45 times in the NII category by October 1, 2026 10:23:45 AM (Day 3).",
-    "total": 0.68,
+    "summary": "EverestIMS Technologies IPO subscribed 1.70 times. The public issue subscribed 2.27 times in the individual investors category, 0.87 times in QIB (Ex Anchor), and 1.50 times in the NII category by October 1, 2026 5:08:48 PM (Day 3).",
+    "total": 1.7,
     "applications": null,
     "byCategory": [
       {
@@ -375,51 +375,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.87",
         "Shares Offered*": "10,88,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "9,47,200",
+        "Total Amt* (₹ Cr.)": "8.051",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.45",
+        "Subscription (x)": "1.50",
         "Shares Offered*": "8,16,000",
-        "Shares bid for": "3,68,000",
-        "Total Amt* (₹ Cr.)": "3.128",
+        "Shares bid for": "12,22,400",
+        "Total Amt* (₹ Cr.)": "10.390",
         "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "1.40",
         "Shares Offered*": "5,44,000",
-        "Shares bid for": "2,25,600",
-        "Total Amt* (₹ Cr.)": "1.918",
+        "Shares bid for": "7,63,200",
+        "Total Amt* (₹ Cr.)": "6.487",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.52",
+        "Subscription (x)": "1.69",
         "Shares Offered*": "2,72,000",
-        "Shares bid for": "1,42,400",
-        "Total Amt* (₹ Cr.)": "1.210",
+        "Shares bid for": "4,59,200",
+        "Total Amt* (₹ Cr.)": "3.903",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.16",
+        "Subscription (x)": "2.27",
         "Shares Offered*": "18,97,600",
-        "Shares bid for": "22,01,600",
-        "Total Amt* (₹ Cr.)": "18.714",
+        "Shares bid for": "43,10,400",
+        "Total Amt* (₹ Cr.)": "36.638",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.68",
+        "Subscription (x)": "1.70",
         "Shares Offered*": "38,01,600",
-        "Shares bid for": "25,69,600",
-        "Total Amt* (₹ Cr.)": "21.842",
-        "Total Applications": "739"
+        "Shares bid for": "64,80,000",
+        "Total Amt* (₹ Cr.)": "55.080",
+        "Total Applications": "1,507"
       }
     ],
     "dayWise": [
@@ -443,12 +443,12 @@
       },
       {
         "Date": "Oct 1 (Day 3)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "0.45",
-        "NII (> ₹10L)": "0.41",
-        "NII (< ₹10L)": "0.52",
-        "Individual Investors": "1.16",
-        "Total": "0.68"
+        "QIB (Ex Anchor)": "0.87",
+        "NII*": "1.50",
+        "NII (> ₹10L)": "1.40",
+        "NII (< ₹10L)": "1.69",
+        "Individual Investors": "2.27",
+        "Total": "1.70"
       }
     ]
   },
@@ -471,10 +471,10 @@
       "listing": "2026-10-08"
     },
     "gmp": {
-      "value": 20.0,
-      "percent": 23.53,
-      "xLot": 32000.0,
-      "updatedOn": "1-Oct 10:02"
+      "value": 10.0,
+      "percent": 11.76,
+      "xLot": 16000.0,
+      "updatedOn": "1-Oct 17:37"
     },
     "leadManager": "Oneview Corporate",
     "logo": "https://www.chittorgarh.net/images/ipo/everestims-logo.png",
@@ -484,5 +484,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-01T05:00:01+00:00"
+  "scrapedAt": "2026-10-01T12:45:20+00:00"
 }

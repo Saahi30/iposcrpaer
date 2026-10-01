@@ -332,8 +332,8 @@
     "source": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/"
   },
   "subscription": {
-    "summary": "Dove Soft IPO subscribed 0.81 times. The public issue subscribed 0.46 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 1.18 times in the NII category by October 1, 2026 10:24:36 AM (Day 2).",
-    "total": 0.81,
+    "summary": "Dove Soft IPO subscribed 0.86 times. The public issue subscribed 0.55 times in the individual investors category, 1.00 times in QIB (Ex Anchor), and 1.19 times in the NII category by October 1, 2026 5:08:44 PM (Day 2).",
+    "total": 0.86,
     "applications": null,
     "byCategory": [
       {
@@ -346,18 +346,18 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "64,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
+        "Shares bid for": "64,800",
+        "Total Amt* (₹ Cr.)": "0.719",
         "Total Applications": "0"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "1.18",
+        "Subscription (x)": "1.19",
         "Shares Offered*": "30,70,800",
-        "Shares bid for": "36,34,800",
-        "Total Amt* (₹ Cr.)": "40.346",
+        "Shares bid for": "36,42,000",
+        "Total Amt* (₹ Cr.)": "40.426",
         "Total Applications": "0"
       },
       {
@@ -372,25 +372,25 @@
         "Category": "sNII (< ₹10L)",
         "Subscription (x)": "0.01",
         "Shares Offered*": "10,22,400",
-        "Shares bid for": "7,200",
-        "Total Amt* (₹ Cr.)": "0.080",
+        "Shares bid for": "14,400",
+        "Total Amt* (₹ Cr.)": "0.160",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.46",
+        "Subscription (x)": "0.55",
         "Shares Offered*": "31,34,400",
-        "Shares bid for": "14,28,000",
-        "Total Amt* (₹ Cr.)": "15.851",
+        "Shares bid for": "17,16,000",
+        "Total Amt* (₹ Cr.)": "19.048",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "0.86",
         "Shares Offered*": "62,70,000",
-        "Shares bid for": "50,62,800",
-        "Total Amt* (₹ Cr.)": "56.197",
-        "Total Applications": "601"
+        "Shares bid for": "54,22,800",
+        "Total Amt* (₹ Cr.)": "60.193",
+        "Total Applications": "724"
       }
     ],
     "dayWise": [
@@ -405,12 +405,12 @@
       },
       {
         "Date": "Oct 1 (Day 2)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "1.18",
+        "QIB (Ex Anchor)": "1.00",
+        "NII*": "1.19",
         "NII (> ₹10L)": "1.77",
         "NII (< ₹10L)": "0.01",
-        "Individual Investors": "0.46",
-        "Total": "0.81"
+        "Individual Investors": "0.55",
+        "Total": "0.86"
       }
     ]
   },
@@ -436,7 +436,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "1-Oct 9:56"
+      "updatedOn": "1-Oct 17:34"
     },
     "leadManager": "Swastika Investmart",
     "logo": "https://www.chittorgarh.net/images/ipo/dove-soft-logo.jpg",
@@ -446,5 +446,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-01T04:59:48+00:00"
+  "scrapedAt": "2026-10-01T12:45:07+00:00"
 }

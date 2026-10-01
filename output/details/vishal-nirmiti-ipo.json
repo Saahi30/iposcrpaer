@@ -398,9 +398,9 @@
     "source": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/"
   },
   "subscription": {
-    "summary": "Vishal Nirmiti IPO subscribed 0.14 times. The public issue subscribed 0.12 times in the retail category, 1.00 times in QIB (Ex Anchor), and 0.16 times in the NII category by October 1, 2026 10:24:23 AM (Day 2).",
-    "total": 0.14,
-    "applications": 8497.0,
+    "summary": "Vishal Nirmiti IPO subscribed 0.60 times. The public issue subscribed 0.49 times in the retail category, 1.00 times in QIB (Ex Anchor), and 0.84 times in the NII category by October 1, 2026 5:07:21 PM (Day 2).",
+    "total": 0.6,
+    "applications": 36133.0,
     "byCategory": [
       {
         "Category": "QIB (Ex Anchor)",
@@ -411,38 +411,38 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.16",
+        "Subscription (x)": "0.84",
         "Shares Offered*": "23,46,364",
-        "Shares bid for": "3,75,632",
-        "Total Amt* (₹ Cr.)": "8.264"
+        "Shares bid for": "19,75,196",
+        "Total Amt* (₹ Cr.)": "43.454"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.22",
+        "Subscription (x)": "1.10",
         "Shares Offered*": "15,63,973",
-        "Shares bid for": "3,37,756",
-        "Total Amt* (₹ Cr.)": "7.431"
+        "Shares bid for": "17,23,120",
+        "Total Amt* (₹ Cr.)": "37.909"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.05",
+        "Subscription (x)": "0.32",
         "Shares Offered*": "7,82,391",
-        "Shares bid for": "37,876",
-        "Total Amt* (₹ Cr.)": "0.833"
+        "Shares bid for": "2,52,076",
+        "Total Amt* (₹ Cr.)": "5.546"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "0.49",
         "Shares Offered*": "56,63,636",
-        "Shares bid for": "6,96,864",
-        "Total Amt* (₹ Cr.)": "15.331"
+        "Shares bid for": "27,86,096",
+        "Total Amt* (₹ Cr.)": "61.294"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.14",
+        "Subscription (x)": "0.60",
         "Shares Offered*": "80,90,909",
-        "Shares bid for": "11,53,416",
-        "Total Amt* (₹ Cr.)": "25.375"
+        "Shares bid for": "48,42,212",
+        "Total Amt* (₹ Cr.)": "106.529"
       }
     ],
     "dayWise": [
@@ -458,11 +458,11 @@
       {
         "Date": "Oct 1 (Day 2)",
         "QIB (Ex Anchor)": "1.00",
-        "NII": "0.16",
-        "NII (> ₹10L)": "0.22",
-        "NII (< ₹10L)": "0.05",
-        "Retail": "0.12",
-        "Total": "0.14"
+        "NII": "0.84",
+        "NII (> ₹10L)": "1.10",
+        "NII (< ₹10L)": "0.32",
+        "Retail": "0.49",
+        "Total": "0.60"
       }
     ]
   },
@@ -485,10 +485,10 @@
       "listing": "2026-10-08"
     },
     "gmp": {
-      "value": 35.0,
-      "percent": 15.91,
-      "xLot": 2380.0,
-      "updatedOn": "1-Oct 10:02"
+      "value": 22.0,
+      "percent": 10.0,
+      "xLot": 1496.0,
+      "updatedOn": "1-Oct 17:37"
     },
     "leadManager": "Saffron Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/vishal-nirmiti-logo.png",
@@ -498,5 +498,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-01T04:59:50+00:00"
+  "scrapedAt": "2026-10-01T12:45:10+00:00"
 }
