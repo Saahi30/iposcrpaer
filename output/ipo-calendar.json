@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-02T04:50:18+00:00",
+  "scrapedAt": "2026-10-02T12:09:41+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 28,
+    "totalEvents": 31,
     "mainboard": 6,
-    "sme": 22,
+    "sme": 25,
     "byEventType": {
-      "allotment": 2,
+      "allotment": 5,
       "close": 17,
       "open": 1,
       "other": 8
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 24,
+        "total": 27,
         "mainboard": 4,
-        "sme": 20
+        "sme": 23
       },
       "byDate": {
         "2026-10-01": [
@@ -196,6 +196,63 @@
               "chittorgarh": null,
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Mahatma%20Gandhi%20Jayanti&location=&dates=20261002/20261003&details=Mahatma%20Gandhi%20Jayanti"
             }
+          },
+          {
+            "title": "Liqvd Digital IPO Allotment Status",
+            "company": "Liqvd Digital",
+            "eventType": "allotment",
+            "date": "2026-10-02",
+            "dateEnd": "2026-10-02",
+            "details": "The allotment status of Liqvd Digital India Ltd. IPO is now available online. The public issue of Liqvd Digital IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity sha",
+            "type": "sme",
+            "slug": "liqvd-digital-ipo",
+            "ipoId": 2750,
+            "eventId": 15666,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15666",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Liqvd%20Digital%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Liqvd%20Digital%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20sha"
+            }
+          },
+          {
+            "title": "Roopa Screen IPO Allotment Status",
+            "company": "Roopa Screen",
+            "eventType": "allotment",
+            "date": "2026-10-02",
+            "dateEnd": "2026-10-02",
+            "details": "The allotment status of Roopa Screen Ltd. IPO is now available online. The public issue of Roopa Screen IPO was open on Sep 24, 2026 and closed for subscription on Sep 28, 2026. The equity shares of t",
+            "type": "sme",
+            "slug": "roopa-screen-ipo",
+            "ipoId": 2651,
+            "eventId": 15665,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/roopa-screen-ipo/2651/#15665",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Roopa%20Screen%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Roopa%20Screen%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Roopa%20Screen%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2028%2C%202026.%20The%20equity%20shares%20of%20t"
+            }
+          },
+          {
+            "title": "Unitec Fibres IPO Allotment Status",
+            "company": "Unitec Fibres",
+            "eventType": "allotment",
+            "date": "2026-10-02",
+            "dateEnd": "2026-10-02",
+            "details": "The allotment status of Unitec Fibres Ltd. IPO is now available online. The public issue of Unitec Fibres IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity shares of",
+            "type": "sme",
+            "slug": "unitec-fibres-ipo",
+            "ipoId": 3171,
+            "eventId": 15668,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/unitec-fibres-ipo/3171/#15668",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Unitec%20Fibres%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Unitec%20Fibres%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Unitec%20Fibres%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of"
+            }
           }
         ],
         "2026-10-05": [
@@ -319,7 +376,7 @@
             "eventType": "open",
             "date": "2026-10-05",
             "dateEnd": "2026-10-05",
-            "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 34.99 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
+            "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.41 Equity Shares of Rs 10 aggregating up to Rs 33.23 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
             "type": "sme",
             "slug": "rkfashion-accessories-ipo",
             "ipoId": 3138,
@@ -329,7 +386,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/rkfashion-accessories-ipo/3138/#15653",
               "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.99%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.41%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2033.23%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
             }
           },
           {
@@ -722,6 +779,63 @@
           }
         },
         {
+          "title": "Liqvd Digital IPO Allotment Status",
+          "company": "Liqvd Digital",
+          "eventType": "allotment",
+          "date": "2026-10-02",
+          "dateEnd": "2026-10-02",
+          "details": "The allotment status of Liqvd Digital India Ltd. IPO is now available online. The public issue of Liqvd Digital IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity sha",
+          "type": "sme",
+          "slug": "liqvd-digital-ipo",
+          "ipoId": 2750,
+          "eventId": 15666,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15666",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Liqvd%20Digital%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Liqvd%20Digital%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20sha"
+          }
+        },
+        {
+          "title": "Roopa Screen IPO Allotment Status",
+          "company": "Roopa Screen",
+          "eventType": "allotment",
+          "date": "2026-10-02",
+          "dateEnd": "2026-10-02",
+          "details": "The allotment status of Roopa Screen Ltd. IPO is now available online. The public issue of Roopa Screen IPO was open on Sep 24, 2026 and closed for subscription on Sep 28, 2026. The equity shares of t",
+          "type": "sme",
+          "slug": "roopa-screen-ipo",
+          "ipoId": 2651,
+          "eventId": 15665,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/roopa-screen-ipo/2651/#15665",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Roopa%20Screen%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Roopa%20Screen%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Roopa%20Screen%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2028%2C%202026.%20The%20equity%20shares%20of%20t"
+          }
+        },
+        {
+          "title": "Unitec Fibres IPO Allotment Status",
+          "company": "Unitec Fibres",
+          "eventType": "allotment",
+          "date": "2026-10-02",
+          "dateEnd": "2026-10-02",
+          "details": "The allotment status of Unitec Fibres Ltd. IPO is now available online. The public issue of Unitec Fibres IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity shares of",
+          "type": "sme",
+          "slug": "unitec-fibres-ipo",
+          "ipoId": 3171,
+          "eventId": 15668,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/unitec-fibres-ipo/3171/#15668",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Unitec%20Fibres%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Unitec%20Fibres%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Unitec%20Fibres%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of"
+          }
+        },
+        {
           "title": "Dove Soft IPO Closes on Oct 5, 2026",
           "company": "Dove Soft",
           "eventType": "close",
@@ -803,7 +917,7 @@
           "eventType": "open",
           "date": "2026-10-05",
           "dateEnd": "2026-10-05",
-          "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 34.99 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
+          "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.41 Equity Shares of Rs 10 aggregating up to Rs 33.23 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
           "type": "sme",
           "slug": "rkfashion-accessories-ipo",
           "ipoId": 3138,
@@ -813,7 +927,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/rkfashion-accessories-ipo/3138/#15653",
             "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.99%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.41%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2033.23%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
           }
         },
         {
@@ -1356,6 +1470,63 @@
       }
     },
     {
+      "title": "Liqvd Digital IPO Allotment Status",
+      "company": "Liqvd Digital",
+      "eventType": "allotment",
+      "date": "2026-10-02",
+      "dateEnd": "2026-10-02",
+      "details": "The allotment status of Liqvd Digital India Ltd. IPO is now available online. The public issue of Liqvd Digital IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity sha",
+      "type": "sme",
+      "slug": "liqvd-digital-ipo",
+      "ipoId": 2750,
+      "eventId": 15666,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/liqvd-digital-ipo/2750/#15666",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Liqvd%20Digital%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Liqvd%20Digital%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Liqvd%20Digital%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20sha"
+      }
+    },
+    {
+      "title": "Roopa Screen IPO Allotment Status",
+      "company": "Roopa Screen",
+      "eventType": "allotment",
+      "date": "2026-10-02",
+      "dateEnd": "2026-10-02",
+      "details": "The allotment status of Roopa Screen Ltd. IPO is now available online. The public issue of Roopa Screen IPO was open on Sep 24, 2026 and closed for subscription on Sep 28, 2026. The equity shares of t",
+      "type": "sme",
+      "slug": "roopa-screen-ipo",
+      "ipoId": 2651,
+      "eventId": 15665,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/roopa-screen-ipo/2651/#15665",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Roopa%20Screen%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Roopa%20Screen%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Roopa%20Screen%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2028%2C%202026.%20The%20equity%20shares%20of%20t"
+      }
+    },
+    {
+      "title": "Unitec Fibres IPO Allotment Status",
+      "company": "Unitec Fibres",
+      "eventType": "allotment",
+      "date": "2026-10-02",
+      "dateEnd": "2026-10-02",
+      "details": "The allotment status of Unitec Fibres Ltd. IPO is now available online. The public issue of Unitec Fibres IPO was open on Sep 23, 2026 and closed for subscription on Sep 25, 2026. The equity shares of",
+      "type": "sme",
+      "slug": "unitec-fibres-ipo",
+      "ipoId": 3171,
+      "eventId": 15668,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/unitec-fibres-ipo/3171/#15668",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Unitec%20Fibres%20IPO%20Allotment%20Status&location=&dates=20261002/20261003&details=The%20allotment%20status%20of%20Unitec%20Fibres%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Unitec%20Fibres%20IPO%20was%20open%20on%20Sep%2023%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2025%2C%202026.%20The%20equity%20shares%20of"
+      }
+    },
+    {
       "title": "Dove Soft IPO Closes on Oct 5, 2026",
       "company": "Dove Soft",
       "eventType": "close",
@@ -1437,7 +1608,7 @@
       "eventType": "open",
       "date": "2026-10-05",
       "dateEnd": "2026-10-05",
-      "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.43 Equity Shares of Rs 10 aggregating up to Rs 34.99 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
+      "details": "R.K.Fashion Accessories Ltd. is entering in the capital market with an IPO of 0.41 Equity Shares of Rs 10 aggregating up to Rs 33.23 Crore. The price for the issue has been set at Rs 77 - Rs 82 Per Eq",
       "type": "sme",
       "slug": "rkfashion-accessories-ipo",
       "ipoId": 3138,
@@ -1447,7 +1618,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/rkfashion-accessories-ipo/3138/#15653",
         "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.43%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2034.99%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Opens%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=R.K.Fashion%20Accessories%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.41%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2033.23%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2077%20-%20Rs%2082%20Per%20Eq"
       }
     },
     {
