@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-04T12:02:04+00:00",
+  "scrapedAt": "2026-10-04T21:03:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 1,
+    "upcoming": 2,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 1
+    "total": 2
   },
   "ipos": [
+    {
+      "slug": "jio-platforms-ipo",
+      "ipoId": 3152,
+      "name": "Jio Platforms",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-01-12",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 148.0,
+        "percent": 0.0,
+        "xLot": null,
+        "updatedOn": "4-Oct 23:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/jio-platforms-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=jio-platforms-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
+        "gmp": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/"
+      },
+      "gmpId": 2306,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2019, Jio Platforms Limited is a technology-driven digital services company that operates through its subsidiary, Reliance Jio Infocomm Limited. The company provides digital connectivity and technology solutions across India, serving over 524 million customers as of March 31, 2026.\n\nThe company has developed a proprietary technology stack with capabilities spanning network infrastructure, software platforms, operating systems, devices, and digital applications. Its services cater",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "rkfashion-accessories-ipo",
       "ipoId": 3138,
@@ -50,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Oct 16:55"
+        "updatedOn": "4-Oct 23:37"
       },
       "subscription": {
         "total": null,
