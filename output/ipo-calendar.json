@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T14:03:05+00:00",
+  "scrapedAt": "2026-10-05T23:53:29+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 34,
-    "mainboard": 8,
+    "totalEvents": 35,
+    "mainboard": 9,
     "sme": 26,
     "byEventType": {
-      "allotment": 8,
+      "allotment": 9,
       "close": 17,
       "open": 1,
       "other": 8
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 30,
-        "mainboard": 6,
+        "total": 31,
+        "mainboard": 7,
         "sme": 24
       },
       "byDate": {
@@ -294,6 +294,25 @@
           }
         ],
         "2026-10-05": [
+          {
+            "title": "German Green Steel IPO Allotment Status",
+            "company": "German Green Steel",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of German Green Steel & Power Ltd. IPO is now available online. The public issue of German Green Steel IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. Th",
+            "type": "mainboard",
+            "slug": "german-green-steel-and-power-ipo",
+            "ipoId": 2497,
+            "eventId": 15677,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15677",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20German%20Green%20Steel%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20Th"
+            }
+          },
           {
             "title": "Nityas Gems & Jewellery IPO Closes on Oct 5, 2026",
             "company": "Nityas Gems & Jewellery",
@@ -681,6 +700,25 @@
             "news": null,
             "chittorgarh": null,
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Mahatma%20Gandhi%20Jayanti&location=&dates=20261002/20261003&details=Mahatma%20Gandhi%20Jayanti"
+          }
+        },
+        {
+          "title": "German Green Steel IPO Allotment Status",
+          "company": "German Green Steel",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of German Green Steel & Power Ltd. IPO is now available online. The public issue of German Green Steel IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. Th",
+          "type": "mainboard",
+          "slug": "german-green-steel-and-power-ipo",
+          "ipoId": 2497,
+          "eventId": 15677,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15677",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20German%20Green%20Steel%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20Th"
           }
         },
         {
@@ -1429,6 +1467,25 @@
         "news": null,
         "chittorgarh": null,
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Mahatma%20Gandhi%20Jayanti&location=&dates=20261002/20261003&details=Mahatma%20Gandhi%20Jayanti"
+      }
+    },
+    {
+      "title": "German Green Steel IPO Allotment Status",
+      "company": "German Green Steel",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of German Green Steel & Power Ltd. IPO is now available online. The public issue of German Green Steel IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. Th",
+      "type": "mainboard",
+      "slug": "german-green-steel-and-power-ipo",
+      "ipoId": 2497,
+      "eventId": 15677,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/german-green-steel-and-power-ipo/2497/#15677",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=German%20Green%20Steel%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20German%20Green%20Steel%20%26%20Power%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20German%20Green%20Steel%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20Th"
       }
     },
     {
