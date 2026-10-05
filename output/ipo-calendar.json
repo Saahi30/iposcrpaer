@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T04:50:21+00:00",
+  "scrapedAt": "2026-10-05T14:03:05+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 33,
+    "totalEvents": 34,
     "mainboard": 8,
-    "sme": 25,
+    "sme": 26,
     "byEventType": {
-      "allotment": 7,
+      "allotment": 8,
       "close": 17,
       "open": 1,
       "other": 8
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 29,
+        "total": 30,
         "mainboard": 6,
-        "sme": 23
+        "sme": 24
       },
       "byDate": {
         "2026-10-01": [
@@ -406,6 +406,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
               "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+            }
+          },
+          {
+            "title": "Papadmalji Agro Foods IPO Allotment Status",
+            "company": "Papadmalji Agro Foods",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of Papadmalji Agro Foods Ltd. IPO is now available online. The public issue of Papadmalji Agro Foods IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The e",
+            "type": "sme",
+            "slug": "papadmalji-agro-foods-ipo",
+            "ipoId": 2823,
+            "eventId": 15673,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
             }
           },
           {
@@ -985,6 +1004,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
             "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+          }
+        },
+        {
+          "title": "Papadmalji Agro Foods IPO Allotment Status",
+          "company": "Papadmalji Agro Foods",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of Papadmalji Agro Foods Ltd. IPO is now available online. The public issue of Papadmalji Agro Foods IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The e",
+          "type": "sme",
+          "slug": "papadmalji-agro-foods-ipo",
+          "ipoId": 2823,
+          "eventId": 15673,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
           }
         },
         {
@@ -1714,6 +1752,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/omara-ventures-india-ipo/3194/#15615",
         "chittorgarh": "https://www.chittorgarh.com/ipo/omara-ventures-india-ipo/3194/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Omara%20Ventures%20India%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Omara%20Ventures%20India%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at"
+      }
+    },
+    {
+      "title": "Papadmalji Agro Foods IPO Allotment Status",
+      "company": "Papadmalji Agro Foods",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of Papadmalji Agro Foods Ltd. IPO is now available online. The public issue of Papadmalji Agro Foods IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The e",
+      "type": "sme",
+      "slug": "papadmalji-agro-foods-ipo",
+      "ipoId": 2823,
+      "eventId": 15673,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
       }
     },
     {
