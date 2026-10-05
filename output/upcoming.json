@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-04T21:03:25+00:00",
+  "scrapedAt": "2026-10-05T04:50:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 2,
+    "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 1
   },
   "ipos": [
     {
@@ -41,16 +41,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-12",
+        "open": "2027-01-13",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
-        "value": 148.0,
+        "value": 145.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "4-Oct 23:37"
+        "updatedOn": "5-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -76,61 +76,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2019, Jio Platforms Limited is a technology-driven digital services company that operates through its subsidiary, Reliance Jio Infocomm Limited. The company provides digital connectivity and technology solutions across India, serving over 524 million customers as of March 31, 2026.\n\nThe company has developed a proprietary technology stack with capabilities spanning network infrastructure, software platforms, operating systems, devices, and digital applications. Its services cater",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "rkfashion-accessories-ipo",
-      "ipoId": 3138,
-      "name": "R.K.Fashion Accessories",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 77.0,
-        "max": 82.0,
-        "display": "₹77–82"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹34.99 Cr",
-      "issueSizeCr": 34.99,
-      "freshIssueCr": 33.23,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-05",
-        "close": "2026-10-07",
-        "allotment": "2026-10-08",
-        "listing": "2026-10-12"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "4-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/rk-fashion-logo_page-0001.jpg",
-      "hasDetail": true,
-      "detailPath": "details/rkfashion-accessories-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=rkfashion-accessories-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-        "gmp": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/"
-      },
-      "gmpId": 2292,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with the trading of branded cosmetics. Its product portfolio comprises handcrafted imitation jewellery incorporating traditional designs with contemporary styles, catering to various segments through wholesale and direct sales channels. The Company operates with a focus on the B2B and B2C segments, supplying its produ",
-      "registrar": "Cameo Corporate Services Ltd."
     }
   ]
 }
