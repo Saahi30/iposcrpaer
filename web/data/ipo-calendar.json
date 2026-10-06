@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T23:53:29+00:00",
+  "scrapedAt": "2026-10-06T05:37:02+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 35,
+    "totalEvents": 39,
     "mainboard": 9,
-    "sme": 26,
+    "sme": 30,
     "byEventType": {
-      "allotment": 9,
+      "allotment": 13,
       "close": 17,
       "open": 1,
       "other": 8
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 31,
+        "total": 35,
         "mainboard": 7,
-        "sme": 24
+        "sme": 28
       },
       "byDate": {
         "2026-10-01": [
@@ -352,6 +352,25 @@
             }
           },
           {
+            "title": "Black Opal Consultants IPO Allotment Status",
+            "company": "Black Opal Consultants",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of Black Opal Consultants Ltd. IPO is now available online. The public issue of Black Opal Consultants IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The",
+            "type": "sme",
+            "slug": "black-opal-consultants-ipo",
+            "ipoId": 2798,
+            "eventId": 15674,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/black-opal-consultants-ipo/2798/#15674",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Black%20Opal%20Consultants%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Black%20Opal%20Consultants%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Black%20Opal%20Consultants%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The"
+            }
+          },
+          {
             "title": "Dove Soft IPO Closes on Oct 5, 2026",
             "company": "Dove Soft",
             "eventType": "close",
@@ -409,6 +428,25 @@
             }
           },
           {
+            "title": "Green Asia Impex IPO Allotment Status",
+            "company": "Green Asia Impex",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of Green Asia Impex Ltd. IPO is now available online. The public issue of Green Asia Impex IPO was open on Sep 24, 2026 and closed for subscription on Oct 1, 2026. The equity shar",
+            "type": "sme",
+            "slug": "green-asia-impex-ipo",
+            "ipoId": 2963,
+            "eventId": 15676,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/green-asia-impex-ipo/2963/#15676",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Green%20Asia%20Impex%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Green%20Asia%20Impex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Green%20Asia%20Impex%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shar"
+            }
+          },
+          {
             "title": "Omara Ventures India IPO Closes on Oct 5, 2026",
             "company": "Omara Ventures India",
             "eventType": "close",
@@ -444,6 +482,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
               "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
+            }
+          },
+          {
+            "title": "Pind Hospitality IPO Allotment Status",
+            "company": "Pind Hospitality",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of Pind Hospitality Ltd. IPO is now available online. The public issue of Pind Hospitality IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity sha",
+            "type": "sme",
+            "slug": "pind-hospitality-ipo",
+            "ipoId": 2197,
+            "eventId": 15678,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/pind-hospitality-ipo/2197/#15678",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Pind%20Hospitality%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Pind%20Hospitality%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Pind%20Hospitality%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20sha"
             }
           },
           {
@@ -520,6 +577,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/sollfege-smart-electronics-ipo/3086/#15629",
               "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sollfege%20Smart%20Electronics%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Sollfege%20Smart%20Electronics%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+            }
+          },
+          {
+            "title": "Vans Electroengineerings IPO Allotment Status",
+            "company": "Vans Electroengineerings",
+            "eventType": "allotment",
+            "date": "2026-10-05",
+            "dateEnd": "2026-10-05",
+            "details": "The allotment status of Vans Electroengineerings Ltd. IPO is now available online. The public issue of Vans Electroengineerings IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026.",
+            "type": "sme",
+            "slug": "vans-electroengineerings-ipo",
+            "ipoId": 3197,
+            "eventId": 15675,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15675",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Vans%20Electroengineerings%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vans%20Electroengineerings%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026."
             }
           }
         ],
@@ -969,6 +1045,25 @@
           }
         },
         {
+          "title": "Black Opal Consultants IPO Allotment Status",
+          "company": "Black Opal Consultants",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of Black Opal Consultants Ltd. IPO is now available online. The public issue of Black Opal Consultants IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The",
+          "type": "sme",
+          "slug": "black-opal-consultants-ipo",
+          "ipoId": 2798,
+          "eventId": 15674,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/black-opal-consultants-ipo/2798/#15674",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Black%20Opal%20Consultants%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Black%20Opal%20Consultants%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Black%20Opal%20Consultants%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The"
+          }
+        },
+        {
           "title": "Dove Soft IPO Closes on Oct 5, 2026",
           "company": "Dove Soft",
           "eventType": "close",
@@ -1026,6 +1121,25 @@
           }
         },
         {
+          "title": "Green Asia Impex IPO Allotment Status",
+          "company": "Green Asia Impex",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of Green Asia Impex Ltd. IPO is now available online. The public issue of Green Asia Impex IPO was open on Sep 24, 2026 and closed for subscription on Oct 1, 2026. The equity shar",
+          "type": "sme",
+          "slug": "green-asia-impex-ipo",
+          "ipoId": 2963,
+          "eventId": 15676,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/green-asia-impex-ipo/2963/#15676",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Green%20Asia%20Impex%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Green%20Asia%20Impex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Green%20Asia%20Impex%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shar"
+          }
+        },
+        {
           "title": "Omara Ventures India IPO Closes on Oct 5, 2026",
           "company": "Omara Ventures India",
           "eventType": "close",
@@ -1061,6 +1175,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
             "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
+          }
+        },
+        {
+          "title": "Pind Hospitality IPO Allotment Status",
+          "company": "Pind Hospitality",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of Pind Hospitality Ltd. IPO is now available online. The public issue of Pind Hospitality IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity sha",
+          "type": "sme",
+          "slug": "pind-hospitality-ipo",
+          "ipoId": 2197,
+          "eventId": 15678,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/pind-hospitality-ipo/2197/#15678",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Pind%20Hospitality%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Pind%20Hospitality%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Pind%20Hospitality%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20sha"
           }
         },
         {
@@ -1137,6 +1270,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/sollfege-smart-electronics-ipo/3086/#15629",
             "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sollfege%20Smart%20Electronics%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Sollfege%20Smart%20Electronics%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+          }
+        },
+        {
+          "title": "Vans Electroengineerings IPO Allotment Status",
+          "company": "Vans Electroengineerings",
+          "eventType": "allotment",
+          "date": "2026-10-05",
+          "dateEnd": "2026-10-05",
+          "details": "The allotment status of Vans Electroengineerings Ltd. IPO is now available online. The public issue of Vans Electroengineerings IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026.",
+          "type": "sme",
+          "slug": "vans-electroengineerings-ipo",
+          "ipoId": 3197,
+          "eventId": 15675,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15675",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Vans%20Electroengineerings%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vans%20Electroengineerings%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026."
           }
         },
         {
@@ -1736,6 +1888,25 @@
       }
     },
     {
+      "title": "Black Opal Consultants IPO Allotment Status",
+      "company": "Black Opal Consultants",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of Black Opal Consultants Ltd. IPO is now available online. The public issue of Black Opal Consultants IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026. The",
+      "type": "sme",
+      "slug": "black-opal-consultants-ipo",
+      "ipoId": 2798,
+      "eventId": 15674,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/black-opal-consultants-ipo/2798/#15674",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Black%20Opal%20Consultants%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Black%20Opal%20Consultants%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Black%20Opal%20Consultants%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The"
+      }
+    },
+    {
       "title": "Dove Soft IPO Closes on Oct 5, 2026",
       "company": "Dove Soft",
       "eventType": "close",
@@ -1793,6 +1964,25 @@
       }
     },
     {
+      "title": "Green Asia Impex IPO Allotment Status",
+      "company": "Green Asia Impex",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of Green Asia Impex Ltd. IPO is now available online. The public issue of Green Asia Impex IPO was open on Sep 24, 2026 and closed for subscription on Oct 1, 2026. The equity shar",
+      "type": "sme",
+      "slug": "green-asia-impex-ipo",
+      "ipoId": 2963,
+      "eventId": 15676,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/green-asia-impex-ipo/2963/#15676",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Green%20Asia%20Impex%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Green%20Asia%20Impex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Green%20Asia%20Impex%20IPO%20was%20open%20on%20Sep%2024%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20equity%20shar"
+      }
+    },
+    {
       "title": "Omara Ventures India IPO Closes on Oct 5, 2026",
       "company": "Omara Ventures India",
       "eventType": "close",
@@ -1828,6 +2018,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/papadmalji-agro-foods-ipo/2823/#15673",
         "chittorgarh": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Papadmalji%20Agro%20Foods%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Papadmalji%20Agro%20Foods%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Papadmalji%20Agro%20Foods%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026.%20The%20e"
+      }
+    },
+    {
+      "title": "Pind Hospitality IPO Allotment Status",
+      "company": "Pind Hospitality",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of Pind Hospitality Ltd. IPO is now available online. The public issue of Pind Hospitality IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity sha",
+      "type": "sme",
+      "slug": "pind-hospitality-ipo",
+      "ipoId": 2197,
+      "eventId": 15678,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/pind-hospitality-ipo/2197/#15678",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Pind%20Hospitality%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Pind%20Hospitality%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Pind%20Hospitality%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20sha"
       }
     },
     {
@@ -1904,6 +2113,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/sollfege-smart-electronics-ipo/3086/#15629",
         "chittorgarh": "https://www.chittorgarh.com/ipo/sollfege-smart-electronics-ipo/3086/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sollfege%20Smart%20Electronics%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Sollfege%20Smart%20Electronics%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20"
+      }
+    },
+    {
+      "title": "Vans Electroengineerings IPO Allotment Status",
+      "company": "Vans Electroengineerings",
+      "eventType": "allotment",
+      "date": "2026-10-05",
+      "dateEnd": "2026-10-05",
+      "details": "The allotment status of Vans Electroengineerings Ltd. IPO is now available online. The public issue of Vans Electroengineerings IPO was open on Sep 29, 2026 and closed for subscription on Oct 1, 2026.",
+      "type": "sme",
+      "slug": "vans-electroengineerings-ipo",
+      "ipoId": 3197,
+      "eventId": 15675,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vans-electroengineerings-ipo/3197/#15675",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vans%20Electroengineerings%20IPO%20Allotment%20Status&location=&dates=20261005/20261006&details=The%20allotment%20status%20of%20Vans%20Electroengineerings%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vans%20Electroengineerings%20IPO%20was%20open%20on%20Sep%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%201%2C%202026."
       }
     },
     {
