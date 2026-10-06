@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T05:36:57+00:00",
+  "scrapedAt": "2026-10-06T13:02:11+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 1,
+    "upcoming": 2,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 1
+    "total": 2
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 150.0,
+        "value": 157.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "6-Oct 10:37"
+        "updatedOn": "6-Oct 18:02"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in 2019, Jio Platforms Limited is a technology-driven digital services company that operates through its subsidiary, Reliance Jio Infocomm Limited. The company provides digital connectivity and technology solutions across India, serving over 524 million customers as of March 31, 2026.\n\nThe company has developed a proprietary technology stack with capabilities spanning network infrastructure, software platforms, operating systems, devices, and digital applications. Its services cater",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "hd-fire-protect-ipo",
+      "ipoId": 2628,
+      "name": "HD Fire Protect",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "listing": "2026-10-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "6-Oct 14:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Ambit",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hd-fire-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hd-fire-protect-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hd-fire-protect-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
+        "gmp": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/"
+      },
+      "gmpId": 1902,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in April 1997, HD Fire Protect Limited is an Indian manufacturer and supplier of fire protection equipment and systems, offering water, foam and gas-based fire suppression solutions. The Company offers a comprehensive portfolio across eight product categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems and gas suppression systems. Its produ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T05:37:04+00:00",
+  "scrapedAt": "2026-10-06T13:02:17+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 278,
-    "mainboard": 96,
+    "total": 279,
+    "mainboard": 97,
     "sme": 182
   },
   "ipos": [
@@ -6684,6 +6684,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2628,
+      "name": "HD Fire Protect Ltd.",
+      "slug": "hd-fire-protect-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "refunds": "2026-10-19",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "13-Oct-2026",
+        "close": "15-Oct-2026",
+        "allotment": "16-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hd-fire-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]
