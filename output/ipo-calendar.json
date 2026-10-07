@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T22:30:37+00:00",
+  "scrapedAt": "2026-10-07T05:07:12+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 41,
-    "mainboard": 11,
+    "totalEvents": 43,
+    "mainboard": 13,
     "sme": 30,
     "byEventType": {
-      "allotment": 13,
+      "allotment": 15,
       "close": 18,
       "open": 2,
       "other": 8
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 37,
-        "mainboard": 9,
+        "total": 39,
+        "mainboard": 11,
         "sme": 28
       },
       "byDate": {
@@ -601,6 +601,25 @@
         ],
         "2026-10-06": [
           {
+            "title": "Vishal Nirmiti IPO Allotment Status",
+            "company": "Vishal Nirmiti",
+            "eventType": "allotment",
+            "date": "2026-10-06",
+            "dateEnd": "2026-10-06",
+            "details": "The allotment status of Vishal Nirmiti Ltd. IPO is now available online. The public issue of Vishal Nirmiti IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares o",
+            "type": "mainboard",
+            "slug": "vishal-nirmiti-ipo",
+            "ipoId": 2665,
+            "eventId": 15683,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15683",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Allotment%20Status&location=&dates=20261006/20261007&details=The%20allotment%20status%20of%20Vishal%20Nirmiti%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vishal%20Nirmiti%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20o"
+            }
+          },
+          {
             "title": "Acme India Industries IPO Closes on Oct 6, 2026",
             "company": "Acme India Industries",
             "eventType": "close",
@@ -659,6 +678,25 @@
           }
         ],
         "2026-10-07": [
+          {
+            "title": "Nityas Gems & Jewellery IPO Allotment Status",
+            "company": "Nityas Gems & Jewellery",
+            "eventType": "allotment",
+            "date": "2026-10-07",
+            "dateEnd": "2026-10-07",
+            "details": "The allotment status of Nityas Gems & Jewellery Ltd. IPO is now available online. The public issue of Nityas Gems & Jewellery IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. T",
+            "type": "mainboard",
+            "slug": "nityas-gems-jewellery-ipo",
+            "ipoId": 2974,
+            "eventId": 15686,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15686",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20T"
+            }
+          },
           {
             "title": "R.K.Fashion Accessories IPO Closes on Oct 7, 2026",
             "company": "R.K.Fashion Accessories",
@@ -875,6 +913,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15644",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Vishal%20Nirmiti%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%202"
+          }
+        },
+        {
+          "title": "Vishal Nirmiti IPO Allotment Status",
+          "company": "Vishal Nirmiti",
+          "eventType": "allotment",
+          "date": "2026-10-06",
+          "dateEnd": "2026-10-06",
+          "details": "The allotment status of Vishal Nirmiti Ltd. IPO is now available online. The public issue of Vishal Nirmiti IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares o",
+          "type": "mainboard",
+          "slug": "vishal-nirmiti-ipo",
+          "ipoId": 2665,
+          "eventId": 15683,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15683",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Allotment%20Status&location=&dates=20261006/20261007&details=The%20allotment%20status%20of%20Vishal%20Nirmiti%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vishal%20Nirmiti%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20o"
+          }
+        },
+        {
+          "title": "Nityas Gems & Jewellery IPO Allotment Status",
+          "company": "Nityas Gems & Jewellery",
+          "eventType": "allotment",
+          "date": "2026-10-07",
+          "dateEnd": "2026-10-07",
+          "details": "The allotment status of Nityas Gems & Jewellery Ltd. IPO is now available online. The public issue of Nityas Gems & Jewellery IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. T",
+          "type": "mainboard",
+          "slug": "nityas-gems-jewellery-ipo",
+          "ipoId": 2974,
+          "eventId": 15686,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15686",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20T"
           }
         },
         {
@@ -1756,6 +1832,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15644",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Closes%20on%20Oct%205%2C%202026&location=&dates=20261005/20261006&details=The%20issue%20of%20Vishal%20Nirmiti%20Ltd.%20opens%20on%20Sep%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%202"
+      }
+    },
+    {
+      "title": "Vishal Nirmiti IPO Allotment Status",
+      "company": "Vishal Nirmiti",
+      "eventType": "allotment",
+      "date": "2026-10-06",
+      "dateEnd": "2026-10-06",
+      "details": "The allotment status of Vishal Nirmiti Ltd. IPO is now available online. The public issue of Vishal Nirmiti IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares o",
+      "type": "mainboard",
+      "slug": "vishal-nirmiti-ipo",
+      "ipoId": 2665,
+      "eventId": 15683,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vishal-nirmiti-ipo/2665/#15683",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vishal%20Nirmiti%20IPO%20Allotment%20Status&location=&dates=20261006/20261007&details=The%20allotment%20status%20of%20Vishal%20Nirmiti%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vishal%20Nirmiti%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20o"
+      }
+    },
+    {
+      "title": "Nityas Gems & Jewellery IPO Allotment Status",
+      "company": "Nityas Gems & Jewellery",
+      "eventType": "allotment",
+      "date": "2026-10-07",
+      "dateEnd": "2026-10-07",
+      "details": "The allotment status of Nityas Gems & Jewellery Ltd. IPO is now available online. The public issue of Nityas Gems & Jewellery IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. T",
+      "type": "mainboard",
+      "slug": "nityas-gems-jewellery-ipo",
+      "ipoId": 2974,
+      "eventId": 15686,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/nityas-gems-jewellery-ipo/2974/#15686",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Nityas%20Gems%20%26%20Jewellery%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Nityas%20Gems%20%26%20Jewellery%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Nityas%20Gems%20%26%20Jewellery%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20T"
       }
     },
     {

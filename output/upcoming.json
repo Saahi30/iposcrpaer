@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T22:30:32+00:00",
+  "scrapedAt": "2026-10-07T05:07:08+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -41,16 +41,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-14",
+        "open": "2027-01-15",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
-        "value": 167.0,
+        "value": 165.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "6-Oct 23:37"
+        "updatedOn": "7-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -86,15 +86,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 258.0,
+        "max": 271.0,
+        "display": "₹258–271"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
+      "lotSize": 55,
+      "issueSize": "₹712.31 Cr",
+      "issueSizeCr": 712.31,
       "freshIssueCr": null,
-      "ofsCr": null,
+      "ofsCr": 712.31,
       "dates": {
         "open": "2026-10-13",
         "close": "2026-10-15",
@@ -103,9 +103,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "6-Oct 14:30"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "7-Oct 9:56"
       },
       "subscription": {
         "total": null,

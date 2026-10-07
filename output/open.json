@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T22:30:32+00:00",
+  "scrapedAt": "2026-10-07T05:07:08+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 4,
+    "open": 1,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 1
   },
   "ipos": [
     {
@@ -50,10 +50,10 @@
         "value": 15.0,
         "percent": 18.29,
         "xLot": 24000.0,
-        "updatedOn": "6-Oct 23:37"
+        "updatedOn": "7-Oct 10:02"
       },
       "subscription": {
-        "total": 0.44,
+        "total": 0.74,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -73,43 +73,43 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.50",
+            "Subscription (x)": "0.69",
             "Shares Offered*": "16,06,400",
-            "Shares bid for": "8,01,600",
-            "Total Amt* (₹ Cr.)": "6.573",
-            "Total Applications": "0"
+            "Shares bid for": "11,05,600",
+            "Total Amt* (₹ Cr.)": "9.066",
+            "Total Applications": "52"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.74",
+            "Subscription (x)": "0.87",
             "Shares Offered*": "10,70,400",
-            "Shares bid for": "7,92,000",
-            "Total Amt* (₹ Cr.)": "6.494",
+            "Shares bid for": "9,34,400",
+            "Total Amt* (₹ Cr.)": "7.662",
             "Total Applications": ""
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.02",
+            "Subscription (x)": "0.32",
             "Shares Offered*": "5,36,000",
-            "Shares bid for": "9,600",
-            "Total Amt* (₹ Cr.)": "0.079",
+            "Shares bid for": "1,71,200",
+            "Total Amt* (₹ Cr.)": "1.404",
             "Total Applications": ""
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.16",
+            "Subscription (x)": "0.53",
             "Shares Offered*": "24,03,200",
-            "Shares bid for": "3,74,400",
-            "Total Amt* (₹ Cr.)": "3.070",
-            "Total Applications": "117"
+            "Shares bid for": "12,67,200",
+            "Total Amt* (₹ Cr.)": "10.391",
+            "Total Applications": "396"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.44",
+            "Subscription (x)": "0.74",
             "Shares Offered*": "40,52,800",
-            "Shares bid for": "17,85,600",
-            "Total Amt* (₹ Cr.)": "14.642",
-            "Total Applications": "133"
+            "Shares bid for": "29,82,400",
+            "Total Amt* (₹ Cr.)": "24.456",
+            "Total Applications": "450"
           }
         ],
         "applications": null
@@ -134,361 +134,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with the trading of branded cosmetics. Its product portfolio comprises handcrafted imitation jewellery incorporating traditional designs with contemporary styles, catering to various segments through wholesale and direct sales channels. The Company operates with a focus on the B2B and B2C segments, supplying its produ",
       "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "paramount-syntex-ipo",
-      "ipoId": 2743,
-      "name": "Paramount Syntex",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 119.0,
-        "max": 127.0,
-        "display": "₹119–127"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹81.79 Cr",
-      "issueSizeCr": 81.79,
-      "freshIssueCr": 77.69,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "6-Oct 23:36"
-      },
-      "subscription": {
-        "total": 1.88,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,23,000",
-            "Shares bid for": "3,23,000",
-            "Total Amt* (₹ Cr.)": "4.102",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "119.29",
-            "Shares Offered*": "66,000",
-            "Shares bid for": "78,73,000",
-            "Total Amt* (₹ Cr.)": "99.987",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.09",
-            "Shares Offered*": "30,15,000",
-            "Shares bid for": "2,74,000",
-            "Total Amt* (₹ Cr.)": "3.480",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.03",
-            "Shares Offered*": "20,10,000",
-            "Shares bid for": "59,000",
-            "Total Amt* (₹ Cr.)": "0.749",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.21",
-            "Shares Offered*": "10,05,000",
-            "Shares bid for": "2,15,000",
-            "Total Amt* (₹ Cr.)": "2.730",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.10",
-            "Shares Offered*": "30,36,000",
-            "Shares bid for": "33,44,000",
-            "Total Amt* (₹ Cr.)": "42.469",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.88",
-            "Shares Offered*": "61,17,000",
-            "Shares bid for": "1,14,91,000",
-            "Total Amt* (₹ Cr.)": "145.936",
-            "Total Applications": "1,763"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Sobhagya Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paramount-syntex-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/paramount-syntex-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paramount-syntex-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
-        "gmp": "https://www.investorgain.com/gmp/paramount-syntex-ipo/2001/"
-      },
-      "gmpId": 2001,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in 1996, Paramount Syntex Ltd. is engaged in the manufacturing of synthetic fibres, dyed fibres, and various types of yarns, including acrylic, polyester, wool, nylon, and blended yarns. The Company’s manufacturing units are located at Village Mangarh, Machiwara Road, Kohara, Ludhiana, Punjab, with a combined area of approximately 7,268.73 sq. yards.\n\nParamount Syntex operates with a fully integrated setup comprising fibre processing, tow dyeing, hank dyeing, spinning, bulking, and ",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "acme-india-industries-ipo",
-      "ipoId": 2748,
-      "name": "Acme India Industries",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 186.0,
-        "max": 196.0,
-        "display": "₹186–196"
-      },
-      "lotSize": 600,
-      "issueSize": "₹121.69 Cr",
-      "issueSizeCr": 121.69,
-      "freshIssueCr": 99.82,
-      "ofsCr": 15.71,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 65.0,
-        "percent": 33.16,
-        "xLot": 39000.0,
-        "updatedOn": "6-Oct 23:37"
-      },
-      "subscription": {
-        "total": 124.23,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "17,65,800",
-            "Shares bid for": "17,65,800",
-            "Total Amt* (₹ Cr.)": "34.61",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,14,400",
-            "Shares bid for": "3,14,400",
-            "Total Amt* (₹ Cr.)": "6.16",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "137.93",
-            "Shares Offered*": "11,79,000",
-            "Shares bid for": "16,26,23,400",
-            "Total Amt* (₹ Cr.)": "3,187.42",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "196.27",
-            "Shares Offered*": "8,85,600",
-            "Shares bid for": "17,38,16,400",
-            "Total Amt* (₹ Cr.)": "3,406.80",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "241.67",
-            "Shares Offered*": "5,88,600",
-            "Shares bid for": "14,22,46,800",
-            "Total Amt* (₹ Cr.)": "2,788.04",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "106.29",
-            "Shares Offered*": "2,97,000",
-            "Shares bid for": "3,15,69,600",
-            "Total Amt* (₹ Cr.)": "618.76",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "85.50",
-            "Shares Offered*": "20,64,000",
-            "Shares bid for": "17,64,72,000",
-            "Total Amt* (₹ Cr.)": "3,458.85",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "124.23",
-            "Shares Offered*": "41,28,600",
-            "Shares bid for": "51,29,11,800",
-            "Total Amt* (₹ Cr.)": "10,053.07",
-            "Total Applications": "1,89,465"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/acme-india-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/acme-india-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=acme-india-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
-        "gmp": "https://www.investorgain.com/gmp/acme-india-industries-ipo/2006/"
-      },
-      "gmpId": 2006,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in December 2021, Acme India Industries Limited is engaged in the Indian railway rolling stock sector, focusing on the design, manufacture, supply, installation and warranty maintenance of railway coach interiors and components. The Company provides turnkey furnishing solutions for new railway coaches, refurbishment, upgradation and conversion of old coaches, and modernization of toilet facilities. It manufactures and supplies products including Braille signage, FRP products, sanita",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "tna-solutions-ipo",
-      "ipoId": 3216,
-      "name": "TNA Solutions",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 66.0,
-        "max": 70.0,
-        "display": "₹66–70"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹37.86 Cr",
-      "issueSizeCr": 37.86,
-      "freshIssueCr": 35.95,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-09-30",
-        "close": "2026-10-06",
-        "allotment": "2026-10-07",
-        "listing": "2026-10-09"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 4.29,
-        "xLot": 6000.0,
-        "updatedOn": "6-Oct 23:37"
-      },
-      "subscription": {
-        "total": 55.2,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "15,36,000",
-            "Shares bid for": "15,36,000",
-            "Total Amt* (₹ Cr.)": "10.75",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,72,000",
-            "Shares bid for": "2,72,000",
-            "Total Amt* (₹ Cr.)": "1.90",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "35.64",
-            "Shares Offered*": "10,26,000",
-            "Shares bid for": "3,65,66,000",
-            "Total Amt* (₹ Cr.)": "255.96",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "102.14",
-            "Shares Offered*": "7,74,000",
-            "Shares bid for": "7,90,56,000",
-            "Total Amt* (₹ Cr.)": "553.39",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "114.91",
-            "Shares Offered*": "5,16,000",
-            "Shares bid for": "5,92,96,000",
-            "Total Amt* (₹ Cr.)": "415.07",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "76.59",
-            "Shares Offered*": "2,58,000",
-            "Shares bid for": "1,97,60,000",
-            "Total Amt* (₹ Cr.)": "138.32",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "46.17",
-            "Shares Offered*": "18,00,000",
-            "Shares bid for": "8,31,00,000",
-            "Total Amt* (₹ Cr.)": "581.70",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "55.20",
-            "Shares Offered*": "36,00,000",
-            "Shares bid for": "19,87,22,000",
-            "Total Amt* (₹ Cr.)": "1,391.05",
-            "Total Applications": "27,747"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Credora Partners",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/tna-solutions-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/tna-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=tna-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
-        "gmp": "https://www.investorgain.com/gmp/tna-solutions-ipo/2370/"
-      },
-      "gmpId": 2370,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 2021, TNA Solutions Limited is engaged in the manufacturing of home textile products for domestic and international customers. Its manufacturing facility is located in Indore, Madhya Pradesh, where it converts processed fabrics into finished home furnishing products based on customer specifications. The Company offers a diversified portfolio of home textile products, including sheet sets, pillow shells and covers, towels, and top-of-bed products such as comforters, quil",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }
