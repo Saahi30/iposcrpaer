@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-07T12:56:31+00:00",
+  "scrapedAt": "2026-10-07T22:54:23+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 47,
-    "mainboard": 13,
-    "sme": 34,
+    "totalEvents": 51,
+    "mainboard": 16,
+    "sme": 35,
     "byEventType": {
-      "allotment": 19,
+      "allotment": 23,
       "close": 18,
       "open": 2,
       "other": 8
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 43,
-        "mainboard": 11,
-        "sme": 32
+        "total": 47,
+        "mainboard": 14,
+        "sme": 33
       },
       "byDate": {
         "2026-10-01": [
@@ -755,6 +755,44 @@
             }
           },
           {
+            "title": "Runwal Enterprises IPO Allotment Status",
+            "company": "Runwal Enterprises",
+            "eventType": "allotment",
+            "date": "2026-10-07",
+            "dateEnd": "2026-10-07",
+            "details": "The allotment status of Runwal Enterprises Ltd. IPO is now available online. The public issue of Runwal Enterprises IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity",
+            "type": "mainboard",
+            "slug": "runwal-enterprises-ipo",
+            "ipoId": 2298,
+            "eventId": 15687,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15687",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Runwal%20Enterprises%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Runwal%20Enterprises%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity"
+            }
+          },
+          {
+            "title": "Snapdeal IPO Allotment Status",
+            "company": "Snapdeal",
+            "eventType": "allotment",
+            "date": "2026-10-07",
+            "dateEnd": "2026-10-07",
+            "details": "The allotment status of Acevector Ltd. IPO is now available online. The public issue of Snapdeal IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity shares of the comp",
+            "type": "mainboard",
+            "slug": "snapdeal-ipo",
+            "ipoId": 2543,
+            "eventId": 15688,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/snapdeal-ipo/2543/#15688",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Snapdeal%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Acevector%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Snapdeal%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+            }
+          },
+          {
             "title": "Omara Ventures India IPO Allotment Status",
             "company": "Omara Ventures India",
             "eventType": "allotment",
@@ -790,6 +828,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/rkfashion-accessories-ipo/3138/#15654",
               "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Closes%20on%20Oct%207%2C%202026&location=&dates=20261007/20261008&details=The%20issue%20of%20R.K.Fashion%20Accessories%20Ltd.%20opens%20on%20Oct%205%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%207%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+            }
+          },
+          {
+            "title": "TNA Solutions IPO Allotment Status",
+            "company": "TNA Solutions",
+            "eventType": "allotment",
+            "date": "2026-10-07",
+            "dateEnd": "2026-10-07",
+            "details": "The allotment status of TNA Solutions Ltd. IPO is now available online. The public issue of TNA Solutions IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shares of",
+            "type": "sme",
+            "slug": "tna-solutions-ipo",
+            "ipoId": 3216,
+            "eventId": 15690,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/tna-solutions-ipo/3216/#15690",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=TNA%20Solutions%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20TNA%20Solutions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20TNA%20Solutions%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20"
             }
           }
         ],
@@ -872,6 +929,27 @@
               "news": null,
               "chittorgarh": null,
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Dussehra&location=&dates=20261020/20261021&details=Dussehra"
+            }
+          }
+        ],
+        "unknown": [
+          {
+            "title": "Shah Investor's Home IPO Allotment Status",
+            "company": "Shah Investor's Home",
+            "eventType": "allotment",
+            "date": null,
+            "dateEnd": null,
+            "details": null,
+            "type": "mainboard",
+            "slug": "shah-investors-home-ipo",
+            "ipoId": 2657,
+            "eventId": 15689,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/shah-investors-home-ipo/2657/#15689",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
+              "googleCalendar": null
             }
           }
         ]
@@ -1030,6 +1108,44 @@
           }
         },
         {
+          "title": "Runwal Enterprises IPO Allotment Status",
+          "company": "Runwal Enterprises",
+          "eventType": "allotment",
+          "date": "2026-10-07",
+          "dateEnd": "2026-10-07",
+          "details": "The allotment status of Runwal Enterprises Ltd. IPO is now available online. The public issue of Runwal Enterprises IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity",
+          "type": "mainboard",
+          "slug": "runwal-enterprises-ipo",
+          "ipoId": 2298,
+          "eventId": 15687,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15687",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Runwal%20Enterprises%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Runwal%20Enterprises%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity"
+          }
+        },
+        {
+          "title": "Snapdeal IPO Allotment Status",
+          "company": "Snapdeal",
+          "eventType": "allotment",
+          "date": "2026-10-07",
+          "dateEnd": "2026-10-07",
+          "details": "The allotment status of Acevector Ltd. IPO is now available online. The public issue of Snapdeal IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity shares of the comp",
+          "type": "mainboard",
+          "slug": "snapdeal-ipo",
+          "ipoId": 2543,
+          "eventId": 15688,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/snapdeal-ipo/2543/#15688",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Snapdeal%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Acevector%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Snapdeal%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+          }
+        },
+        {
           "title": "HD Fire Protect IPO Opens on Oct 13, 2026",
           "company": "HD Fire Protect",
           "eventType": "open",
@@ -1084,6 +1200,25 @@
             "news": null,
             "chittorgarh": null,
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Dussehra&location=&dates=20261020/20261021&details=Dussehra"
+          }
+        },
+        {
+          "title": "Shah Investor's Home IPO Allotment Status",
+          "company": "Shah Investor's Home",
+          "eventType": "allotment",
+          "date": null,
+          "dateEnd": null,
+          "details": null,
+          "type": "mainboard",
+          "slug": "shah-investors-home-ipo",
+          "ipoId": 2657,
+          "eventId": 15689,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/shah-investors-home-ipo/2657/#15689",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
+            "googleCalendar": null
           }
         },
         {
@@ -1676,6 +1811,25 @@
           }
         },
         {
+          "title": "TNA Solutions IPO Allotment Status",
+          "company": "TNA Solutions",
+          "eventType": "allotment",
+          "date": "2026-10-07",
+          "dateEnd": "2026-10-07",
+          "details": "The allotment status of TNA Solutions Ltd. IPO is now available online. The public issue of TNA Solutions IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shares of",
+          "type": "sme",
+          "slug": "tna-solutions-ipo",
+          "ipoId": 3216,
+          "eventId": 15690,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/tna-solutions-ipo/3216/#15690",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=TNA%20Solutions%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20TNA%20Solutions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20TNA%20Solutions%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20"
+          }
+        },
+        {
           "title": "Holiday - Dussehra",
           "company": "Holiday - Dussehra",
           "eventType": "other",
@@ -2025,6 +2179,44 @@
       }
     },
     {
+      "title": "Runwal Enterprises IPO Allotment Status",
+      "company": "Runwal Enterprises",
+      "eventType": "allotment",
+      "date": "2026-10-07",
+      "dateEnd": "2026-10-07",
+      "details": "The allotment status of Runwal Enterprises Ltd. IPO is now available online. The public issue of Runwal Enterprises IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity",
+      "type": "mainboard",
+      "slug": "runwal-enterprises-ipo",
+      "ipoId": 2298,
+      "eventId": 15687,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/runwal-enterprises-ipo/2298/#15687",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Runwal%20Enterprises%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Runwal%20Enterprises%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Runwal%20Enterprises%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity"
+      }
+    },
+    {
+      "title": "Snapdeal IPO Allotment Status",
+      "company": "Snapdeal",
+      "eventType": "allotment",
+      "date": "2026-10-07",
+      "dateEnd": "2026-10-07",
+      "details": "The allotment status of Acevector Ltd. IPO is now available online. The public issue of Snapdeal IPO was open on Sep 25, 2026 and closed for subscription on Sep 29, 2026. The equity shares of the comp",
+      "type": "mainboard",
+      "slug": "snapdeal-ipo",
+      "ipoId": 2543,
+      "eventId": 15688,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/snapdeal-ipo/2543/#15688",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Snapdeal%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Acevector%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Snapdeal%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+      }
+    },
+    {
       "title": "HD Fire Protect IPO Opens on Oct 13, 2026",
       "company": "HD Fire Protect",
       "eventType": "open",
@@ -2079,6 +2271,25 @@
         "news": null,
         "chittorgarh": null,
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Dussehra&location=&dates=20261020/20261021&details=Dussehra"
+      }
+    },
+    {
+      "title": "Shah Investor's Home IPO Allotment Status",
+      "company": "Shah Investor's Home",
+      "eventType": "allotment",
+      "date": null,
+      "dateEnd": null,
+      "details": null,
+      "type": "mainboard",
+      "slug": "shah-investors-home-ipo",
+      "ipoId": 2657,
+      "eventId": 15689,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/shah-investors-home-ipo/2657/#15689",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
+        "googleCalendar": null
       }
     },
     {
@@ -2668,6 +2879,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/rkfashion-accessories-ipo/3138/#15654",
         "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=R.K.Fashion%20Accessories%20IPO%20Closes%20on%20Oct%207%2C%202026&location=&dates=20261007/20261008&details=The%20issue%20of%20R.K.Fashion%20Accessories%20Ltd.%20opens%20on%20Oct%205%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%207%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+      }
+    },
+    {
+      "title": "TNA Solutions IPO Allotment Status",
+      "company": "TNA Solutions",
+      "eventType": "allotment",
+      "date": "2026-10-07",
+      "dateEnd": "2026-10-07",
+      "details": "The allotment status of TNA Solutions Ltd. IPO is now available online. The public issue of TNA Solutions IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shares of",
+      "type": "sme",
+      "slug": "tna-solutions-ipo",
+      "ipoId": 3216,
+      "eventId": 15690,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/tna-solutions-ipo/3216/#15690",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=TNA%20Solutions%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20TNA%20Solutions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20TNA%20Solutions%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20"
       }
     },
     {
