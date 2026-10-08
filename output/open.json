@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-07T22:54:18+00:00",
+  "scrapedAt": "2026-10-08T05:17:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,126 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 1,
+    "open": 0,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 1
+    "total": 0
   },
-  "ipos": [
-    {
-      "slug": "rkfashion-accessories-ipo",
-      "ipoId": 3138,
-      "name": "R.K.Fashion Accessories",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 77.0,
-        "max": 82.0,
-        "display": "₹77–82"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹34.99 Cr",
-      "issueSizeCr": 34.99,
-      "freshIssueCr": 33.23,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-05",
-        "close": "2026-10-07",
-        "allotment": "2026-10-08",
-        "listing": "2026-10-12"
-      },
-      "gmp": {
-        "value": 1.5,
-        "percent": 1.83,
-        "xLot": 2400.0,
-        "updatedOn": "7-Oct 23:37"
-      },
-      "subscription": {
-        "total": 2.7,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "2,14,400",
-            "Shares bid for": "2,14,400",
-            "Total Amt* (₹ Cr.)": "1.758",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "14.11",
-            "Shares Offered*": "43,200",
-            "Shares bid for": "6,09,600",
-            "Total Amt* (₹ Cr.)": "4.999",
-            "Total Applications": "2"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.77",
-            "Shares Offered*": "16,06,400",
-            "Shares bid for": "28,48,000",
-            "Total Amt* (₹ Cr.)": "23.354",
-            "Total Applications": "276"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.77",
-            "Shares Offered*": "10,70,400",
-            "Shares bid for": "18,91,200",
-            "Total Amt* (₹ Cr.)": "15.508",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.79",
-            "Shares Offered*": "5,36,000",
-            "Shares bid for": "9,56,800",
-            "Total Amt* (₹ Cr.)": "7.846",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "3.11",
-            "Shares Offered*": "24,03,200",
-            "Shares bid for": "74,78,400",
-            "Total Amt* (₹ Cr.)": "61.323",
-            "Total Applications": "2,337"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.70",
-            "Shares Offered*": "40,52,800",
-            "Shares bid for": "1,09,36,000",
-            "Total Amt* (₹ Cr.)": "89.675",
-            "Total Applications": "2,615"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/rk-fashion-logo_page-0001.jpg",
-      "hasDetail": true,
-      "detailPath": "details/rkfashion-accessories-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=rkfashion-accessories-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-        "gmp": "https://www.investorgain.com/gmp/rkfashion-accessories-ipo/2292/"
-      },
-      "gmpId": 2292,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with the trading of branded cosmetics. Its product portfolio comprises handcrafted imitation jewellery incorporating traditional designs with contemporary styles, catering to various segments through wholesale and direct sales channels. The Company operates with a focus on the B2B and B2C segments, supplying its produ",
-      "registrar": "Cameo Corporate Services Ltd."
-    }
-  ]
+  "ipos": []
 }

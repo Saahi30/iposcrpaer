@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-07T22:54:24+00:00",
+  "scrapedAt": "2026-10-08T05:17:46+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 279,
+    "total": 281,
     "mainboard": 97,
-    "sme": 182
+    "sme": 184
   },
   "ipos": [
     {
@@ -6528,13 +6528,13 @@
         "close": "2026-10-05",
         "allotment": "2026-10-06",
         "refunds": "2026-10-07",
-        "listing": null
+        "listing": "2026-10-08"
       },
       "displayDates": {
         "open": "30-Sep-2026",
         "close": "05-Oct-2026",
         "allotment": "06-Oct-2026",
-        "listing": null
+        "listing": "08-Oct-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/omara-ventures-india-limited-logo.png",
       "urls": {
@@ -6708,6 +6708,54 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2959,
+      "name": "Ravita Engineering Services Ltd.",
+      "slug": "ravita-engineering-services-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "refunds": "2026-10-19",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "13-Oct-2026",
+        "close": "15-Oct-2026",
+        "allotment": "16-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ravitaengineering_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ravita-engineering-services-ipo/2959/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3180,
+      "name": "Vaibhav Vyapaar Ltd.",
+      "slug": "vaibhav-vyapaar-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "refunds": "2026-10-19",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "13-Oct-2026",
+        "close": "15-Oct-2026",
+        "allotment": "16-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vaibhav-vyapaar-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]
