@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-08T23:06:22+00:00",
+  "scrapedAt": "2026-10-09T05:21:10+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 281,
-    "mainboard": 97,
+    "total": 282,
+    "mainboard": 98,
     "sme": 184
   },
   "ipos": [
@@ -6756,6 +6756,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2455,
+      "name": "Fusion CX Ltd.",
+      "slug": "fusion-cx-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-14",
+        "close": "2026-10-16",
+        "allotment": "2026-10-19",
+        "refunds": "2026-10-21",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "14-Oct-2026",
+        "close": "16-Oct-2026",
+        "allotment": "19-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]

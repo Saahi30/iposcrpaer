@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-08T23:06:17+00:00",
+  "scrapedAt": "2026-10-09T05:21:04+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 4,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 5
   },
   "ipos": [
     {
@@ -41,16 +41,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-16",
+        "open": "2027-01-17",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
-        "value": 167.0,
+        "value": 175.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "8-Oct 23:37"
+        "updatedOn": "9-Oct 10:37"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "fusion-cx-ipo",
+      "ipoId": 2455,
+      "name": "Fusion CX",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 275.0,
+        "max": 289.0,
+        "display": "₹275–289"
+      },
+      "lotSize": 51,
+      "issueSize": "₹702.00 Cr",
+      "issueSizeCr": 702.0,
+      "freshIssueCr": 500.0,
+      "ofsCr": 202.0,
+      "dates": {
+        "open": "2026-10-14",
+        "close": "2026-10-16",
+        "allotment": "2026-10-19",
+        "listing": "2026-10-22"
+      },
+      "gmp": {
+        "value": 40.0,
+        "percent": 13.84,
+        "xLot": 2040.0,
+        "updatedOn": "9-Oct 10:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Nuvama Wealth Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/fusion-cx-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fusion-cx-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
+        "gmp": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/"
+      },
+      "gmpId": 1792,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2004, Fusion CX Limited is a customer experience (CX) and business process solutions provider offering multichannel customer support through voice, email, chat, social media and messaging. The company also provides AI data infrastructure services, including data collection, data annotation, image and video labelling, and robotic teleoperations.\n\nFusion CX combines human expertise with technology and proprietary AI tools to deliver multilingual, omnichannel customer engagement, im",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
       "slug": "hd-fire-protect-ipo",
       "ipoId": 2628,
       "name": "HD Fire Protect",
@@ -102,10 +157,10 @@
         "listing": "2026-10-21"
       },
       "gmp": {
-        "value": 63.0,
-        "percent": 23.25,
-        "xLot": 3465.0,
-        "updatedOn": "8-Oct 23:37"
+        "value": 64.0,
+        "percent": 23.62,
+        "xLot": 3520.0,
+        "updatedOn": "9-Oct 10:37"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Oct 23:30"
+        "updatedOn": "9-Oct 10:34"
       },
       "subscription": {
         "total": null,
@@ -196,14 +251,14 @@
       "exchange": "NSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 50.0,
-        "max": 52.0,
-        "display": "₹50–52"
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
       },
       "lotSize": 2000,
-      "issueSize": "₹40.54 Cr",
-      "issueSizeCr": 40.54,
-      "freshIssueCr": 38.51,
+      "issueSize": "₹42.10 Cr",
+      "issueSizeCr": 42.1,
+      "freshIssueCr": 39.99,
       "ofsCr": null,
       "dates": {
         "open": "2026-10-13",
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "8-Oct 23:33"
+        "updatedOn": "9-Oct 10:31"
       },
       "subscription": {
         "total": null,
