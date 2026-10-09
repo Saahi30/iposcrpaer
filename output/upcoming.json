@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-09T12:51:23+00:00",
+  "scrapedAt": "2026-10-09T22:26:20+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 5,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 6
   },
   "ipos": [
+    {
+      "slug": "bonfiglioli-transmissions-ipo",
+      "ipoId": 2861,
+      "name": "Bonfigloli Transmissions",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-01-17",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "9-Oct 21:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bonfiglioli-transmissions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bonfiglioli-transmissions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+        "gmp": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/"
+      },
+      "gmpId": 2124,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries.\n\nProduct Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, p",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "jio-platforms-ipo",
       "ipoId": 3152,
@@ -47,10 +102,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 175.0,
+        "value": 173.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "9-Oct 18:02"
+        "updatedOn": "9-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -105,7 +160,7 @@
         "value": 55.0,
         "percent": 19.03,
         "xLot": 2805.0,
-        "updatedOn": "9-Oct 18:02"
+        "updatedOn": "9-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -157,10 +212,10 @@
         "listing": "2026-10-21"
       },
       "gmp": {
-        "value": 75.0,
-        "percent": 27.68,
-        "xLot": 4125.0,
-        "updatedOn": "9-Oct 18:02"
+        "value": 74.0,
+        "percent": 27.31,
+        "xLot": 4070.0,
+        "updatedOn": "9-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Oct 18:02"
+        "updatedOn": "9-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "9-Oct 18:00"
+        "updatedOn": "9-Oct 23:36"
       },
       "subscription": {
         "total": null,
