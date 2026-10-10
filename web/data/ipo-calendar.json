@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T05:05:14+00:00",
+  "scrapedAt": "2026-10-10T12:09:15+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 57,
-    "mainboard": 18,
-    "sme": 39,
+    "totalEvents": 61,
+    "mainboard": 19,
+    "sme": 42,
     "byEventType": {
-      "allotment": 23,
+      "allotment": 27,
       "close": 21,
       "open": 5,
       "other": 8
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 53,
-        "mainboard": 16,
-        "sme": 37
+        "total": 57,
+        "mainboard": 17,
+        "sme": 40
       },
       "byDate": {
         "2026-10-01": [
@@ -850,6 +850,84 @@
             }
           }
         ],
+        "2026-10-10": [
+          {
+            "title": "SRIT India IPO Allotment Status",
+            "company": "SRIT India",
+            "eventType": "allotment",
+            "date": "2026-10-10",
+            "dateEnd": "2026-10-10",
+            "details": "The allotment status of SRIT India Ltd. IPO is now available online. The public issue of SRIT India IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity shares of the c",
+            "type": "mainboard",
+            "slug": "srit-india-ipo",
+            "ipoId": 2858,
+            "eventId": 15706,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/srit-india-ipo/2858/#15706",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SRIT%20India%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20SRIT%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SRIT%20India%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20c"
+            }
+          },
+          {
+            "title": "Acme India Industries IPO Allotment Status",
+            "company": "Acme India Industries",
+            "eventType": "allotment",
+            "date": "2026-10-10",
+            "dateEnd": "2026-10-10",
+            "details": "The allotment status of Acme India Industries Ltd. IPO is now available online. The public issue of Acme India Industries IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The e",
+            "type": "sme",
+            "slug": "acme-india-industries-ipo",
+            "ipoId": 2748,
+            "eventId": 15705,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/acme-india-industries-ipo/2748/#15705",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20India%20Industries%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Acme%20India%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Acme%20India%20Industries%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20e"
+            }
+          },
+          {
+            "title": "Dove Soft IPO Allotment Status",
+            "company": "Dove Soft",
+            "eventType": "allotment",
+            "date": "2026-10-10",
+            "dateEnd": "2026-10-10",
+            "details": "The allotment status of Dove Soft Ltd. IPO is now available online. The public issue of Dove Soft IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares of the comp",
+            "type": "sme",
+            "slug": "dove-soft-ipo",
+            "ipoId": 2424,
+            "eventId": 15703,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15703",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Dove%20Soft%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Dove%20Soft%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+            }
+          },
+          {
+            "title": "Paramount Syntex IPO Allotment Status",
+            "company": "Paramount Syntex",
+            "eventType": "allotment",
+            "date": "2026-10-10",
+            "dateEnd": "2026-10-10",
+            "details": "The allotment status of Paramount Syntex Ltd. IPO is now available online. The public issue of Paramount Syntex IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shar",
+            "type": "sme",
+            "slug": "paramount-syntex-ipo",
+            "ipoId": 2743,
+            "eventId": 15704,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15704",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Paramount%20Syntex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Paramount%20Syntex%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shar"
+            }
+          }
+        ],
         "2026-10-13": [
           {
             "title": "HD Fire Protect IPO Opens on Oct 13, 2026",
@@ -1261,6 +1339,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/snapdeal-ipo/2543/#15688",
             "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Snapdeal%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Acevector%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Snapdeal%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+          }
+        },
+        {
+          "title": "SRIT India IPO Allotment Status",
+          "company": "SRIT India",
+          "eventType": "allotment",
+          "date": "2026-10-10",
+          "dateEnd": "2026-10-10",
+          "details": "The allotment status of SRIT India Ltd. IPO is now available online. The public issue of SRIT India IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity shares of the c",
+          "type": "mainboard",
+          "slug": "srit-india-ipo",
+          "ipoId": 2858,
+          "eventId": 15706,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/srit-india-ipo/2858/#15706",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SRIT%20India%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20SRIT%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SRIT%20India%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20c"
           }
         },
         {
@@ -1986,6 +2083,63 @@
           }
         },
         {
+          "title": "Acme India Industries IPO Allotment Status",
+          "company": "Acme India Industries",
+          "eventType": "allotment",
+          "date": "2026-10-10",
+          "dateEnd": "2026-10-10",
+          "details": "The allotment status of Acme India Industries Ltd. IPO is now available online. The public issue of Acme India Industries IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The e",
+          "type": "sme",
+          "slug": "acme-india-industries-ipo",
+          "ipoId": 2748,
+          "eventId": 15705,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/acme-india-industries-ipo/2748/#15705",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20India%20Industries%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Acme%20India%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Acme%20India%20Industries%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20e"
+          }
+        },
+        {
+          "title": "Dove Soft IPO Allotment Status",
+          "company": "Dove Soft",
+          "eventType": "allotment",
+          "date": "2026-10-10",
+          "dateEnd": "2026-10-10",
+          "details": "The allotment status of Dove Soft Ltd. IPO is now available online. The public issue of Dove Soft IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares of the comp",
+          "type": "sme",
+          "slug": "dove-soft-ipo",
+          "ipoId": 2424,
+          "eventId": 15703,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15703",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Dove%20Soft%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Dove%20Soft%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+          }
+        },
+        {
+          "title": "Paramount Syntex IPO Allotment Status",
+          "company": "Paramount Syntex",
+          "eventType": "allotment",
+          "date": "2026-10-10",
+          "dateEnd": "2026-10-10",
+          "details": "The allotment status of Paramount Syntex Ltd. IPO is now available online. The public issue of Paramount Syntex IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shar",
+          "type": "sme",
+          "slug": "paramount-syntex-ipo",
+          "ipoId": 2743,
+          "eventId": 15704,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15704",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Paramount%20Syntex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Paramount%20Syntex%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shar"
+          }
+        },
+        {
           "title": "Ravita Engineering Services IPO Opens on Oct 13, 2026",
           "company": "Ravita Engineering Services",
           "eventType": "open",
@@ -2446,6 +2600,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/snapdeal-ipo/2543/#15688",
         "chittorgarh": "https://www.chittorgarh.com/ipo/snapdeal-ipo/2543/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Snapdeal%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20Acevector%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Snapdeal%20IPO%20was%20open%20on%20Sep%2025%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2029%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+      }
+    },
+    {
+      "title": "SRIT India IPO Allotment Status",
+      "company": "SRIT India",
+      "eventType": "allotment",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-10",
+      "details": "The allotment status of SRIT India Ltd. IPO is now available online. The public issue of SRIT India IPO was open on Sep 28, 2026 and closed for subscription on Sep 30, 2026. The equity shares of the c",
+      "type": "mainboard",
+      "slug": "srit-india-ipo",
+      "ipoId": 2858,
+      "eventId": 15706,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/srit-india-ipo/2858/#15706",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SRIT%20India%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20SRIT%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SRIT%20India%20IPO%20was%20open%20on%20Sep%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Sep%2030%2C%202026.%20The%20equity%20shares%20of%20the%20c"
       }
     },
     {
@@ -3168,6 +3341,63 @@
         "news": "https://www.chittorgarh.com/ipo_news/tna-solutions-ipo/3216/#15690",
         "chittorgarh": "https://www.chittorgarh.com/ipo/tna-solutions-ipo/3216/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=TNA%20Solutions%20IPO%20Allotment%20Status&location=&dates=20261007/20261008&details=The%20allotment%20status%20of%20TNA%20Solutions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20TNA%20Solutions%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shares%20of%20"
+      }
+    },
+    {
+      "title": "Acme India Industries IPO Allotment Status",
+      "company": "Acme India Industries",
+      "eventType": "allotment",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-10",
+      "details": "The allotment status of Acme India Industries Ltd. IPO is now available online. The public issue of Acme India Industries IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The e",
+      "type": "sme",
+      "slug": "acme-india-industries-ipo",
+      "ipoId": 2748,
+      "eventId": 15705,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/acme-india-industries-ipo/2748/#15705",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/acme-india-industries-ipo/2748/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Acme%20India%20Industries%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Acme%20India%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Acme%20India%20Industries%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20e"
+      }
+    },
+    {
+      "title": "Dove Soft IPO Allotment Status",
+      "company": "Dove Soft",
+      "eventType": "allotment",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-10",
+      "details": "The allotment status of Dove Soft Ltd. IPO is now available online. The public issue of Dove Soft IPO was open on Sep 30, 2026 and closed for subscription on Oct 5, 2026. The equity shares of the comp",
+      "type": "sme",
+      "slug": "dove-soft-ipo",
+      "ipoId": 2424,
+      "eventId": 15703,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/dove-soft-ipo/2424/#15703",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/dove-soft-ipo/2424/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Dove%20Soft%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Dove%20Soft%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Dove%20Soft%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%205%2C%202026.%20The%20equity%20shares%20of%20the%20comp"
+      }
+    },
+    {
+      "title": "Paramount Syntex IPO Allotment Status",
+      "company": "Paramount Syntex",
+      "eventType": "allotment",
+      "date": "2026-10-10",
+      "dateEnd": "2026-10-10",
+      "details": "The allotment status of Paramount Syntex Ltd. IPO is now available online. The public issue of Paramount Syntex IPO was open on Sep 30, 2026 and closed for subscription on Oct 6, 2026. The equity shar",
+      "type": "sme",
+      "slug": "paramount-syntex-ipo",
+      "ipoId": 2743,
+      "eventId": 15704,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/paramount-syntex-ipo/2743/#15704",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paramount-syntex-ipo/2743/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paramount%20Syntex%20IPO%20Allotment%20Status&location=&dates=20261010/20261011&details=The%20allotment%20status%20of%20Paramount%20Syntex%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Paramount%20Syntex%20IPO%20was%20open%20on%20Sep%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%206%2C%202026.%20The%20equity%20shar"
       }
     },
     {
