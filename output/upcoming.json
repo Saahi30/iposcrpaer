@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T12:09:11+00:00",
+  "scrapedAt": "2026-10-10T21:21:46+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 6,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 7
   },
   "ipos": [
     {
@@ -31,9 +31,9 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
       },
       "lotSize": null,
       "issueSize": "-",
@@ -47,10 +47,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 0.0,
+        "value": 137.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Oct 5:55"
+        "updatedOn": "10-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -102,10 +102,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 174.0,
+        "value": 171.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "10-Oct 17:02"
+        "updatedOn": "10-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -133,6 +133,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "sahajanand-medical-technologies-ipo",
+      "ipoId": 2550,
+      "name": "Sahajanand Medical Technologies",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "10-Oct 20:40"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sahajanand-medical-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sahajanand-medical-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+        "gmp": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/"
+      },
+      "gmpId": 1842,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Founded in 2001 by Mr. Dhirajlal Kotadia, Sahajanand Medical Technologies Ltd. is a medical device company focused on Class III and Class C/D devices, primarily in the fields of vascular and structural heart intervention. The company was the first globally to receive CE certification for a drug-eluting stent (DES) with a biodegradable polymer—Infinnium.\n\nSahajanand operates two R&D centers—one in India and one in Thailand—supported by a team of 102 professionals, including biomedical engineers a",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "fusion-cx-ipo",
       "ipoId": 2455,
       "name": "Fusion CX",
@@ -157,10 +212,10 @@
         "listing": "2026-10-22"
       },
       "gmp": {
-        "value": 55.0,
-        "percent": 19.03,
-        "xLot": 2805.0,
-        "updatedOn": "10-Oct 17:02"
+        "value": 53.0,
+        "percent": 18.34,
+        "xLot": 2703.0,
+        "updatedOn": "10-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -212,10 +267,10 @@
         "listing": "2026-10-21"
       },
       "gmp": {
-        "value": 73.0,
-        "percent": 26.94,
-        "xLot": 4015.0,
-        "updatedOn": "10-Oct 17:02"
+        "value": 75.0,
+        "percent": 27.68,
+        "xLot": 4125.0,
+        "updatedOn": "10-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 12.0,
         "percent": 10.71,
         "xLot": 14400.0,
-        "updatedOn": "10-Oct 17:02"
+        "updatedOn": "10-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "10-Oct 17:01"
+        "updatedOn": "10-Oct 23:35"
       },
       "subscription": {
         "total": null,

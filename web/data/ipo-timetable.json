@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T12:09:16+00:00",
+  "scrapedAt": "2026-10-10T21:21:54+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 282,
-    "mainboard": 98,
+    "total": 283,
+    "mainboard": 99,
     "sme": 184
   },
   "ipos": [
@@ -6779,6 +6779,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2550,
+      "name": "Sahajanand Medical Technologies Ltd.",
+      "slug": "sahajanand-medical-technologies-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "refunds": "2026-10-22",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "15-Oct-2026",
+        "close": "19-Oct-2026",
+        "allotment": "21-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }

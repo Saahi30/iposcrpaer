@@ -331,9 +331,9 @@
     "status": "upcoming",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": null,
-      "max": null,
-      "display": null
+      "min": 0.0,
+      "max": 0.0,
+      "display": "₹0"
     },
     "lotSize": null,
     "issueSize": "-",
@@ -344,10 +344,10 @@
       "listing": null
     },
     "gmp": {
-      "value": 0.0,
+      "value": 137.0,
       "percent": 0.0,
       "xLot": null,
-      "updatedOn": "10-Oct 5:55"
+      "updatedOn": "10-Oct 23:37"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
@@ -357,5 +357,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-10T12:09:02+00:00"
+  "scrapedAt": "2026-10-10T21:21:33+00:00"
 }

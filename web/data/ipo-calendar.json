@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T12:09:15+00:00",
+  "scrapedAt": "2026-10-10T21:21:52+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 61,
-    "mainboard": 19,
+    "totalEvents": 63,
+    "mainboard": 21,
     "sme": 42,
     "byEventType": {
       "allotment": 27,
-      "close": 21,
-      "open": 5,
+      "close": 22,
+      "open": 6,
       "other": 8
     }
   },
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 57,
-        "mainboard": 17,
+        "total": 59,
+        "mainboard": 19,
         "sme": 40
       },
       "byDate": {
@@ -1029,6 +1029,25 @@
             }
           },
           {
+            "title": "Sahajanand Medical Technologies IPO Opens on Oct 15, 2026",
+            "company": "Sahajanand Medical Technologies",
+            "eventType": "open",
+            "date": "2026-10-15",
+            "dateEnd": "2026-10-15",
+            "details": "Sahajanand Medical Technologies Ltd. is entering in the capital market with an IPO of 2.76 Equity Shares of Rs 1 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.",
+            "type": "mainboard",
+            "slug": "sahajanand-medical-technologies-ipo",
+            "ipoId": 2550,
+            "eventId": 15707,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15707",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Opens%20on%20Oct%2015%2C%202026&location=&dates=20261015/20261016&details=Sahajanand%20Medical%20Technologies%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.76%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B."
+            }
+          },
+          {
             "title": "Ravita Engineering Services IPO Closes on Oct 15, 2026",
             "company": "Ravita Engineering Services",
             "eventType": "close",
@@ -1085,6 +1104,27 @@
               "news": "https://www.chittorgarh.com/ipo_news/fusion-cx-ipo/2455/#15700",
               "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20CX%20IPO%20Closes%20on%20Oct%2016%2C%202026&location=&dates=20261016/20261017&details=The%20issue%20of%20Fusion%20CX%20Ltd.%20opens%20on%20Oct%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2016%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20275%20-"
+            }
+          }
+        ],
+        "2026-10-19": [
+          {
+            "title": "Sahajanand Medical Technologies IPO Closes on Oct 19, 2026",
+            "company": "Sahajanand Medical Technologies",
+            "eventType": "close",
+            "date": "2026-10-19",
+            "dateEnd": "2026-10-19",
+            "details": "The issue of Sahajanand Medical Technologies Ltd. opens on Oct 15, 2026 and closes for subscription on Oct 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue ha",
+            "type": "mainboard",
+            "slug": "sahajanand-medical-technologies-ipo",
+            "ipoId": 2550,
+            "eventId": 15708,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15708",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Closes%20on%20Oct%2019%2C%202026&location=&dates=20261019/20261020&details=The%20issue%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20opens%20on%20Oct%2015%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20ha"
             }
           }
         ],
@@ -1418,6 +1458,25 @@
           }
         },
         {
+          "title": "Sahajanand Medical Technologies IPO Opens on Oct 15, 2026",
+          "company": "Sahajanand Medical Technologies",
+          "eventType": "open",
+          "date": "2026-10-15",
+          "dateEnd": "2026-10-15",
+          "details": "Sahajanand Medical Technologies Ltd. is entering in the capital market with an IPO of 2.76 Equity Shares of Rs 1 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.",
+          "type": "mainboard",
+          "slug": "sahajanand-medical-technologies-ipo",
+          "ipoId": 2550,
+          "eventId": 15707,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15707",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Opens%20on%20Oct%2015%2C%202026&location=&dates=20261015/20261016&details=Sahajanand%20Medical%20Technologies%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.76%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B."
+          }
+        },
+        {
           "title": "Fusion CX IPO Closes on Oct 16, 2026",
           "company": "Fusion CX",
           "eventType": "close",
@@ -1434,6 +1493,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/fusion-cx-ipo/2455/#15700",
             "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20CX%20IPO%20Closes%20on%20Oct%2016%2C%202026&location=&dates=20261016/20261017&details=The%20issue%20of%20Fusion%20CX%20Ltd.%20opens%20on%20Oct%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2016%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20275%20-"
+          }
+        },
+        {
+          "title": "Sahajanand Medical Technologies IPO Closes on Oct 19, 2026",
+          "company": "Sahajanand Medical Technologies",
+          "eventType": "close",
+          "date": "2026-10-19",
+          "dateEnd": "2026-10-19",
+          "details": "The issue of Sahajanand Medical Technologies Ltd. opens on Oct 15, 2026 and closes for subscription on Oct 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue ha",
+          "type": "mainboard",
+          "slug": "sahajanand-medical-technologies-ipo",
+          "ipoId": 2550,
+          "eventId": 15708,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15708",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Closes%20on%20Oct%2019%2C%202026&location=&dates=20261019/20261020&details=The%20issue%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20opens%20on%20Oct%2015%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20ha"
           }
         },
         {
@@ -2679,6 +2757,25 @@
       }
     },
     {
+      "title": "Sahajanand Medical Technologies IPO Opens on Oct 15, 2026",
+      "company": "Sahajanand Medical Technologies",
+      "eventType": "open",
+      "date": "2026-10-15",
+      "dateEnd": "2026-10-15",
+      "details": "Sahajanand Medical Technologies Ltd. is entering in the capital market with an IPO of 2.76 Equity Shares of Rs 1 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.",
+      "type": "mainboard",
+      "slug": "sahajanand-medical-technologies-ipo",
+      "ipoId": 2550,
+      "eventId": 15707,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15707",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Opens%20on%20Oct%2015%2C%202026&location=&dates=20261015/20261016&details=Sahajanand%20Medical%20Technologies%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%202.76%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B."
+      }
+    },
+    {
       "title": "Fusion CX IPO Closes on Oct 16, 2026",
       "company": "Fusion CX",
       "eventType": "close",
@@ -2695,6 +2792,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/fusion-cx-ipo/2455/#15700",
         "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Fusion%20CX%20IPO%20Closes%20on%20Oct%2016%2C%202026&location=&dates=20261016/20261017&details=The%20issue%20of%20Fusion%20CX%20Ltd.%20opens%20on%20Oct%2014%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2016%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20275%20-"
+      }
+    },
+    {
+      "title": "Sahajanand Medical Technologies IPO Closes on Oct 19, 2026",
+      "company": "Sahajanand Medical Technologies",
+      "eventType": "close",
+      "date": "2026-10-19",
+      "dateEnd": "2026-10-19",
+      "details": "The issue of Sahajanand Medical Technologies Ltd. opens on Oct 15, 2026 and closes for subscription on Oct 19, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue ha",
+      "type": "mainboard",
+      "slug": "sahajanand-medical-technologies-ipo",
+      "ipoId": 2550,
+      "eventId": 15708,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15708",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Closes%20on%20Oct%2019%2C%202026&location=&dates=20261019/20261020&details=The%20issue%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20opens%20on%20Oct%2015%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20ha"
       }
     },
     {
