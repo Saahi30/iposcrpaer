@@ -315,9 +315,9 @@
     "status": "upcoming",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": null,
-      "max": null,
-      "display": null
+      "min": 0.0,
+      "max": 0.0,
+      "display": "₹0"
     },
     "lotSize": null,
     "issueSize": "-",
@@ -328,10 +328,10 @@
       "listing": "2026-10-23"
     },
     "gmp": {
-      "value": 0.0,
+      "value": 35.0,
       "percent": 0.0,
       "xLot": null,
-      "updatedOn": "11-Oct 5:55"
+      "updatedOn": "11-Oct 15:02"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
@@ -341,5 +341,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-11T04:54:30+00:00"
+  "scrapedAt": "2026-10-11T12:23:07+00:00"
 }
