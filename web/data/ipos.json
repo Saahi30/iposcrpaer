@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-11T12:23:20+00:00",
+  "scrapedAt": "2026-10-11T21:40:03+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -48,10 +48,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 155.0,
+        "value": 175.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 15:02"
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -103,10 +103,10 @@
         "listing": null
       },
       "gmp": {
-        "value": 170.0,
+        "value": 172.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 15:02"
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -158,10 +158,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 35.0,
+        "value": 40.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 15:02"
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -216,7 +216,7 @@
         "value": 30.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 15:02"
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -252,9 +252,9 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
       },
       "lotSize": null,
       "issueSize": "-",
@@ -268,10 +268,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": null,
+        "value": 270.0,
+        "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 12:10"
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -323,10 +323,10 @@
         "listing": "2026-10-22"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 8.65,
-        "xLot": 1275.0,
-        "updatedOn": "11-Oct 15:02"
+        "value": 22.0,
+        "percent": 7.61,
+        "xLot": 1122.0,
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -378,10 +378,10 @@
         "listing": "2026-10-21"
       },
       "gmp": {
-        "value": 77.0,
-        "percent": 28.41,
-        "xLot": 4235.0,
-        "updatedOn": "11-Oct 15:02"
+        "value": 86.0,
+        "percent": 31.73,
+        "xLot": 4730.0,
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -433,10 +433,10 @@
         "listing": "2026-10-21"
       },
       "gmp": {
-        "value": 12.0,
-        "percent": 10.71,
-        "xLot": 14400.0,
-        "updatedOn": "11-Oct 15:02"
+        "value": 10.0,
+        "percent": 8.93,
+        "xLot": 12000.0,
+        "updatedOn": "11-Oct 23:37"
       },
       "subscription": {
         "total": null,
@@ -491,7 +491,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Oct 15:01"
+        "updatedOn": "11-Oct 23:29"
       },
       "subscription": {
         "total": null,
