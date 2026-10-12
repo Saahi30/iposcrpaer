@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-11T21:40:03+00:00",
+  "scrapedAt": "2026-10-12T05:09:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,68 +16,13 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 10,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 10
   },
   "ipos": [
-    {
-      "slug": "bonfiglioli-transmissions-ipo",
-      "ipoId": 2861,
-      "name": "Bonfiglioli Transmissions",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
-      },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "dates": {
-        "open": "2027-01-19",
-        "close": null,
-        "allotment": null,
-        "listing": null
-      },
-      "gmp": {
-        "value": 175.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bonfiglioli-transmissions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bonfiglioli-transmissions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
-        "gmp": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/"
-      },
-      "gmpId": 2124,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries.\n\nProduct Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, p",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
     {
       "slug": "jio-platforms-ipo",
       "ipoId": 3152,
@@ -97,16 +42,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-19",
+        "open": "2027-01-20",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
-        "value": 172.0,
+        "value": 176.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "11-Oct 23:37"
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -142,15 +87,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 327.0,
+        "max": 344.0,
+        "display": "₹327–344"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
+      "lotSize": 43,
+      "issueSize": "₹475.48 Cr",
+      "issueSizeCr": 475.48,
       "freshIssueCr": null,
-      "ofsCr": null,
+      "ofsCr": 475.48,
       "dates": {
         "open": "2026-10-15",
         "close": "2026-10-19",
@@ -159,9 +104,9 @@
       },
       "gmp": {
         "value": 40.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Oct 23:37"
+        "percent": 11.63,
+        "xLot": 1720.0,
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -185,8 +130,118 @@
       "faceValue": "₹1 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "OFS only",
-      "about": "Founded in 2001 by Mr. Dhirajlal Kotadia, Sahajanand Medical Technologies Ltd. is a medical device company focused on Class III and Class C/D devices, primarily in the fields of vascular and structural heart intervention. The company was the first globally to receive CE certification for a drug-eluting stent (DES) with a biodegradable polymer—Infinnium.\n\nSahajanand operates two R&D centers—one in India and one in Thailand—supported by a team of 102 professionals, including biomedical engineers a",
+      "about": "Incorporated in October 2001, Sahajanand Medical Technologies Limited is a medical technology company engaged in the development, manufacturing and marketing of technologically advanced medical devices, primarily focused on vascular intervention and structural heart intervention. Its product portfolio includes coronary stents, coronary balloons, transcatheter aortic valve implantation (TAVI) devices, occluders, renal stents and peripheral drug-coated balloons (DCBs). The Company focuses on resea",
       "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "bonfiglioli-transmissions-ipo",
+      "ipoId": 2861,
+      "name": "Bonfiglioli Transmissions",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 558.0,
+        "max": 586.0,
+        "display": "₹558–586"
+      },
+      "lotSize": 25,
+      "issueSize": "₹2533.66 Cr",
+      "issueSizeCr": 2533.66,
+      "freshIssueCr": null,
+      "ofsCr": 2533.66,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 175.0,
+        "percent": 29.86,
+        "xLot": 4375.0,
+        "updatedOn": "12-Oct 10:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bonfiglioli-transmissions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bonfiglioli-transmissions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+        "gmp": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/"
+      },
+      "gmpId": 2124,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries.\n\nProduct Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, p",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "shellz-india-ipo",
+      "ipoId": 2966,
+      "name": "Shellz India",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 170.0,
+        "max": 179.0,
+        "display": "₹170–179"
+      },
+      "lotSize": 800,
+      "issueSize": "₹59.97 Cr",
+      "issueSizeCr": 59.97,
+      "freshIssueCr": 54.07,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "12-Oct 9:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shellz-india-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/shellz-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shellz-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shellz-india-ipo/2966/",
+        "gmp": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/"
+      },
+      "gmpId": 2228,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Shellz India Ltd. is engaged in the manufacturing and marketing of a wide range of confectionery products in India, supported by a diversified portfolio of over 250 SKUs. These offerings span across multiple categories, including chocolate-based products, jellies, baked treats, and other confectionery formats.\n\nIn addition, the company manufacture and supply food and bakery ingredients, catering to urban and semi-urban markets, as well as smaller towns and rural areas, leveraging an extensive di",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "zetwerk-ipo",
@@ -197,15 +252,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 143.0,
+        "max": 151.0,
+        "display": "₹143–151"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 99,
+      "issueSize": "₹5012.33 Cr",
+      "issueSizeCr": 5012.33,
       "freshIssueCr": 2830.0,
-      "ofsCr": null,
+      "ofsCr": 2182.33,
       "dates": {
         "open": "2026-10-15",
         "close": "2026-10-19",
@@ -213,10 +268,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Oct 23:37"
+        "value": 22.0,
+        "percent": 14.57,
+        "xLot": 2178.0,
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -252,15 +307,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 665.0,
+        "max": 700.0,
+        "display": "₹665–700"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
+      "lotSize": 21,
+      "issueSize": "₹852.18 Cr",
+      "issueSizeCr": 852.18,
       "freshIssueCr": null,
-      "ofsCr": null,
+      "ofsCr": 852.18,
       "dates": {
         "open": "2026-10-15",
         "close": "2026-10-19",
@@ -269,9 +324,9 @@
       },
       "gmp": {
         "value": 270.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "11-Oct 23:37"
+        "percent": 38.57,
+        "xLot": 5670.0,
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -326,7 +381,7 @@
         "value": 22.0,
         "percent": 7.61,
         "xLot": 1122.0,
-        "updatedOn": "11-Oct 23:37"
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -381,7 +436,7 @@
         "value": 86.0,
         "percent": 31.73,
         "xLot": 4730.0,
-        "updatedOn": "11-Oct 23:37"
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -436,7 +491,7 @@
         "value": 10.0,
         "percent": 8.93,
         "xLot": 12000.0,
-        "updatedOn": "11-Oct 23:37"
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -491,7 +546,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "11-Oct 23:29"
+        "updatedOn": "12-Oct 10:02"
       },
       "subscription": {
         "total": null,
