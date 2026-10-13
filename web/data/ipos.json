@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-12T14:52:08+00:00",
+  "scrapedAt": "2026-10-13T00:21:17+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,124 @@
     "limit": null
   },
   "summary": {
-    "open": 0,
-    "upcoming": 10,
+    "open": 2,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 10
   },
   "ipos": [
+    {
+      "slug": "hd-fire-protect-ipo",
+      "ipoId": 2628,
+      "name": "HD Fire Protect",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 258.0,
+        "max": 271.0,
+        "display": "₹258–271"
+      },
+      "lotSize": 55,
+      "issueSize": "₹712.31 Cr",
+      "issueSizeCr": 712.31,
+      "freshIssueCr": null,
+      "ofsCr": 712.31,
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "listing": "2026-10-21"
+      },
+      "gmp": {
+        "value": 86.0,
+        "percent": 31.73,
+        "xLot": 4730.0,
+        "updatedOn": "13-Oct 4:41"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Ambit",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hd-fire-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hd-fire-protect-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hd-fire-protect-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
+        "gmp": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/"
+      },
+      "gmpId": 1902,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in April 1997, HD Fire Protect Limited is an Indian manufacturer and supplier of fire protection equipment and systems, offering water, foam and gas-based fire suppression solutions. The Company offers a comprehensive portfolio across eight product categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems and gas suppression systems. Its produ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "vaibhav-vyapaar-ipo",
+      "ipoId": 3180,
+      "name": "Vaibhav Vyapaar",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0,
+        "display": "₹51–54"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹42.10 Cr",
+      "issueSizeCr": 42.1,
+      "freshIssueCr": 39.99,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-13",
+        "close": "2026-10-15",
+        "allotment": "2026-10-16",
+        "listing": "2026-10-21"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "13-Oct 4:36"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "GetFive Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vaibhav-vyapaar-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/vaibhav-vyapaar-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vaibhav-vyapaar-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
+        "gmp": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/"
+      },
+      "gmpId": 2335,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in February 2009, Vaibhav Vyapaar Limited is a Non-Banking Financial Company (NBFC) providing unsecured personal loans to salaried and self-employed individuals through its fully digital lending platform. The Company provides personal loans under the “LoanFront” brand through its mobile application, which supports loan origination, customer verification, due diligence, underwriting, documentation, disbursal and repayment. It provides loans through both direct lending and co-lending ",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "jio-platforms-ipo",
       "ipoId": 3152,
@@ -42,16 +152,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-20",
+        "open": "2027-01-21",
         "close": null,
         "allotment": null,
         "listing": null
       },
       "gmp": {
-        "value": 181.0,
+        "value": 182.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "12-Oct 20:02"
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -103,10 +213,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 40.0,
-        "percent": 11.63,
-        "xLot": 1720.0,
-        "updatedOn": "12-Oct 20:02"
+        "value": 35.0,
+        "percent": 10.17,
+        "xLot": 1505.0,
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -161,7 +271,7 @@
         "value": 155.0,
         "percent": 26.45,
         "xLot": 3875.0,
-        "updatedOn": "12-Oct 20:02"
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -216,7 +326,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "12-Oct 19:57"
+        "updatedOn": "13-Oct 4:36"
       },
       "subscription": {
         "total": null,
@@ -268,10 +378,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 13.0,
-        "percent": 8.61,
-        "xLot": 1287.0,
-        "updatedOn": "12-Oct 20:02"
+        "value": 16.0,
+        "percent": 10.6,
+        "xLot": 1584.0,
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -323,10 +433,10 @@
         "listing": "2026-10-23"
       },
       "gmp": {
-        "value": 440.0,
-        "percent": 62.86,
-        "xLot": 9240.0,
-        "updatedOn": "12-Oct 20:02"
+        "value": 425.0,
+        "percent": 60.71,
+        "xLot": 8925.0,
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -381,7 +491,7 @@
         "value": 19.0,
         "percent": 6.57,
         "xLot": 969.0,
-        "updatedOn": "12-Oct 20:02"
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -433,10 +543,10 @@
         "listing": "2026-10-22"
       },
       "gmp": {
-        "value": 5.0,
-        "percent": 4.46,
-        "xLot": 6000.0,
-        "updatedOn": "12-Oct 20:02"
+        "value": 4.0,
+        "percent": 3.57,
+        "xLot": 4800.0,
+        "updatedOn": "13-Oct 4:41"
       },
       "subscription": {
         "total": null,
@@ -462,116 +572,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in December 2007, Ravita Engineering Services Limited is an engineering solutions company engaged in Engineering, Procurement, Installation and Commissioning (EPIC) of HVAC systems, central air-conditioning solutions, air flow systems, chiller plants, industrial compressors, cooling equipment and other electromechanical equipment on a turnkey basis. The Company also provides Operations and Maintenance (O&M) services for projects executed by it and systems installed by third-party so",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "hd-fire-protect-ipo",
-      "ipoId": 2628,
-      "name": "HD Fire Protect",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 258.0,
-        "max": 271.0,
-        "display": "₹258–271"
-      },
-      "lotSize": 55,
-      "issueSize": "₹712.31 Cr",
-      "issueSizeCr": 712.31,
-      "freshIssueCr": null,
-      "ofsCr": 712.31,
-      "dates": {
-        "open": "2026-10-13",
-        "close": "2026-10-15",
-        "allotment": "2026-10-16",
-        "listing": "2026-10-21"
-      },
-      "gmp": {
-        "value": 86.0,
-        "percent": 31.73,
-        "xLot": 4730.0,
-        "updatedOn": "12-Oct 20:02"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Ambit",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/hd-fire-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/hd-fire-protect-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hd-fire-protect-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
-        "gmp": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/"
-      },
-      "gmpId": 1902,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in April 1997, HD Fire Protect Limited is an Indian manufacturer and supplier of fire protection equipment and systems, offering water, foam and gas-based fire suppression solutions. The Company offers a comprehensive portfolio across eight product categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems and gas suppression systems. Its produ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "vaibhav-vyapaar-ipo",
-      "ipoId": 3180,
-      "name": "Vaibhav Vyapaar",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹42.10 Cr",
-      "issueSizeCr": 42.1,
-      "freshIssueCr": 39.99,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-13",
-        "close": "2026-10-15",
-        "allotment": "2026-10-16",
-        "listing": "2026-10-21"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "12-Oct 19:54"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "GetFive Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vaibhav-vyapaar-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/vaibhav-vyapaar-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vaibhav-vyapaar-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
-        "gmp": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/"
-      },
-      "gmpId": 2335,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2009, Vaibhav Vyapaar Limited is a Non-Banking Financial Company (NBFC) providing unsecured personal loans to salaried and self-employed individuals through its fully digital lending platform. The Company provides personal loans under the “LoanFront” brand through its mobile application, which supports loan origination, customer verification, due diligence, underwriting, documentation, disbursal and repayment. It provides loans through both direct lending and co-lending ",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
