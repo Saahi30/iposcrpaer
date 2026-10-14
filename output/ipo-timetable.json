@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-14T11:28:33+00:00",
+  "scrapedAt": "2026-10-14T16:50:18+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 287,
-    "mainboard": 102,
+    "total": 289,
+    "mainboard": 104,
     "sme": 185
   },
   "ipos": [
@@ -6899,6 +6899,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/zetwork-manufacturing-logo.jpg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3152,
+      "name": "Jio Platforms Ltd.",
+      "slug": "jio-platforms-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-21",
+        "close": "2026-10-23",
+        "allotment": "2026-10-26",
+        "refunds": "2026-10-27",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "21-Oct-2026",
+        "close": "23-Oct-2026",
+        "allotment": "26-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2256,
+      "name": "Paras Healthcare Ltd.",
+      "slug": "paras-healthcare-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-21",
+        "close": "2026-10-23",
+        "allotment": "2026-10-26",
+        "refunds": "2026-10-27",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "21-Oct-2026",
+        "close": "23-Oct-2026",
+        "allotment": "26-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
