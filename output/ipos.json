@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-13T22:26:32+00:00",
+  "scrapedAt": "2026-10-14T04:11:42+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,124 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
-    "upcoming": 8,
+    "open": 4,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 10
   },
   "ipos": [
+    {
+      "slug": "fusion-cx-ipo",
+      "ipoId": 2455,
+      "name": "Fusion CX",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 275.0,
+        "max": 289.0,
+        "display": "₹275–289"
+      },
+      "lotSize": 51,
+      "issueSize": "₹702.00 Cr",
+      "issueSizeCr": 702.0,
+      "freshIssueCr": 500.0,
+      "ofsCr": 202.0,
+      "dates": {
+        "open": "2026-10-14",
+        "close": "2026-10-16",
+        "allotment": "2026-10-19",
+        "listing": "2026-10-22"
+      },
+      "gmp": {
+        "value": 31.0,
+        "percent": 10.73,
+        "xLot": 1581.0,
+        "updatedOn": "14-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Nuvama Wealth Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/fusion-cx-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=fusion-cx-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
+        "gmp": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/"
+      },
+      "gmpId": 1792,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2004, Fusion CX Limited is a customer experience (CX) and business process solutions provider offering multichannel customer support through voice, email, chat, social media and messaging. The company also provides AI data infrastructure services, including data collection, data annotation, image and video labelling, and robotic teleoperations.\n\nFusion CX combines human expertise with technology and proprietary AI tools to deliver multilingual, omnichannel customer engagement, im",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "ravita-engineering-services-ipo",
+      "ipoId": 2959,
+      "name": "Ravita Engineering Services",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 105.0,
+        "max": 112.0,
+        "display": "₹105–112"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹116.05 Cr",
+      "issueSizeCr": 116.05,
+      "freshIssueCr": 110.21,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-14",
+        "close": "2026-10-16",
+        "allotment": "2026-10-19",
+        "listing": "2026-10-22"
+      },
+      "gmp": {
+        "value": 2.0,
+        "percent": 1.79,
+        "xLot": 2400.0,
+        "updatedOn": "14-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Vivro Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ravitaengineering_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/ravita-engineering-services-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ravita-engineering-services-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ravita-engineering-services-ipo/2959/",
+        "gmp": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/"
+      },
+      "gmpId": 2220,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2007, Ravita Engineering Services Limited is an engineering solutions company engaged in Engineering, Procurement, Installation and Commissioning (EPIC) of HVAC systems, central air-conditioning solutions, air flow systems, chiller plants, industrial compressors, cooling equipment and other electromechanical equipment on a turnkey basis. The Company also provides Operations and Maintenance (O&M) services for projects executed by it and systems installed by third-party so",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "hd-fire-protect-ipo",
       "ipoId": 2628,
@@ -51,7 +161,7 @@
         "value": 91.0,
         "percent": 33.58,
         "xLot": 5005.0,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": 4.66,
@@ -164,7 +274,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Oct 23:36"
+        "updatedOn": "14-Oct 8:55"
       },
       "subscription": {
         "total": 0.19,
@@ -268,7 +378,7 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-01-21",
+        "open": "2027-01-22",
         "close": null,
         "allotment": null,
         "listing": null
@@ -277,7 +387,7 @@
         "value": 218.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -332,7 +442,7 @@
         "value": 41.0,
         "percent": 11.92,
         "xLot": 1763.0,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -387,7 +497,7 @@
         "value": 175.0,
         "percent": 29.86,
         "xLot": 4375.0,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -442,7 +552,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "13-Oct 23:31"
+        "updatedOn": "14-Oct 8:57"
       },
       "subscription": {
         "total": null,
@@ -497,7 +607,7 @@
         "value": 23.0,
         "percent": 15.23,
         "xLot": 2277.0,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -552,7 +662,7 @@
         "value": 490.0,
         "percent": 70.0,
         "xLot": 10290.0,
-        "updatedOn": "13-Oct 23:37"
+        "updatedOn": "14-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -578,116 +688,6 @@
       "saleType": "OFS only",
       "about": "Incorporated in December 2003, Tonbo Imaging India Limited is a global defence electronics original equipment manufacturer (OEM) engaged in the design, development, and manufacturing of advanced electro-optic, infrared (EO/IR), embedded vision, communication, guidance, and surveillance systems for defence and security applications. The company offers a diversified portfolio of battlefield solutions, including thermal imaging systems, weapon sights, missile seekers, fire control systems, missile ",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "fusion-cx-ipo",
-      "ipoId": 2455,
-      "name": "Fusion CX",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 275.0,
-        "max": 289.0,
-        "display": "₹275–289"
-      },
-      "lotSize": 51,
-      "issueSize": "₹702.00 Cr",
-      "issueSizeCr": 702.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 202.0,
-      "dates": {
-        "open": "2026-10-14",
-        "close": "2026-10-16",
-        "allotment": "2026-10-19",
-        "listing": "2026-10-22"
-      },
-      "gmp": {
-        "value": 33.5,
-        "percent": 11.59,
-        "xLot": 1708.5,
-        "updatedOn": "13-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/fusion-cx-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=fusion-cx-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
-        "gmp": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/"
-      },
-      "gmpId": 1792,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2004, Fusion CX Limited is a customer experience (CX) and business process solutions provider offering multichannel customer support through voice, email, chat, social media and messaging. The company also provides AI data infrastructure services, including data collection, data annotation, image and video labelling, and robotic teleoperations.\n\nFusion CX combines human expertise with technology and proprietary AI tools to deliver multilingual, omnichannel customer engagement, im",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "ravita-engineering-services-ipo",
-      "ipoId": 2959,
-      "name": "Ravita Engineering Services",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 105.0,
-        "max": 112.0,
-        "display": "₹105–112"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹116.05 Cr",
-      "issueSizeCr": 116.05,
-      "freshIssueCr": 110.21,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-14",
-        "close": "2026-10-16",
-        "allotment": "2026-10-19",
-        "listing": "2026-10-22"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 1.79,
-        "xLot": 2400.0,
-        "updatedOn": "13-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Vivro Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ravitaengineering_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ravita-engineering-services-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ravita-engineering-services-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ravita-engineering-services-ipo/2959/",
-        "gmp": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/"
-      },
-      "gmpId": 2220,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2007, Ravita Engineering Services Limited is an engineering solutions company engaged in Engineering, Procurement, Installation and Commissioning (EPIC) of HVAC systems, central air-conditioning solutions, air flow systems, chiller plants, industrial compressors, cooling equipment and other electromechanical equipment on a turnkey basis. The Company also provides Operations and Maintenance (O&M) services for projects executed by it and systems installed by third-party so",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
