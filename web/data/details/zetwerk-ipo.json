@@ -444,9 +444,9 @@
     "source": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/"
   },
   "subscription": {
-    "summary": "Zetwerk IPO subscribed 0.22 times. The public issue subscribed 0.21 times in the retail category, 0.30 times in QIB (Ex Anchor), and 0.07 times in the NII category by October 15, 2026 4:34:09 PM (Day 1).",
-    "total": 0.22,
-    "applications": 61542.0,
+    "summary": "Zetwerk IPO subscribed 0.23 times. The public issue subscribed 0.23 times in the retail category, 0.30 times in QIB (Ex Anchor), and 0.09 times in the NII category by October 15, 2026 5:05:12 PM (Day 1).",
+    "total": 0.23,
+    "applications": 66503.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -459,62 +459,62 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "0.30",
         "Shares Offered*": "9,93,92,146",
-        "Shares bid for": "2,96,89,506",
-        "Total Amt* (₹ Cr.)": "448.312"
+        "Shares bid for": "2,96,90,892",
+        "Total Amt* (₹ Cr.)": "448.332"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "0.09",
         "Shares Offered*": "4,96,96,073",
-        "Shares bid for": "34,09,164",
-        "Total Amt* (₹ Cr.)": "51.478"
+        "Shares bid for": "44,08,668",
+        "Total Amt* (₹ Cr.)": "66.571"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "0.09",
         "Shares Offered*": "3,31,30,716",
-        "Shares bid for": "21,00,087",
-        "Total Amt* (₹ Cr.)": "31.711"
+        "Shares bid for": "29,50,101",
+        "Total Amt* (₹ Cr.)": "44.547"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.09",
         "Shares Offered*": "1,65,65,358",
-        "Shares bid for": "13,09,077",
-        "Total Amt* (₹ Cr.)": "19.767"
+        "Shares bid for": "14,58,567",
+        "Total Amt* (₹ Cr.)": "22.024"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.21",
+        "Subscription (x)": "0.23",
         "Shares Offered*": "3,31,30,716",
-        "Shares bid for": "70,32,465",
-        "Total Amt* (₹ Cr.)": "106.190"
+        "Shares bid for": "74,80,143",
+        "Total Amt* (₹ Cr.)": "112.950"
       },
       {
         "Category": "Employees",
         "Subscription (x)": "0.26",
         "Shares Offered*": "7,00,000",
-        "Shares bid for": "1,80,279",
-        "Total Amt* (₹ Cr.)": "2.722"
+        "Shares bid for": "1,84,536",
+        "Total Amt* (₹ Cr.)": "2.786"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.22",
+        "Subscription (x)": "0.23",
         "Shares Offered*": "18,29,18,935",
-        "Shares bid for": "4,03,11,414",
-        "Total Amt* (₹ Cr.)": "608.702"
+        "Shares bid for": "4,17,64,239",
+        "Total Amt* (₹ Cr.)": "630.640"
       }
     ],
     "dayWise": [
       {
         "Date": "Oct 15 (Day 1)",
         "QIB (Ex Anchor)": "0.30",
-        "NII": "0.07",
-        "NII (> ₹10L)": "0.06",
-        "NII (< ₹10L)": "0.08",
-        "Retail": "0.21",
+        "NII": "0.09",
+        "NII (> ₹10L)": "0.09",
+        "NII (< ₹10L)": "0.09",
+        "Retail": "0.23",
         "EMP": "0.26",
-        "Total": "0.22"
+        "Total": "0.23"
       }
     ]
   },
@@ -537,10 +537,10 @@
       "listing": "2026-10-23"
     },
     "gmp": {
-      "value": 14.5,
-      "percent": 9.6,
-      "xLot": 1435.5,
-      "updatedOn": "15-Oct 16:02"
+      "value": 14.0,
+      "percent": 9.27,
+      "xLot": 1386.0,
+      "updatedOn": "15-Oct 21:37"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/zetwork-manufacturing-logo.jpg",
@@ -550,5 +550,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-15T11:05:13+00:00"
+  "scrapedAt": "2026-10-15T16:35:56+00:00"
 }
