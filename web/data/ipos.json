@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-14T21:24:31+00:00",
+  "scrapedAt": "2026-10-15T03:54:19+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,289 @@
     "limit": null
   },
   "summary": {
-    "open": 4,
-    "upcoming": 7,
+    "open": 9,
+    "upcoming": 2,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 11
   },
   "ipos": [
+    {
+      "slug": "sahajanand-medical-technologies-ipo",
+      "ipoId": 2550,
+      "name": "Sahajanand Medical Technologies",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 327.0,
+        "max": 344.0,
+        "display": "₹327–344"
+      },
+      "lotSize": 43,
+      "issueSize": "₹475.48 Cr",
+      "issueSizeCr": 475.48,
+      "freshIssueCr": null,
+      "ofsCr": 475.48,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 41.0,
+        "percent": 11.92,
+        "xLot": 1763.0,
+        "updatedOn": "15-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Motilal Oswal Investment",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sahajanand-medical-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sahajanand-medical-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+        "gmp": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/"
+      },
+      "gmpId": 1842,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in October 2001, Sahajanand Medical Technologies Limited is a medical technology company engaged in the development, manufacturing and marketing of technologically advanced medical devices, primarily focused on vascular intervention and structural heart intervention. Its product portfolio includes coronary stents, coronary balloons, transcatheter aortic valve implantation (TAVI) devices, occluders, renal stents and peripheral drug-coated balloons (DCBs). The Company focuses on resea",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "bonfiglioli-transmissions-ipo",
+      "ipoId": 2861,
+      "name": "Bonfiglioli Transmissions",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 558.0,
+        "max": 586.0,
+        "display": "₹558–586"
+      },
+      "lotSize": 25,
+      "issueSize": "₹2533.66 Cr",
+      "issueSizeCr": 2533.66,
+      "freshIssueCr": null,
+      "ofsCr": 2533.66,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 178.0,
+        "percent": 30.38,
+        "xLot": 4450.0,
+        "updatedOn": "15-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bonfiglioli-transmissions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bonfiglioli-transmissions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+        "gmp": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/"
+      },
+      "gmpId": 2124,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries.\n\nProduct Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, p",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "shellz-india-ipo",
+      "ipoId": 2966,
+      "name": "Shellz India",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 170.0,
+        "max": 179.0,
+        "display": "₹170–179"
+      },
+      "lotSize": 800,
+      "issueSize": "₹59.97 Cr",
+      "issueSizeCr": 59.97,
+      "freshIssueCr": 54.07,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "15-Oct 8:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shellz-india-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/shellz-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shellz-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shellz-india-ipo/2966/",
+        "gmp": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/"
+      },
+      "gmpId": 2228,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in May 2012, Shellz India Limited is engaged in the manufacturing and marketing of confectionery products and the manufacturing and supply of food and bakery ingredients. Its product portfolio comprises over 300 SKUs across multiple categories, catering to consumers in urban, semi-urban and rural markets.The Company markets its consumer products under two brands, Hugs and Tosca. The Hugs portfolio includes baked treats, choco delights, jellies, and panned and sugar confectionery, pr",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "zetwerk-ipo",
+      "ipoId": 3091,
+      "name": "Zetwerk",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 143.0,
+        "max": 151.0,
+        "display": "₹143–151"
+      },
+      "lotSize": 99,
+      "issueSize": "₹5012.33 Cr",
+      "issueSizeCr": 5012.33,
+      "freshIssueCr": 2830.0,
+      "ofsCr": 2182.33,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 22.0,
+        "percent": 14.57,
+        "xLot": 2178.0,
+        "updatedOn": "15-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/zetwork-manufacturing-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/zetwerk-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=zetwerk-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
+        "gmp": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/"
+      },
+      "gmpId": 2279,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2017, Zetwerk Manufacturing Businesses Private Limited is a technology-led global manufacturing platform. The Company operates as a managed marketplace connecting industrial and consumer enterprises with a global network of manufacturing partners for custom and large-scale production requirements. The company serves across sizes, from innovative startups to mature companies, and across industries, including utilities, renewables, consumer electronics, artificial intelligence infr",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "tonbo-imaging-india-ipo",
+      "ipoId": 3215,
+      "name": "Tonbo Imaging India",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 665.0,
+        "max": 700.0,
+        "display": "₹665–700"
+      },
+      "lotSize": 21,
+      "issueSize": "₹852.18 Cr",
+      "issueSizeCr": 852.18,
+      "freshIssueCr": null,
+      "ofsCr": 852.18,
+      "dates": {
+        "open": "2026-10-15",
+        "close": "2026-10-19",
+        "allotment": "2026-10-21",
+        "listing": "2026-10-23"
+      },
+      "gmp": {
+        "value": 500.0,
+        "percent": 71.43,
+        "xLot": 10500.0,
+        "updatedOn": "15-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/tonbo-imaging-india-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/tonbo-imaging-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=tonbo-imaging-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
+        "gmp": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/"
+      },
+      "gmpId": 2369,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated in December 2003, Tonbo Imaging India Limited is a global defence electronics original equipment manufacturer (OEM) engaged in the design, development, and manufacturing of advanced electro-optic, infrared (EO/IR), embedded vision, communication, guidance, and surveillance systems for defence and security applications. The company offers a diversified portfolio of battlefield solutions, including thermal imaging systems, weapon sights, missile seekers, fire control systems, missile ",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "fusion-cx-ipo",
       "ipoId": 2455,
@@ -51,7 +326,7 @@
         "value": 33.0,
         "percent": 11.42,
         "xLot": 1683.0,
-        "updatedOn": "14-Oct 23:37"
+        "updatedOn": "15-Oct 9:02"
       },
       "subscription": {
         "total": 0.43,
@@ -157,7 +432,7 @@
         "value": 7.0,
         "percent": 6.25,
         "xLot": 8400.0,
-        "updatedOn": "14-Oct 23:37"
+        "updatedOn": "15-Oct 9:02"
       },
       "subscription": {
         "total": 1.14,
@@ -278,7 +553,7 @@
         "value": 89.0,
         "percent": 32.84,
         "xLot": 4895.0,
-        "updatedOn": "14-Oct 23:37"
+        "updatedOn": "15-Oct 9:02"
       },
       "subscription": {
         "total": 16.56,
@@ -384,7 +659,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "14-Oct 23:33"
+        "updatedOn": "15-Oct 9:01"
       },
       "subscription": {
         "total": 0.39,
@@ -486,11 +761,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 660.0,
+        "max": 693.0,
+        "display": "₹660–693"
       },
-      "lotSize": null,
+      "lotSize": 21,
       "issueSize": "₹1450.00 Cr",
       "issueSizeCr": 1450.0,
       "freshIssueCr": 500.0,
@@ -504,8 +779,8 @@
       "gmp": {
         "value": 83.0,
         "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "14-Oct 23:37"
+        "xLot": 1743.0,
+        "updatedOn": "15-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -541,14 +816,14 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 1065.0,
+        "max": 1119.0,
+        "display": "₹1065–1119"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 12,
+      "issueSize": "₹30213.00 Cr",
+      "issueSizeCr": 30213.0,
+      "freshIssueCr": 30213.0,
       "ofsCr": null,
       "dates": {
         "open": "2026-10-21",
@@ -557,10 +832,10 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 206.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "14-Oct 23:37"
+        "value": 203.0,
+        "percent": 18.14,
+        "xLot": 2436.0,
+        "updatedOn": "15-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -584,282 +859,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2019, Jio Platforms Limited is a technology-driven digital services company that operates through its subsidiary, Reliance Jio Infocomm Limited. The company provides digital connectivity and technology solutions across India, serving over 524 million customers as of March 31, 2026.\n\nThe company has developed a proprietary technology stack with capabilities spanning network infrastructure, software platforms, operating systems, devices, and digital applications. Its services cater",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "sahajanand-medical-technologies-ipo",
-      "ipoId": 2550,
-      "name": "Sahajanand Medical Technologies",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 327.0,
-        "max": 344.0,
-        "display": "₹327–344"
-      },
-      "lotSize": 43,
-      "issueSize": "₹475.48 Cr",
-      "issueSizeCr": 475.48,
-      "freshIssueCr": null,
-      "ofsCr": 475.48,
-      "dates": {
-        "open": "2026-10-15",
-        "close": "2026-10-19",
-        "allotment": "2026-10-21",
-        "listing": "2026-10-23"
-      },
-      "gmp": {
-        "value": 41.0,
-        "percent": 11.92,
-        "xLot": 1763.0,
-        "updatedOn": "14-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Motilal Oswal Investment",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sahajanand-medical-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sahajanand-medical-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
-        "gmp": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/"
-      },
-      "gmpId": 1842,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in October 2001, Sahajanand Medical Technologies Limited is a medical technology company engaged in the development, manufacturing and marketing of technologically advanced medical devices, primarily focused on vascular intervention and structural heart intervention. Its product portfolio includes coronary stents, coronary balloons, transcatheter aortic valve implantation (TAVI) devices, occluders, renal stents and peripheral drug-coated balloons (DCBs). The Company focuses on resea",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "bonfiglioli-transmissions-ipo",
-      "ipoId": 2861,
-      "name": "Bonfiglioli Transmissions",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 558.0,
-        "max": 586.0,
-        "display": "₹558–586"
-      },
-      "lotSize": 25,
-      "issueSize": "₹2533.66 Cr",
-      "issueSizeCr": 2533.66,
-      "freshIssueCr": null,
-      "ofsCr": 2533.66,
-      "dates": {
-        "open": "2026-10-15",
-        "close": "2026-10-19",
-        "allotment": "2026-10-21",
-        "listing": "2026-10-23"
-      },
-      "gmp": {
-        "value": 178.0,
-        "percent": 30.38,
-        "xLot": 4450.0,
-        "updatedOn": "14-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bonfiglioli-transmissions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bonfiglioli-transmissions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
-        "gmp": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/"
-      },
-      "gmpId": 2124,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries.\n\nProduct Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, p",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "shellz-india-ipo",
-      "ipoId": 2966,
-      "name": "Shellz India",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 170.0,
-        "max": 179.0,
-        "display": "₹170–179"
-      },
-      "lotSize": 800,
-      "issueSize": "₹59.97 Cr",
-      "issueSizeCr": 59.97,
-      "freshIssueCr": 54.07,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-15",
-        "close": "2026-10-19",
-        "allotment": "2026-10-21",
-        "listing": "2026-10-23"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "14-Oct 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Socradamus Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shellz-india-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/shellz-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shellz-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shellz-india-ipo/2966/",
-        "gmp": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/"
-      },
-      "gmpId": 2228,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in May 2012, Shellz India Limited is engaged in the manufacturing and marketing of confectionery products and the manufacturing and supply of food and bakery ingredients. Its product portfolio comprises over 300 SKUs across multiple categories, catering to consumers in urban, semi-urban and rural markets.The Company markets its consumer products under two brands, Hugs and Tosca. The Hugs portfolio includes baked treats, choco delights, jellies, and panned and sugar confectionery, pr",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "zetwerk-ipo",
-      "ipoId": 3091,
-      "name": "Zetwerk",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 143.0,
-        "max": 151.0,
-        "display": "₹143–151"
-      },
-      "lotSize": 99,
-      "issueSize": "₹5012.33 Cr",
-      "issueSizeCr": 5012.33,
-      "freshIssueCr": 2830.0,
-      "ofsCr": 2182.33,
-      "dates": {
-        "open": "2026-10-15",
-        "close": "2026-10-19",
-        "allotment": "2026-10-21",
-        "listing": "2026-10-23"
-      },
-      "gmp": {
-        "value": 22.0,
-        "percent": 14.57,
-        "xLot": 2178.0,
-        "updatedOn": "14-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/zetwork-manufacturing-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/zetwerk-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=zetwerk-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
-        "gmp": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/"
-      },
-      "gmpId": 2279,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2017, Zetwerk Manufacturing Businesses Private Limited is a technology-led global manufacturing platform. The Company operates as a managed marketplace connecting industrial and consumer enterprises with a global network of manufacturing partners for custom and large-scale production requirements. The company serves across sizes, from innovative startups to mature companies, and across industries, including utilities, renewables, consumer electronics, artificial intelligence infr",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "tonbo-imaging-india-ipo",
-      "ipoId": 3215,
-      "name": "Tonbo Imaging India",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 665.0,
-        "max": 700.0,
-        "display": "₹665–700"
-      },
-      "lotSize": 21,
-      "issueSize": "₹852.18 Cr",
-      "issueSizeCr": 852.18,
-      "freshIssueCr": null,
-      "ofsCr": 852.18,
-      "dates": {
-        "open": "2026-10-15",
-        "close": "2026-10-19",
-        "allotment": "2026-10-21",
-        "listing": "2026-10-23"
-      },
-      "gmp": {
-        "value": 500.0,
-        "percent": 71.43,
-        "xLot": 10500.0,
-        "updatedOn": "14-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/tonbo-imaging-india-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/tonbo-imaging-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=tonbo-imaging-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
-        "gmp": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/"
-      },
-      "gmpId": 2369,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in December 2003, Tonbo Imaging India Limited is a global defence electronics original equipment manufacturer (OEM) engaged in the design, development, and manufacturing of advanced electro-optic, infrared (EO/IR), embedded vision, communication, guidance, and surveillance systems for defence and security applications. The company offers a diversified portfolio of battlefield solutions, including thermal imaging systems, weapon sights, missile seekers, fire control systems, missile ",
+      "about": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platfo",
       "registrar": "Kfin Technologies Ltd."
     }
   ]
