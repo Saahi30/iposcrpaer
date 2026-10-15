@@ -378,8 +378,8 @@
     "source": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/"
   },
   "subscription": {
-    "summary": "Vaibhav Vyapaar IPO subscribed 0.39 times. The public issue subscribed 0.60 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.42 times in the NII category by October 14, 2026 5:54:59 PM (Day 2).",
-    "total": 0.39,
+    "summary": "Vaibhav Vyapaar IPO subscribed 3.19 times. The public issue subscribed 2.63 times in the individual investors category, 1.61 times in QIB (Ex Anchor), and 6.64 times in the NII category by October 15, 2026 4:34:05 PM (Day 3).",
+    "total": 3.19,
     "applications": null,
     "byCategory": [
       {
@@ -400,51 +400,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "1.61",
         "Shares Offered*": "14,94,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0",
-        "Total Applications": "0"
+        "Shares bid for": "23,98,000",
+        "Total Amt* (₹ Cr.)": "12.949",
+        "Total Applications": "5"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.42",
+        "Subscription (x)": "6.64",
         "Shares Offered*": "11,16,000",
-        "Shares bid for": "4,66,000",
-        "Total Amt* (₹ Cr.)": "2.516",
-        "Total Applications": "70"
+        "Shares bid for": "74,08,000",
+        "Total Amt* (₹ Cr.)": "40.003",
+        "Total Applications": "0"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.28",
+        "Subscription (x)": "7.87",
         "Shares Offered*": "7,44,000",
-        "Shares bid for": "2,10,000",
-        "Total Amt* (₹ Cr.)": "1.134",
+        "Shares bid for": "58,58,000",
+        "Total Amt* (₹ Cr.)": "31.633",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.69",
+        "Subscription (x)": "4.17",
         "Shares Offered*": "3,72,000",
-        "Shares bid for": "2,56,000",
-        "Total Amt* (₹ Cr.)": "1.382",
+        "Shares bid for": "15,50,000",
+        "Total Amt* (₹ Cr.)": "8.370",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.60",
+        "Subscription (x)": "2.63",
         "Shares Offered*": "25,96,000",
-        "Shares bid for": "15,60,000",
-        "Total Amt* (₹ Cr.)": "8.424",
-        "Total Applications": "390"
+        "Shares bid for": "68,24,000",
+        "Total Amt* (₹ Cr.)": "36.850",
+        "Total Applications": "1,706"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.39",
+        "Subscription (x)": "3.19",
         "Shares Offered*": "52,06,000",
-        "Shares bid for": "20,26,000",
-        "Total Amt* (₹ Cr.)": "10.940",
-        "Total Applications": "460"
+        "Shares bid for": "1,66,30,000",
+        "Total Amt* (₹ Cr.)": "89.802",
+        "Total Applications": "2,246"
       }
     ],
     "dayWise": [
@@ -465,6 +465,15 @@
         "NII (< ₹10L)": "0.69",
         "Individual Investors": "0.60",
         "Total": "0.39"
+      },
+      {
+        "Date": "Oct 15 (Day 3)",
+        "QIB (Ex Anchor)": "1.61",
+        "NII*": "6.64",
+        "NII (> ₹10L)": "7.87",
+        "NII (< ₹10L)": "4.17",
+        "Individual Investors": "2.63",
+        "Total": "3.19"
       }
     ]
   },
@@ -490,7 +499,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "15-Oct 9:01"
+      "updatedOn": "15-Oct 16:01"
     },
     "leadManager": "GetFive Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/vaibhav-vyapaar-logo.jpg",
@@ -500,5 +509,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-15T03:54:15+00:00"
+  "scrapedAt": "2026-10-15T11:05:22+00:00"
 }
