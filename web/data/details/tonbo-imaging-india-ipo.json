@@ -495,9 +495,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 665.0,
+      "min": 700.0,
       "max": 700.0,
-      "display": "₹665–700"
+      "display": "₹700"
     },
     "lotSize": 21,
     "issueSize": "₹852.18 Cr",
@@ -511,7 +511,7 @@
       "value": 500.0,
       "percent": 71.43,
       "xLot": 10500.0,
-      "updatedOn": "15-Oct 21:37"
+      "updatedOn": "15-Oct 23:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/tonbo-imaging-india-ltd-logo.png",
@@ -521,5 +521,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-15T16:35:58+00:00"
+  "scrapedAt": "2026-10-15T21:06:20+00:00"
 }
