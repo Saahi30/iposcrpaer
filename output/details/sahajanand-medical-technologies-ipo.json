@@ -430,9 +430,9 @@
     "source": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/"
   },
   "subscription": {
-    "summary": "Sahajanand Medical Technologies IPO subscribed 0.35 times. The public issue subscribed 0.41 times in the retail category, 0.37 times in QIB (Ex Anchor), and 0.20 times in the NII category by October 15, 2026 5:04:59 PM (Day 1).",
-    "total": 0.35,
-    "applications": 40337.0,
+    "summary": "Sahajanand Medical Technologies IPO subscribed 0.76 times. The public issue subscribed 0.81 times in the retail category, 0.91 times in QIB (Ex Anchor), and 0.50 times in the NII category by October 16, 2026 4:29:52 PM (Day 2).",
+    "total": 0.76,
+    "applications": 80966.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -443,52 +443,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.37",
+        "Subscription (x)": "0.91",
         "Shares Offered*": "27,14,424",
-        "Shares bid for": "10,09,726",
-        "Total Amt* (₹ Cr.)": "34.735"
+        "Shares bid for": "24,67,340",
+        "Total Amt* (₹ Cr.)": "84.876"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "0.50",
         "Shares Offered*": "20,35,817",
-        "Shares bid for": "4,15,896",
-        "Total Amt* (₹ Cr.)": "14.307"
+        "Shares bid for": "10,13,252",
+        "Total Amt* (₹ Cr.)": "34.856"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.13",
+        "Subscription (x)": "0.37",
         "Shares Offered*": "13,57,212",
-        "Shares bid for": "1,72,903",
-        "Total Amt* (₹ Cr.)": "5.948"
+        "Shares bid for": "5,02,498",
+        "Total Amt* (₹ Cr.)": "17.286"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.36",
+        "Subscription (x)": "0.75",
         "Shares Offered*": "6,78,606",
-        "Shares bid for": "2,42,993",
-        "Total Amt* (₹ Cr.)": "8.359"
+        "Shares bid for": "5,10,754",
+        "Total Amt* (₹ Cr.)": "17.570"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.41",
+        "Subscription (x)": "0.81",
         "Shares Offered*": "47,50,241",
-        "Shares bid for": "19,23,906",
-        "Total Amt* (₹ Cr.)": "66.182"
+        "Shares bid for": "38,61,099",
+        "Total Amt* (₹ Cr.)": "132.822"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.14",
         "Shares Offered*": "2,50,000",
-        "Shares bid for": "20,683",
-        "Total Amt* (₹ Cr.)": "0.711"
+        "Shares bid for": "33,927",
+        "Total Amt* (₹ Cr.)": "1.167"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.35",
+        "Subscription (x)": "0.76",
         "Shares Offered*": "97,50,482",
-        "Shares bid for": "33,70,211",
-        "Total Amt* (₹ Cr.)": "115.935"
+        "Shares bid for": "73,75,618",
+        "Total Amt* (₹ Cr.)": "253.721"
       }
     ],
     "dayWise": [
@@ -501,6 +501,16 @@
         "Retail": "0.41",
         "EMP": "0.08",
         "Total": "0.35"
+      },
+      {
+        "Date": "Oct 16 (Day 2)",
+        "QIB (Ex Anchor)": "0.91",
+        "NII": "0.50",
+        "NII (> ₹10L)": "0.37",
+        "NII (< ₹10L)": "0.75",
+        "Retail": "0.81",
+        "EMP": "0.14",
+        "Total": "0.76"
       }
     ]
   },
@@ -523,10 +533,10 @@
       "listing": "2026-10-23"
     },
     "gmp": {
-      "value": 43.0,
-      "percent": 12.5,
-      "xLot": 1849.0,
-      "updatedOn": "16-Oct 9:02"
+      "value": 38.0,
+      "percent": 11.05,
+      "xLot": 1634.0,
+      "updatedOn": "16-Oct 16:02"
     },
     "leadManager": "Motilal Oswal Investment",
     "logo": "https://www.chittorgarh.net/images/ipo/sahajanand-medical-logo.png",
@@ -536,5 +546,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-16T03:49:43+00:00"
+  "scrapedAt": "2026-10-16T11:00:26+00:00"
 }

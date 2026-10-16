@@ -481,9 +481,9 @@
     "source": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/"
   },
   "subscription": {
-    "summary": "Bonfiglioli Transmissions IPO subscribed 0.48 times. The public issue subscribed 0.58 times in the retail category, 0.08 times in QIB (Ex Anchor), and 0.78 times in the NII category by October 15, 2026 5:05:18 PM (Day 1).",
-    "total": 0.48,
-    "applications": 308974.0,
+    "summary": "Bonfiglioli Transmissions IPO subscribed 0.96 times. The public issue subscribed 1.13 times in the retail category, 0.12 times in QIB (Ex Anchor), and 1.66 times in the NII category by October 16, 2026 4:29:37 PM (Day 2).",
+    "total": 0.96,
+    "applications": 612300.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -494,52 +494,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.08",
+        "Subscription (x)": "0.12",
         "Shares Offered*": "86,37,809",
-        "Shares bid for": "6,50,625",
-        "Total Amt* (₹ Cr.)": "38.127"
+        "Shares bid for": "10,29,100",
+        "Total Amt* (₹ Cr.)": "60.305"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.78",
+        "Subscription (x)": "1.66",
         "Shares Offered*": "64,78,356",
-        "Shares bid for": "50,51,300",
-        "Total Amt* (₹ Cr.)": "296.006"
+        "Shares bid for": "1,07,63,350",
+        "Total Amt* (₹ Cr.)": "630.732"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.64",
+        "Subscription (x)": "1.39",
         "Shares Offered*": "43,18,904",
-        "Shares bid for": "27,84,875",
-        "Total Amt* (₹ Cr.)": "163.194"
+        "Shares bid for": "60,16,950",
+        "Total Amt* (₹ Cr.)": "352.593"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.05",
+        "Subscription (x)": "2.20",
         "Shares Offered*": "21,59,452",
-        "Shares bid for": "22,66,425",
-        "Total Amt* (₹ Cr.)": "132.813"
+        "Shares bid for": "47,46,400",
+        "Total Amt* (₹ Cr.)": "278.139"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.58",
+        "Subscription (x)": "1.13",
         "Shares Offered*": "1,51,16,165",
-        "Shares bid for": "87,04,475",
-        "Total Amt* (₹ Cr.)": "510.082"
+        "Shares bid for": "1,71,51,075",
+        "Total Amt* (₹ Cr.)": "1,005.053"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "1.38",
+        "Subscription (x)": "2.09",
         "Shares Offered*": "50,000",
-        "Shares bid for": "68,900",
-        "Total Amt* (₹ Cr.)": "4.038"
+        "Shares bid for": "1,04,700",
+        "Total Amt* (₹ Cr.)": "6.135"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.48",
+        "Subscription (x)": "0.96",
         "Shares Offered*": "3,02,82,330",
-        "Shares bid for": "1,44,75,300",
-        "Total Amt* (₹ Cr.)": "848.253"
+        "Shares bid for": "2,90,48,225",
+        "Total Amt* (₹ Cr.)": "1,702.226"
       }
     ],
     "dayWise": [
@@ -552,6 +552,16 @@
         "Retail": "0.58",
         "EMP": "1.38",
         "Total": "0.48"
+      },
+      {
+        "Date": "Oct 16 (Day 2)",
+        "QIB (Ex Anchor)": "0.12",
+        "NII": "1.66",
+        "NII (> ₹10L)": "1.39",
+        "NII (< ₹10L)": "2.20",
+        "Retail": "1.13",
+        "EMP": "2.09",
+        "Total": "0.96"
       }
     ]
   },
@@ -574,10 +584,10 @@
       "listing": "2026-10-23"
     },
     "gmp": {
-      "value": 140.0,
-      "percent": 23.89,
-      "xLot": 3500.0,
-      "updatedOn": "16-Oct 9:02"
+      "value": 130.0,
+      "percent": 22.18,
+      "xLot": 3250.0,
+      "updatedOn": "16-Oct 16:02"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
@@ -587,5 +597,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-16T03:49:45+00:00"
+  "scrapedAt": "2026-10-16T11:00:28+00:00"
 }

@@ -467,8 +467,8 @@
     "source": "https://www.chittorgarh.com/ipo/ravita-engineering-services-ipo/2959/"
   },
   "subscription": {
-    "summary": "Ravita Engineering Services IPO subscribed 1.70 times. The public issue subscribed 1.53 times in the individual investors category, 1.33 times in QIB (Ex Anchor), and 2.57 times in the NII category by October 15, 2026 5:54:06 PM (Day 2).",
-    "total": 1.7,
+    "summary": "Ravita Engineering Services IPO subscribed 7.06 times. The public issue subscribed 3.40 times in the individual investors category, 13.21 times in QIB (Ex Anchor), and 7.38 times in the NII category by October 16, 2026 4:30:04 PM (Day 3).",
+    "total": 7.06,
     "applications": null,
     "byCategory": [
       {
@@ -489,51 +489,51 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "1.33",
+        "Subscription (x)": "13.21",
         "Shares Offered*": "19,69,200",
-        "Shares bid for": "26,12,400",
-        "Total Amt* (₹ Cr.)": "29.259",
-        "Total Applications": "5"
+        "Shares bid for": "2,60,12,400",
+        "Total Amt* (₹ Cr.)": "291.339",
+        "Total Applications": "20"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "2.57",
+        "Subscription (x)": "7.38",
         "Shares Offered*": "14,76,000",
-        "Shares bid for": "37,96,800",
-        "Total Amt* (₹ Cr.)": "42.524",
-        "Total Applications": "0"
+        "Shares bid for": "1,08,90,000",
+        "Total Amt* (₹ Cr.)": "121.968",
+        "Total Applications": "1,250"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.14",
+        "Subscription (x)": "9.11",
         "Shares Offered*": "9,82,800",
-        "Shares bid for": "30,87,600",
-        "Total Amt* (₹ Cr.)": "34.581",
+        "Shares bid for": "89,50,800",
+        "Total Amt* (₹ Cr.)": "100.249",
         "Total Applications": ""
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.44",
+        "Subscription (x)": "3.93",
         "Shares Offered*": "4,93,200",
-        "Shares bid for": "7,09,200",
-        "Total Amt* (₹ Cr.)": "7.943",
+        "Shares bid for": "19,39,200",
+        "Total Amt* (₹ Cr.)": "21.719",
         "Total Applications": ""
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.53",
+        "Subscription (x)": "3.40",
         "Shares Offered*": "34,46,400",
-        "Shares bid for": "52,75,200",
-        "Total Amt* (₹ Cr.)": "59.082",
-        "Total Applications": "2,198"
+        "Shares bid for": "1,17,33,600",
+        "Total Amt* (₹ Cr.)": "131.416",
+        "Total Applications": "4,889"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.70",
+        "Subscription (x)": "7.06",
         "Shares Offered*": "68,91,600",
-        "Shares bid for": "1,16,84,400",
-        "Total Amt* (₹ Cr.)": "130.865",
-        "Total Applications": "2,585"
+        "Shares bid for": "4,86,36,000",
+        "Total Amt* (₹ Cr.)": "544.723",
+        "Total Applications": "6,159"
       }
     ],
     "dayWise": [
@@ -554,6 +554,15 @@
         "NII (< ₹10L)": "1.44",
         "Individual Investors": "1.53",
         "Total": "1.70"
+      },
+      {
+        "Date": "Oct 16 (Day 3)",
+        "QIB (Ex Anchor)": "13.21",
+        "NII*": "7.38",
+        "NII (> ₹10L)": "9.11",
+        "NII (< ₹10L)": "3.93",
+        "Individual Investors": "3.40",
+        "Total": "7.06"
       }
     ]
   },
@@ -579,7 +588,7 @@
       "value": 2.0,
       "percent": 1.79,
       "xLot": 2400.0,
-      "updatedOn": "16-Oct 9:02"
+      "updatedOn": "16-Oct 16:02"
     },
     "leadManager": "Vivro Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/ravitaengineering_logo.png",
@@ -589,5 +598,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-16T03:49:53+00:00"
+  "scrapedAt": "2026-10-16T11:00:37+00:00"
 }
