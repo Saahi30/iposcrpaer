@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-15T21:06:34+00:00",
+  "scrapedAt": "2026-10-16T03:49:57+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 9,
+    "open": 7,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 43.0,
         "percent": 12.5,
         "xLot": 1849.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 0.35,
@@ -163,7 +163,7 @@
         "value": 140.0,
         "percent": 23.89,
         "xLot": 3500.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 0.48,
@@ -276,7 +276,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "15-Oct 23:31"
+        "updatedOn": "16-Oct 8:58"
       },
       "subscription": {
         "total": 0.76,
@@ -389,7 +389,7 @@
         "value": 14.0,
         "percent": 9.27,
         "xLot": 1386.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 0.23,
@@ -502,7 +502,7 @@
         "value": 500.0,
         "percent": 71.43,
         "xLot": 10500.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 4.01,
@@ -615,7 +615,7 @@
         "value": 22.0,
         "percent": 7.61,
         "xLot": 1122.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 1.16,
@@ -721,7 +721,7 @@
         "value": 2.0,
         "percent": 1.79,
         "xLot": 2400.0,
-        "updatedOn": "15-Oct 23:37"
+        "updatedOn": "16-Oct 9:02"
       },
       "subscription": {
         "total": 1.7,
@@ -813,240 +813,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in December 2007, Ravita Engineering Services Limited is an engineering solutions company engaged in Engineering, Procurement, Installation and Commissioning (EPIC) of HVAC systems, central air-conditioning solutions, air flow systems, chiller plants, industrial compressors, cooling equipment and other electromechanical equipment on a turnkey basis. The Company also provides Operations and Maintenance (O&M) services for projects executed by it and systems installed by third-party so",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "hd-fire-protect-ipo",
-      "ipoId": 2628,
-      "name": "HD Fire Protect",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 258.0,
-        "max": 271.0,
-        "display": "₹258–271"
-      },
-      "lotSize": 55,
-      "issueSize": "₹712.13 Cr",
-      "issueSizeCr": 712.13,
-      "freshIssueCr": null,
-      "ofsCr": 712.13,
-      "dates": {
-        "open": "2026-10-13",
-        "close": "2026-10-15",
-        "allotment": "2026-10-16",
-        "listing": "2026-10-21"
-      },
-      "gmp": {
-        "value": 82.0,
-        "percent": 30.26,
-        "xLot": 4510.0,
-        "updatedOn": "15-Oct 23:37"
-      },
-      "subscription": {
-        "total": 131.73,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "78,64,008",
-            "Shares bid for": "78,64,008",
-            "Total Amt* (₹ Cr.)": "213.11"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "256.65",
-            "Shares Offered*": "52,42,673",
-            "Shares bid for": "1,34,55,42,605",
-            "Total Amt* (₹ Cr.)": "36,464.20"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "203.21",
-            "Shares Offered*": "39,32,004",
-            "Shares bid for": "79,90,03,480",
-            "Total Amt* (₹ Cr.)": "21,652.99"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "236.17",
-            "Shares Offered*": "26,21,336",
-            "Shares bid for": "61,90,76,590",
-            "Total Amt* (₹ Cr.)": "16,776.98"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "137.28",
-            "Shares Offered*": "13,10,668",
-            "Shares bid for": "17,99,26,890",
-            "Total Amt* (₹ Cr.)": "4,876.02"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "30.55",
-            "Shares Offered*": "91,74,677",
-            "Shares bid for": "28,03,31,260",
-            "Total Amt* (₹ Cr.)": "7,596.98"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "23.61",
-            "Shares Offered*": "71,138",
-            "Shares bid for": "16,79,755",
-            "Total Amt* (₹ Cr.)": "45.52"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "131.73",
-            "Shares Offered*": "1,84,20,492",
-            "Shares bid for": "2,42,65,57,100",
-            "Total Amt* (₹ Cr.)": "65,759.70"
-          }
-        ],
-        "applications": 4755280.0
-      },
-      "leadManager": "Ambit",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/hd-fire-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/hd-fire-protect-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hd-fire-protect-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
-        "gmp": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/"
-      },
-      "gmpId": 1902,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated in April 1997, HD Fire Protect Limited is an Indian manufacturer and supplier of fire protection equipment and systems, offering water, foam and gas-based fire suppression solutions. The Company offers a comprehensive portfolio across eight product categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems and gas suppression systems. Its produ",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "vaibhav-vyapaar-ipo",
-      "ipoId": 3180,
-      "name": "Vaibhav Vyapaar",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0,
-        "display": "₹51–54"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹42.10 Cr",
-      "issueSizeCr": 42.1,
-      "freshIssueCr": 39.99,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-13",
-        "close": "2026-10-15",
-        "allotment": "2026-10-16",
-        "listing": "2026-10-21"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 3.7,
-        "xLot": 4000.0,
-        "updatedOn": "15-Oct 23:37"
-      },
-      "subscription": {
-        "total": 3.23,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "22,00,000",
-            "Shares bid for": "22,00,000",
-            "Total Amt* (₹ Cr.)": "11.880",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,90,000",
-            "Shares bid for": "3,90,000",
-            "Total Amt* (₹ Cr.)": "2.106",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.61",
-            "Shares Offered*": "14,94,000",
-            "Shares bid for": "23,98,000",
-            "Total Amt* (₹ Cr.)": "12.949",
-            "Total Applications": "5"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "6.65",
-            "Shares Offered*": "11,16,000",
-            "Shares bid for": "74,20,000",
-            "Total Amt* (₹ Cr.)": "40.068",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "7.87",
-            "Shares Offered*": "7,44,000",
-            "Shares bid for": "58,58,000",
-            "Total Amt* (₹ Cr.)": "31.633",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.20",
-            "Shares Offered*": "3,72,000",
-            "Shares bid for": "15,62,000",
-            "Total Amt* (₹ Cr.)": "8.435",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.70",
-            "Shares Offered*": "25,96,000",
-            "Shares bid for": "70,04,000",
-            "Total Amt* (₹ Cr.)": "37.822",
-            "Total Applications": "1,751"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "3.23",
-            "Shares Offered*": "52,06,000",
-            "Shares bid for": "1,68,22,000",
-            "Total Amt* (₹ Cr.)": "90.839",
-            "Total Applications": "2,293"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "GetFive Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vaibhav-vyapaar-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/vaibhav-vyapaar-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vaibhav-vyapaar-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
-        "gmp": "https://www.investorgain.com/gmp/vaibhav-vyapaar-ipo/2335/"
-      },
-      "gmpId": 2335,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in February 2009, Vaibhav Vyapaar Limited is a Non-Banking Financial Company (NBFC) providing unsecured personal loans to salaried and self-employed individuals through its fully digital lending platform. The Company provides personal loans under the “LoanFront” brand through its mobile application, which supports loan origination, customer verification, due diligence, underwriting, documentation, disbursal and repayment. It provides loans through both direct lending and co-lending ",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
