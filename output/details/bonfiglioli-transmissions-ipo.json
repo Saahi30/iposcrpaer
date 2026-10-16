@@ -481,9 +481,9 @@
     "source": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/"
   },
   "subscription": {
-    "summary": "Bonfiglioli Transmissions IPO subscribed 0.96 times. The public issue subscribed 1.13 times in the retail category, 0.12 times in QIB (Ex Anchor), and 1.66 times in the NII category by October 16, 2026 4:29:37 PM (Day 2).",
-    "total": 0.96,
-    "applications": 612300.0,
+    "summary": "Bonfiglioli Transmissions IPO subscribed 0.99 times. The public issue subscribed 1.16 times in the retail category, 0.16 times in QIB (Ex Anchor), and 1.71 times in the NII category by October 16, 2026 5:07:27 PM (Day 2).",
+    "total": 0.99,
+    "applications": 629711.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -494,52 +494,52 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.12",
+        "Subscription (x)": "0.16",
         "Shares Offered*": "86,37,809",
-        "Shares bid for": "10,29,100",
-        "Total Amt* (₹ Cr.)": "60.305"
+        "Shares bid for": "13,77,400",
+        "Total Amt* (₹ Cr.)": "80.716"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.66",
+        "Subscription (x)": "1.71",
         "Shares Offered*": "64,78,356",
-        "Shares bid for": "1,07,63,350",
-        "Total Amt* (₹ Cr.)": "630.732"
+        "Shares bid for": "1,10,73,900",
+        "Total Amt* (₹ Cr.)": "648.931"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.39",
+        "Subscription (x)": "1.44",
         "Shares Offered*": "43,18,904",
-        "Shares bid for": "60,16,950",
-        "Total Amt* (₹ Cr.)": "352.593"
+        "Shares bid for": "62,07,375",
+        "Total Amt* (₹ Cr.)": "363.752"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.20",
+        "Subscription (x)": "2.25",
         "Shares Offered*": "21,59,452",
-        "Shares bid for": "47,46,400",
-        "Total Amt* (₹ Cr.)": "278.139"
+        "Shares bid for": "48,66,525",
+        "Total Amt* (₹ Cr.)": "285.178"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.13",
+        "Subscription (x)": "1.16",
         "Shares Offered*": "1,51,16,165",
-        "Shares bid for": "1,71,51,075",
-        "Total Amt* (₹ Cr.)": "1,005.053"
+        "Shares bid for": "1,75,31,225",
+        "Total Amt* (₹ Cr.)": "1,027.330"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "2.09",
+        "Subscription (x)": "2.10",
         "Shares Offered*": "50,000",
-        "Shares bid for": "1,04,700",
-        "Total Amt* (₹ Cr.)": "6.135"
+        "Shares bid for": "1,05,200",
+        "Total Amt* (₹ Cr.)": "6.165"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.96",
+        "Subscription (x)": "0.99",
         "Shares Offered*": "3,02,82,330",
-        "Shares bid for": "2,90,48,225",
-        "Total Amt* (₹ Cr.)": "1,702.226"
+        "Shares bid for": "3,00,87,725",
+        "Total Amt* (₹ Cr.)": "1,763.141"
       }
     ],
     "dayWise": [
@@ -555,13 +555,13 @@
       },
       {
         "Date": "Oct 16 (Day 2)",
-        "QIB (Ex Anchor)": "0.12",
-        "NII": "1.66",
-        "NII (> ₹10L)": "1.39",
-        "NII (< ₹10L)": "2.20",
-        "Retail": "1.13",
-        "EMP": "2.09",
-        "Total": "0.96"
+        "QIB (Ex Anchor)": "0.16",
+        "NII": "1.71",
+        "NII (> ₹10L)": "1.44",
+        "NII (< ₹10L)": "2.25",
+        "Retail": "1.16",
+        "EMP": "2.10",
+        "Total": "0.99"
       }
     ]
   },
@@ -584,10 +584,10 @@
       "listing": "2026-10-23"
     },
     "gmp": {
-      "value": 130.0,
-      "percent": 22.18,
-      "xLot": 3250.0,
-      "updatedOn": "16-Oct 16:02"
+      "value": 129.0,
+      "percent": 22.01,
+      "xLot": 3225.0,
+      "updatedOn": "16-Oct 21:37"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bonfiglioli-logo.png",
@@ -597,5 +597,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-16T11:00:28+00:00"
+  "scrapedAt": "2026-10-16T16:20:30+00:00"
 }

@@ -362,9 +362,9 @@
     "source": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/"
   },
   "subscription": {
-    "summary": "Fusion CX IPO subscribed 4.65 times. The public issue subscribed 5.89 times in the retail category, 4.21 times in QIB (Ex Anchor), and 4.72 times in the NII category by October 16, 2026 4:29:43 PM (Day 3).",
-    "total": 4.65,
-    "applications": 259744.0,
+    "summary": "Fusion CX IPO subscribed 4.68 times. The public issue subscribed 5.99 times in the retail category, 4.21 times in QIB (Ex Anchor), and 4.73 times in the NII category by October 16, 2026 5:54:43 PM (Day 3).",
+    "total": 4.68,
+    "applications": 263439.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -382,10 +382,10 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "4.72",
+        "Subscription (x)": "4.73",
         "Shares Offered*": "36,43,598",
-        "Shares bid for": "1,71,85,980",
-        "Total Amt* (₹ Cr.)": "496.675"
+        "Shares bid for": "1,72,34,736",
+        "Total Amt* (₹ Cr.)": "498.084"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -396,24 +396,24 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "4.71",
+        "Subscription (x)": "4.75",
         "Shares Offered*": "12,14,533",
-        "Shares bid for": "57,23,067",
-        "Total Amt* (₹ Cr.)": "165.397"
+        "Shares bid for": "57,71,823",
+        "Total Amt* (₹ Cr.)": "166.806"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "5.89",
+        "Subscription (x)": "5.99",
         "Shares Offered*": "24,29,066",
-        "Shares bid for": "1,43,16,006",
-        "Total Amt* (₹ Cr.)": "413.733"
+        "Shares bid for": "1,45,41,273",
+        "Total Amt* (₹ Cr.)": "420.243"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "4.65",
+        "Subscription (x)": "4.68",
         "Shares Offered*": "1,33,59,861",
-        "Shares bid for": "6,21,90,012",
-        "Total Amt* (₹ Cr.)": "1,797.291"
+        "Shares bid for": "6,24,64,035",
+        "Total Amt* (₹ Cr.)": "1,805.211"
       }
     ],
     "dayWise": [
@@ -438,11 +438,11 @@
       {
         "Date": "Oct 16 (Day 3)",
         "QIB (Ex Anchor)": "4.21",
-        "NII": "4.72",
+        "NII": "4.73",
         "NII (> ₹10L)": "4.72",
-        "NII (< ₹10L)": "4.71",
-        "Retail": "5.89",
-        "Total": "4.65"
+        "NII (< ₹10L)": "4.75",
+        "Retail": "5.99",
+        "Total": "4.68"
       }
     ]
   },
@@ -465,10 +465,10 @@
       "listing": "2026-10-22"
     },
     "gmp": {
-      "value": 5.5,
-      "percent": 1.9,
-      "xLot": 280.5,
-      "updatedOn": "16-Oct 16:02"
+      "value": 10.0,
+      "percent": 3.46,
+      "xLot": 510.0,
+      "updatedOn": "16-Oct 21:37"
     },
     "leadManager": "Nuvama Wealth Management",
     "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
@@ -478,5 +478,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-16T11:00:35+00:00"
+  "scrapedAt": "2026-10-16T16:20:39+00:00"
 }
