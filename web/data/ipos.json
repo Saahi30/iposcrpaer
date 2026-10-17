@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-16T20:43:05+00:00",
+  "scrapedAt": "2026-10-17T03:39:57+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 7,
+    "open": 5,
     "upcoming": 2,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 7
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 35.0,
         "percent": 10.17,
         "xLot": 1505.0,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": 0.83,
@@ -164,7 +164,7 @@
         "value": 129.0,
         "percent": 22.01,
         "xLot": 3225.0,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": 0.99,
@@ -277,7 +277,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "16-Oct 23:32"
+        "updatedOn": "17-Oct 8:29"
       },
       "subscription": {
         "total": 0.89,
@@ -398,7 +398,7 @@
         "value": 7.5,
         "percent": 4.97,
         "xLot": 742.5,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": 0.31,
@@ -511,7 +511,7 @@
         "value": 516.0,
         "percent": 73.71,
         "xLot": 10836.0,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": 7.78,
@@ -597,233 +597,6 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "fusion-cx-ipo",
-      "ipoId": 2455,
-      "name": "Fusion CX",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 275.0,
-        "max": 289.0,
-        "display": "₹275–289"
-      },
-      "lotSize": 51,
-      "issueSize": "₹702.00 Cr",
-      "issueSizeCr": 702.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 202.0,
-      "dates": {
-        "open": "2026-10-14",
-        "close": "2026-10-16",
-        "allotment": "2026-10-19",
-        "listing": "2026-10-22"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 3.46,
-        "xLot": 510.0,
-        "updatedOn": "16-Oct 23:37"
-      },
-      "subscription": {
-        "total": 4.68,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,09,30,795",
-            "Shares bid for": "1,09,30,795",
-            "Total Amt* (₹ Cr.)": "315.900"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "4.21",
-            "Shares Offered*": "72,87,197",
-            "Shares bid for": "3,06,88,026",
-            "Total Amt* (₹ Cr.)": "886.884"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "4.73",
-            "Shares Offered*": "36,43,598",
-            "Shares bid for": "1,72,34,736",
-            "Total Amt* (₹ Cr.)": "498.084"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "4.72",
-            "Shares Offered*": "24,29,066",
-            "Shares bid for": "1,14,62,913",
-            "Total Amt* (₹ Cr.)": "331.278"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.75",
-            "Shares Offered*": "12,14,533",
-            "Shares bid for": "57,71,823",
-            "Total Amt* (₹ Cr.)": "166.806"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "5.99",
-            "Shares Offered*": "24,29,066",
-            "Shares bid for": "1,45,41,273",
-            "Total Amt* (₹ Cr.)": "420.243"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "4.68",
-            "Shares Offered*": "1,33,59,861",
-            "Shares bid for": "6,24,64,035",
-            "Total Amt* (₹ Cr.)": "1,805.211"
-          }
-        ],
-        "applications": 263439.0
-      },
-      "leadManager": "Nuvama Wealth Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/fusion-cx-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/fusion-cx-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=fusion-cx-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
-        "gmp": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/"
-      },
-      "gmpId": 1792,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2004, Fusion CX Limited is a customer experience (CX) and business process solutions provider offering multichannel customer support through voice, email, chat, social media and messaging. The company also provides AI data infrastructure services, including data collection, data annotation, image and video labelling, and robotic teleoperations.\n\nFusion CX combines human expertise with technology and proprietary AI tools to deliver multilingual, omnichannel customer engagement, im",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "ravita-engineering-services-ipo",
-      "ipoId": 2959,
-      "name": "Ravita Engineering Services",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 105.0,
-        "max": 112.0,
-        "display": "₹105–112"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹116.05 Cr",
-      "issueSizeCr": 116.05,
-      "freshIssueCr": 110.21,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-14",
-        "close": "2026-10-16",
-        "allotment": "2026-10-19",
-        "listing": "2026-10-22"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 1.79,
-        "xLot": 2400.0,
-        "updatedOn": "16-Oct 23:37"
-      },
-      "subscription": {
-        "total": 7.11,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "29,48,400",
-            "Shares bid for": "29,48,400",
-            "Total Amt* (₹ Cr.)": "33.022",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "5,22,000",
-            "Shares bid for": "5,22,000",
-            "Total Amt* (₹ Cr.)": "5.846",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "13.21",
-            "Shares Offered*": "19,69,200",
-            "Shares bid for": "2,60,12,400",
-            "Total Amt* (₹ Cr.)": "291.339",
-            "Total Applications": "20"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "7.42",
-            "Shares Offered*": "14,76,000",
-            "Shares bid for": "1,09,51,200",
-            "Total Amt* (₹ Cr.)": "122.653",
-            "Total Applications": "0"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "9.11",
-            "Shares Offered*": "9,82,800",
-            "Shares bid for": "89,50,800",
-            "Total Amt* (₹ Cr.)": "100.249",
-            "Total Applications": ""
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.06",
-            "Shares Offered*": "4,93,200",
-            "Shares bid for": "20,00,400",
-            "Total Amt* (₹ Cr.)": "22.404",
-            "Total Applications": ""
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "3.50",
-            "Shares Offered*": "34,46,400",
-            "Shares bid for": "1,20,52,800",
-            "Total Amt* (₹ Cr.)": "134.991",
-            "Total Applications": "5,022"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "7.11",
-            "Shares Offered*": "68,91,600",
-            "Shares bid for": "4,90,16,400",
-            "Total Amt* (₹ Cr.)": "548.984",
-            "Total Applications": "6,309"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Vivro Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ravitaengineering_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ravita-engineering-services-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ravita-engineering-services-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ravita-engineering-services-ipo/2959/",
-        "gmp": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/"
-      },
-      "gmpId": 2220,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2007, Ravita Engineering Services Limited is an engineering solutions company engaged in Engineering, Procurement, Installation and Commissioning (EPIC) of HVAC systems, central air-conditioning solutions, air flow systems, chiller plants, industrial compressors, cooling equipment and other electromechanical equipment on a turnkey basis. The Company also provides Operations and Maintenance (O&M) services for projects executed by it and systems installed by third-party so",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
       "slug": "paras-healthcare-ipo",
       "ipoId": 2256,
       "name": "Paras Healthcare",
@@ -851,7 +624,7 @@
         "value": 95.0,
         "percent": 13.71,
         "xLot": 1995.0,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": null,
@@ -906,7 +679,7 @@
         "value": 221.0,
         "percent": 19.75,
         "xLot": 2652.0,
-        "updatedOn": "16-Oct 23:37"
+        "updatedOn": "17-Oct 8:37"
       },
       "subscription": {
         "total": null,
