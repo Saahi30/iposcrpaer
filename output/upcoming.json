@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-18T20:19:51+00:00",
+  "scrapedAt": "2026-10-19T03:56:17+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,123 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 2,
+    "upcoming": 4,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 4
   },
   "ipos": [
+    {
+      "slug": "bls-polymers-ipo",
+      "ipoId": 2559,
+      "name": "BLS Polymers",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 142.0,
+        "max": 150.0,
+        "display": "₹142–150"
+      },
+      "lotSize": 100,
+      "issueSize": "₹255.00 Cr",
+      "issueSizeCr": 255.0,
+      "freshIssueCr": 255.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "19-Oct 8:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Unicon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bls-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bls-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
+        "gmp": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/"
+      },
+      "gmpId": 1849,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "BLS Polymers is a leading manufacturer of custom-formulated polymer compounds catering to critical infrastructure sectors such as telecommunications, power, railways, water, and oil & gas distribution.\n\nProduct offerings: Its diverse product portfolio includes high-density polyethylene (HDPE), medium-density polyethylene (MDPE), linear low-density polyethylene (LLDPE), cross-linked polyethylene (XLPE), halogen-free flame retardant (HFFR) compounds, polyvinyl chloride (PVC), cable filling compoun",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "core4-engineers-ipo",
+      "ipoId": 2969,
+      "name": "Core4 Engineers",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 93.0,
+        "display": "₹88–93"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹54.82 Cr",
+      "issueSizeCr": 54.82,
+      "freshIssueCr": 48.12,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-23",
+        "close": "2026-10-27",
+        "allotment": "2026-10-28",
+        "listing": "2026-10-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "19-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/core4-engineers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=core4-engineers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
+        "gmp": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/"
+      },
+      "gmpId": 2229,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2022, Core4 Engineers Ltd. is an Engineering, Procurement, Construction and Commissioning (EPCC) company providing integrated infrastructure solutions across railway infrastructure, power transmission & distribution, and water & wastewater treatment sectors. The company undertakes end-to-end project execution, including design, engineering, procurement, erection, testing, commissioning, and operation & maintenance (O&M).\n\nThe company also operates an in-house manufacturing facili",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
     {
       "slug": "paras-healthcare-ipo",
       "ipoId": 2256,
@@ -50,7 +160,7 @@
         "value": 92.0,
         "percent": 13.28,
         "xLot": 1932.0,
-        "updatedOn": "18-Oct 23:37"
+        "updatedOn": "19-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -102,10 +212,10 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 250.0,
-        "percent": 22.34,
-        "xLot": 3000.0,
-        "updatedOn": "18-Oct 23:37"
+        "value": 251.0,
+        "percent": 22.43,
+        "xLot": 3012.0,
+        "updatedOn": "19-Oct 9:02"
       },
       "subscription": {
         "total": null,

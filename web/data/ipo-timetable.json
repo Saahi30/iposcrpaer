@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-18T20:19:56+00:00",
+  "scrapedAt": "2026-10-19T03:56:24+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 289,
-    "mainboard": 104,
-    "sme": 185
+    "total": 291,
+    "mainboard": 105,
+    "sme": 186
   },
   "ipos": [
     {
@@ -6947,6 +6947,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2969,
+      "name": "Core4 Engineers Ltd.",
+      "slug": "core4-engineers-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-23",
+        "close": "2026-10-27",
+        "allotment": "2026-10-28",
+        "refunds": "2026-10-29",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "23-Oct-2026",
+        "close": "27-Oct-2026",
+        "allotment": "28-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2559,
+      "name": "BLS Polymers Ltd.",
+      "slug": "bls-polymers-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "refunds": "2026-11-02",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "27-Oct-2026",
+        "close": "29-Oct-2026",
+        "allotment": "30-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
