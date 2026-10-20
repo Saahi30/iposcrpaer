@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-20T04:08:10+00:00",
+  "scrapedAt": "2026-10-20T11:09:52+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,13 +16,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 5,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 6
   },
   "ipos": [
+    {
+      "slug": "sfc-environmental-technologies-ipo",
+      "ipoId": 2070,
+      "name": "SFC Environmental Technologies",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 150.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "20-Oct 10:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sfc-environmental-technologies-limited_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sfc-environmental-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sfc-environmental-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+        "gmp": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/"
+      },
+      "gmpId": 1642,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewag",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "bls-polymers-ipo",
       "ipoId": 2559,
@@ -48,10 +103,10 @@
         "listing": "2026-11-03"
       },
       "gmp": {
-        "value": 18.0,
-        "percent": 12.0,
-        "xLot": 1800.0,
-        "updatedOn": "20-Oct 9:02"
+        "value": 27.0,
+        "percent": 18.0,
+        "xLot": 2700.0,
+        "updatedOn": "20-Oct 16:02"
       },
       "subscription": {
         "total": null,
@@ -161,7 +216,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Oct 8:54"
+        "updatedOn": "20-Oct 16:00"
       },
       "subscription": {
         "total": null,
@@ -185,7 +240,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2022, Core4 Engineers Ltd. is an Engineering, Procurement, Construction and Commissioning (EPCC) company providing integrated infrastructure solutions across railway infrastructure, power transmission & distribution, and water & wastewater treatment sectors. The company undertakes end-to-end project execution, including design, engineering, procurement, erection, testing, commissioning, and operation & maintenance (O&M).\n\nThe company also operates an in-house manufacturing facili",
+      "about": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five",
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
@@ -213,10 +268,10 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 78.0,
-        "percent": 11.26,
-        "xLot": 1638.0,
-        "updatedOn": "20-Oct 9:02"
+        "value": 63.0,
+        "percent": 9.09,
+        "xLot": 1323.0,
+        "updatedOn": "20-Oct 16:02"
       },
       "subscription": {
         "total": null,
@@ -268,10 +323,10 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 245.0,
-        "percent": 21.89,
-        "xLot": 2940.0,
-        "updatedOn": "20-Oct 9:02"
+        "value": 254.0,
+        "percent": 22.7,
+        "xLot": 3048.0,
+        "updatedOn": "20-Oct 16:02"
       },
       "subscription": {
         "total": null,
