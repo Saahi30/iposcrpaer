@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-19T22:08:29+00:00",
+  "scrapedAt": "2026-10-20T04:08:10+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 4,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 5
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 18.0,
         "percent": 12.0,
         "xLot": 1800.0,
-        "updatedOn": "19-Oct 23:37"
+        "updatedOn": "20-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -76,6 +76,61 @@
       "saleType": "Fresh capital only",
       "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "eaaa-india-alternatives-ipo",
+      "ipoId": 2061,
+      "name": "EAAA India Alternatives",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹1200.00 Cr",
+      "issueSizeCr": 1200.0,
+      "freshIssueCr": null,
+      "ofsCr": 1200.0,
+      "dates": {
+        "open": "2026-10-26",
+        "close": "2026-10-28",
+        "allotment": "2026-10-29",
+        "listing": "2026-11-02"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "20-Oct 8:30"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/edelweiss-alternatives-corporate-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/eaaa-india-alternatives-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=eaaa-india-alternatives-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+        "gmp": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/"
+      },
+      "gmpId": 1635,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with por",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "core4-engineers-ipo",
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Oct 23:37"
+        "updatedOn": "20-Oct 8:54"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 78.0,
         "percent": 11.26,
         "xLot": 1638.0,
-        "updatedOn": "19-Oct 23:37"
+        "updatedOn": "20-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 245.0,
         "percent": 21.89,
         "xLot": 2940.0,
-        "updatedOn": "19-Oct 23:37"
+        "updatedOn": "20-Oct 9:02"
       },
       "subscription": {
         "total": null,

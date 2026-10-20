@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-19T22:08:35+00:00",
+  "scrapedAt": "2026-10-20T04:08:17+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 291,
-    "mainboard": 105,
+    "total": 292,
+    "mainboard": 106,
     "sme": 186
   },
   "ipos": [
@@ -6972,6 +6972,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2061,
+      "name": "EAAA India Alternatives Ltd.",
+      "slug": "eaaa-india-alternatives-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-26",
+        "close": "2026-10-28",
+        "allotment": "2026-10-29",
+        "refunds": "2026-10-30",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "26-Oct-2026",
+        "close": "28-Oct-2026",
+        "allotment": "29-Oct-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/edelweiss-alternatives-corporate-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {
