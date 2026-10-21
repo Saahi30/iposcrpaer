@@ -396,9 +396,9 @@
     "source": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/"
   },
   "subscription": {
-    "summary": "Jio Platforms IPO subscribed 3.01 times. The public issue subscribed 0.70 times in the retail category, 9.00 times in QIB (Ex Anchor), and 1.56 times in the NII category by October 21, 2026 4:54:50 PM (Day 1).",
-    "total": 3.01,
-    "applications": 2910261.0,
+    "summary": "Jio Platforms IPO subscribed 3.04 times. The public issue subscribed 0.73 times in the retail category, 9.04 times in QIB (Ex Anchor), and 1.61 times in the NII category by October 21, 2026 5:55:00 PM (Day 1).",
+    "total": 3.04,
+    "applications": 3043405.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -409,72 +409,72 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "9.00",
+        "Subscription (x)": "9.04",
         "Shares Offered*": "4,90,07,828",
-        "Shares bid for": "44,12,95,356",
-        "Total Amt* (₹ Cr.)": "49,380.950"
+        "Shares bid for": "44,29,08,216",
+        "Total Amt* (₹ Cr.)": "49,561.429"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "1.56",
+        "Subscription (x)": "1.61",
         "Shares Offered*": "3,64,44,568",
-        "Shares bid for": "5,68,00,536",
-        "Total Amt* (₹ Cr.)": "6,355.980"
+        "Shares bid for": "5,86,37,760",
+        "Total Amt* (₹ Cr.)": "6,561.565"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "1.70",
+        "Subscription (x)": "1.75",
         "Shares Offered*": "2,42,96,379",
-        "Shares bid for": "4,12,93,740",
-        "Total Amt* (₹ Cr.)": "4,620.770"
+        "Shares bid for": "4,24,72,308",
+        "Total Amt* (₹ Cr.)": "4,752.651"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.28",
+        "Subscription (x)": "1.33",
         "Shares Offered*": "1,21,48,189",
-        "Shares bid for": "1,55,06,796",
-        "Total Amt* (₹ Cr.)": "1,735.210"
+        "Shares bid for": "1,61,65,452",
+        "Total Amt* (₹ Cr.)": "1,808.914"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "0.70",
+        "Subscription (x)": "0.73",
         "Shares Offered*": "8,50,37,326",
-        "Shares bid for": "5,91,83,064",
-        "Total Amt* (₹ Cr.)": "6,622.585"
+        "Shares bid for": "6,17,73,312",
+        "Total Amt* (₹ Cr.)": "6,912.434"
       },
       {
         "Category": "Employees",
-        "Subscription (x)": "1.28",
+        "Subscription (x)": "1.33",
         "Shares Offered*": "46,94,836",
-        "Shares bid for": "60,22,500",
-        "Total Amt* (₹ Cr.)": "673.918"
+        "Shares bid for": "62,37,348",
+        "Total Amt* (₹ Cr.)": "697.959"
       },
       {
         "Category": "Shareholders",
-        "Subscription (x)": "1.36",
+        "Subscription (x)": "1.41",
         "Shares Offered*": "2,23,41,376",
-        "Shares bid for": "3,03,24,144",
-        "Total Amt* (₹ Cr.)": "3,393.272"
+        "Shares bid for": "3,14,65,224",
+        "Total Amt* (₹ Cr.)": "3,520.959"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.01",
+        "Subscription (x)": "3.04",
         "Shares Offered*": "19,75,25,934",
-        "Shares bid for": "59,36,25,600",
-        "Total Amt* (₹ Cr.)": "66,426.705"
+        "Shares bid for": "60,10,21,860",
+        "Total Amt* (₹ Cr.)": "67,254.346"
       }
     ],
     "dayWise": [
       {
         "Date": "Oct 21 (Day 1)",
-        "QIB (Ex Anchor)": "9.00",
-        "NII": "1.56",
-        "NII (> ₹10L)": "1.70",
-        "NII (< ₹10L)": "1.28",
-        "Retail": "0.70",
-        "EMP": "1.28",
-        "Shareholders": "1.36",
-        "Total": "3.01"
+        "QIB (Ex Anchor)": "9.04",
+        "NII": "1.61",
+        "NII (> ₹10L)": "1.75",
+        "NII (< ₹10L)": "1.33",
+        "Retail": "0.73",
+        "EMP": "1.33",
+        "Shareholders": "1.41",
+        "Total": "3.04"
       }
     ]
   },
@@ -497,10 +497,10 @@
       "listing": "2026-10-28"
     },
     "gmp": {
-      "value": 258.0,
-      "percent": 23.06,
-      "xLot": 3096.0,
-      "updatedOn": "21-Oct 16:48"
+      "value": 248.0,
+      "percent": 22.16,
+      "xLot": 2976.0,
+      "updatedOn": "21-Oct 22:02"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
@@ -510,5 +510,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-21T11:25:47+00:00"
+  "scrapedAt": "2026-10-21T16:52:35+00:00"
 }
