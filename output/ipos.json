@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-20T21:24:16+00:00",
+  "scrapedAt": "2026-10-21T03:56:42+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,124 @@
     "limit": null
   },
   "summary": {
-    "open": 0,
-    "upcoming": 6,
+    "open": 2,
+    "upcoming": 4,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 6
   },
   "ipos": [
+    {
+      "slug": "paras-healthcare-ipo",
+      "ipoId": 2256,
+      "name": "Paras Healthcare",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 660.0,
+        "max": 693.0,
+        "display": "₹660–693"
+      },
+      "lotSize": 21,
+      "issueSize": "₹1450.00 Cr",
+      "issueSizeCr": 1450.0,
+      "freshIssueCr": 500.0,
+      "ofsCr": 950.0,
+      "dates": {
+        "open": "2026-10-21",
+        "close": "2026-10-23",
+        "allotment": "2026-10-26",
+        "listing": "2026-10-28"
+      },
+      "gmp": {
+        "value": 52.0,
+        "percent": 7.5,
+        "xLot": 1092.0,
+        "updatedOn": "21-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/paras-healthcare-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=paras-healthcare-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
+        "gmp": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/"
+      },
+      "gmpId": 1728,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in1987, Paras Healthcare Limited is a leading clinical specialty-led hospital platform providing tertiary and quaternary healthcare services across North India, Bihar, and Jharkhand under the \"Paras Health\" brand. The company operates eight hospitals with an aggregate bed capacity of 2,211 beds across Gurugram, Panchkula, Patna, Darbhanga, Kanpur, Udaipur, Ranchi, and Srinagar as of June 30, 2026.\n\nIt specializes in cardiac sciences, oncology, neurosciences, gastro sciences, orthope",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "jio-platforms-ipo",
+      "ipoId": 3152,
+      "name": "Jio Platforms",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 1065.0,
+        "max": 1119.0,
+        "display": "₹1065–1119"
+      },
+      "lotSize": 12,
+      "issueSize": "₹30213.00 Cr",
+      "issueSizeCr": 30213.0,
+      "freshIssueCr": 30213.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-21",
+        "close": "2026-10-23",
+        "allotment": "2026-10-26",
+        "listing": "2026-10-28"
+      },
+      "gmp": {
+        "value": 277.0,
+        "percent": 24.75,
+        "xLot": 3324.0,
+        "updatedOn": "21-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Kotak Mahindra Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/jio-platforms-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=jio-platforms-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
+        "gmp": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/"
+      },
+      "gmpId": 2306,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platfo",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "sfc-environmental-technologies-ipo",
       "ipoId": 2070,
@@ -32,15 +142,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 313.0,
+        "max": 330.0,
+        "display": "₹313–330"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 45,
+      "issueSize": "₹667.53 Cr",
+      "issueSizeCr": 667.53,
       "freshIssueCr": 150.0,
-      "ofsCr": null,
+      "ofsCr": 517.53,
       "dates": {
         "open": "2026-10-27",
         "close": "2026-10-29",
@@ -49,9 +159,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "20-Oct 10:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Oct 9:01"
       },
       "subscription": {
         "total": null,
@@ -106,7 +216,7 @@
         "value": 30.0,
         "percent": 20.0,
         "xLot": 3000.0,
-        "updatedOn": "20-Oct 23:37"
+        "updatedOn": "21-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -142,11 +252,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 1585.0,
+        "max": 1665.0,
+        "display": "₹1585–1665"
       },
-      "lotSize": null,
+      "lotSize": 9,
       "issueSize": "₹1200.00 Cr",
       "issueSizeCr": 1200.0,
       "freshIssueCr": null,
@@ -159,9 +269,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "20-Oct 8:30"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "21-Oct 8:55"
       },
       "subscription": {
         "total": null,
@@ -216,7 +326,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "20-Oct 23:31"
+        "updatedOn": "21-Oct 8:56"
       },
       "subscription": {
         "total": null,
@@ -242,116 +352,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five",
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
-    },
-    {
-      "slug": "paras-healthcare-ipo",
-      "ipoId": 2256,
-      "name": "Paras Healthcare",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 660.0,
-        "max": 693.0,
-        "display": "₹660–693"
-      },
-      "lotSize": 21,
-      "issueSize": "₹1450.00 Cr",
-      "issueSizeCr": 1450.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 950.0,
-      "dates": {
-        "open": "2026-10-21",
-        "close": "2026-10-23",
-        "allotment": "2026-10-26",
-        "listing": "2026-10-28"
-      },
-      "gmp": {
-        "value": 50.0,
-        "percent": 7.22,
-        "xLot": 1050.0,
-        "updatedOn": "20-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/paras-healthcare-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paras-healthcare-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
-        "gmp": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/"
-      },
-      "gmpId": 1728,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in1987, Paras Healthcare Limited is a leading clinical specialty-led hospital platform providing tertiary and quaternary healthcare services across North India, Bihar, and Jharkhand under the \"Paras Health\" brand. The company operates eight hospitals with an aggregate bed capacity of 2,211 beds across Gurugram, Panchkula, Patna, Darbhanga, Kanpur, Udaipur, Ranchi, and Srinagar as of June 30, 2026.\n\nIt specializes in cardiac sciences, oncology, neurosciences, gastro sciences, orthope",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "jio-platforms-ipo",
-      "ipoId": 3152,
-      "name": "Jio Platforms",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 1065.0,
-        "max": 1119.0,
-        "display": "₹1065–1119"
-      },
-      "lotSize": 12,
-      "issueSize": "₹30213.00 Cr",
-      "issueSizeCr": 30213.0,
-      "freshIssueCr": 30213.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-21",
-        "close": "2026-10-23",
-        "allotment": "2026-10-26",
-        "listing": "2026-10-28"
-      },
-      "gmp": {
-        "value": 273.0,
-        "percent": 24.4,
-        "xLot": 3276.0,
-        "updatedOn": "20-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/jio-platforms-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=jio-platforms-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
-        "gmp": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/"
-      },
-      "gmpId": 2306,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platfo",
-      "registrar": "Kfin Technologies Ltd."
     }
   ]
 }
