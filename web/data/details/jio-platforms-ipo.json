@@ -484,9 +484,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 1065.0,
+      "min": 1119.0,
       "max": 1119.0,
-      "display": "₹1065–1119"
+      "display": "₹1119"
     },
     "lotSize": 12,
     "issueSize": "₹30213.00 Cr",
@@ -497,10 +497,10 @@
       "listing": "2026-10-28"
     },
     "gmp": {
-      "value": 248.0,
-      "percent": 22.16,
-      "xLot": 2976.0,
-      "updatedOn": "21-Oct 22:02"
+      "value": 246.0,
+      "percent": 21.98,
+      "xLot": 2952.0,
+      "updatedOn": "21-Oct 23:37"
     },
     "leadManager": "Kotak Mahindra Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
@@ -510,5 +510,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-21T16:52:35+00:00"
+  "scrapedAt": "2026-10-21T21:25:30+00:00"
 }
