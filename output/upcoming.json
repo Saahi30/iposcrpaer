@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-21T21:25:37+00:00",
+  "scrapedAt": "2026-10-22T03:57:10+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 4,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 5
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 31.0,
         "percent": 9.39,
         "xLot": 1395.0,
-        "updatedOn": "21-Oct 23:37"
+        "updatedOn": "22-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 30.0,
         "percent": 20.0,
         "xLot": 3000.0,
-        "updatedOn": "21-Oct 23:37"
+        "updatedOn": "22-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -131,6 +131,61 @@
       "saleType": "Fresh capital only",
       "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "wiscon-industries-ipo",
+      "ipoId": 3202,
+      "name": "Wiscon Industries",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 194.0,
+        "max": 204.0,
+        "display": "₹194–204"
+      },
+      "lotSize": 600,
+      "issueSize": "₹110.00 Cr",
+      "issueSizeCr": 110.0,
+      "freshIssueCr": 80.05,
+      "ofsCr": 22.0,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/wiscon_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/wiscon-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=wiscon-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+        "gmp": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/"
+      },
+      "gmpId": 2356,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
+      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "eaaa-india-alternatives-ipo",
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Oct 23:37"
+        "updatedOn": "22-Oct 8:55"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "21-Oct 23:35"
+        "updatedOn": "22-Oct 8:58"
       },
       "subscription": {
         "total": null,

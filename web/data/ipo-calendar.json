@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-21T21:25:42+00:00",
+  "scrapedAt": "2026-10-22T03:57:14+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 89,
-    "mainboard": 38,
+    "totalEvents": 91,
+    "mainboard": 40,
     "sme": 51,
     "byEventType": {
-      "allotment": 33,
+      "allotment": 35,
       "close": 32,
       "open": 16,
       "other": 8
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 85,
-        "mainboard": 36,
+        "total": 87,
+        "mainboard": 38,
         "sme": 49
       },
       "byDate": {
@@ -1436,6 +1436,25 @@
         ],
         "2026-10-21": [
           {
+            "title": "Bonfiglioli Transmissions IPO Allotment Status",
+            "company": "Bonfiglioli Transmissions",
+            "eventType": "allotment",
+            "date": "2026-10-21",
+            "dateEnd": "2026-10-21",
+            "details": "The allotment status of Bonfiglioli Transmissions Ltd. IPO is now available online. The public issue of Bonfiglioli Transmissions IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 20",
+            "type": "mainboard",
+            "slug": "bonfiglioli-transmissions-ipo",
+            "ipoId": 2861,
+            "eventId": 15742,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/bonfiglioli-transmissions-ipo/2861/#15742",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bonfiglioli%20Transmissions%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Bonfiglioli%20Transmissions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bonfiglioli%20Transmissions%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%2020"
+            }
+          },
+          {
             "title": "Jio Platforms IPO Opens on Oct 21, 2026",
             "company": "Jio Platforms",
             "eventType": "open",
@@ -1471,6 +1490,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/paras-healthcare-ipo/2256/#15726",
               "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paras%20Healthcare%20IPO%20Opens%20on%20Oct%2021%2C%202026&location=&dates=20261021/20261022&details=Paras%20Healthcare%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%2010%2C000.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+            }
+          },
+          {
+            "title": "Sahajanand Medical Technologies IPO Allotment Status",
+            "company": "Sahajanand Medical Technologies",
+            "eventType": "allotment",
+            "date": "2026-10-21",
+            "dateEnd": "2026-10-21",
+            "details": "The allotment status of Sahajanand Medical Technologies Ltd. IPO is now available online. The public issue of Sahajanand Medical Technologies IPO was open on Oct 15, 2026 and closed for subscription o",
+            "type": "mainboard",
+            "slug": "sahajanand-medical-technologies-ipo",
+            "ipoId": 2550,
+            "eventId": 15741,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15741",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sahajanand%20Medical%20Technologies%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20o"
             }
           }
         ],
@@ -2173,6 +2211,25 @@
           }
         },
         {
+          "title": "Bonfiglioli Transmissions IPO Allotment Status",
+          "company": "Bonfiglioli Transmissions",
+          "eventType": "allotment",
+          "date": "2026-10-21",
+          "dateEnd": "2026-10-21",
+          "details": "The allotment status of Bonfiglioli Transmissions Ltd. IPO is now available online. The public issue of Bonfiglioli Transmissions IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 20",
+          "type": "mainboard",
+          "slug": "bonfiglioli-transmissions-ipo",
+          "ipoId": 2861,
+          "eventId": 15742,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/bonfiglioli-transmissions-ipo/2861/#15742",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bonfiglioli%20Transmissions%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Bonfiglioli%20Transmissions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bonfiglioli%20Transmissions%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%2020"
+          }
+        },
+        {
           "title": "Jio Platforms IPO Opens on Oct 21, 2026",
           "company": "Jio Platforms",
           "eventType": "open",
@@ -2208,6 +2265,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/paras-healthcare-ipo/2256/#15726",
             "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paras%20Healthcare%20IPO%20Opens%20on%20Oct%2021%2C%202026&location=&dates=20261021/20261022&details=Paras%20Healthcare%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%2010%2C000.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+          }
+        },
+        {
+          "title": "Sahajanand Medical Technologies IPO Allotment Status",
+          "company": "Sahajanand Medical Technologies",
+          "eventType": "allotment",
+          "date": "2026-10-21",
+          "dateEnd": "2026-10-21",
+          "details": "The allotment status of Sahajanand Medical Technologies Ltd. IPO is now available online. The public issue of Sahajanand Medical Technologies IPO was open on Oct 15, 2026 and closed for subscription o",
+          "type": "mainboard",
+          "slug": "sahajanand-medical-technologies-ipo",
+          "ipoId": 2550,
+          "eventId": 15741,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15741",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sahajanand%20Medical%20Technologies%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20o"
           }
         },
         {
@@ -3966,6 +4042,25 @@
       }
     },
     {
+      "title": "Bonfiglioli Transmissions IPO Allotment Status",
+      "company": "Bonfiglioli Transmissions",
+      "eventType": "allotment",
+      "date": "2026-10-21",
+      "dateEnd": "2026-10-21",
+      "details": "The allotment status of Bonfiglioli Transmissions Ltd. IPO is now available online. The public issue of Bonfiglioli Transmissions IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 20",
+      "type": "mainboard",
+      "slug": "bonfiglioli-transmissions-ipo",
+      "ipoId": 2861,
+      "eventId": 15742,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/bonfiglioli-transmissions-ipo/2861/#15742",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bonfiglioli-transmissions-ipo/2861/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bonfiglioli%20Transmissions%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Bonfiglioli%20Transmissions%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bonfiglioli%20Transmissions%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%2020"
+      }
+    },
+    {
       "title": "Jio Platforms IPO Opens on Oct 21, 2026",
       "company": "Jio Platforms",
       "eventType": "open",
@@ -4001,6 +4096,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/paras-healthcare-ipo/2256/#15726",
         "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paras%20Healthcare%20IPO%20Opens%20on%20Oct%2021%2C%202026&location=&dates=20261021/20261022&details=Paras%20Healthcare%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%201%20aggregating%20up%20to%20Rs%2010%2C000.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equit"
+      }
+    },
+    {
+      "title": "Sahajanand Medical Technologies IPO Allotment Status",
+      "company": "Sahajanand Medical Technologies",
+      "eventType": "allotment",
+      "date": "2026-10-21",
+      "dateEnd": "2026-10-21",
+      "details": "The allotment status of Sahajanand Medical Technologies Ltd. IPO is now available online. The public issue of Sahajanand Medical Technologies IPO was open on Oct 15, 2026 and closed for subscription o",
+      "type": "mainboard",
+      "slug": "sahajanand-medical-technologies-ipo",
+      "ipoId": 2550,
+      "eventId": 15741,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sahajanand-medical-technologies-ipo/2550/#15741",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sahajanand-medical-technologies-ipo/2550/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Sahajanand%20Medical%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261021/20261022&details=The%20allotment%20status%20of%20Sahajanand%20Medical%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Sahajanand%20Medical%20Technologies%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20o"
       }
     },
     {
