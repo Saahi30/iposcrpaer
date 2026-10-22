@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T03:57:14+00:00",
+  "scrapedAt": "2026-10-22T11:26:01+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,13 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 91,
-    "mainboard": 40,
-    "sme": 51,
+    "totalEvents": 96,
+    "mainboard": 41,
+    "sme": 55,
     "byEventType": {
       "allotment": 35,
-      "close": 32,
-      "open": 16,
+      "close": 35,
+      "open": 18,
       "other": 8
     }
   },
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 87,
+        "total": 91,
         "mainboard": 38,
-        "sme": 49
+        "sme": 53
       },
       "byDate": {
         "2026-10-01": [
@@ -1649,6 +1649,25 @@
               "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Core4%20Engineers%20IPO%20Closes%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=The%20issue%20of%20Core4%20Engineers%20Ltd.%20opens%20on%20Oct%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2027%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
             }
+          },
+          {
+            "title": "Wiscon Industries IPO Opens on Oct 27, 2026",
+            "company": "Wiscon Industries",
+            "eventType": "open",
+            "date": "2026-10-27",
+            "dateEnd": "2026-10-27",
+            "details": "Wiscon Industries Ltd. is entering in the capital market with an IPO of 0.50 Equity Shares of Rs 10 aggregating up to Rs 102.04 Crore. The price for the issue has been set at Rs 194 - Rs 204 Per Equit",
+            "type": "sme",
+            "slug": "wiscon-industries-ipo",
+            "ipoId": 3202,
+            "eventId": 15743,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15743",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Opens%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=Wiscon%20Industries%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.50%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20102.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20194%20-%20Rs%20204%20Per%20Equit"
+            }
           }
         ],
         "2026-10-28": [
@@ -1669,6 +1688,25 @@
               "news": "https://www.chittorgarh.com/ipo_news/eaaa-india-alternatives-ipo/2061/#15738",
               "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=EAAA%20India%20Alternatives%20IPO%20Closes%20on%20Oct%2028%2C%202026&location=&dates=20261028/20261029&details=The%20issue%20of%20EAAA%20India%20Alternatives%20Ltd.%20opens%20on%20Oct%2026%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2028%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20s"
+            }
+          },
+          {
+            "title": "Carver Roboweld IPO Opens on Oct 28, 2026",
+            "company": "Carver Roboweld",
+            "eventType": "open",
+            "date": "2026-10-28",
+            "dateEnd": "2026-10-28",
+            "details": "Carver Roboweld Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Sh",
+            "type": "sme",
+            "slug": "carver-roboweld-ipo",
+            "ipoId": 3239,
+            "eventId": 15749,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15749",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Opens%20on%20Oct%2028%2C%202026&location=&dates=20261028/20261029&details=Carver%20Roboweld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Sh"
             }
           }
         ],
@@ -1709,6 +1747,46 @@
               "news": "https://www.chittorgarh.com/ipo_news/sfc-environmental-technologies-ipo/2070/#15740",
               "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SFC%20Environmental%20Technologies%20IPO%20Closes%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=The%20issue%20of%20SFC%20Environmental%20Technologies%20Ltd.%20opens%20on%20Oct%2027%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has"
+            }
+          },
+          {
+            "title": "Wiscon Industries IPO Closes on Oct 29, 2026",
+            "company": "Wiscon Industries",
+            "eventType": "close",
+            "date": "2026-10-29",
+            "dateEnd": "2026-10-29",
+            "details": "The issue of Wiscon Industries Ltd. opens on Oct 27, 2026 and closes for subscription on Oct 29, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at R",
+            "type": "sme",
+            "slug": "wiscon-industries-ipo",
+            "ipoId": 3202,
+            "eventId": 15744,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15744",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Closes%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=The%20issue%20of%20Wiscon%20Industries%20Ltd.%20opens%20on%20Oct%2027%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20R"
+            }
+          }
+        ],
+        "2026-10-30": [
+          {
+            "title": "Carver Roboweld IPO Closes on Oct 30, 2026",
+            "company": "Carver Roboweld",
+            "eventType": "close",
+            "date": "2026-10-30",
+            "dateEnd": "2026-10-30",
+            "details": "The issue of Carver Roboweld Ltd. opens on Oct 28, 2026 and closes for subscription on Oct 30, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+            "type": "sme",
+            "slug": "carver-roboweld-ipo",
+            "ipoId": 3239,
+            "eventId": 15750,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15750",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Closes%20on%20Oct%2030%2C%202026&location=&dates=20261030/20261031&details=The%20issue%20of%20Carver%20Roboweld%20Ltd.%20opens%20on%20Oct%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
             }
           }
         ],
@@ -3387,6 +3465,82 @@
             "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Core4%20Engineers%20IPO%20Closes%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=The%20issue%20of%20Core4%20Engineers%20Ltd.%20opens%20on%20Oct%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2027%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
           }
+        },
+        {
+          "title": "Wiscon Industries IPO Opens on Oct 27, 2026",
+          "company": "Wiscon Industries",
+          "eventType": "open",
+          "date": "2026-10-27",
+          "dateEnd": "2026-10-27",
+          "details": "Wiscon Industries Ltd. is entering in the capital market with an IPO of 0.50 Equity Shares of Rs 10 aggregating up to Rs 102.04 Crore. The price for the issue has been set at Rs 194 - Rs 204 Per Equit",
+          "type": "sme",
+          "slug": "wiscon-industries-ipo",
+          "ipoId": 3202,
+          "eventId": 15743,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15743",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Opens%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=Wiscon%20Industries%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.50%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20102.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20194%20-%20Rs%20204%20Per%20Equit"
+          }
+        },
+        {
+          "title": "Carver Roboweld IPO Opens on Oct 28, 2026",
+          "company": "Carver Roboweld",
+          "eventType": "open",
+          "date": "2026-10-28",
+          "dateEnd": "2026-10-28",
+          "details": "Carver Roboweld Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Sh",
+          "type": "sme",
+          "slug": "carver-roboweld-ipo",
+          "ipoId": 3239,
+          "eventId": 15749,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15749",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Opens%20on%20Oct%2028%2C%202026&location=&dates=20261028/20261029&details=Carver%20Roboweld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Sh"
+          }
+        },
+        {
+          "title": "Wiscon Industries IPO Closes on Oct 29, 2026",
+          "company": "Wiscon Industries",
+          "eventType": "close",
+          "date": "2026-10-29",
+          "dateEnd": "2026-10-29",
+          "details": "The issue of Wiscon Industries Ltd. opens on Oct 27, 2026 and closes for subscription on Oct 29, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at R",
+          "type": "sme",
+          "slug": "wiscon-industries-ipo",
+          "ipoId": 3202,
+          "eventId": 15744,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15744",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Closes%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=The%20issue%20of%20Wiscon%20Industries%20Ltd.%20opens%20on%20Oct%2027%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20R"
+          }
+        },
+        {
+          "title": "Carver Roboweld IPO Closes on Oct 30, 2026",
+          "company": "Carver Roboweld",
+          "eventType": "close",
+          "date": "2026-10-30",
+          "dateEnd": "2026-10-30",
+          "details": "The issue of Carver Roboweld Ltd. opens on Oct 28, 2026 and closes for subscription on Oct 30, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+          "type": "sme",
+          "slug": "carver-roboweld-ipo",
+          "ipoId": 3239,
+          "eventId": 15750,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15750",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Closes%20on%20Oct%2030%2C%202026&location=&dates=20261030/20261031&details=The%20issue%20of%20Carver%20Roboweld%20Ltd.%20opens%20on%20Oct%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+          }
         }
       ]
     },
@@ -3399,11 +3553,32 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=11&year=2026"
       },
       "summary": {
-        "total": 4,
-        "mainboard": 2,
+        "total": 5,
+        "mainboard": 3,
         "sme": 2
       },
       "byDate": {
+        "2026-11-02": [
+          {
+            "title": "Bombay Coated and Special Steels IPO Closes on Nov 2, 2026",
+            "company": "Bombay Coated and Special Steels",
+            "eventType": "close",
+            "date": "2026-11-02",
+            "dateEnd": "2026-11-02",
+            "details": "The issue of Bombay Coated & Special Steels Ltd. opens on Oct 29, 2026 and closes for subscription on Nov 2, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has",
+            "type": "mainboard",
+            "slug": "bombay-coated-and-special-steels-ipo",
+            "ipoId": 2671,
+            "eventId": 15748,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15748",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20and%20Special%20Steels%20IPO%20Closes%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=The%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20opens%20on%20Oct%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%202%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20"
+            }
+          }
+        ],
         "2026-11-10": [
           {
             "title": "Holiday - Diwali-Balipratipada",
@@ -3486,6 +3661,25 @@
         ]
       },
       "events": [
+        {
+          "title": "Bombay Coated and Special Steels IPO Closes on Nov 2, 2026",
+          "company": "Bombay Coated and Special Steels",
+          "eventType": "close",
+          "date": "2026-11-02",
+          "dateEnd": "2026-11-02",
+          "details": "The issue of Bombay Coated & Special Steels Ltd. opens on Oct 29, 2026 and closes for subscription on Nov 2, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has",
+          "type": "mainboard",
+          "slug": "bombay-coated-and-special-steels-ipo",
+          "ipoId": 2671,
+          "eventId": 15748,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15748",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20and%20Special%20Steels%20IPO%20Closes%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=The%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20opens%20on%20Oct%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%202%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20"
+          }
+        },
         {
           "title": "Holiday - Diwali-Balipratipada",
           "company": "Holiday - Diwali-Balipratipada",
@@ -5217,6 +5411,101 @@
         "news": "https://www.chittorgarh.com/ipo_news/core4-engineers-ipo/2969/#15734",
         "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Core4%20Engineers%20IPO%20Closes%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=The%20issue%20of%20Core4%20Engineers%20Ltd.%20opens%20on%20Oct%2023%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2027%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+      }
+    },
+    {
+      "title": "Wiscon Industries IPO Opens on Oct 27, 2026",
+      "company": "Wiscon Industries",
+      "eventType": "open",
+      "date": "2026-10-27",
+      "dateEnd": "2026-10-27",
+      "details": "Wiscon Industries Ltd. is entering in the capital market with an IPO of 0.50 Equity Shares of Rs 10 aggregating up to Rs 102.04 Crore. The price for the issue has been set at Rs 194 - Rs 204 Per Equit",
+      "type": "sme",
+      "slug": "wiscon-industries-ipo",
+      "ipoId": 3202,
+      "eventId": 15743,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15743",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Opens%20on%20Oct%2027%2C%202026&location=&dates=20261027/20261028&details=Wiscon%20Industries%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.50%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20102.04%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20194%20-%20Rs%20204%20Per%20Equit"
+      }
+    },
+    {
+      "title": "Carver Roboweld IPO Opens on Oct 28, 2026",
+      "company": "Carver Roboweld",
+      "eventType": "open",
+      "date": "2026-10-28",
+      "dateEnd": "2026-10-28",
+      "details": "Carver Roboweld Ltd. is entering in the capital market with an IPO of 0.34 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity Sh",
+      "type": "sme",
+      "slug": "carver-roboweld-ipo",
+      "ipoId": 3239,
+      "eventId": 15749,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15749",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Opens%20on%20Oct%2028%2C%202026&location=&dates=20261028/20261029&details=Carver%20Roboweld%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.34%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20Sh"
+      }
+    },
+    {
+      "title": "Wiscon Industries IPO Closes on Oct 29, 2026",
+      "company": "Wiscon Industries",
+      "eventType": "close",
+      "date": "2026-10-29",
+      "dateEnd": "2026-10-29",
+      "details": "The issue of Wiscon Industries Ltd. opens on Oct 27, 2026 and closes for subscription on Oct 29, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at R",
+      "type": "sme",
+      "slug": "wiscon-industries-ipo",
+      "ipoId": 3202,
+      "eventId": 15744,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/wiscon-industries-ipo/3202/#15744",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Wiscon%20Industries%20IPO%20Closes%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=The%20issue%20of%20Wiscon%20Industries%20Ltd.%20opens%20on%20Oct%2027%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20R"
+      }
+    },
+    {
+      "title": "Carver Roboweld IPO Closes on Oct 30, 2026",
+      "company": "Carver Roboweld",
+      "eventType": "close",
+      "date": "2026-10-30",
+      "dateEnd": "2026-10-30",
+      "details": "The issue of Carver Roboweld Ltd. opens on Oct 28, 2026 and closes for subscription on Oct 30, 2026. The equity shares of the company to be list at BSE SME. The price for the issue has been set at Rs",
+      "type": "sme",
+      "slug": "carver-roboweld-ipo",
+      "ipoId": 3239,
+      "eventId": 15750,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/carver-roboweld-ipo/3239/#15750",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Carver%20Roboweld%20IPO%20Closes%20on%20Oct%2030%2C%202026&location=&dates=20261030/20261031&details=The%20issue%20of%20Carver%20Roboweld%20Ltd.%20opens%20on%20Oct%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+      }
+    },
+    {
+      "title": "Bombay Coated and Special Steels IPO Closes on Nov 2, 2026",
+      "company": "Bombay Coated and Special Steels",
+      "eventType": "close",
+      "date": "2026-11-02",
+      "dateEnd": "2026-11-02",
+      "details": "The issue of Bombay Coated & Special Steels Ltd. opens on Oct 29, 2026 and closes for subscription on Nov 2, 2026. The equity shares of the company to be list at BSE, NSE. The price for the issue has",
+      "type": "mainboard",
+      "slug": "bombay-coated-and-special-steels-ipo",
+      "ipoId": 2671,
+      "eventId": 15748,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15748",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20and%20Special%20Steels%20IPO%20Closes%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=The%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20opens%20on%20Oct%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%202%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20"
       }
     },
     {

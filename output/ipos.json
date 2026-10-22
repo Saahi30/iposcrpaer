@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T03:57:10+00:00",
+  "scrapedAt": "2026-10-22T11:25:56+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -16,11 +16,11 @@
   },
   "summary": {
     "open": 2,
-    "upcoming": 5,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 9
   },
   "ipos": [
     {
@@ -48,13 +48,13 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 3.61,
-        "xLot": 525.0,
-        "updatedOn": "22-Oct 9:02"
+        "value": 13.0,
+        "percent": 1.88,
+        "xLot": 273.0,
+        "updatedOn": "22-Oct 16:37"
       },
       "subscription": {
-        "total": 0.17,
+        "total": 0.36,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -65,48 +65,48 @@
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "0.00",
+            "Subscription (x)": "0.07",
             "Shares Offered*": "62,77,056",
-            "Shares bid for": "588",
-            "Total Amt* (₹ Cr.)": "0.041"
+            "Shares bid for": "4,27,560",
+            "Total Amt* (₹ Cr.)": "29.630"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.08",
+            "Subscription (x)": "0.26",
             "Shares Offered*": "31,38,528",
-            "Shares bid for": "2,65,083",
-            "Total Amt* (₹ Cr.)": "18.370"
+            "Shares bid for": "8,26,581",
+            "Total Amt* (₹ Cr.)": "57.282"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.05",
+            "Subscription (x)": "0.23",
             "Shares Offered*": "20,92,352",
-            "Shares bid for": "1,04,790",
-            "Total Amt* (₹ Cr.)": "7.262"
+            "Shares bid for": "4,86,843",
+            "Total Amt* (₹ Cr.)": "33.738"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.15",
+            "Subscription (x)": "0.32",
             "Shares Offered*": "10,46,176",
-            "Shares bid for": "1,60,293",
-            "Total Amt* (₹ Cr.)": "11.108"
+            "Shares bid for": "3,39,738",
+            "Total Amt* (₹ Cr.)": "23.544"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "0.80",
+            "Subscription (x)": "1.37",
             "Shares Offered*": "20,92,352",
-            "Shares bid for": "16,80,861",
-            "Total Amt* (₹ Cr.)": "116.484"
+            "Shares bid for": "28,61,523",
+            "Total Amt* (₹ Cr.)": "198.304"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.17",
+            "Subscription (x)": "0.36",
             "Shares Offered*": "1,15,07,936",
-            "Shares bid for": "19,46,532",
-            "Total Amt* (₹ Cr.)": "134.895"
+            "Shares bid for": "41,15,664",
+            "Total Amt* (₹ Cr.)": "285.216"
           }
         ],
-        "applications": 56120.0
+        "applications": 97429.0
       },
       "leadManager": "JM Financial",
       "symbols": {
@@ -154,13 +154,13 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 246.0,
-        "percent": 21.98,
-        "xLot": 2952.0,
-        "updatedOn": "22-Oct 9:02"
+        "value": 244.0,
+        "percent": 21.81,
+        "xLot": 2928.0,
+        "updatedOn": "22-Oct 16:37"
       },
       "subscription": {
-        "total": 3.24,
+        "total": 5.18,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -171,62 +171,62 @@
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "9.42",
+            "Subscription (x)": "12.31",
             "Shares Offered*": "4,90,07,828",
-            "Shares bid for": "46,15,39,752",
-            "Total Amt* (₹ Cr.)": "51,646.30"
+            "Shares bid for": "60,30,42,696",
+            "Total Amt* (₹ Cr.)": "67,480.48"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "1.80",
+            "Subscription (x)": "5.43",
             "Shares Offered*": "3,64,44,568",
-            "Shares bid for": "6,54,90,372",
-            "Total Amt* (₹ Cr.)": "7,328.37"
+            "Shares bid for": "19,80,19,500",
+            "Total Amt* (₹ Cr.)": "22,158.38"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.93",
+            "Subscription (x)": "6.10",
             "Shares Offered*": "2,42,96,379",
-            "Shares bid for": "4,67,79,204",
-            "Total Amt* (₹ Cr.)": "5,234.59"
+            "Shares bid for": "14,82,56,760",
+            "Total Amt* (₹ Cr.)": "16,589.93"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.54",
+            "Subscription (x)": "4.10",
             "Shares Offered*": "1,21,48,189",
-            "Shares bid for": "1,87,11,168",
-            "Total Amt* (₹ Cr.)": "2,093.78"
+            "Shares bid for": "4,97,62,740",
+            "Total Amt* (₹ Cr.)": "5,568.45"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "0.84",
+            "Subscription (x)": "1.51",
             "Shares Offered*": "8,50,37,326",
-            "Shares bid for": "7,11,58,116",
-            "Total Amt* (₹ Cr.)": "7,962.59"
+            "Shares bid for": "12,87,14,736",
+            "Total Amt* (₹ Cr.)": "14,403.18"
           },
           {
             "Category": "Employees",
-            "Subscription (x)": "1.45",
+            "Subscription (x)": "2.02",
             "Shares Offered*": "46,94,836",
-            "Shares bid for": "67,92,840",
-            "Total Amt* (₹ Cr.)": "760.12"
+            "Shares bid for": "94,74,708",
+            "Total Amt* (₹ Cr.)": "1,060.22"
           },
           {
             "Category": "Shareholders",
-            "Subscription (x)": "1.60",
+            "Subscription (x)": "3.80",
             "Shares Offered*": "2,23,41,376",
-            "Shares bid for": "3,58,57,824",
-            "Total Amt* (₹ Cr.)": "4,012.49"
+            "Shares bid for": "8,48,21,880",
+            "Total Amt* (₹ Cr.)": "9,491.57"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "3.24",
+            "Subscription (x)": "5.18",
             "Shares Offered*": "19,75,25,934",
-            "Shares bid for": "64,08,38,904",
-            "Total Amt* (₹ Cr.)": "71,709.87"
+            "Shares bid for": "1,02,40,73,520",
+            "Total Amt* (₹ Cr.)": "1,14,593.83"
           }
         ],
-        "applications": 3523990.0
+        "applications": 7121417.0
       },
       "leadManager": "Kotak Mahindra Capital",
       "symbols": {
@@ -248,6 +248,116 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platfo",
       "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "bombay-coated-and-special-steels-ipo",
+      "ipoId": 2671,
+      "name": "Bombay Coated and Special Steels",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹183.06 Cr",
+      "issueSizeCr": 183.06,
+      "freshIssueCr": 183.06,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-29",
+        "close": "2026-11-02",
+        "allotment": "2026-11-03",
+        "listing": "2026-11-05"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "22-Oct 11:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bombay-coated-special-steels-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bombay-coated-and-special-steels-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bombay-coated-and-special-steels-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+        "gmp": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/"
+      },
+      "gmpId": 1936,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple en",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "carver-roboweld-ipo",
+      "ipoId": 3239,
+      "name": "Carver Roboweld",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "listing": "2026-11-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "22-Oct 11:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/carver-roboweld-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/carver-roboweld-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=carver-roboweld-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+        "gmp": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/"
+      },
+      "gmpId": 2393,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services.\n\nThe Company operates its primary manufacturing facility in Bamanbore, Rajkot, ",
+      "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
       "slug": "sfc-environmental-technologies-ipo",
@@ -274,10 +384,10 @@
         "listing": "2026-11-03"
       },
       "gmp": {
-        "value": 31.0,
-        "percent": 9.39,
-        "xLot": 1395.0,
-        "updatedOn": "22-Oct 9:02"
+        "value": 21.0,
+        "percent": 6.36,
+        "xLot": 945.0,
+        "updatedOn": "22-Oct 16:37"
       },
       "subscription": {
         "total": null,
@@ -329,10 +439,10 @@
         "listing": "2026-11-03"
       },
       "gmp": {
-        "value": 30.0,
-        "percent": 20.0,
-        "xLot": 3000.0,
-        "updatedOn": "22-Oct 9:02"
+        "value": 35.0,
+        "percent": 23.33,
+        "xLot": 3500.0,
+        "updatedOn": "22-Oct 16:37"
       },
       "subscription": {
         "total": null,
@@ -384,10 +494,10 @@
         "listing": "2026-11-03"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "22-Oct 16:30"
       },
       "subscription": {
         "total": null,
@@ -442,7 +552,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 8:55"
+        "updatedOn": "22-Oct 16:36"
       },
       "subscription": {
         "total": null,
@@ -497,7 +607,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 8:58"
+        "updatedOn": "22-Oct 16:32"
       },
       "subscription": {
         "total": null,

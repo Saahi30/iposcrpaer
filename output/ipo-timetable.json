@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T03:57:15+00:00",
+  "scrapedAt": "2026-10-22T11:26:03+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 294,
-    "mainboard": 107,
-    "sme": 187
+    "total": 296,
+    "mainboard": 108,
+    "sme": 188
   },
   "ipos": [
     {
@@ -7068,6 +7068,54 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3239,
+      "name": "Carver Roboweld Ltd.",
+      "slug": "carver-roboweld-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "refunds": "2026-11-02",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Oct-2026",
+        "close": "30-Oct-2026",
+        "allotment": "02-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/carver-roboweld-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2671,
+      "name": "Bombay Coated & Special Steels Ltd.",
+      "slug": "bombay-coated-and-special-steels-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-10-29",
+        "close": "2026-11-02",
+        "allotment": "2026-11-03",
+        "refunds": "2026-11-04",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Oct-2026",
+        "close": "02-Nov-2026",
+        "allotment": "03-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bombay-coated-special-steels-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }
   ]
