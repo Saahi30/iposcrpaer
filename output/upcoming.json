@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T21:20:25+00:00",
+  "scrapedAt": "2026-10-23T04:00:41+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -31,11 +31,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 78.0,
+        "max": 82.0,
+        "display": "₹78–82"
       },
-      "lotSize": null,
+      "lotSize": 182,
       "issueSize": "₹183.06 Cr",
       "issueSizeCr": 183.06,
       "freshIssueCr": 183.06,
@@ -48,9 +48,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "22-Oct 11:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 8:58"
       },
       "subscription": {
         "total": null,
@@ -78,6 +78,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "mksons-fine-jewels-ipo",
+      "ipoId": 3100,
+      "name": "M.K.Sons Fine Jewels",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 153.0,
+        "max": 162.0,
+        "display": "₹153–162"
+      },
+      "lotSize": 91,
+      "issueSize": "₹330.48 Cr",
+      "issueSizeCr": 330.48,
+      "freshIssueCr": 275.4,
+      "ofsCr": 55.08,
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "listing": "2026-11-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 8:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aryaman Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mk-sons-fine-jewels-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/mksons-fine-jewels-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=mksons-fine-jewels-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+        "gmp": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/"
+      },
+      "gmpId": 2288,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.\n\nThe company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.\n\nThe company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall location",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "carver-roboweld-ipo",
       "ipoId": 3239,
       "name": "Carver Roboweld",
@@ -86,14 +141,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 76.0,
+        "max": 80.0,
+        "display": "₹76–80"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹28.29 Cr",
+      "issueSizeCr": 28.29,
+      "freshIssueCr": 26.87,
       "ofsCr": null,
       "dates": {
         "open": "2026-10-28",
@@ -103,9 +158,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "22-Oct 11:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 9:00"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 21.0,
         "percent": 6.36,
         "xLot": 945.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +270,7 @@
         "value": 38.0,
         "percent": 25.33,
         "xLot": 3800.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:01"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 8:57"
       },
       "subscription": {
         "total": null,
@@ -351,61 +406,6 @@
       "saleType": "OFS only",
       "about": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with por",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "core4-engineers-ipo",
-      "ipoId": 2969,
-      "name": "Core4 Engineers",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 93.0,
-        "display": "₹88–93"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹54.82 Cr",
-      "issueSizeCr": 54.82,
-      "freshIssueCr": 48.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-23",
-        "close": "2026-10-27",
-        "allotment": "2026-10-28",
-        "listing": "2026-10-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Oct 23:33"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Socradamus Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/core4-engineers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=core4-engineers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
-        "gmp": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/"
-      },
-      "gmpId": 2229,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T21:20:25+00:00",
+  "scrapedAt": "2026-10-23T04:00:41+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,69 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
+    "open": 3,
     "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 10
   },
   "ipos": [
+    {
+      "slug": "core4-engineers-ipo",
+      "ipoId": 2969,
+      "name": "Core4 Engineers",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 93.0,
+        "display": "₹88–93"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹54.82 Cr",
+      "issueSizeCr": 54.82,
+      "freshIssueCr": 48.12,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-23",
+        "close": "2026-10-27",
+        "allotment": "2026-10-28",
+        "listing": "2026-10-30"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 8:56"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Socradamus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/core4-engineers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=core4-engineers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
+        "gmp": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/"
+      },
+      "gmpId": 2229,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five",
+      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
+    },
     {
       "slug": "paras-healthcare-ipo",
       "ipoId": 2256,
@@ -51,10 +106,10 @@
         "value": 13.0,
         "percent": 1.88,
         "xLot": 273.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
-        "total": 0.36,
+        "total": 0.37,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -72,10 +127,10 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.26",
+            "Subscription (x)": "0.27",
             "Shares Offered*": "31,38,528",
-            "Shares bid for": "8,27,253",
-            "Total Amt* (₹ Cr.)": "57.329"
+            "Shares bid for": "8,32,923",
+            "Total Amt* (₹ Cr.)": "57.722"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -88,25 +143,25 @@
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "0.33",
             "Shares Offered*": "10,46,176",
-            "Shares bid for": "3,40,410",
-            "Total Amt* (₹ Cr.)": "23.590"
+            "Shares bid for": "3,46,080",
+            "Total Amt* (₹ Cr.)": "23.983"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "1.37",
+            "Subscription (x)": "1.43",
             "Shares Offered*": "20,92,352",
-            "Shares bid for": "28,71,477",
-            "Total Amt* (₹ Cr.)": "198.993"
+            "Shares bid for": "29,84,415",
+            "Total Amt* (₹ Cr.)": "206.820"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.36",
+            "Subscription (x)": "0.37",
             "Shares Offered*": "1,15,07,936",
-            "Shares bid for": "41,26,290",
-            "Total Amt* (₹ Cr.)": "285.952"
+            "Shares bid for": "42,44,898",
+            "Total Amt* (₹ Cr.)": "294.171"
           }
         ],
-        "applications": 98415.0
+        "applications": 101787.0
       },
       "leadManager": "JM Financial",
       "symbols": {
@@ -154,13 +209,13 @@
         "listing": "2026-10-28"
       },
       "gmp": {
-        "value": 240.0,
-        "percent": 21.45,
-        "xLot": 2880.0,
-        "updatedOn": "22-Oct 23:37"
+        "value": 245.0,
+        "percent": 21.89,
+        "xLot": 2940.0,
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
-        "total": 5.4,
+        "total": 5.76,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -171,62 +226,62 @@
           },
           {
             "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "12.87",
+            "Subscription (x)": "13.29",
             "Shares Offered*": "4,90,07,828",
-            "Shares bid for": "63,05,67,696",
-            "Total Amt* (₹ Cr.)": "70,560.53"
+            "Shares bid for": "65,15,05,716",
+            "Total Amt* (₹ Cr.)": "72,903.49"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "5.67",
+            "Subscription (x)": "6.51",
             "Shares Offered*": "3,64,44,568",
-            "Shares bid for": "20,65,44,324",
-            "Total Amt* (₹ Cr.)": "23,112.31"
+            "Shares bid for": "23,71,70,496",
+            "Total Amt* (₹ Cr.)": "26,539.38"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "6.38",
+            "Subscription (x)": "7.38",
             "Shares Offered*": "2,42,96,379",
-            "Shares bid for": "15,50,27,172",
-            "Total Amt* (₹ Cr.)": "17,347.54"
+            "Shares bid for": "17,93,69,388",
+            "Total Amt* (₹ Cr.)": "20,071.43"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "4.24",
+            "Subscription (x)": "4.76",
             "Shares Offered*": "1,21,48,189",
-            "Shares bid for": "5,15,17,152",
-            "Total Amt* (₹ Cr.)": "5,764.77"
+            "Shares bid for": "5,78,01,108",
+            "Total Amt* (₹ Cr.)": "6,467.94"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "1.55",
+            "Subscription (x)": "1.68",
             "Shares Offered*": "8,50,37,326",
-            "Shares bid for": "13,18,06,836",
-            "Total Amt* (₹ Cr.)": "14,749.18"
+            "Shares bid for": "14,24,38,224",
+            "Total Amt* (₹ Cr.)": "15,938.84"
           },
           {
             "Category": "Employees",
-            "Subscription (x)": "2.05",
+            "Subscription (x)": "2.18",
             "Shares Offered*": "46,94,836",
-            "Shares bid for": "96,45,828",
-            "Total Amt* (₹ Cr.)": "1,079.37"
+            "Shares bid for": "1,02,18,696",
+            "Total Amt* (₹ Cr.)": "1,143.47"
           },
           {
             "Category": "Shareholders",
-            "Subscription (x)": "3.92",
+            "Subscription (x)": "4.33",
             "Shares Offered*": "2,23,41,376",
-            "Shares bid for": "8,75,97,648",
-            "Total Amt* (₹ Cr.)": "9,802.18"
+            "Shares bid for": "9,67,24,620",
+            "Total Amt* (₹ Cr.)": "10,823.48"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "5.40",
+            "Subscription (x)": "5.76",
             "Shares Offered*": "19,75,25,934",
-            "Shares bid for": "1,06,61,62,332",
-            "Total Amt* (₹ Cr.)": "1,19,303.56"
+            "Shares bid for": "1,13,80,57,752",
+            "Total Amt* (₹ Cr.)": "1,27,348.66"
           }
         ],
-        "applications": 7306388.0
+        "applications": 7922687.0
       },
       "leadManager": "Kotak Mahindra Capital",
       "symbols": {
@@ -258,11 +313,11 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 78.0,
+        "max": 82.0,
+        "display": "₹78–82"
       },
-      "lotSize": null,
+      "lotSize": 182,
       "issueSize": "₹183.06 Cr",
       "issueSizeCr": 183.06,
       "freshIssueCr": 183.06,
@@ -275,9 +330,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "22-Oct 11:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 8:58"
       },
       "subscription": {
         "total": null,
@@ -305,6 +360,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "mksons-fine-jewels-ipo",
+      "ipoId": 3100,
+      "name": "M.K.Sons Fine Jewels",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 153.0,
+        "max": 162.0,
+        "display": "₹153–162"
+      },
+      "lotSize": 91,
+      "issueSize": "₹330.48 Cr",
+      "issueSizeCr": 330.48,
+      "freshIssueCr": 275.4,
+      "ofsCr": 55.08,
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "listing": "2026-11-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 8:53"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Aryaman Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mk-sons-fine-jewels-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/mksons-fine-jewels-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=mksons-fine-jewels-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+        "gmp": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/"
+      },
+      "gmpId": 2288,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.\n\nThe company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.\n\nThe company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall location",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
       "slug": "carver-roboweld-ipo",
       "ipoId": 3239,
       "name": "Carver Roboweld",
@@ -313,14 +423,14 @@
       "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 76.0,
+        "max": 80.0,
+        "display": "₹76–80"
       },
-      "lotSize": null,
-      "issueSize": "-",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": null,
+      "lotSize": 1600,
+      "issueSize": "₹28.29 Cr",
+      "issueSizeCr": 28.29,
+      "freshIssueCr": 26.87,
       "ofsCr": null,
       "dates": {
         "open": "2026-10-28",
@@ -330,9 +440,9 @@
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "22-Oct 11:10"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Oct 9:00"
       },
       "subscription": {
         "total": null,
@@ -387,7 +497,7 @@
         "value": 21.0,
         "percent": 6.36,
         "xLot": 945.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -442,7 +552,7 @@
         "value": 38.0,
         "percent": 25.33,
         "xLot": 3800.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -497,7 +607,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 9:01"
       },
       "subscription": {
         "total": null,
@@ -552,7 +662,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Oct 23:37"
+        "updatedOn": "23-Oct 8:57"
       },
       "subscription": {
         "total": null,
@@ -578,61 +688,6 @@
       "saleType": "OFS only",
       "about": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with por",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "core4-engineers-ipo",
-      "ipoId": 2969,
-      "name": "Core4 Engineers",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 93.0,
-        "display": "₹88–93"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹54.82 Cr",
-      "issueSizeCr": 54.82,
-      "freshIssueCr": 48.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-23",
-        "close": "2026-10-27",
-        "allotment": "2026-10-28",
-        "listing": "2026-10-30"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "22-Oct 23:33"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Socradamus Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/core4-engineers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=core4-engineers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
-        "gmp": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/"
-      },
-      "gmpId": 2229,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five",
-      "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     }
   ]
 }
