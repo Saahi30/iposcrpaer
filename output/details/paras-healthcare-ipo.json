@@ -403,58 +403,65 @@
     "source": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/"
   },
   "subscription": {
-    "summary": "Paras Healthcare IPO subscribed 2.33 times. The public issue subscribed 2.06 times in the retail category, 3.25 times in QIB (Ex Anchor), and 0.68 times in the NII category by October 23, 2026 4:44:53 PM (Day 3).",
-    "total": 2.33,
-    "applications": 151548.0,
+    "summary": "Paras Healthcare IPO subscribed 2.34 times. The public issue subscribed 2.10 times in the retail category, 3.25 times in QIB (Ex Anchor), and 0.69 times in the NII category by October 23, 2026 7:28:18 PM (Day 3).",
+    "total": 2.34,
+    "applications": null,
     "byCategory": [
       {
         "Category": "Anchor",
         "Subscription (x)": "1",
         "Shares Offered*": "94,15,584",
         "Shares bid for": "94,15,584",
-        "Total Amt* (₹ Cr.)": "652.500"
+        "Total Amt* (₹ Cr.)": "652.50",
+        "Total Applications": "-"
       },
       {
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "3.25",
         "Shares Offered*": "62,77,056",
         "Shares bid for": "2,03,81,592",
-        "Total Amt* (₹ Cr.)": "1,412.444"
+        "Total Amt* (₹ Cr.)": "1,412.44",
+        "Total Applications": "24"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.68",
+        "Subscription (x)": "0.69",
         "Shares Offered*": "31,38,528",
-        "Shares bid for": "21,38,619",
-        "Total Amt* (₹ Cr.)": "148.206"
+        "Shares bid for": "21,66,507",
+        "Total Amt* (₹ Cr.)": "150.14",
+        "Total Applications": "3,250"
       },
       {
         "Category": "bNII (> ₹10L)",
         "Subscription (x)": "0.62",
         "Shares Offered*": "20,92,352",
         "Shares bid for": "12,89,883",
-        "Total Amt* (₹ Cr.)": "89.389"
+        "Total Amt* (₹ Cr.)": "89.39",
+        "Total Applications": "2,526"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.81",
+        "Subscription (x)": "0.84",
         "Shares Offered*": "10,46,176",
-        "Shares bid for": "8,48,736",
-        "Total Amt* (₹ Cr.)": "58.817"
+        "Shares bid for": "8,76,624",
+        "Total Amt* (₹ Cr.)": "60.75",
+        "Total Applications": "724"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "2.06",
+        "Subscription (x)": "2.10",
         "Shares Offered*": "20,92,352",
-        "Shares bid for": "43,20,204",
-        "Total Amt* (₹ Cr.)": "299.390"
+        "Shares bid for": "43,95,657",
+        "Total Amt* (₹ Cr.)": "304.62",
+        "Total Applications": "1,49,412"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "2.33",
+        "Subscription (x)": "2.34",
         "Shares Offered*": "1,15,07,936",
-        "Shares bid for": "2,68,40,415",
-        "Total Amt* (₹ Cr.)": "1,860.041"
+        "Shares bid for": "2,69,43,756",
+        "Total Amt* (₹ Cr.)": "1,867.20",
+        "Total Applications": "-"
       }
     ],
     "dayWise": [
@@ -479,11 +486,11 @@
       {
         "Date": "Oct 23 (Day 3)",
         "QIB (Ex Anchor)": "3.25",
-        "NII": "0.68",
+        "NII": "0.69",
         "NII (> ₹10L)": "0.62",
-        "NII (< ₹10L)": "0.81",
-        "Retail": "2.06",
-        "Total": "2.33"
+        "NII (< ₹10L)": "0.84",
+        "Retail": "2.10",
+        "Total": "2.34"
       }
     ]
   },
@@ -493,9 +500,9 @@
     "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
-      "min": 660.0,
+      "min": 693.0,
       "max": 693.0,
-      "display": "₹660–693"
+      "display": "₹693"
     },
     "lotSize": 21,
     "issueSize": "₹1450.00 Cr",
@@ -506,10 +513,10 @@
       "listing": "2026-10-28"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 0.72,
-      "xLot": 105.0,
-      "updatedOn": "23-Oct 13:37"
+      "value": 11.0,
+      "percent": 1.59,
+      "xLot": 231.0,
+      "updatedOn": "23-Oct 21:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
@@ -519,5 +526,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-23T11:15:25+00:00"
+  "scrapedAt": "2026-10-23T16:44:28+00:00"
 }

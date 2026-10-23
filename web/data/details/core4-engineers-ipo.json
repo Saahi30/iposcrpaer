@@ -466,7 +466,7 @@
     "source": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/"
   },
   "subscription": {
-    "summary": "Core4 Engineers IPO subscribed 0.08 times. The public issue subscribed 0.14 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.05 times in the NII category by October 23, 2026 4:44:58 PM (Day 1).",
+    "summary": "Core4 Engineers IPO subscribed 0.08 times. The public issue subscribed 0.14 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 0.05 times in the NII category by October 23, 2026 5:08:52 PM (Day 1).",
     "total": 0.08,
     "applications": null,
     "byCategory": [
@@ -508,7 +508,7 @@
         "Shares Offered*": "5,18,400",
         "Shares bid for": "10,800",
         "Total Amt* (₹ Cr.)": "0.100",
-        "Total Applications": ""
+        "Total Applications": "0"
       },
       {
         "Category": "sNII (< ₹10L)",
@@ -516,23 +516,23 @@
         "Shares Offered*": "2,59,200",
         "Shares bid for": "25,200",
         "Total Amt* (₹ Cr.)": "0.234",
-        "Total Applications": ""
+        "Total Applications": "0"
       },
       {
         "Category": "Individual Investors",
         "Subscription (x)": "0.14",
         "Shares Offered*": "18,12,000",
-        "Shares bid for": "2,56,800",
-        "Total Amt* (₹ Cr.)": "2.388",
+        "Shares bid for": "2,59,200",
+        "Total Amt* (₹ Cr.)": "2.411",
         "Total Applications": "0"
       },
       {
         "Category": "Total **",
         "Subscription (x)": "0.08",
         "Shares Offered*": "36,30,000",
-        "Shares bid for": "2,92,800",
-        "Total Amt* (₹ Cr.)": "2.723",
-        "Total Applications": "117"
+        "Shares bid for": "2,95,200",
+        "Total Amt* (₹ Cr.)": "2.745",
+        "Total Applications": "-"
       }
     ],
     "dayWise": [
@@ -569,7 +569,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "23-Oct 13:34"
+      "updatedOn": "23-Oct 21:37"
     },
     "leadManager": "Socradamus Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/core4-engineers-logo.jpg",
@@ -579,5 +579,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-23T11:15:23+00:00"
+  "scrapedAt": "2026-10-23T16:44:24+00:00"
 }
