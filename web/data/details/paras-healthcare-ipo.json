@@ -403,9 +403,9 @@
     "source": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/"
   },
   "subscription": {
-    "summary": "Paras Healthcare IPO subscribed 0.37 times. The public issue subscribed 1.43 times in the retail category, 0.07 times in QIB (Ex Anchor), and 0.27 times in the NII category by October 23, 2026 9:29:57 AM (Day 3).",
-    "total": 0.37,
-    "applications": 101787.0,
+    "summary": "Paras Healthcare IPO subscribed 2.33 times. The public issue subscribed 2.06 times in the retail category, 3.25 times in QIB (Ex Anchor), and 0.68 times in the NII category by October 23, 2026 4:44:53 PM (Day 3).",
+    "total": 2.33,
+    "applications": 151548.0,
     "byCategory": [
       {
         "Category": "Anchor",
@@ -416,45 +416,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.07",
+        "Subscription (x)": "3.25",
         "Shares Offered*": "62,77,056",
-        "Shares bid for": "4,27,560",
-        "Total Amt* (₹ Cr.)": "29.630"
+        "Shares bid for": "2,03,81,592",
+        "Total Amt* (₹ Cr.)": "1,412.444"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.27",
+        "Subscription (x)": "0.68",
         "Shares Offered*": "31,38,528",
-        "Shares bid for": "8,32,923",
-        "Total Amt* (₹ Cr.)": "57.722"
+        "Shares bid for": "21,38,619",
+        "Total Amt* (₹ Cr.)": "148.206"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.23",
+        "Subscription (x)": "0.62",
         "Shares Offered*": "20,92,352",
-        "Shares bid for": "4,86,843",
-        "Total Amt* (₹ Cr.)": "33.738"
+        "Shares bid for": "12,89,883",
+        "Total Amt* (₹ Cr.)": "89.389"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.33",
+        "Subscription (x)": "0.81",
         "Shares Offered*": "10,46,176",
-        "Shares bid for": "3,46,080",
-        "Total Amt* (₹ Cr.)": "23.983"
+        "Shares bid for": "8,48,736",
+        "Total Amt* (₹ Cr.)": "58.817"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.43",
+        "Subscription (x)": "2.06",
         "Shares Offered*": "20,92,352",
-        "Shares bid for": "29,84,415",
-        "Total Amt* (₹ Cr.)": "206.820"
+        "Shares bid for": "43,20,204",
+        "Total Amt* (₹ Cr.)": "299.390"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.37",
+        "Subscription (x)": "2.33",
         "Shares Offered*": "1,15,07,936",
-        "Shares bid for": "42,44,898",
-        "Total Amt* (₹ Cr.)": "294.171"
+        "Shares bid for": "2,68,40,415",
+        "Total Amt* (₹ Cr.)": "1,860.041"
       }
     ],
     "dayWise": [
@@ -478,12 +478,12 @@
       },
       {
         "Date": "Oct 23 (Day 3)",
-        "QIB (Ex Anchor)": "0.07",
-        "NII": "0.27",
-        "NII (> ₹10L)": "0.23",
-        "NII (< ₹10L)": "0.33",
-        "Retail": "1.43",
-        "Total": "0.37"
+        "QIB (Ex Anchor)": "3.25",
+        "NII": "0.68",
+        "NII (> ₹10L)": "0.62",
+        "NII (< ₹10L)": "0.81",
+        "Retail": "2.06",
+        "Total": "2.33"
       }
     ]
   },
@@ -506,10 +506,10 @@
       "listing": "2026-10-28"
     },
     "gmp": {
-      "value": 13.0,
-      "percent": 1.88,
-      "xLot": 273.0,
-      "updatedOn": "23-Oct 9:02"
+      "value": 5.0,
+      "percent": 0.72,
+      "xLot": 105.0,
+      "updatedOn": "23-Oct 13:37"
     },
     "leadManager": "JM Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
@@ -519,5 +519,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-23T04:00:24+00:00"
+  "scrapedAt": "2026-10-23T11:15:25+00:00"
 }
