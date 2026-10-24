@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-24T15:38:10+00:00",
+  "scrapedAt": "2026-10-24T20:28:12+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 105,
-    "mainboard": 45,
+    "totalEvents": 107,
+    "mainboard": 47,
     "sme": 60,
     "byEventType": {
-      "allotment": 37,
+      "allotment": 39,
       "close": 38,
       "open": 22,
       "other": 8
@@ -37,8 +37,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 99,
-        "mainboard": 42,
+        "total": 101,
+        "mainboard": 44,
         "sme": 57
       },
       "byDate": {
@@ -1592,6 +1592,44 @@
         ],
         "2026-10-24": [
           {
+            "title": "Tonbo Imaging India IPO Allotment Status",
+            "company": "Tonbo Imaging India",
+            "eventType": "allotment",
+            "date": "2026-10-24",
+            "dateEnd": "2026-10-24",
+            "details": "The allotment status of Tonbo Imaging India Ltd. IPO is now available online. The public issue of Tonbo Imaging India IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equi",
+            "type": "mainboard",
+            "slug": "tonbo-imaging-india-ipo",
+            "ipoId": 3215,
+            "eventId": 15765,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/tonbo-imaging-india-ipo/3215/#15765",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Tonbo%20Imaging%20India%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Tonbo%20Imaging%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Tonbo%20Imaging%20India%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equi"
+            }
+          },
+          {
+            "title": "Zetwerk IPO Allotment Status",
+            "company": "Zetwerk",
+            "eventType": "allotment",
+            "date": "2026-10-24",
+            "dateEnd": "2026-10-24",
+            "details": "The allotment status of Zetwerk Manufacturing Business Ltd. IPO is now available online. The public issue of Zetwerk IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equit",
+            "type": "mainboard",
+            "slug": "zetwerk-ipo",
+            "ipoId": 3091,
+            "eventId": 15766,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/zetwerk-ipo/3091/#15766",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Zetwerk%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Zetwerk%20Manufacturing%20Business%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Zetwerk%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equit"
+            }
+          },
+          {
             "title": "Shellz India IPO Allotment Status",
             "company": "Shellz India",
             "eventType": "allotment",
@@ -2573,6 +2611,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/paras-healthcare-ipo/2256/#15727",
             "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paras%20Healthcare%20IPO%20Closes%20on%20Oct%2023%2C%202026&location=&dates=20261023/20261024&details=The%20issue%20of%20Paras%20Healthcare%20Ltd.%20opens%20on%20Oct%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20R"
+          }
+        },
+        {
+          "title": "Tonbo Imaging India IPO Allotment Status",
+          "company": "Tonbo Imaging India",
+          "eventType": "allotment",
+          "date": "2026-10-24",
+          "dateEnd": "2026-10-24",
+          "details": "The allotment status of Tonbo Imaging India Ltd. IPO is now available online. The public issue of Tonbo Imaging India IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equi",
+          "type": "mainboard",
+          "slug": "tonbo-imaging-india-ipo",
+          "ipoId": 3215,
+          "eventId": 15765,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/tonbo-imaging-india-ipo/3215/#15765",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Tonbo%20Imaging%20India%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Tonbo%20Imaging%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Tonbo%20Imaging%20India%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equi"
+          }
+        },
+        {
+          "title": "Zetwerk IPO Allotment Status",
+          "company": "Zetwerk",
+          "eventType": "allotment",
+          "date": "2026-10-24",
+          "dateEnd": "2026-10-24",
+          "details": "The allotment status of Zetwerk Manufacturing Business Ltd. IPO is now available online. The public issue of Zetwerk IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equit",
+          "type": "mainboard",
+          "slug": "zetwerk-ipo",
+          "ipoId": 3091,
+          "eventId": 15766,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/zetwerk-ipo/3091/#15766",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Zetwerk%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Zetwerk%20Manufacturing%20Business%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Zetwerk%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equit"
           }
         },
         {
@@ -4710,6 +4786,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/paras-healthcare-ipo/2256/#15727",
         "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Paras%20Healthcare%20IPO%20Closes%20on%20Oct%2023%2C%202026&location=&dates=20261023/20261024&details=The%20issue%20of%20Paras%20Healthcare%20Ltd.%20opens%20on%20Oct%2021%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2023%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20R"
+      }
+    },
+    {
+      "title": "Tonbo Imaging India IPO Allotment Status",
+      "company": "Tonbo Imaging India",
+      "eventType": "allotment",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-24",
+      "details": "The allotment status of Tonbo Imaging India Ltd. IPO is now available online. The public issue of Tonbo Imaging India IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equi",
+      "type": "mainboard",
+      "slug": "tonbo-imaging-india-ipo",
+      "ipoId": 3215,
+      "eventId": 15765,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/tonbo-imaging-india-ipo/3215/#15765",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Tonbo%20Imaging%20India%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Tonbo%20Imaging%20India%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Tonbo%20Imaging%20India%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equi"
+      }
+    },
+    {
+      "title": "Zetwerk IPO Allotment Status",
+      "company": "Zetwerk",
+      "eventType": "allotment",
+      "date": "2026-10-24",
+      "dateEnd": "2026-10-24",
+      "details": "The allotment status of Zetwerk Manufacturing Business Ltd. IPO is now available online. The public issue of Zetwerk IPO was open on Oct 15, 2026 and closed for subscription on Oct 19, 2026. The equit",
+      "type": "mainboard",
+      "slug": "zetwerk-ipo",
+      "ipoId": 3091,
+      "eventId": 15766,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/zetwerk-ipo/3091/#15766",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/zetwerk-ipo/3091/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Zetwerk%20IPO%20Allotment%20Status&location=&dates=20261024/20261025&details=The%20allotment%20status%20of%20Zetwerk%20Manufacturing%20Business%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Zetwerk%20IPO%20was%20open%20on%20Oct%2015%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2019%2C%202026.%20The%20equit"
       }
     },
     {
