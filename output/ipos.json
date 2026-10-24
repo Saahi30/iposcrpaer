@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-23T21:10:48+00:00",
+  "scrapedAt": "2026-10-24T03:55:04+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,8 +15,8 @@
     "limit": null
   },
   "summary": {
-    "open": 3,
-    "upcoming": 7,
+    "open": 1,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
@@ -51,7 +51,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Oct 23:32"
+        "updatedOn": "24-Oct 8:55"
       },
       "subscription": {
         "total": 0.08,
@@ -145,248 +145,6 @@
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
-      "slug": "paras-healthcare-ipo",
-      "ipoId": 2256,
-      "name": "Paras Healthcare",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 660.0,
-        "max": 693.0,
-        "display": "₹660–693"
-      },
-      "lotSize": 21,
-      "issueSize": "₹1450.00 Cr",
-      "issueSizeCr": 1450.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 950.0,
-      "dates": {
-        "open": "2026-10-21",
-        "close": "2026-10-23",
-        "allotment": "2026-10-26",
-        "listing": "2026-10-28"
-      },
-      "gmp": {
-        "value": 11.0,
-        "percent": 1.59,
-        "xLot": 231.0,
-        "updatedOn": "23-Oct 23:37"
-      },
-      "subscription": {
-        "total": 2.34,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "94,15,584",
-            "Shares bid for": "94,15,584",
-            "Total Amt* (₹ Cr.)": "652.50",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "3.25",
-            "Shares Offered*": "62,77,056",
-            "Shares bid for": "2,03,81,592",
-            "Total Amt* (₹ Cr.)": "1,412.44",
-            "Total Applications": "24"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "0.69",
-            "Shares Offered*": "31,38,528",
-            "Shares bid for": "21,66,507",
-            "Total Amt* (₹ Cr.)": "150.14",
-            "Total Applications": "3,250"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.62",
-            "Shares Offered*": "20,92,352",
-            "Shares bid for": "12,89,883",
-            "Total Amt* (₹ Cr.)": "89.39",
-            "Total Applications": "2,526"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.84",
-            "Shares Offered*": "10,46,176",
-            "Shares bid for": "8,76,624",
-            "Total Amt* (₹ Cr.)": "60.75",
-            "Total Applications": "724"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "2.10",
-            "Shares Offered*": "20,92,352",
-            "Shares bid for": "43,95,657",
-            "Total Amt* (₹ Cr.)": "304.62",
-            "Total Applications": "1,49,412"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "2.34",
-            "Shares Offered*": "1,15,07,936",
-            "Shares bid for": "2,69,43,756",
-            "Total Amt* (₹ Cr.)": "1,867.20",
-            "Total Applications": "-"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "JM Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/paras-healthcare-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/paras-healthcare-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=paras-healthcare-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/paras-healthcare-ipo/2256/",
-        "gmp": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/"
-      },
-      "gmpId": 1728,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in1987, Paras Healthcare Limited is a leading clinical specialty-led hospital platform providing tertiary and quaternary healthcare services across North India, Bihar, and Jharkhand under the \"Paras Health\" brand. The company operates eight hospitals with an aggregate bed capacity of 2,211 beds across Gurugram, Panchkula, Patna, Darbhanga, Kanpur, Udaipur, Ranchi, and Srinagar as of June 30, 2026.\n\nIt specializes in cardiac sciences, oncology, neurosciences, gastro sciences, orthope",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "jio-platforms-ipo",
-      "ipoId": 3152,
-      "name": "Jio Platforms",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 1065.0,
-        "max": 1119.0,
-        "display": "₹1065–1119"
-      },
-      "lotSize": 12,
-      "issueSize": "₹30213.00 Cr",
-      "issueSizeCr": 30213.0,
-      "freshIssueCr": 30213.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-21",
-        "close": "2026-10-23",
-        "allotment": "2026-10-26",
-        "listing": "2026-10-28"
-      },
-      "gmp": {
-        "value": 250.0,
-        "percent": 22.34,
-        "xLot": 3000.0,
-        "updatedOn": "23-Oct 23:37"
-      },
-      "subscription": {
-        "total": 21.36,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "7,24,74,066",
-            "Shares bid for": "7,24,74,066",
-            "Total Amt* (₹ Cr.)": "8,109.85",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "67.15",
-            "Shares Offered*": "4,90,07,828",
-            "Shares bid for": "3,29,10,06,312",
-            "Total Amt* (₹ Cr.)": "3,68,263.61",
-            "Total Applications": "3,143"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "13.99",
-            "Shares Offered*": "3,64,44,568",
-            "Shares bid for": "50,97,04,032",
-            "Total Amt* (₹ Cr.)": "57,035.88",
-            "Total Applications": "9,66,775"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "15.88",
-            "Shares Offered*": "2,42,96,379",
-            "Shares bid for": "38,58,03,384",
-            "Total Amt* (₹ Cr.)": "43,171.40",
-            "Total Applications": "5,97,797"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "10.20",
-            "Shares Offered*": "1,21,48,189",
-            "Shares bid for": "12,39,00,648",
-            "Total Amt* (₹ Cr.)": "13,864.48",
-            "Total Applications": "3,68,978"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "2.76",
-            "Shares Offered*": "8,50,37,326",
-            "Shares bid for": "23,49,11,016",
-            "Total Amt* (₹ Cr.)": "26,286.54",
-            "Total Applications": "1,02,77,586"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "2.91",
-            "Shares Offered*": "46,94,836",
-            "Shares bid for": "1,36,82,592",
-            "Total Amt* (₹ Cr.)": "1,531.08",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Shareholders",
-            "Subscription (x)": "7.59",
-            "Shares Offered*": "2,23,41,376",
-            "Shares bid for": "16,94,67,900",
-            "Total Amt* (₹ Cr.)": "18,963.46",
-            "Total Applications": "-"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "21.36",
-            "Shares Offered*": "19,75,25,934",
-            "Shares bid for": "4,21,87,71,852",
-            "Total Amt* (₹ Cr.)": "4,72,080.57",
-            "Total Applications": "-"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Kotak Mahindra Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/jio-platform-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/jio-platforms-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=jio-platforms-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
-        "gmp": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/"
-      },
-      "gmpId": 2306,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platfo",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "bombay-coated-and-special-steels-ipo",
       "ipoId": 2671,
       "name": "Bombay Coated and Special Steels",
@@ -414,7 +172,7 @@
         "value": 8.0,
         "percent": 9.76,
         "xLot": 1456.0,
-        "updatedOn": "23-Oct 23:37"
+        "updatedOn": "24-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -439,6 +197,116 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple en",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "antala-industries-ipo",
+      "ipoId": 3221,
+      "name": "Antala Industries",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 63.0,
+        "max": 67.0,
+        "display": "₹63–67"
+      },
+      "lotSize": 2000,
+      "issueSize": "₹23.33 Cr",
+      "issueSizeCr": 23.33,
+      "freshIssueCr": 22.15,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-29",
+        "close": "2026-11-02",
+        "allotment": "2026-11-03",
+        "listing": "2026-11-05"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Vatsa Capital Venture Pvt.Ltd.",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/antala-industries-ltd-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/antala-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=antala-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+        "gmp": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/"
+      },
+      "gmpId": 2375,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabi",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "ajwa-projects-ipo",
+      "ipoId": 2761,
+      "name": "Ajwa Projects",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 203.0,
+        "max": 203.0,
+        "display": "₹203"
+      },
+      "lotSize": 600,
+      "issueSize": "₹38.05 Cr",
+      "issueSizeCr": 38.05,
+      "freshIssueCr": 28.53,
+      "ofsCr": 7.6,
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "listing": "2026-11-04"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Wealth Mine Networks",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ajwa-projects-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/ajwa-projects-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=ajwa-projects-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
+        "gmp": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/"
+      },
+      "gmpId": 2017,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2011, Ajwa Projects is a multi-disciplinary industrial services company delivering end-to-end solutions across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company specializes in turning project plans into real, functional industrial assets. The company manufacture technological frameworks, industrial buildings, girders, heavy modules, platforms, and crane girders that are critical for plant construction and",
       "registrar": "Kfin Technologies Ltd."
     },
     {
@@ -469,7 +337,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Oct 23:35"
+        "updatedOn": "24-Oct 9:01"
       },
       "subscription": {
         "total": null,
@@ -524,7 +392,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Oct 23:30"
+        "updatedOn": "24-Oct 8:56"
       },
       "subscription": {
         "total": null,
@@ -579,7 +447,7 @@
         "value": 21.0,
         "percent": 6.36,
         "xLot": 945.0,
-        "updatedOn": "23-Oct 23:37"
+        "updatedOn": "24-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -634,7 +502,7 @@
         "value": 38.0,
         "percent": 25.33,
         "xLot": 3800.0,
-        "updatedOn": "23-Oct 23:37"
+        "updatedOn": "24-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -689,7 +557,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "23-Oct 23:30"
+        "updatedOn": "24-Oct 8:53"
       },
       "subscription": {
         "total": null,
@@ -744,7 +612,7 @@
         "value": 121.0,
         "percent": 7.27,
         "xLot": 1089.0,
-        "updatedOn": "23-Oct 23:37"
+        "updatedOn": "24-Oct 9:02"
       },
       "subscription": {
         "total": null,

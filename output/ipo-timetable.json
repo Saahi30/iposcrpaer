@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-23T21:10:53+00:00",
+  "scrapedAt": "2026-10-24T03:55:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 297,
+    "total": 299,
     "mainboard": 109,
-    "sme": 188
+    "sme": 190
   },
   "ipos": [
     {
@@ -7071,6 +7071,30 @@
       }
     },
     {
+      "ipoId": 2761,
+      "name": "Ajwa Projects Ltd.",
+      "slug": "ajwa-projects-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-28",
+        "close": "2026-10-30",
+        "allotment": "2026-11-02",
+        "refunds": "2026-11-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "28-Oct-2026",
+        "close": "30-Oct-2026",
+        "allotment": "02-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/ajwa-projects-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
       "ipoId": 3239,
       "name": "Carver Roboweld Ltd.",
       "slug": "carver-roboweld-ipo",
@@ -7116,6 +7140,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3221,
+      "name": "Antala Industries Ltd.",
+      "slug": "antala-industries-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-29",
+        "close": "2026-11-02",
+        "allotment": "2026-11-03",
+        "refunds": "2026-11-04",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "29-Oct-2026",
+        "close": "02-Nov-2026",
+        "allotment": "03-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/antala-industries-ltd-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {
