@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-25T20:36:08+00:00",
+  "scrapedAt": "2026-10-26T03:58:44+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,69 @@
     "limit": null
   },
   "summary": {
-    "open": 1,
-    "upcoming": 9,
+    "open": 2,
+    "upcoming": 8,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 10
   },
   "ipos": [
+    {
+      "slug": "eaaa-india-alternatives-ipo",
+      "ipoId": 2061,
+      "name": "EAAA India Alternatives",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 1585.0,
+        "max": 1665.0,
+        "display": "₹1585–1665"
+      },
+      "lotSize": 9,
+      "issueSize": "₹1200.00 Cr",
+      "issueSizeCr": 1200.0,
+      "freshIssueCr": null,
+      "ofsCr": 1200.0,
+      "dates": {
+        "open": "2026-10-26",
+        "close": "2026-10-28",
+        "allotment": "2026-10-29",
+        "listing": "2026-11-02"
+      },
+      "gmp": {
+        "value": 36.0,
+        "percent": 2.16,
+        "xLot": 324.0,
+        "updatedOn": "26-Oct 9:02"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Axis Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/edelweiss-alternatives-corporate-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/eaaa-india-alternatives-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=eaaa-india-alternatives-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+        "gmp": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/"
+      },
+      "gmpId": 1635,
+      "faceValue": "₹5 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "OFS only",
+      "about": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with por",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "core4-engineers-ipo",
       "ipoId": 2969,
@@ -51,10 +106,10 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Oct 23:33"
+        "updatedOn": "26-Oct 8:58"
       },
       "subscription": {
-        "total": 0.08,
+        "total": 0.09,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -106,18 +161,18 @@
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.14",
+            "Subscription (x)": "0.16",
             "Shares Offered*": "18,12,000",
-            "Shares bid for": "2,59,200",
-            "Total Amt* (₹ Cr.)": "2.411",
+            "Shares bid for": "2,88,000",
+            "Total Amt* (₹ Cr.)": "2.678",
             "Total Applications": "0"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.08",
+            "Subscription (x)": "0.09",
             "Shares Offered*": "36,30,000",
-            "Shares bid for": "2,95,200",
-            "Total Amt* (₹ Cr.)": "2.745",
+            "Shares bid for": "3,24,000",
+            "Total Amt* (₹ Cr.)": "3.013",
             "Total Applications": "-"
           }
         ],
@@ -172,7 +227,7 @@
         "value": 8.0,
         "percent": 9.76,
         "xLot": 1456.0,
-        "updatedOn": "25-Oct 23:37"
+        "updatedOn": "26-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -227,7 +282,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Oct 23:31"
+        "updatedOn": "26-Oct 8:55"
       },
       "subscription": {
         "total": null,
@@ -282,7 +337,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Oct 23:34"
+        "updatedOn": "26-Oct 8:53"
       },
       "subscription": {
         "total": null,
@@ -337,7 +392,7 @@
         "value": 7.0,
         "percent": 4.32,
         "xLot": 637.0,
-        "updatedOn": "25-Oct 23:37"
+        "updatedOn": "26-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -392,7 +447,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Oct 23:32"
+        "updatedOn": "26-Oct 8:53"
       },
       "subscription": {
         "total": null,
@@ -447,7 +502,7 @@
         "value": 32.0,
         "percent": 9.7,
         "xLot": 1440.0,
-        "updatedOn": "25-Oct 23:37"
+        "updatedOn": "26-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -502,7 +557,7 @@
         "value": 38.0,
         "percent": 25.33,
         "xLot": 3800.0,
-        "updatedOn": "25-Oct 23:37"
+        "updatedOn": "26-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -557,7 +612,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "25-Oct 23:36"
+        "updatedOn": "26-Oct 9:02"
       },
       "subscription": {
         "total": null,
@@ -583,61 +638,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "eaaa-india-alternatives-ipo",
-      "ipoId": 2061,
-      "name": "EAAA India Alternatives",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 1585.0,
-        "max": 1665.0,
-        "display": "₹1585–1665"
-      },
-      "lotSize": 9,
-      "issueSize": "₹1200.00 Cr",
-      "issueSizeCr": 1200.0,
-      "freshIssueCr": null,
-      "ofsCr": 1200.0,
-      "dates": {
-        "open": "2026-10-26",
-        "close": "2026-10-28",
-        "allotment": "2026-10-29",
-        "listing": "2026-11-02"
-      },
-      "gmp": {
-        "value": 33.0,
-        "percent": 1.98,
-        "xLot": 297.0,
-        "updatedOn": "25-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Axis Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/edelweiss-alternatives-corporate-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/eaaa-india-alternatives-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=eaaa-india-alternatives-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
-        "gmp": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/"
-      },
-      "gmpId": 1635,
-      "faceValue": "₹5 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "OFS only",
-      "about": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with por",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
