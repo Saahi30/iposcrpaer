@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-26T22:26:46+00:00",
+  "scrapedAt": "2026-10-27T04:19:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,179 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
-    "upcoming": 8,
+    "open": 5,
+    "upcoming": 9,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 14
   },
   "ipos": [
+    {
+      "slug": "sfc-environmental-technologies-ipo",
+      "ipoId": 2070,
+      "name": "SFC Environmental Technologies",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 313.0,
+        "max": 330.0,
+        "display": "₹313–330"
+      },
+      "lotSize": 45,
+      "issueSize": "₹667.53 Cr",
+      "issueSizeCr": 667.53,
+      "freshIssueCr": 150.0,
+      "ofsCr": 517.53,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 20.0,
+        "percent": 6.06,
+        "xLot": 900.0,
+        "updatedOn": "27-Oct 9:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sfc-environmental-technologies-limited_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sfc-environmental-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sfc-environmental-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+        "gmp": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/"
+      },
+      "gmpId": 1642,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewag",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "bls-polymers-ipo",
+      "ipoId": 2559,
+      "name": "BLS Polymers",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 142.0,
+        "max": 150.0,
+        "display": "₹142–150"
+      },
+      "lotSize": 100,
+      "issueSize": "₹255.00 Cr",
+      "issueSizeCr": 255.0,
+      "freshIssueCr": 255.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 40.0,
+        "percent": 26.67,
+        "xLot": 4000.0,
+        "updatedOn": "27-Oct 9:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Unistone Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bls-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bls-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
+        "gmp": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/"
+      },
+      "gmpId": 1849,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "wiscon-industries-ipo",
+      "ipoId": 3202,
+      "name": "Wiscon Industries",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 194.0,
+        "max": 204.0,
+        "display": "₹194–204"
+      },
+      "lotSize": 600,
+      "issueSize": "₹110.00 Cr",
+      "issueSizeCr": 110.0,
+      "freshIssueCr": 80.05,
+      "ofsCr": 22.0,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "27-Oct 9:35"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/wiscon_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/wiscon-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=wiscon-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+        "gmp": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/"
+      },
+      "gmpId": 2356,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "eaaa-india-alternatives-ipo",
       "ipoId": 2061,
@@ -51,7 +216,7 @@
         "value": 15.0,
         "percent": 0.9,
         "xLot": 135.0,
-        "updatedOn": "26-Oct 23:37"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": 0.12,
@@ -74,11 +239,11 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.33",
+            "Subscription (x)": "0.34",
             "Shares Offered*": "10,81,081",
-            "Shares bid for": "3,61,899",
-            "Total Amt* (₹ Cr.)": "60.256",
-            "Total Applications": "626"
+            "Shares bid for": "3,62,196",
+            "Total Amt* (₹ Cr.)": "60.306",
+            "Total Applications": "627"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -86,30 +251,30 @@
             "Shares Offered*": "7,20,721",
             "Shares bid for": "3,53,232",
             "Total Amt* (₹ Cr.)": "58.813",
-            "Total Applications": "43"
+            "Total Applications": "44"
           },
           {
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "0.02",
             "Shares Offered*": "3,60,360",
-            "Shares bid for": "8,667",
-            "Total Amt* (₹ Cr.)": "1.443",
+            "Shares bid for": "8,964",
+            "Total Amt* (₹ Cr.)": "1.493",
             "Total Applications": "583"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "0.04",
             "Shares Offered*": "25,22,523",
-            "Shares bid for": "1,08,261",
-            "Total Amt* (₹ Cr.)": "18.025",
-            "Total Applications": "9,793"
+            "Shares bid for": "1,11,366",
+            "Total Amt* (₹ Cr.)": "18.542",
+            "Total Applications": "10,048"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "0.12",
             "Shares Offered*": "50,45,047",
-            "Shares bid for": "5,90,310",
-            "Total Amt* (₹ Cr.)": "98.287",
+            "Shares bid for": "5,93,712",
+            "Total Amt* (₹ Cr.)": "98.853",
             "Total Applications": "-"
           }
         ],
@@ -164,7 +329,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Oct 23:30"
+        "updatedOn": "27-Oct 9:32"
       },
       "subscription": {
         "total": 0.71,
@@ -258,6 +423,226 @@
       "registrar": "Purva Sharegistry (India) Pvt.Ltd."
     },
     {
+      "slug": "maxwell-engineering-solutions-ipo",
+      "ipoId": 2704,
+      "name": "Maxwell Engineering Solutions",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 150.0,
+        "max": 158.0,
+        "display": "₹150–158"
+      },
+      "lotSize": 800,
+      "issueSize": "₹57.64 Cr",
+      "issueSizeCr": 57.64,
+      "freshIssueCr": 54.12,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JDA Capital Services",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/maxwell-engineering-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=maxwell-engineering-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
+        "gmp": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/"
+      },
+      "gmpId": 1965,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engin",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "vectras-enprocon-ipo",
+      "ipoId": 2740,
+      "name": "Vectras Enprocon",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 99.0,
+        "max": 105.0,
+        "display": "₹99–105"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹53.05 Cr",
+      "issueSizeCr": 53.05,
+      "freshIssueCr": 39.93,
+      "ofsCr": 10.46,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Beeline Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vectras-enprocon-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vectras-enprocon-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+        "gmp": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/"
+      },
+      "gmpId": 1998,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.\n\nThe company has developed strong capabilities in designing, engineering, procuring, constructing, testing, and commissioning Oil & Gas pipelines and stations. It has complete",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "hgs-india-ipo",
+      "ipoId": 2981,
+      "name": "HGS (India)",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 114.0,
+        "max": 120.0,
+        "display": "₹114–120"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹34.56 Cr",
+      "issueSizeCr": 34.56,
+      "freshIssueCr": 26.17,
+      "ofsCr": 6.65,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hgs-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hgs-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hgs-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
+        "gmp": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/"
+      },
+      "gmpId": 2241,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1986, HGS (India) Limited is engaged in the manufacturing of geophysical equipment and components used in seismic and geoscience applications.\n\nThe company was established in technical and financial collaboration with Geosource Inc., USA, and operates under the brand name “HG”.\n\nThe company’s product portfolio includes geophones, geophone strings, seismic cables, connectors, and a range of seismic accessories such as seismographs, seismometers, accelerographs, and related equipme",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "johnsoncab-electricals-ipo",
+      "ipoId": 3217,
+      "name": "Johnsoncab Electricals",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 190.0,
+        "max": 200.0,
+        "display": "₹190–200"
+      },
+      "lotSize": 600,
+      "issueSize": "₹56.02 Cr",
+      "issueSizeCr": 56.02,
+      "freshIssueCr": 53.18,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ISK Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
+      "hasDetail": true,
+      "detailPath": "details/johnsoncab-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=johnsoncab-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+        "gmp": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/"
+      },
+      "gmpId": 2371,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in November 2020, Johnsoncab Electricals Limited is engaged in the manufacturing of low voltage wires and cables up to 1.1 kV, catering to power infrastructure, transmission and distribution, renewable energy, railways and allied industrial applications. The company manufactures and sells its products under the brand name “JOHNSON CABLES” and caters to both private sector customers and government entities.\n\nThe company has a diversified product portfolio comprising control cables, p",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
+    {
       "slug": "bombay-coated-and-special-steels-ipo",
       "ipoId": 2671,
       "name": "Bombay Coated and Special Steels",
@@ -285,7 +670,7 @@
         "value": 9.0,
         "percent": 10.98,
         "xLot": 1638.0,
-        "updatedOn": "26-Oct 23:37"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": null,
@@ -340,7 +725,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Oct 23:34"
+        "updatedOn": "27-Oct 9:34"
       },
       "subscription": {
         "total": null,
@@ -395,7 +780,7 @@
         "value": 10.0,
         "percent": 4.93,
         "xLot": 6000.0,
-        "updatedOn": "26-Oct 23:37"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": null,
@@ -450,7 +835,7 @@
         "value": 8.0,
         "percent": 4.94,
         "xLot": 728.0,
-        "updatedOn": "26-Oct 23:37"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": null,
@@ -505,7 +890,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Oct 23:34"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": null,
@@ -531,171 +916,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services.\n\nThe Company operates its primary manufacturing facility in Bamanbore, Rajkot, ",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "sfc-environmental-technologies-ipo",
-      "ipoId": 2070,
-      "name": "SFC Environmental Technologies",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 313.0,
-        "max": 330.0,
-        "display": "₹313–330"
-      },
-      "lotSize": 45,
-      "issueSize": "₹667.53 Cr",
-      "issueSizeCr": 667.53,
-      "freshIssueCr": 150.0,
-      "ofsCr": 517.53,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 20.0,
-        "percent": 6.06,
-        "xLot": 900.0,
-        "updatedOn": "26-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sfc-environmental-technologies-limited_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sfc-environmental-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sfc-environmental-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
-        "gmp": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/"
-      },
-      "gmpId": 1642,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewag",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "bls-polymers-ipo",
-      "ipoId": 2559,
-      "name": "BLS Polymers",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 142.0,
-        "max": 150.0,
-        "display": "₹142–150"
-      },
-      "lotSize": 100,
-      "issueSize": "₹255.00 Cr",
-      "issueSizeCr": 255.0,
-      "freshIssueCr": 255.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 40.0,
-        "percent": 26.67,
-        "xLot": 4000.0,
-        "updatedOn": "26-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Unistone Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bls-polymers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bls-polymers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
-        "gmp": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/"
-      },
-      "gmpId": 1849,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "wiscon-industries-ipo",
-      "ipoId": 3202,
-      "name": "Wiscon Industries",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 194.0,
-        "max": 204.0,
-        "display": "₹194–204"
-      },
-      "lotSize": 600,
-      "issueSize": "₹110.00 Cr",
-      "issueSizeCr": 110.0,
-      "freshIssueCr": 80.05,
-      "ofsCr": 22.0,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "26-Oct 23:36"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/wiscon_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/wiscon-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=wiscon-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
-        "gmp": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/"
-      },
-      "gmpId": 2356,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }

@@ -337,7 +337,7 @@
   "overview": {
     "name": "BLS Polymers",
     "type": "mainboard",
-    "status": "upcoming",
+    "status": "open",
     "exchange": "BSE, NSE",
     "priceBand": {
       "min": 142.0,
@@ -356,7 +356,7 @@
       "value": 40.0,
       "percent": 26.67,
       "xLot": 4000.0,
-      "updatedOn": "26-Oct 23:37"
+      "updatedOn": "27-Oct 9:37"
     },
     "leadManager": "Unistone Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
@@ -366,5 +366,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-26T22:26:43+00:00"
+  "scrapedAt": "2026-10-27T04:19:19+00:00"
 }

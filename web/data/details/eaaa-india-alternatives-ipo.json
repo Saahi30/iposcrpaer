@@ -368,7 +368,7 @@
     "source": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/"
   },
   "subscription": {
-    "summary": "EAAA India Alternatives IPO subscribed 0.12 times. The public issue subscribed 0.04 times in the retail category, 0.08 times in QIB (Ex Anchor), and 0.33 times in the NII category by October 26, 2026 5:54:55 PM (Day 1).",
+    "summary": "EAAA India Alternatives IPO subscribed 0.12 times. The public issue subscribed 0.04 times in the retail category, 0.08 times in QIB (Ex Anchor), and 0.34 times in the NII category by October 27, 2026 9:45:04 AM (Day 2).",
     "total": 0.12,
     "applications": null,
     "byCategory": [
@@ -390,11 +390,11 @@
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.33",
+        "Subscription (x)": "0.34",
         "Shares Offered*": "10,81,081",
-        "Shares bid for": "3,61,899",
-        "Total Amt* (₹ Cr.)": "60.256",
-        "Total Applications": "626"
+        "Shares bid for": "3,62,196",
+        "Total Amt* (₹ Cr.)": "60.306",
+        "Total Applications": "627"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -402,30 +402,30 @@
         "Shares Offered*": "7,20,721",
         "Shares bid for": "3,53,232",
         "Total Amt* (₹ Cr.)": "58.813",
-        "Total Applications": "43"
+        "Total Applications": "44"
       },
       {
         "Category": "sNII (< ₹10L)",
         "Subscription (x)": "0.02",
         "Shares Offered*": "3,60,360",
-        "Shares bid for": "8,667",
-        "Total Amt* (₹ Cr.)": "1.443",
+        "Shares bid for": "8,964",
+        "Total Amt* (₹ Cr.)": "1.493",
         "Total Applications": "583"
       },
       {
         "Category": "Retail",
         "Subscription (x)": "0.04",
         "Shares Offered*": "25,22,523",
-        "Shares bid for": "1,08,261",
-        "Total Amt* (₹ Cr.)": "18.025",
-        "Total Applications": "9,793"
+        "Shares bid for": "1,11,366",
+        "Total Amt* (₹ Cr.)": "18.542",
+        "Total Applications": "10,048"
       },
       {
         "Category": "Total **",
         "Subscription (x)": "0.12",
         "Shares Offered*": "50,45,047",
-        "Shares bid for": "5,90,310",
-        "Total Amt* (₹ Cr.)": "98.287",
+        "Shares bid for": "5,93,712",
+        "Total Amt* (₹ Cr.)": "98.853",
         "Total Applications": "-"
       }
     ],
@@ -434,6 +434,15 @@
         "Date": "Oct 26 (Day 1)",
         "QIB (Ex Anchor)": "0.08",
         "NII": "0.33",
+        "NII (> ₹10L)": "0.49",
+        "NII (< ₹10L)": "0.02",
+        "Retail": "0.04",
+        "Total": "0.12"
+      },
+      {
+        "Date": "Oct 27 (Day 2)",
+        "QIB (Ex Anchor)": "0.08",
+        "NII": "0.34",
         "NII (> ₹10L)": "0.49",
         "NII (< ₹10L)": "0.02",
         "Retail": "0.04",
@@ -463,7 +472,7 @@
       "value": 15.0,
       "percent": 0.9,
       "xLot": 135.0,
-      "updatedOn": "26-Oct 23:37"
+      "updatedOn": "27-Oct 9:37"
     },
     "leadManager": "Axis Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/edelweiss-alternatives-corporate-logo.png",
@@ -473,5 +482,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-26T22:26:25+00:00"
+  "scrapedAt": "2026-10-27T04:19:23+00:00"
 }

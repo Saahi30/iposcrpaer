@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-26T22:26:53+00:00",
+  "scrapedAt": "2026-10-27T04:19:46+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 299,
+    "total": 303,
     "mainboard": 109,
-    "sme": 190
+    "sme": 194
   },
   "ipos": [
     {
@@ -7188,6 +7188,102 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2981,
+      "name": "HGS (India) Ltd.",
+      "slug": "hgs-india-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "refunds": "2026-11-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Oct-2026",
+        "close": "03-Nov-2026",
+        "allotment": "04-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hgs-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3217,
+      "name": "Johnsoncab Electricals Ltd.",
+      "slug": "johnsoncab-electricals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "refunds": "2026-11-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Oct-2026",
+        "close": "03-Nov-2026",
+        "allotment": "04-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2704,
+      "name": "Maxwell Engineering Solutions Ltd.",
+      "slug": "maxwell-engineering-solutions-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "refunds": "2026-11-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Oct-2026",
+        "close": "03-Nov-2026",
+        "allotment": "04-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2740,
+      "name": "Vectras Enprocon Ltd.",
+      "slug": "vectras-enprocon-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "refunds": "2026-11-05",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "30-Oct-2026",
+        "close": "03-Nov-2026",
+        "allotment": "04-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]

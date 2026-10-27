@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-26T22:26:46+00:00",
+  "scrapedAt": "2026-10-27T04:19:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,179 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
+    "open": 5,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 5
   },
   "ipos": [
+    {
+      "slug": "sfc-environmental-technologies-ipo",
+      "ipoId": 2070,
+      "name": "SFC Environmental Technologies",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 313.0,
+        "max": 330.0,
+        "display": "₹313–330"
+      },
+      "lotSize": 45,
+      "issueSize": "₹667.53 Cr",
+      "issueSizeCr": 667.53,
+      "freshIssueCr": 150.0,
+      "ofsCr": 517.53,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 20.0,
+        "percent": 6.06,
+        "xLot": 900.0,
+        "updatedOn": "27-Oct 9:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/sfc-environmental-technologies-limited_logo.png",
+      "hasDetail": true,
+      "detailPath": "details/sfc-environmental-technologies-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=sfc-environmental-technologies-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+        "gmp": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/"
+      },
+      "gmpId": 1642,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewag",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "bls-polymers-ipo",
+      "ipoId": 2559,
+      "name": "BLS Polymers",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 142.0,
+        "max": 150.0,
+        "display": "₹142–150"
+      },
+      "lotSize": 100,
+      "issueSize": "₹255.00 Cr",
+      "issueSizeCr": 255.0,
+      "freshIssueCr": 255.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 40.0,
+        "percent": 26.67,
+        "xLot": 4000.0,
+        "updatedOn": "27-Oct 9:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Unistone Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/bls-polymers-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=bls-polymers-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
+        "gmp": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/"
+      },
+      "gmpId": 1849,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "wiscon-industries-ipo",
+      "ipoId": 3202,
+      "name": "Wiscon Industries",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 194.0,
+        "max": 204.0,
+        "display": "₹194–204"
+      },
+      "lotSize": 600,
+      "issueSize": "₹110.00 Cr",
+      "issueSizeCr": 110.0,
+      "freshIssueCr": 80.05,
+      "ofsCr": 22.0,
+      "dates": {
+        "open": "2026-10-27",
+        "close": "2026-10-29",
+        "allotment": "2026-10-30",
+        "listing": "2026-11-03"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "27-Oct 9:35"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Smart Horizon Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/wiscon_logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/wiscon-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=wiscon-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
+        "gmp": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/"
+      },
+      "gmpId": 2356,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "eaaa-india-alternatives-ipo",
       "ipoId": 2061,
@@ -50,7 +215,7 @@
         "value": 15.0,
         "percent": 0.9,
         "xLot": 135.0,
-        "updatedOn": "26-Oct 23:37"
+        "updatedOn": "27-Oct 9:37"
       },
       "subscription": {
         "total": 0.12,
@@ -73,11 +238,11 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.33",
+            "Subscription (x)": "0.34",
             "Shares Offered*": "10,81,081",
-            "Shares bid for": "3,61,899",
-            "Total Amt* (₹ Cr.)": "60.256",
-            "Total Applications": "626"
+            "Shares bid for": "3,62,196",
+            "Total Amt* (₹ Cr.)": "60.306",
+            "Total Applications": "627"
           },
           {
             "Category": "bNII (> ₹10L)",
@@ -85,30 +250,30 @@
             "Shares Offered*": "7,20,721",
             "Shares bid for": "3,53,232",
             "Total Amt* (₹ Cr.)": "58.813",
-            "Total Applications": "43"
+            "Total Applications": "44"
           },
           {
             "Category": "sNII (< ₹10L)",
             "Subscription (x)": "0.02",
             "Shares Offered*": "3,60,360",
-            "Shares bid for": "8,667",
-            "Total Amt* (₹ Cr.)": "1.443",
+            "Shares bid for": "8,964",
+            "Total Amt* (₹ Cr.)": "1.493",
             "Total Applications": "583"
           },
           {
             "Category": "Retail",
             "Subscription (x)": "0.04",
             "Shares Offered*": "25,22,523",
-            "Shares bid for": "1,08,261",
-            "Total Amt* (₹ Cr.)": "18.025",
-            "Total Applications": "9,793"
+            "Shares bid for": "1,11,366",
+            "Total Amt* (₹ Cr.)": "18.542",
+            "Total Applications": "10,048"
           },
           {
             "Category": "Total **",
             "Subscription (x)": "0.12",
             "Shares Offered*": "50,45,047",
-            "Shares bid for": "5,90,310",
-            "Total Amt* (₹ Cr.)": "98.287",
+            "Shares bid for": "5,93,712",
+            "Total Amt* (₹ Cr.)": "98.853",
             "Total Applications": "-"
           }
         ],
@@ -163,7 +328,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "26-Oct 23:30"
+        "updatedOn": "27-Oct 9:32"
       },
       "subscription": {
         "total": 0.71,
