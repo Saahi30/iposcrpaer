@@ -393,7 +393,7 @@
         "Shares Offered*": "25,50,000",
         "Shares bid for": "20,09,66,800",
         "Total Amt* (₹ Cr.)": "3,014.50",
-        "Total Applications": "71,960"
+        "Total Applications": "71,984"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -401,7 +401,7 @@
         "Shares Offered*": "17,00,000",
         "Shares bid for": "11,93,60,500",
         "Total Amt* (₹ Cr.)": "1,790.41",
-        "Total Applications": "54,695"
+        "Total Applications": "54,719"
       },
       {
         "Category": "sNII (< ₹10L)",
@@ -417,7 +417,7 @@
         "Shares Offered*": "59,50,000",
         "Shares bid for": "17,76,21,100",
         "Total Amt* (₹ Cr.)": "2,664.32",
-        "Total Applications": "13,11,405"
+        "Total Applications": "13,12,331"
       },
       {
         "Category": "Total **",
@@ -468,10 +468,10 @@
       "listing": "2026-11-03"
     },
     "gmp": {
-      "value": 47.0,
-      "percent": 31.33,
-      "xLot": 4700.0,
-      "updatedOn": "28-Oct 17:37"
+      "value": 51.0,
+      "percent": 34.0,
+      "xLot": 5100.0,
+      "updatedOn": "28-Oct 23:37"
     },
     "leadManager": "Unistone Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
@@ -481,5 +481,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-28T12:24:21+00:00"
+  "scrapedAt": "2026-10-28T22:22:00+00:00"
 }
