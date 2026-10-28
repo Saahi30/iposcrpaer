@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-27T21:58:07+00:00",
+  "scrapedAt": "2026-10-28T12:24:58+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,68 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 9,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 9
+    "total": 7
   },
   "ipos": [
+    {
+      "slug": "vedant-poly-fabs-ipo",
+      "ipoId": 3143,
+      "name": "Vedant Poly Fabs",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 88.0,
+        "max": 94.0,
+        "display": "₹88–94"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹56.68 Cr",
+      "issueSizeCr": 56.68,
+      "freshIssueCr": 51.01,
+      "ofsCr": 5.67,
+      "dates": {
+        "open": "2026-11-02",
+        "close": "2026-11-04",
+        "allotment": "2026-11-05",
+        "listing": "2026-11-09"
+      },
+      "gmp": {
+        "value": null,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": null
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Affinity Global",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vedant-poly-fabs-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vedant-poly-fabs-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vedant-poly-fabs-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
+        "gmp": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/"
+      },
+      "gmpId": 2297,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Vedant Poly Fabs Limited was incorporated in December 2018 and is engaged in the manufacturing of flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.\n\nSince commencing operations, the company has expanded its product ",
+      "registrar": "Cameo Corporate Services Ltd."
+    },
     {
       "slug": "maxwell-engineering-solutions-ipo",
       "ipoId": 2704,
@@ -50,7 +105,7 @@
         "value": 27.0,
         "percent": 17.09,
         "xLot": 21600.0,
-        "updatedOn": "27-Oct 23:37"
+        "updatedOn": "28-Oct 17:37"
       },
       "subscription": {
         "total": null,
@@ -105,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Oct 23:35"
+        "updatedOn": "28-Oct 17:31"
       },
       "subscription": {
         "total": null,
@@ -160,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Oct 23:34"
+        "updatedOn": "28-Oct 17:31"
       },
       "subscription": {
         "total": null,
@@ -212,10 +267,10 @@
         "listing": "2026-11-06"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "27-Oct 23:33"
+        "value": 9.0,
+        "percent": 4.5,
+        "xLot": 5400.0,
+        "updatedOn": "28-Oct 17:37"
       },
       "subscription": {
         "total": null,
@@ -270,7 +325,7 @@
         "value": 9.0,
         "percent": 10.98,
         "xLot": 1638.0,
-        "updatedOn": "27-Oct 23:37"
+        "updatedOn": "28-Oct 17:37"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Oct 23:34"
+        "updatedOn": "28-Oct 17:34"
       },
       "subscription": {
         "total": null,
@@ -350,171 +405,6 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabi",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "ajwa-projects-ipo",
-      "ipoId": 2761,
-      "name": "Ajwa Projects",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 203.0,
-        "max": 203.0,
-        "display": "₹203"
-      },
-      "lotSize": 600,
-      "issueSize": "₹38.05 Cr",
-      "issueSizeCr": 38.05,
-      "freshIssueCr": 28.53,
-      "ofsCr": 7.6,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 38.0,
-        "percent": 18.72,
-        "xLot": 22800.0,
-        "updatedOn": "27-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Wealth Mine Networks",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ajwa-projects-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ajwa-projects-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ajwa-projects-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
-        "gmp": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/"
-      },
-      "gmpId": 2017,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2011, Ajwa Projects is a multi-disciplinary industrial services company delivering end-to-end solutions across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company specializes in turning project plans into real, functional industrial assets. The company manufacture technological frameworks, industrial buildings, girders, heavy modules, platforms, and crane girders that are critical for plant construction and",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "mksons-fine-jewels-ipo",
-      "ipoId": 3100,
-      "name": "M.K.Sons Fine Jewels",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 153.0,
-        "max": 162.0,
-        "display": "₹153–162"
-      },
-      "lotSize": 91,
-      "issueSize": "₹275.40 Cr",
-      "issueSizeCr": 275.4,
-      "freshIssueCr": 220.32,
-      "ofsCr": 55.08,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 10.0,
-        "percent": 6.17,
-        "xLot": 910.0,
-        "updatedOn": "27-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Aryaman Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/mk-sons-fine-jewels-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/mksons-fine-jewels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=mksons-fine-jewels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
-        "gmp": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/"
-      },
-      "gmpId": 2288,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.\n\nThe company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.\n\nThe company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall location",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "carver-roboweld-ipo",
-      "ipoId": 3239,
-      "name": "Carver Roboweld",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 76.0,
-        "max": 80.0,
-        "display": "₹76–80"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹28.29 Cr",
-      "issueSizeCr": 28.29,
-      "freshIssueCr": 26.87,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "27-Oct 23:31"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/carver-roboweld-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/carver-roboweld-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=carver-roboweld-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
-        "gmp": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/"
-      },
-      "gmpId": 2393,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services.\n\nThe Company operates its primary manufacturing facility in Bamanbore, Rajkot, ",
       "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]

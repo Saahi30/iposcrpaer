@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-27T21:58:13+00:00",
+  "scrapedAt": "2026-10-28T12:25:05+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 303,
+    "total": 304,
     "mainboard": 109,
-    "sme": 194
+    "sme": 195
   },
   "ipos": [
     {
@@ -7283,6 +7283,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3143,
+      "name": "Vedant Poly Fabs Ltd.",
+      "slug": "vedant-poly-fabs-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-11-02",
+        "close": "2026-11-04",
+        "allotment": "2026-11-05",
+        "refunds": "2026-11-06",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "02-Nov-2026",
+        "close": "04-Nov-2026",
+        "allotment": "05-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vedant-poly-fabs-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
