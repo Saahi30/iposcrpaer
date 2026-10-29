@@ -367,8 +367,8 @@
     "source": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/"
   },
   "subscription": {
-    "summary": "BLS Polymers IPO subscribed 49.69 times. The public issue subscribed 39.11 times in the retail category, 12.23 times in QIB (Ex Anchor), and 124.30 times in the NII category by October 29, 2026 10:24:49 AM (Day 3).",
-    "total": 49.69,
+    "summary": "BLS Polymers IPO subscribed 241.22 times. The public issue subscribed 128.36 times in the retail category, 200.25 times in QIB (Ex Anchor), and 559.20 times in the NII category by October 29, 2026 5:54:06 PM (Day 3).",
+    "total": 241.22,
     "applications": null,
     "byCategory": [
       {
@@ -376,56 +376,49 @@
         "Subscription (x)": "1",
         "Shares Offered*": "51,00,000",
         "Shares bid for": "51,00,000",
-        "Total Amt* (₹ Cr.)": "76.50",
-        "Total Applications": "-"
+        "Total Amt* (₹ Cr.)": "76.50"
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "12.23",
+        "Subscription (x)": "200.25",
         "Shares Offered*": "34,00,000",
-        "Shares bid for": "4,15,96,600",
-        "Total Amt* (₹ Cr.)": "623.95",
-        "Total Applications": "463"
+        "Shares bid for": "68,08,57,700",
+        "Total Amt* (₹ Cr.)": "10,212.87"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "124.30",
+        "Subscription (x)": "559.20",
         "Shares Offered*": "25,50,000",
-        "Shares bid for": "31,69,60,900",
-        "Total Amt* (₹ Cr.)": "4,754.41",
-        "Total Applications": "1,05,761"
+        "Shares bid for": "1,42,59,67,100",
+        "Total Amt* (₹ Cr.)": "21,389.51"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "118.69",
+        "Subscription (x)": "592.83",
         "Shares Offered*": "17,00,000",
-        "Shares bid for": "20,17,74,100",
-        "Total Amt* (₹ Cr.)": "3,026.61",
-        "Total Applications": "76,520"
+        "Shares bid for": "1,00,78,15,300",
+        "Total Amt* (₹ Cr.)": "15,117.23"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "135.51",
+        "Subscription (x)": "491.94",
         "Shares Offered*": "8,50,000",
-        "Shares bid for": "11,51,86,800",
-        "Total Amt* (₹ Cr.)": "1,727.80",
-        "Total Applications": "29,241"
+        "Shares bid for": "41,81,51,800",
+        "Total Amt* (₹ Cr.)": "6,272.28"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "39.11",
+        "Subscription (x)": "128.36",
         "Shares Offered*": "59,50,000",
-        "Shares bid for": "23,26,97,400",
-        "Total Amt* (₹ Cr.)": "3,490.46",
-        "Total Applications": "16,81,134"
+        "Shares bid for": "76,37,25,200",
+        "Total Amt* (₹ Cr.)": "11,455.88"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "49.69",
+        "Subscription (x)": "241.22",
         "Shares Offered*": "1,19,00,000",
-        "Shares bid for": "59,12,54,900",
-        "Total Amt* (₹ Cr.)": "8,868.82",
-        "Total Applications": "-"
+        "Shares bid for": "2,87,05,50,000",
+        "Total Amt* (₹ Cr.)": "43,058.25"
       }
     ],
     "dayWise": [
@@ -449,12 +442,12 @@
       },
       {
         "Date": "Oct 29 (Day 3)",
-        "QIB (Ex Anchor)": "12.23",
-        "NII": "124.30",
-        "NII (> ₹10L)": "118.69",
-        "NII (< ₹10L)": "135.51",
-        "Retail": "39.11",
-        "Total": "49.69"
+        "QIB (Ex Anchor)": "200.25",
+        "NII": "559.20",
+        "NII (> ₹10L)": "592.83",
+        "NII (< ₹10L)": "491.94",
+        "Retail": "128.36",
+        "Total": "241.22"
       }
     ]
   },
@@ -477,10 +470,10 @@
       "listing": "2026-11-03"
     },
     "gmp": {
-      "value": 51.0,
-      "percent": 34.0,
-      "xLot": 5100.0,
-      "updatedOn": "29-Oct 10:02"
+      "value": 63.0,
+      "percent": 42.0,
+      "xLot": 6300.0,
+      "updatedOn": "29-Oct 17:37"
     },
     "leadManager": "Unistone Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
@@ -490,5 +483,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-29T05:00:11+00:00"
+  "scrapedAt": "2026-10-29T12:33:35+00:00"
 }
