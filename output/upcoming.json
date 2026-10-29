@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-28T22:22:17+00:00",
+  "scrapedAt": "2026-10-29T05:00:32+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 7,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 5
   },
   "ipos": [
     {
@@ -47,10 +47,10 @@
         "listing": "2026-11-09"
       },
       "gmp": {
-        "value": null,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": null
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "29-Oct 5:55"
       },
       "subscription": {
         "total": null,
@@ -102,10 +102,10 @@
         "listing": "2026-11-06"
       },
       "gmp": {
-        "value": 43.0,
-        "percent": 27.22,
-        "xLot": 34400.0,
-        "updatedOn": "28-Oct 23:37"
+        "value": 52.0,
+        "percent": 32.91,
+        "xLot": 41600.0,
+        "updatedOn": "29-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "28-Oct 23:34"
+        "updatedOn": "29-Oct 9:53"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "28-Oct 23:30"
+        "updatedOn": "29-Oct 9:59"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 10.0,
         "percent": 5.0,
         "xLot": 6000.0,
-        "updatedOn": "28-Oct 23:37"
+        "updatedOn": "29-Oct 10:02"
       },
       "subscription": {
         "total": null,
@@ -294,118 +294,8 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in November 2020, Johnsoncab Electricals Limited is engaged in the manufacturing of low voltage wires and cables up to 1.1 kV, catering to power infrastructure, transmission and distribution, renewable energy, railways and allied industrial applications. The company manufactures and sells its products under the brand name “JOHNSON CABLES” and caters to both private sector customers and government entities.\n\nThe company has a diversified product portfolio comprising control cables, p",
+      "about": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, ho",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "bombay-coated-and-special-steels-ipo",
-      "ipoId": 2671,
-      "name": "Bombay Coated and Special Steels",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 78.0,
-        "max": 82.0,
-        "display": "₹78–82"
-      },
-      "lotSize": 182,
-      "issueSize": "₹183.06 Cr",
-      "issueSizeCr": 183.06,
-      "freshIssueCr": 183.06,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-29",
-        "close": "2026-11-02",
-        "allotment": "2026-11-03",
-        "listing": "2026-11-05"
-      },
-      "gmp": {
-        "value": 9.0,
-        "percent": 10.98,
-        "xLot": 1638.0,
-        "updatedOn": "28-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bombay-coated-special-steels-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bombay-coated-and-special-steels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bombay-coated-and-special-steels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
-        "gmp": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/"
-      },
-      "gmpId": 1936,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple en",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "antala-industries-ipo",
-      "ipoId": 3221,
-      "name": "Antala Industries",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 63.0,
-        "max": 67.0,
-        "display": "₹63–67"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹23.33 Cr",
-      "issueSizeCr": 23.33,
-      "freshIssueCr": 22.15,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-29",
-        "close": "2026-11-02",
-        "allotment": "2026-11-03",
-        "listing": "2026-11-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "28-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Vatsa Capital Venture Pvt.Ltd.",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/antala-industries-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/antala-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=antala-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
-        "gmp": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/"
-      },
-      "gmpId": 2375,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabi",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
