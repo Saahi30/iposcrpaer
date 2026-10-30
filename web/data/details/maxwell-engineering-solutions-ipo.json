@@ -487,9 +487,9 @@
     "status": "open",
     "exchange": "NSE SME",
     "priceBand": {
-      "min": 150.0,
+      "min": 158.0,
       "max": 158.0,
-      "display": "₹150–158"
+      "display": "₹158"
     },
     "lotSize": 800,
     "issueSize": "₹57.64 Cr",
@@ -503,7 +503,7 @@
       "value": 70.0,
       "percent": 44.3,
       "xLot": 56000.0,
-      "updatedOn": "30-Oct 17:37"
+      "updatedOn": "30-Oct 23:37"
     },
     "leadManager": "JDA Capital Services",
     "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
@@ -513,5 +513,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T12:25:08+00:00"
+  "scrapedAt": "2026-10-30T22:03:46+00:00"
 }

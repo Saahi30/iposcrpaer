@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T12:25:28+00:00",
+  "scrapedAt": "2026-10-30T22:04:11+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 122,
-    "mainboard": 51,
+    "totalEvents": 123,
+    "mainboard": 52,
     "sme": 71,
     "byEventType": {
-      "allotment": 43,
+      "allotment": 44,
       "close": 43,
       "listing": 1,
       "open": 27,
@@ -38,8 +38,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 110,
-        "mainboard": 48,
+        "total": 111,
+        "mainboard": 49,
         "sme": 62
       },
       "byDate": {
@@ -2040,6 +2040,25 @@
             }
           },
           {
+            "title": "SFC Environmental Technologies IPO Allotment Status",
+            "company": "SFC Environmental Technologies",
+            "eventType": "allotment",
+            "date": "2026-10-30",
+            "dateEnd": "2026-10-30",
+            "details": "The allotment status of SFC Environmental Technologies Ltd. IPO is now available online. The public issue of SFC Environmental Technologies IPO was open on Oct 27, 2026 and closed for subscription on",
+            "type": "mainboard",
+            "slug": "sfc-environmental-technologies-ipo",
+            "ipoId": 2070,
+            "eventId": 15800,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/sfc-environmental-technologies-ipo/2070/#15800",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SFC%20Environmental%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261030/20261031&details=The%20allotment%20status%20of%20SFC%20Environmental%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SFC%20Environmental%20Technologies%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20"
+            }
+          },
+          {
             "title": "Ajwa Projects IPO Closes on Oct 30, 2026",
             "company": "Ajwa Projects",
             "eventType": "close",
@@ -3068,6 +3087,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/mksons-fine-jewels-ipo/3100/#15754",
             "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=M.K.Sons%20Fine%20Jewels%20IPO%20Closes%20on%20Oct%2030%2C%202026&location=&dates=20261030/20261031&details=The%20issue%20of%20M.K.Sons%20Fine%20Jewels%20Ltd.%20opens%20on%20Oct%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+          }
+        },
+        {
+          "title": "SFC Environmental Technologies IPO Allotment Status",
+          "company": "SFC Environmental Technologies",
+          "eventType": "allotment",
+          "date": "2026-10-30",
+          "dateEnd": "2026-10-30",
+          "details": "The allotment status of SFC Environmental Technologies Ltd. IPO is now available online. The public issue of SFC Environmental Technologies IPO was open on Oct 27, 2026 and closed for subscription on",
+          "type": "mainboard",
+          "slug": "sfc-environmental-technologies-ipo",
+          "ipoId": 2070,
+          "eventId": 15800,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/sfc-environmental-technologies-ipo/2070/#15800",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SFC%20Environmental%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261030/20261031&details=The%20allotment%20status%20of%20SFC%20Environmental%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SFC%20Environmental%20Technologies%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20"
           }
         },
         {
@@ -5646,6 +5684,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/mksons-fine-jewels-ipo/3100/#15754",
         "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=M.K.Sons%20Fine%20Jewels%20IPO%20Closes%20on%20Oct%2030%2C%202026&location=&dates=20261030/20261031&details=The%20issue%20of%20M.K.Sons%20Fine%20Jewels%20Ltd.%20opens%20on%20Oct%2028%2C%202026%20and%20closes%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%2C%20NSE.%20The%20price%20for%20the%20issue%20has%20been%20set%20"
+      }
+    },
+    {
+      "title": "SFC Environmental Technologies IPO Allotment Status",
+      "company": "SFC Environmental Technologies",
+      "eventType": "allotment",
+      "date": "2026-10-30",
+      "dateEnd": "2026-10-30",
+      "details": "The allotment status of SFC Environmental Technologies Ltd. IPO is now available online. The public issue of SFC Environmental Technologies IPO was open on Oct 27, 2026 and closed for subscription on",
+      "type": "mainboard",
+      "slug": "sfc-environmental-technologies-ipo",
+      "ipoId": 2070,
+      "eventId": 15800,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/sfc-environmental-technologies-ipo/2070/#15800",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=SFC%20Environmental%20Technologies%20IPO%20Allotment%20Status&location=&dates=20261030/20261031&details=The%20allotment%20status%20of%20SFC%20Environmental%20Technologies%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20SFC%20Environmental%20Technologies%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20"
       }
     },
     {
