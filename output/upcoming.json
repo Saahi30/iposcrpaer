@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T22:35:11+00:00",
+  "scrapedAt": "2026-10-30T05:00:03+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 5,
+    "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 5
+    "total": 1
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "29-Oct 5:55"
+        "updatedOn": "30-Oct 5:55"
       },
       "subscription": {
         "total": null,
@@ -76,226 +76,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Vedant Poly Fabs Limited was incorporated in December 2018 and is engaged in the manufacturing of flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.\n\nSince commencing operations, the company has expanded its product ",
       "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "maxwell-engineering-solutions-ipo",
-      "ipoId": 2704,
-      "name": "Maxwell Engineering Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 150.0,
-        "max": 158.0,
-        "display": "₹150–158"
-      },
-      "lotSize": 800,
-      "issueSize": "₹57.64 Cr",
-      "issueSizeCr": 57.64,
-      "freshIssueCr": 54.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 70.0,
-        "percent": 44.3,
-        "xLot": 56000.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JDA Capital Services",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/maxwell-engineering-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=maxwell-engineering-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
-        "gmp": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/"
-      },
-      "gmpId": 1965,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engin",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "vectras-enprocon-ipo",
-      "ipoId": 2740,
-      "name": "Vectras Enprocon",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 99.0,
-        "max": 105.0,
-        "display": "₹99–105"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹53.05 Cr",
-      "issueSizeCr": 53.05,
-      "freshIssueCr": 39.93,
-      "ofsCr": 10.46,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Oct 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Beeline Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/vectras-enprocon-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vectras-enprocon-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
-        "gmp": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/"
-      },
-      "gmpId": 1998,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.\n\nThe company has developed strong capabilities in designing, engineering, procuring, constructing, testing, and commissioning Oil & Gas pipelines and stations. It has complete",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "hgs-india-ipo",
-      "ipoId": 2981,
-      "name": "HGS (India)",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 114.0,
-        "max": 120.0,
-        "display": "₹114–120"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹34.56 Cr",
-      "issueSizeCr": 34.56,
-      "freshIssueCr": 26.17,
-      "ofsCr": 6.65,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/hgs-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/hgs-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hgs-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
-        "gmp": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/"
-      },
-      "gmpId": 2241,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Its products are used in oil and gas exploration, mineral exploration, defence research, earthquake monitoring, vibration analysis and other geoscience applications. The company also manufactures cables and connectors for resistivity meters and radar equipment.\n\nHGS (India) has developed in-house manufacturing capabilities, including cable extrusion lines and injection moulding machines, enabling it to manufacture critical components and maintain quality control. Its manufacturing facility is lo",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "johnsoncab-electricals-ipo",
-      "ipoId": 3217,
-      "name": "Johnsoncab Electricals",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 190.0,
-        "max": 200.0,
-        "display": "₹190–200"
-      },
-      "lotSize": 600,
-      "issueSize": "₹56.02 Cr",
-      "issueSizeCr": 56.02,
-      "freshIssueCr": 53.18,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 13.0,
-        "percent": 6.5,
-        "xLot": 7800.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "ISK Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
-      "hasDetail": true,
-      "detailPath": "details/johnsoncab-electricals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=johnsoncab-electricals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
-        "gmp": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/"
-      },
-      "gmpId": 2371,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, ho",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }

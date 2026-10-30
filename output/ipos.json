@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T22:35:11+00:00",
+  "scrapedAt": "2026-10-30T05:00:03+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,452 @@
     "limit": null
   },
   "summary": {
-    "open": 8,
-    "upcoming": 5,
+    "open": 9,
+    "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 13
+    "total": 10
   },
   "ipos": [
+    {
+      "slug": "maxwell-engineering-solutions-ipo",
+      "ipoId": 2704,
+      "name": "Maxwell Engineering Solutions",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 150.0,
+        "max": 158.0,
+        "display": "₹150–158"
+      },
+      "lotSize": 800,
+      "issueSize": "₹57.64 Cr",
+      "issueSizeCr": 57.64,
+      "freshIssueCr": 54.12,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": 70.0,
+        "percent": 44.3,
+        "xLot": 56000.0,
+        "updatedOn": "30-Oct 10:02"
+      },
+      "subscription": {
+        "total": 0.33,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "10,24,000",
+            "Shares bid for": "10,24,000",
+            "Total Amt* (₹ Cr.)": "16.179"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "2,22,400",
+            "Shares bid for": "2,22,400",
+            "Total Amt* (₹ Cr.)": "3.514"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "6,83,200",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.19",
+            "Shares Offered*": "5,18,400",
+            "Shares bid for": "97,600",
+            "Total Amt* (₹ Cr.)": "1.542"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.06",
+            "Shares Offered*": "3,45,600",
+            "Shares bid for": "19,200",
+            "Total Amt* (₹ Cr.)": "0.303"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.45",
+            "Shares Offered*": "1,72,800",
+            "Shares bid for": "78,400",
+            "Total Amt* (₹ Cr.)": "1.239"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.58",
+            "Shares Offered*": "12,00,000",
+            "Shares bid for": "7,00,800",
+            "Total Amt* (₹ Cr.)": "11.073"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.33",
+            "Shares Offered*": "24,01,600",
+            "Shares bid for": "7,98,400",
+            "Total Amt* (₹ Cr.)": "12.615"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "JDA Capital Services",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/maxwell-engineering-solutions-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=maxwell-engineering-solutions-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
+        "gmp": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/"
+      },
+      "gmpId": 1965,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engin",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "vectras-enprocon-ipo",
+      "ipoId": 2740,
+      "name": "Vectras Enprocon",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 99.0,
+        "max": 105.0,
+        "display": "₹99–105"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹53.05 Cr",
+      "issueSizeCr": 53.05,
+      "freshIssueCr": 39.93,
+      "ofsCr": 10.46,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "30-Oct 9:57"
+      },
+      "subscription": {
+        "total": 0.03,
+        "byCategory": [
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "2,53,200",
+            "Shares bid for": "2,53,200",
+            "Total Amt* (₹ Cr.)": "2.659"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "9,60,000",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "9,73,200",
+            "Shares bid for": "3,600",
+            "Total Amt* (₹ Cr.)": "0.038"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "2,37,600",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "7,35,600",
+            "Shares bid for": "3,600",
+            "Total Amt* (₹ Cr.)": "0.038"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.05",
+            "Shares Offered*": "16,80,000",
+            "Shares bid for": "91,200",
+            "Total Amt* (₹ Cr.)": "0.958"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.03",
+            "Shares Offered*": "36,13,200",
+            "Shares bid for": "94,800",
+            "Total Amt* (₹ Cr.)": "0.995"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Beeline Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/vectras-enprocon-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=vectras-enprocon-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+        "gmp": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/"
+      },
+      "gmpId": 1998,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.\n\nThe company has developed strong capabilities in designing, engineering, procuring, constructing, testing, and commissioning Oil & Gas pipelines and stations. It has complete",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "hgs-india-ipo",
+      "ipoId": 2981,
+      "name": "HGS (India)",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 114.0,
+        "max": 120.0,
+        "display": "₹114–120"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹34.56 Cr",
+      "issueSizeCr": 34.56,
+      "freshIssueCr": 26.17,
+      "ofsCr": 6.65,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "30-Oct 9:53"
+      },
+      "subscription": {
+        "total": 0.01,
+        "byCategory": [
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,45,200",
+            "Shares bid for": "1,45,200",
+            "Total Amt* (₹ Cr.)": "1.742"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "13,60,800",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.03",
+            "Shares Offered*": "4,14,000",
+            "Shares bid for": "13,200",
+            "Total Amt* (₹ Cr.)": "0.158"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.05",
+            "Shares Offered*": "2,73,600",
+            "Shares bid for": "13,200",
+            "Total Amt* (₹ Cr.)": "0.158"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "1,40,400",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": ""
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.03",
+            "Shares Offered*": "9,60,000",
+            "Shares bid for": "26,400",
+            "Total Amt* (₹ Cr.)": "0.317"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.01",
+            "Shares Offered*": "27,34,800",
+            "Shares bid for": "39,600",
+            "Total Amt* (₹ Cr.)": "0.475"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Hem Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/hgs-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/hgs-india-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=hgs-india-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
+        "gmp": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/"
+      },
+      "gmpId": 2241,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Its products are used in oil and gas exploration, mineral exploration, defence research, earthquake monitoring, vibration analysis and other geoscience applications. The company also manufactures cables and connectors for resistivity meters and radar equipment.\n\nHGS (India) has developed in-house manufacturing capabilities, including cable extrusion lines and injection moulding machines, enabling it to manufacture critical components and maintain quality control. Its manufacturing facility is lo",
+      "registrar": "Kfin Technologies Ltd."
+    },
+    {
+      "slug": "johnsoncab-electricals-ipo",
+      "ipoId": 3217,
+      "name": "Johnsoncab Electricals",
+      "type": "sme",
+      "status": "open",
+      "exchange": "BSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 190.0,
+        "max": 200.0,
+        "display": "₹190–200"
+      },
+      "lotSize": 600,
+      "issueSize": "₹56.02 Cr",
+      "issueSizeCr": 56.02,
+      "freshIssueCr": 53.18,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-10-30",
+        "close": "2026-11-03",
+        "allotment": "2026-11-04",
+        "listing": "2026-11-06"
+      },
+      "gmp": {
+        "value": 13.0,
+        "percent": 6.5,
+        "xLot": 7800.0,
+        "updatedOn": "30-Oct 10:02"
+      },
+      "subscription": {
+        "total": 0.06,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "7,95,000",
+            "Shares bid for": "7,95,000",
+            "Total Amt* (₹ Cr.)": "15.900"
+          },
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,41,600",
+            "Shares bid for": "1,41,600",
+            "Total Amt* (₹ Cr.)": "2.832"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "5,31,000",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.15",
+            "Shares Offered*": "3,99,600",
+            "Shares bid for": "58,200",
+            "Total Amt* (₹ Cr.)": "1.164"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.20",
+            "Shares Offered*": "2,66,400",
+            "Shares bid for": "54,000",
+            "Total Amt* (₹ Cr.)": "1.080"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.03",
+            "Shares Offered*": "1,33,200",
+            "Shares bid for": "4,200",
+            "Total Amt* (₹ Cr.)": "0.084"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.05",
+            "Shares Offered*": "9,33,600",
+            "Shares bid for": "48,000",
+            "Total Amt* (₹ Cr.)": "0.960"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.06",
+            "Shares Offered*": "18,64,200",
+            "Shares bid for": "1,06,200",
+            "Total Amt* (₹ Cr.)": "2.124"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "ISK Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
+      "hasDetail": true,
+      "detailPath": "details/johnsoncab-electricals-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=johnsoncab-electricals-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+        "gmp": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/"
+      },
+      "gmpId": 2371,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, ho",
+      "registrar": "Maashitla Securities Pvt.Ltd."
+    },
     {
       "slug": "bombay-coated-and-special-steels-ipo",
       "ipoId": 2671,
@@ -48,62 +486,62 @@
         "listing": "2026-11-05"
       },
       "gmp": {
-        "value": 9.0,
-        "percent": 10.98,
-        "xLot": 1638.0,
-        "updatedOn": "29-Oct 23:37"
+        "value": 7.5,
+        "percent": 9.15,
+        "xLot": 1365.0,
+        "updatedOn": "30-Oct 10:02"
       },
       "subscription": {
-        "total": 2.81,
+        "total": 3.05,
         "byCategory": [
           {
             "Category": "Anchor",
             "Subscription (x)": "1",
             "Shares Offered*": "65,97,500",
             "Shares bid for": "65,97,500",
-            "Total Amt* (₹ Cr.)": "54.100"
+            "Total Amt* (₹ Cr.)": "54.10"
           },
           {
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "6.89",
             "Shares Offered*": "45,64,512",
             "Shares bid for": "3,14,52,876",
-            "Total Amt* (₹ Cr.)": "257.914"
+            "Total Amt* (₹ Cr.)": "257.91"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.76",
+            "Subscription (x)": "0.95",
             "Shares Offered*": "33,48,603",
-            "Shares bid for": "25,43,450",
-            "Total Amt* (₹ Cr.)": "20.856"
+            "Shares bid for": "31,92,462",
+            "Total Amt* (₹ Cr.)": "26.18"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.51",
+            "Subscription (x)": "0.66",
             "Shares Offered*": "22,32,402",
-            "Shares bid for": "11,46,418",
-            "Total Amt* (₹ Cr.)": "9.401"
+            "Shares bid for": "14,78,568",
+            "Total Amt* (₹ Cr.)": "12.12"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.25",
+            "Subscription (x)": "1.54",
             "Shares Offered*": "11,16,201",
-            "Shares bid for": "13,97,032",
-            "Total Amt* (₹ Cr.)": "11.456"
+            "Shares bid for": "17,13,894",
+            "Total Amt* (₹ Cr.)": "14.05"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "1.31",
+            "Subscription (x)": "1.70",
             "Shares Offered*": "78,13,409",
-            "Shares bid for": "1,02,16,752",
-            "Total Amt* (₹ Cr.)": "83.777"
+            "Shares bid for": "1,33,12,754",
+            "Total Amt* (₹ Cr.)": "109.16"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "2.81",
+            "Subscription (x)": "3.05",
             "Shares Offered*": "1,57,26,524",
-            "Shares bid for": "4,42,13,078",
-            "Total Amt* (₹ Cr.)": "362.547"
+            "Shares bid for": "4,79,58,092",
+            "Total Amt* (₹ Cr.)": "393.26"
           }
         ],
         "applications": null
@@ -157,10 +595,10 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "29-Oct 23:33"
+        "updatedOn": "30-Oct 9:56"
       },
       "subscription": {
-        "total": 0.82,
+        "total": 0.78,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -178,17 +616,17 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.36",
+            "Subscription (x)": "0.01",
             "Shares Offered*": "5,10,000",
-            "Shares bid for": "1,82,000",
-            "Total Amt* (₹ Cr.)": "1.219"
+            "Shares bid for": "6,000",
+            "Total Amt* (₹ Cr.)": "0.040"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.51",
+            "Subscription (x)": "0.00",
             "Shares Offered*": "3,42,000",
-            "Shares bid for": "1,76,000",
-            "Total Amt* (₹ Cr.)": "1.179"
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
           },
           {
             "Category": "sNII (< ₹10L)",
@@ -199,17 +637,17 @@
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.05",
+            "Subscription (x)": "0.06",
             "Shares Offered*": "27,60,000",
-            "Shares bid for": "1,32,000",
-            "Total Amt* (₹ Cr.)": "0.884"
+            "Shares bid for": "1,64,000",
+            "Total Amt* (₹ Cr.)": "1.099"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.82",
+            "Subscription (x)": "0.78",
             "Shares Offered*": "33,06,000",
-            "Shares bid for": "27,16,000",
-            "Total Amt* (₹ Cr.)": "18.197"
+            "Shares bid for": "25,72,000",
+            "Total Amt* (₹ Cr.)": "17.232"
           }
         ],
         "applications": null
@@ -263,10 +701,10 @@
         "value": 5.0,
         "percent": 2.46,
         "xLot": 3000.0,
-        "updatedOn": "29-Oct 23:37"
+        "updatedOn": "30-Oct 10:02"
       },
       "subscription": {
-        "total": 0.87,
+        "total": 0.94,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -277,24 +715,24 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.18",
+            "Subscription (x)": "0.20",
             "Shares Offered*": "8,89,200",
-            "Shares bid for": "1,60,800",
-            "Total Amt* (₹ Cr.)": "3.26"
+            "Shares bid for": "1,76,400",
+            "Total Amt* (₹ Cr.)": "3.58"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "1.57",
+            "Subscription (x)": "1.68",
             "Shares Offered*": "8,90,400",
-            "Shares bid for": "13,94,400",
-            "Total Amt* (₹ Cr.)": "28.31"
+            "Shares bid for": "14,97,600",
+            "Total Amt* (₹ Cr.)": "30.40"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.87",
+            "Subscription (x)": "0.94",
             "Shares Offered*": "17,79,600",
-            "Shares bid for": "15,55,200",
-            "Total Amt* (₹ Cr.)": "31.57"
+            "Shares bid for": "16,74,000",
+            "Total Amt* (₹ Cr.)": "33.98"
           }
         ],
         "applications": null
@@ -348,10 +786,10 @@
         "value": 12.5,
         "percent": 7.72,
         "xLot": 1137.5,
-        "updatedOn": "29-Oct 23:37"
+        "updatedOn": "30-Oct 10:02"
       },
       "subscription": {
-        "total": 1.18,
+        "total": 1.49,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -364,43 +802,43 @@
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "0.99",
             "Shares Offered*": "34,00,000",
-            "Shares bid for": "33,59,720",
-            "Total Amt* (₹ Cr.)": "54.427"
+            "Shares bid for": "33,63,542",
+            "Total Amt* (₹ Cr.)": "54.489"
           },
           {
             "Category": "NII",
-            "Subscription (x)": "2.20",
+            "Subscription (x)": "3.06",
             "Shares Offered*": "25,50,000",
-            "Shares bid for": "56,09,149",
-            "Total Amt* (₹ Cr.)": "90.868"
+            "Shares bid for": "77,92,239",
+            "Total Amt* (₹ Cr.)": "126.234"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "2.52",
+            "Subscription (x)": "3.42",
             "Shares Offered*": "17,00,000",
-            "Shares bid for": "42,85,645",
-            "Total Amt* (₹ Cr.)": "69.427"
+            "Shares bid for": "58,17,175",
+            "Total Amt* (₹ Cr.)": "94.238"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.56",
+            "Subscription (x)": "2.32",
             "Shares Offered*": "8,50,000",
-            "Shares bid for": "13,23,504",
-            "Total Amt* (₹ Cr.)": "21.441"
+            "Shares bid for": "19,75,064",
+            "Total Amt* (₹ Cr.)": "31.996"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "0.85",
+            "Subscription (x)": "1.11",
             "Shares Offered*": "59,50,000",
-            "Shares bid for": "50,43,675",
-            "Total Amt* (₹ Cr.)": "81.708"
+            "Shares bid for": "65,92,313",
+            "Total Amt* (₹ Cr.)": "106.795"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.18",
+            "Subscription (x)": "1.49",
             "Shares Offered*": "1,19,00,000",
-            "Shares bid for": "1,40,12,544",
-            "Total Amt* (₹ Cr.)": "227.003"
+            "Shares bid for": "1,77,48,094",
+            "Total Amt* (₹ Cr.)": "287.519"
           }
         ],
         "applications": null
@@ -454,10 +892,10 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "29-Oct 23:32"
+        "updatedOn": "30-Oct 9:54"
       },
       "subscription": {
-        "total": 0.83,
+        "total": 1.7,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -482,38 +920,38 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "2.31",
+            "Subscription (x)": "4.04",
             "Shares Offered*": "5,12,000",
-            "Shares bid for": "11,80,800",
-            "Total Amt* (₹ Cr.)": "9.446"
+            "Shares bid for": "20,70,400",
+            "Total Amt* (₹ Cr.)": "16.563"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "2.93",
+            "Subscription (x)": "4.74",
             "Shares Offered*": "3,40,800",
-            "Shares bid for": "10,00,000",
-            "Total Amt* (₹ Cr.)": "8.000"
+            "Shares bid for": "16,14,400",
+            "Total Amt* (₹ Cr.)": "12.915"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.06",
+            "Subscription (x)": "2.66",
             "Shares Offered*": "1,71,200",
-            "Shares bid for": "1,80,800",
-            "Total Amt* (₹ Cr.)": "1.446"
+            "Shares bid for": "4,56,000",
+            "Total Amt* (₹ Cr.)": "3.648"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.65",
+            "Subscription (x)": "1.64",
             "Shares Offered*": "11,80,800",
-            "Shares bid for": "7,68,000",
-            "Total Amt* (₹ Cr.)": "6.144"
+            "Shares bid for": "19,36,000",
+            "Total Amt* (₹ Cr.)": "15.488"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.83",
+            "Subscription (x)": "1.70",
             "Shares Offered*": "23,61,600",
-            "Shares bid for": "19,48,800",
-            "Total Amt* (₹ Cr.)": "15.590"
+            "Shares bid for": "40,06,400",
+            "Total Amt* (₹ Cr.)": "32.051"
           }
         ],
         "applications": null
@@ -538,331 +976,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services.\n\nThe Company operates its primary manufacturing facility in Bamanbore, Rajkot, ",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "sfc-environmental-technologies-ipo",
-      "ipoId": 2070,
-      "name": "SFC Environmental Technologies",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 313.0,
-        "max": 330.0,
-        "display": "₹313–330"
-      },
-      "lotSize": 45,
-      "issueSize": "₹667.53 Cr",
-      "issueSizeCr": 667.53,
-      "freshIssueCr": 150.0,
-      "ofsCr": 517.53,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 19.0,
-        "percent": 5.76,
-        "xLot": 855.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": 9.47,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "60,68,460",
-            "Shares bid for": "60,68,460",
-            "Total Amt* (₹ Cr.)": "200.259"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "18.81",
-            "Shares Offered*": "40,45,642",
-            "Shares bid for": "7,61,07,240",
-            "Total Amt* (₹ Cr.)": "2,511.539"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "12.81",
-            "Shares Offered*": "30,34,231",
-            "Shares bid for": "3,88,56,600",
-            "Total Amt* (₹ Cr.)": "1,282.268"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "14.49",
-            "Shares Offered*": "20,22,820",
-            "Shares bid for": "2,93,15,070",
-            "Total Amt* (₹ Cr.)": "967.397"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "9.43",
-            "Shares Offered*": "10,11,410",
-            "Shares bid for": "95,41,530",
-            "Total Amt* (₹ Cr.)": "314.870"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "2.71",
-            "Shares Offered*": "70,79,871",
-            "Shares bid for": "1,91,53,530",
-            "Total Amt* (₹ Cr.)": "632.066"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "9.47",
-            "Shares Offered*": "1,41,59,744",
-            "Shares bid for": "13,41,17,370",
-            "Total Amt* (₹ Cr.)": "4,425.873"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/sfc-environmental-technologies-limited_logo.png",
-      "hasDetail": true,
-      "detailPath": "details/sfc-environmental-technologies-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=sfc-environmental-technologies-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
-        "gmp": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/"
-      },
-      "gmpId": 1642,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewag",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "bls-polymers-ipo",
-      "ipoId": 2559,
-      "name": "BLS Polymers",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 142.0,
-        "max": 150.0,
-        "display": "₹142–150"
-      },
-      "lotSize": 100,
-      "issueSize": "₹255.00 Cr",
-      "issueSizeCr": 255.0,
-      "freshIssueCr": 255.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 68.0,
-        "percent": 45.33,
-        "xLot": 6800.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": 241.22,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "51,00,000",
-            "Shares bid for": "51,00,000",
-            "Total Amt* (₹ Cr.)": "76.50"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "200.25",
-            "Shares Offered*": "34,00,000",
-            "Shares bid for": "68,08,57,700",
-            "Total Amt* (₹ Cr.)": "10,212.87"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "559.20",
-            "Shares Offered*": "25,50,000",
-            "Shares bid for": "1,42,59,67,100",
-            "Total Amt* (₹ Cr.)": "21,389.51"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "592.83",
-            "Shares Offered*": "17,00,000",
-            "Shares bid for": "1,00,78,15,300",
-            "Total Amt* (₹ Cr.)": "15,117.23"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "491.94",
-            "Shares Offered*": "8,50,000",
-            "Shares bid for": "41,81,51,800",
-            "Total Amt* (₹ Cr.)": "6,272.28"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "128.36",
-            "Shares Offered*": "59,50,000",
-            "Shares bid for": "76,37,25,200",
-            "Total Amt* (₹ Cr.)": "11,455.88"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "241.22",
-            "Shares Offered*": "1,19,00,000",
-            "Shares bid for": "2,87,05,50,000",
-            "Total Amt* (₹ Cr.)": "43,058.25"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Unistone Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bls-polymers-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bls-polymers-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bls-polymers-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
-        "gmp": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/"
-      },
-      "gmpId": 1849,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements.\n\nBLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia.\n\nIts proximity to Mormugao Port supports ",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "wiscon-industries-ipo",
-      "ipoId": 3202,
-      "name": "Wiscon Industries",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 194.0,
-        "max": 204.0,
-        "display": "₹194–204"
-      },
-      "lotSize": 600,
-      "issueSize": "₹110.00 Cr",
-      "issueSizeCr": 110.0,
-      "freshIssueCr": 80.05,
-      "ofsCr": 22.0,
-      "dates": {
-        "open": "2026-10-27",
-        "close": "2026-10-29",
-        "allotment": "2026-10-30",
-        "listing": "2026-11-03"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Oct 23:34"
-      },
-      "subscription": {
-        "total": 1.17,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "12,25,800",
-            "Shares bid for": "12,25,800",
-            "Total Amt* (₹ Cr.)": "25.006"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,90,000",
-            "Shares bid for": "3,90,000",
-            "Total Amt* (₹ Cr.)": "7.956"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "2.24",
-            "Shares Offered*": "12,25,800",
-            "Shares bid for": "27,45,600",
-            "Total Amt* (₹ Cr.)": "56.010"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.62",
-            "Shares Offered*": "7,72,200",
-            "Shares bid for": "4,81,200",
-            "Total Amt* (₹ Cr.)": "9.816"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.68",
-            "Shares Offered*": "5,14,800",
-            "Shares bid for": "3,49,800",
-            "Total Amt* (₹ Cr.)": "7.136"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.51",
-            "Shares Offered*": "2,57,400",
-            "Shares bid for": "1,31,400",
-            "Total Amt* (₹ Cr.)": "2.681"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.66",
-            "Shares Offered*": "17,78,400",
-            "Shares bid for": "11,80,800",
-            "Total Amt* (₹ Cr.)": "24.088"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.17",
-            "Shares Offered*": "37,76,400",
-            "Shares bid for": "44,07,600",
-            "Total Amt* (₹ Cr.)": "89.915"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/wiscon_logo.jpg",
-      "hasDetail": true,
-      "detailPath": "details/wiscon-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=wiscon-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
-        "gmp": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/"
-      },
-      "gmpId": 2356,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.\n\nThe company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.\n\nIt also sells electric scooters sourced from third-party brands.\n\nWiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an o",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     },
     {
       "slug": "vedant-poly-fabs-ipo",
@@ -892,7 +1005,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "29-Oct 5:55"
+        "updatedOn": "30-Oct 5:55"
       },
       "subscription": {
         "total": null,
@@ -918,226 +1031,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Vedant Poly Fabs Limited was incorporated in December 2018 and is engaged in the manufacturing of flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.\n\nSince commencing operations, the company has expanded its product ",
       "registrar": "Cameo Corporate Services Ltd."
-    },
-    {
-      "slug": "maxwell-engineering-solutions-ipo",
-      "ipoId": 2704,
-      "name": "Maxwell Engineering Solutions",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 150.0,
-        "max": 158.0,
-        "display": "₹150–158"
-      },
-      "lotSize": 800,
-      "issueSize": "₹57.64 Cr",
-      "issueSizeCr": 57.64,
-      "freshIssueCr": 54.12,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 70.0,
-        "percent": 44.3,
-        "xLot": 56000.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "JDA Capital Services",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/maxwell-engineering-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/maxwell-engineering-solutions-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=maxwell-engineering-solutions-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
-        "gmp": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/"
-      },
-      "gmpId": 1965,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engin",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "vectras-enprocon-ipo",
-      "ipoId": 2740,
-      "name": "Vectras Enprocon",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 99.0,
-        "max": 105.0,
-        "display": "₹99–105"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹53.05 Cr",
-      "issueSizeCr": 53.05,
-      "freshIssueCr": 39.93,
-      "ofsCr": 10.46,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Oct 23:30"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Beeline Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vectras-enprocon-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/vectras-enprocon-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vectras-enprocon-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
-        "gmp": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/"
-      },
-      "gmpId": 1998,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India.\n\nThe company has developed strong capabilities in designing, engineering, procuring, constructing, testing, and commissioning Oil & Gas pipelines and stations. It has complete",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "hgs-india-ipo",
-      "ipoId": 2981,
-      "name": "HGS (India)",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 114.0,
-        "max": 120.0,
-        "display": "₹114–120"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹34.56 Cr",
-      "issueSizeCr": 34.56,
-      "freshIssueCr": 26.17,
-      "ofsCr": 6.65,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Hem Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/hgs-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/hgs-india-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=hgs-india-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
-        "gmp": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/"
-      },
-      "gmpId": 2241,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Its products are used in oil and gas exploration, mineral exploration, defence research, earthquake monitoring, vibration analysis and other geoscience applications. The company also manufactures cables and connectors for resistivity meters and radar equipment.\n\nHGS (India) has developed in-house manufacturing capabilities, including cable extrusion lines and injection moulding machines, enabling it to manufacture critical components and maintain quality control. Its manufacturing facility is lo",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "johnsoncab-electricals-ipo",
-      "ipoId": 3217,
-      "name": "Johnsoncab Electricals",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 190.0,
-        "max": 200.0,
-        "display": "₹190–200"
-      },
-      "lotSize": 600,
-      "issueSize": "₹56.02 Cr",
-      "issueSizeCr": 56.02,
-      "freshIssueCr": 53.18,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-30",
-        "close": "2026-11-03",
-        "allotment": "2026-11-04",
-        "listing": "2026-11-06"
-      },
-      "gmp": {
-        "value": 13.0,
-        "percent": 6.5,
-        "xLot": 7800.0,
-        "updatedOn": "29-Oct 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "ISK Advisors",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
-      "hasDetail": true,
-      "detailPath": "details/johnsoncab-electricals-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=johnsoncab-electricals-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
-        "gmp": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/"
-      },
-      "gmpId": 2371,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, ho",
-      "registrar": "Maashitla Securities Pvt.Ltd."
     }
   ]
 }
