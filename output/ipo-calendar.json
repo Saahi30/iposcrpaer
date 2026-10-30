@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T05:00:08+00:00",
+  "scrapedAt": "2026-10-30T12:25:28+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 121,
-    "mainboard": 50,
+    "totalEvents": 122,
+    "mainboard": 51,
     "sme": 71,
     "byEventType": {
-      "allotment": 42,
+      "allotment": 43,
       "close": 43,
       "listing": 1,
       "open": 27,
@@ -38,8 +38,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=10&year=2026"
       },
       "summary": {
-        "total": 109,
-        "mainboard": 47,
+        "total": 110,
+        "mainboard": 48,
         "sme": 62
       },
       "byDate": {
@@ -1924,6 +1924,25 @@
             }
           },
           {
+            "title": "EAAA India Alternatives IPO Allotment Status",
+            "company": "EAAA India Alternatives",
+            "eventType": "allotment",
+            "date": "2026-10-29",
+            "dateEnd": "2026-10-29",
+            "details": "The allotment status of EAAA India Alternatives Ltd. IPO is now available online. The public issue of EAAA India Alternatives IPO was open on Oct 26, 2026 and closed for subscription on Oct 28, 2026.",
+            "type": "mainboard",
+            "slug": "eaaa-india-alternatives-ipo",
+            "ipoId": 2061,
+            "eventId": 15797,
+            "month": 10,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/eaaa-india-alternatives-ipo/2061/#15797",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=EAAA%20India%20Alternatives%20IPO%20Allotment%20Status&location=&dates=20261029/20261030&details=The%20allotment%20status%20of%20EAAA%20India%20Alternatives%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20EAAA%20India%20Alternatives%20IPO%20was%20open%20on%20Oct%2026%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2028%2C%202026.%20"
+            }
+          },
+          {
             "title": "SFC Environmental Technologies IPO Closes on Oct 29, 2026",
             "company": "SFC Environmental Technologies",
             "eventType": "close",
@@ -2992,6 +3011,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15747",
             "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20and%20Special%20Steels%20IPO%20Opens%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20183.06%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B"
+          }
+        },
+        {
+          "title": "EAAA India Alternatives IPO Allotment Status",
+          "company": "EAAA India Alternatives",
+          "eventType": "allotment",
+          "date": "2026-10-29",
+          "dateEnd": "2026-10-29",
+          "details": "The allotment status of EAAA India Alternatives Ltd. IPO is now available online. The public issue of EAAA India Alternatives IPO was open on Oct 26, 2026 and closed for subscription on Oct 28, 2026.",
+          "type": "mainboard",
+          "slug": "eaaa-india-alternatives-ipo",
+          "ipoId": 2061,
+          "eventId": 15797,
+          "month": 10,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/eaaa-india-alternatives-ipo/2061/#15797",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=EAAA%20India%20Alternatives%20IPO%20Allotment%20Status&location=&dates=20261029/20261030&details=The%20allotment%20status%20of%20EAAA%20India%20Alternatives%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20EAAA%20India%20Alternatives%20IPO%20was%20open%20on%20Oct%2026%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2028%2C%202026.%20"
           }
         },
         {
@@ -4290,7 +4328,7 @@
             "eventType": "open",
             "date": "2026-11-02",
             "dateEnd": "2026-11-02",
-            "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.61 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+            "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.57 Equity Shares of Rs 10 aggregating up to Rs 53.82 Crore. The price for the issue has been set at Rs 88 - Rs 94 Per Equity Sh",
             "type": "sme",
             "slug": "vedant-poly-fabs-ipo",
             "ipoId": 3143,
@@ -4300,7 +4338,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15781",
               "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.61%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.57%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2053.82%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2088%20-%20Rs%2094%20Per%20Equity%20Sh"
             }
           }
         ],
@@ -4389,7 +4427,7 @@
             "eventType": "close",
             "date": "2026-11-04",
             "dateEnd": "2026-11-04",
-            "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs [",
+            "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 8",
             "type": "sme",
             "slug": "vedant-poly-fabs-ipo",
             "ipoId": 3143,
@@ -4399,7 +4437,7 @@
             "urls": {
               "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15782",
               "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%208"
             }
           }
         ],
@@ -4567,7 +4605,7 @@
           "eventType": "open",
           "date": "2026-11-02",
           "dateEnd": "2026-11-02",
-          "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.61 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+          "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.57 Equity Shares of Rs 10 aggregating up to Rs 53.82 Crore. The price for the issue has been set at Rs 88 - Rs 94 Per Equity Sh",
           "type": "sme",
           "slug": "vedant-poly-fabs-ipo",
           "ipoId": 3143,
@@ -4577,7 +4615,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15781",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.61%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.57%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2053.82%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2088%20-%20Rs%2094%20Per%20Equity%20Sh"
           }
         },
         {
@@ -4662,7 +4700,7 @@
           "eventType": "close",
           "date": "2026-11-04",
           "dateEnd": "2026-11-04",
-          "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs [",
+          "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 8",
           "type": "sme",
           "slug": "vedant-poly-fabs-ipo",
           "ipoId": 3143,
@@ -4672,7 +4710,7 @@
           "urls": {
             "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15782",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%208"
           }
         },
         {
@@ -5551,6 +5589,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15747",
         "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20and%20Special%20Steels%20IPO%20Opens%20on%20Oct%2029%2C%202026&location=&dates=20261029/20261030&details=Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%20%5B.%5D%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%20183.06%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B"
+      }
+    },
+    {
+      "title": "EAAA India Alternatives IPO Allotment Status",
+      "company": "EAAA India Alternatives",
+      "eventType": "allotment",
+      "date": "2026-10-29",
+      "dateEnd": "2026-10-29",
+      "details": "The allotment status of EAAA India Alternatives Ltd. IPO is now available online. The public issue of EAAA India Alternatives IPO was open on Oct 26, 2026 and closed for subscription on Oct 28, 2026.",
+      "type": "mainboard",
+      "slug": "eaaa-india-alternatives-ipo",
+      "ipoId": 2061,
+      "eventId": 15797,
+      "month": 10,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/eaaa-india-alternatives-ipo/2061/#15797",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=EAAA%20India%20Alternatives%20IPO%20Allotment%20Status&location=&dates=20261029/20261030&details=The%20allotment%20status%20of%20EAAA%20India%20Alternatives%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20EAAA%20India%20Alternatives%20IPO%20was%20open%20on%20Oct%2026%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2028%2C%202026.%20"
       }
     },
     {
@@ -6870,7 +6927,7 @@
       "eventType": "open",
       "date": "2026-11-02",
       "dateEnd": "2026-11-02",
-      "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.61 Equity Shares of Rs 10 aggregating up to Rs 0.00 Crore. The price for the issue has been set at Rs [.] - Rs [.] Per Equity S",
+      "details": "Vedant Poly Fabs Ltd. is entering in the capital market with an IPO of 0.57 Equity Shares of Rs 10 aggregating up to Rs 53.82 Crore. The price for the issue has been set at Rs 88 - Rs 94 Per Equity Sh",
       "type": "sme",
       "slug": "vedant-poly-fabs-ipo",
       "ipoId": 3143,
@@ -6880,7 +6937,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15781",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.61%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%200.00%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B.%5D%20-%20Rs%20%5B.%5D%20Per%20Equity%20S"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Opens%20on%20Nov%202%2C%202026&location=&dates=20261102/20261103&details=Vedant%20Poly%20Fabs%20Ltd.%20is%20entering%20in%20the%20capital%20market%20with%20an%20IPO%20of%200.57%20Equity%20Shares%20of%20Rs%2010%20aggregating%20up%20to%20Rs%2053.82%20Crore.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%2088%20-%20Rs%2094%20Per%20Equity%20Sh"
       }
     },
     {
@@ -6965,7 +7022,7 @@
       "eventType": "close",
       "date": "2026-11-04",
       "dateEnd": "2026-11-04",
-      "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs [",
+      "details": "The issue of Vedant Poly Fabs Ltd. opens on Nov 2, 2026 and closes for subscription on Nov 4, 2026. The equity shares of the company to be list at NSE SME. The price for the issue has been set at Rs 8",
       "type": "sme",
       "slug": "vedant-poly-fabs-ipo",
       "ipoId": 3143,
@@ -6975,7 +7032,7 @@
       "urls": {
         "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15782",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20%5B"
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Closes%20on%20Nov%204%2C%202026&location=&dates=20261104/20261105&details=The%20issue%20of%20Vedant%20Poly%20Fabs%20Ltd.%20opens%20on%20Nov%202%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20NSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%208"
       }
     },
     {

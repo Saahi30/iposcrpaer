@@ -445,8 +445,8 @@
     "source": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/"
   },
   "subscription": {
-    "summary": "M.K.Sons Fine Jewels IPO subscribed 1.49 times. The public issue subscribed 1.11 times in the retail category, 0.99 times in QIB (Ex Anchor), and 3.06 times in the NII category by October 30, 2026 10:24:58 AM (Day 3).",
-    "total": 1.49,
+    "summary": "M.K.Sons Fine Jewels IPO subscribed 5.09 times. The public issue subscribed 3.08 times in the retail category, 1.84 times in QIB (Ex Anchor), and 14.12 times in the NII category by October 30, 2026 5:54:54 PM (Day 3).",
+    "total": 5.09,
     "applications": null,
     "byCategory": [
       {
@@ -458,45 +458,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.99",
+        "Subscription (x)": "1.84",
         "Shares Offered*": "34,00,000",
-        "Shares bid for": "33,63,542",
-        "Total Amt* (₹ Cr.)": "54.489"
+        "Shares bid for": "62,64,349",
+        "Total Amt* (₹ Cr.)": "101.482"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "3.06",
+        "Subscription (x)": "14.12",
         "Shares Offered*": "25,50,000",
-        "Shares bid for": "77,92,239",
-        "Total Amt* (₹ Cr.)": "126.234"
+        "Shares bid for": "3,60,11,976",
+        "Total Amt* (₹ Cr.)": "583.394"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "3.42",
+        "Subscription (x)": "15.33",
         "Shares Offered*": "17,00,000",
-        "Shares bid for": "58,17,175",
-        "Total Amt* (₹ Cr.)": "94.238"
+        "Shares bid for": "2,60,62,400",
+        "Total Amt* (₹ Cr.)": "422.211"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.32",
+        "Subscription (x)": "11.71",
         "Shares Offered*": "8,50,000",
-        "Shares bid for": "19,75,064",
-        "Total Amt* (₹ Cr.)": "31.996"
+        "Shares bid for": "99,49,576",
+        "Total Amt* (₹ Cr.)": "161.183"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.11",
+        "Subscription (x)": "3.08",
         "Shares Offered*": "59,50,000",
-        "Shares bid for": "65,92,313",
-        "Total Amt* (₹ Cr.)": "106.795"
+        "Shares bid for": "1,83,28,310",
+        "Total Amt* (₹ Cr.)": "296.919"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.49",
+        "Subscription (x)": "5.09",
         "Shares Offered*": "1,19,00,000",
-        "Shares bid for": "1,77,48,094",
-        "Total Amt* (₹ Cr.)": "287.519"
+        "Shares bid for": "6,06,04,635",
+        "Total Amt* (₹ Cr.)": "981.795"
       }
     ],
     "dayWise": [
@@ -520,12 +520,12 @@
       },
       {
         "Date": "Oct 30 (Day 3)",
-        "QIB (Ex Anchor)": "0.99",
-        "NII": "3.06",
-        "NII (> ₹10L)": "3.42",
-        "NII (< ₹10L)": "2.32",
-        "Retail": "1.11",
-        "Total": "1.49"
+        "QIB (Ex Anchor)": "1.84",
+        "NII": "14.12",
+        "NII (> ₹10L)": "15.33",
+        "NII (< ₹10L)": "11.71",
+        "Retail": "3.08",
+        "Total": "5.09"
       }
     ]
   },
@@ -548,10 +548,10 @@
       "listing": "2026-11-04"
     },
     "gmp": {
-      "value": 12.5,
-      "percent": 7.72,
-      "xLot": 1137.5,
-      "updatedOn": "30-Oct 10:02"
+      "value": 6.0,
+      "percent": 3.7,
+      "xLot": 546.0,
+      "updatedOn": "30-Oct 17:37"
     },
     "leadManager": "Aryaman Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/mk-sons-fine-jewels-logo.png",
@@ -561,5 +561,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T04:59:59+00:00"
+  "scrapedAt": "2026-10-30T12:25:20+00:00"
 }

@@ -402,8 +402,8 @@
     "source": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/"
   },
   "subscription": {
-    "summary": "Ajwa Projects IPO subscribed 0.94 times. The public issue subscribed 1.68 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.20 times in the NII category by October 30, 2026 10:24:49 AM (Day 3).",
-    "total": 0.94,
+    "summary": "Ajwa Projects IPO subscribed 1.12 times. The public issue subscribed 1.93 times in the individual investors category, [.] times in QIB (Ex Anchor), and 0.32 times in the NII category by October 30, 2026 5:55:01 PM (Day 3).",
+    "total": 1.12,
     "applications": null,
     "byCategory": [
       {
@@ -415,24 +415,24 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.20",
+        "Subscription (x)": "0.32",
         "Shares Offered*": "8,89,200",
-        "Shares bid for": "1,76,400",
-        "Total Amt* (₹ Cr.)": "3.58"
+        "Shares bid for": "2,84,400",
+        "Total Amt* (₹ Cr.)": "5.77"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.68",
+        "Subscription (x)": "1.93",
         "Shares Offered*": "8,90,400",
-        "Shares bid for": "14,97,600",
-        "Total Amt* (₹ Cr.)": "30.40"
+        "Shares bid for": "17,14,800",
+        "Total Amt* (₹ Cr.)": "34.81"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.94",
+        "Subscription (x)": "1.12",
         "Shares Offered*": "17,79,600",
-        "Shares bid for": "16,74,000",
-        "Total Amt* (₹ Cr.)": "33.98"
+        "Shares bid for": "19,99,200",
+        "Total Amt* (₹ Cr.)": "40.58"
       }
     ],
     "dayWise": [
@@ -450,9 +450,9 @@
       },
       {
         "Date": "Oct 30 (Day 3)",
-        "NII*": "0.20",
-        "Individual Investors": "1.68",
-        "Total": "0.94"
+        "NII*": "0.32",
+        "Individual Investors": "1.93",
+        "Total": "1.12"
       }
     ]
   },
@@ -475,10 +475,10 @@
       "listing": "2026-11-04"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 2.46,
-      "xLot": 3000.0,
-      "updatedOn": "30-Oct 10:02"
+      "value": 2.0,
+      "percent": 0.99,
+      "xLot": 1200.0,
+      "updatedOn": "30-Oct 17:37"
     },
     "leadManager": "Wealth Mine Networks",
     "logo": "https://www.chittorgarh.net/images/ipo/ajwa-projects-logo.png",
@@ -488,5 +488,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T04:59:57+00:00"
+  "scrapedAt": "2026-10-30T12:25:18+00:00"
 }

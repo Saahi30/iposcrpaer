@@ -386,8 +386,8 @@
     "source": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/"
   },
   "subscription": {
-    "summary": "Antala Industries IPO subscribed 0.78 times. The public issue subscribed 0.06 times in the individual investors category, 66.72 times in QIB (Ex Anchor), and 0.01 times in the NII category by October 30, 2026 10:24:53 AM (Day 2).",
-    "total": 0.78,
+    "summary": "Antala Industries IPO subscribed 0.81 times. The public issue subscribed 0.10 times in the individual investors category, 66.72 times in QIB (Ex Anchor), and 0.02 times in the NII category by October 30, 2026 5:05:49 PM (Day 2).",
+    "total": 0.81,
     "applications": null,
     "byCategory": [
       {
@@ -406,10 +406,10 @@
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "0.01",
+        "Subscription (x)": "0.02",
         "Shares Offered*": "5,10,000",
-        "Shares bid for": "6,000",
-        "Total Amt* (₹ Cr.)": "0.040"
+        "Shares bid for": "12,000",
+        "Total Amt* (₹ Cr.)": "0.080"
       },
       {
         "Category": "bNII (> ₹10L)",
@@ -420,24 +420,24 @@
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.04",
+        "Subscription (x)": "0.07",
         "Shares Offered*": "1,68,000",
-        "Shares bid for": "6,000",
-        "Total Amt* (₹ Cr.)": "0.040"
+        "Shares bid for": "12,000",
+        "Total Amt* (₹ Cr.)": "0.080"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "0.06",
+        "Subscription (x)": "0.10",
         "Shares Offered*": "27,60,000",
-        "Shares bid for": "1,64,000",
-        "Total Amt* (₹ Cr.)": "1.099"
+        "Shares bid for": "2,76,000",
+        "Total Amt* (₹ Cr.)": "1.849"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "0.78",
+        "Subscription (x)": "0.81",
         "Shares Offered*": "33,06,000",
-        "Shares bid for": "25,72,000",
-        "Total Amt* (₹ Cr.)": "17.232"
+        "Shares bid for": "26,90,000",
+        "Total Amt* (₹ Cr.)": "18.023"
       }
     ],
     "dayWise": [
@@ -453,11 +453,11 @@
       {
         "Date": "Oct 30 (Day 2)",
         "QIB (Ex Anchor)": "66.72",
-        "NII*": "0.01",
+        "NII*": "0.02",
         "NII (> ₹10L)": "0.00",
-        "NII (< ₹10L)": "0.04",
-        "Individual Investors": "0.06",
-        "Total": "0.78"
+        "NII (< ₹10L)": "0.07",
+        "Individual Investors": "0.10",
+        "Total": "0.81"
       }
     ]
   },
@@ -483,7 +483,7 @@
       "value": 0.0,
       "percent": 0.0,
       "xLot": 0.0,
-      "updatedOn": "30-Oct 9:56"
+      "updatedOn": "30-Oct 17:31"
     },
     "leadManager": "Vatsa Capital Venture Pvt.Ltd.",
     "logo": "https://www.chittorgarh.net/images/ipo/antala-industries-ltd-logo.png",
@@ -493,5 +493,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T04:59:56+00:00"
+  "scrapedAt": "2026-10-30T12:25:16+00:00"
 }

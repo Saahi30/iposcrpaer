@@ -467,8 +467,8 @@
     "source": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/"
   },
   "subscription": {
-    "summary": "Carver Roboweld IPO subscribed 1.70 times. The public issue subscribed 1.64 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 4.04 times in the NII category by October 30, 2026 10:24:48 AM (Day 3).",
-    "total": 1.7,
+    "summary": "Carver Roboweld IPO subscribed 25.80 times. The public issue subscribed 19.17 times in the individual investors category, 26.33 times in QIB (Ex Anchor), and 40.39 times in the NII category by October 30, 2026 5:55:02 PM (Day 3).",
+    "total": 25.8,
     "applications": null,
     "byCategory": [
       {
@@ -487,45 +487,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "26.33",
         "Shares Offered*": "6,68,800",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0"
+        "Shares bid for": "1,76,09,600",
+        "Total Amt* (₹ Cr.)": "140.877"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "4.04",
+        "Subscription (x)": "40.39",
         "Shares Offered*": "5,12,000",
-        "Shares bid for": "20,70,400",
-        "Total Amt* (₹ Cr.)": "16.563"
+        "Shares bid for": "2,06,81,600",
+        "Total Amt* (₹ Cr.)": "165.453"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "4.74",
+        "Subscription (x)": "47.38",
         "Shares Offered*": "3,40,800",
-        "Shares bid for": "16,14,400",
-        "Total Amt* (₹ Cr.)": "12.915"
+        "Shares bid for": "1,61,45,600",
+        "Total Amt* (₹ Cr.)": "129.165"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "2.66",
+        "Subscription (x)": "26.50",
         "Shares Offered*": "1,71,200",
-        "Shares bid for": "4,56,000",
-        "Total Amt* (₹ Cr.)": "3.648"
+        "Shares bid for": "45,36,000",
+        "Total Amt* (₹ Cr.)": "36.288"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.64",
+        "Subscription (x)": "19.17",
         "Shares Offered*": "11,80,800",
-        "Shares bid for": "19,36,000",
-        "Total Amt* (₹ Cr.)": "15.488"
+        "Shares bid for": "2,26,36,800",
+        "Total Amt* (₹ Cr.)": "181.094"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.70",
+        "Subscription (x)": "25.80",
         "Shares Offered*": "23,61,600",
-        "Shares bid for": "40,06,400",
-        "Total Amt* (₹ Cr.)": "32.051"
+        "Shares bid for": "6,09,28,000",
+        "Total Amt* (₹ Cr.)": "487.424"
       }
     ],
     "dayWise": [
@@ -549,12 +549,12 @@
       },
       {
         "Date": "Oct 30 (Day 3)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "4.04",
-        "NII (> ₹10L)": "4.74",
-        "NII (< ₹10L)": "2.66",
-        "Individual Investors": "1.64",
-        "Total": "1.70"
+        "QIB (Ex Anchor)": "26.33",
+        "NII*": "40.39",
+        "NII (> ₹10L)": "47.38",
+        "NII (< ₹10L)": "26.50",
+        "Individual Investors": "19.17",
+        "Total": "25.80"
       }
     ]
   },
@@ -577,10 +577,10 @@
       "listing": "2026-11-04"
     },
     "gmp": {
-      "value": 0.0,
-      "percent": 0.0,
-      "xLot": 0.0,
-      "updatedOn": "30-Oct 9:54"
+      "value": 5.0,
+      "percent": 6.25,
+      "xLot": 8000.0,
+      "updatedOn": "30-Oct 17:37"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/carver-roboweld-ltd-logo.png",
@@ -590,5 +590,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T05:00:01+00:00"
+  "scrapedAt": "2026-10-30T12:25:22+00:00"
 }

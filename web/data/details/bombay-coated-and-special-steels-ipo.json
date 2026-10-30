@@ -417,8 +417,8 @@
     "source": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/"
   },
   "subscription": {
-    "summary": "Bombay Coated & Special Steels IPO subscribed 3.05 times. The public issue subscribed 1.70 times in the retail category, 6.89 times in QIB (Ex Anchor), and 0.95 times in the NII category by October 30, 2026 10:24:59 AM (Day 2).",
-    "total": 3.05,
+    "summary": "Bombay Coated & Special Steels IPO subscribed 3.98 times. The public issue subscribed 3.17 times in the retail category, 6.89 times in QIB (Ex Anchor), and 1.90 times in the NII category by October 30, 2026 5:05:56 PM (Day 2).",
+    "total": 3.98,
     "applications": null,
     "byCategory": [
       {
@@ -432,43 +432,43 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "6.89",
         "Shares Offered*": "45,64,512",
-        "Shares bid for": "3,14,52,876",
-        "Total Amt* (₹ Cr.)": "257.91"
+        "Shares bid for": "3,14,55,424",
+        "Total Amt* (₹ Cr.)": "257.93"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.95",
+        "Subscription (x)": "1.90",
         "Shares Offered*": "33,48,603",
-        "Shares bid for": "31,92,462",
-        "Total Amt* (₹ Cr.)": "26.18"
+        "Shares bid for": "63,46,340",
+        "Total Amt* (₹ Cr.)": "52.04"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.66",
+        "Subscription (x)": "1.30",
         "Shares Offered*": "22,32,402",
-        "Shares bid for": "14,78,568",
-        "Total Amt* (₹ Cr.)": "12.12"
+        "Shares bid for": "28,95,984",
+        "Total Amt* (₹ Cr.)": "23.75"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.54",
+        "Subscription (x)": "3.09",
         "Shares Offered*": "11,16,201",
-        "Shares bid for": "17,13,894",
-        "Total Amt* (₹ Cr.)": "14.05"
+        "Shares bid for": "34,50,356",
+        "Total Amt* (₹ Cr.)": "28.29"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "1.70",
+        "Subscription (x)": "3.17",
         "Shares Offered*": "78,13,409",
-        "Shares bid for": "1,33,12,754",
-        "Total Amt* (₹ Cr.)": "109.16"
+        "Shares bid for": "2,47,93,860",
+        "Total Amt* (₹ Cr.)": "203.31"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "3.05",
+        "Subscription (x)": "3.98",
         "Shares Offered*": "1,57,26,524",
-        "Shares bid for": "4,79,58,092",
-        "Total Amt* (₹ Cr.)": "393.26"
+        "Shares bid for": "6,25,95,624",
+        "Total Amt* (₹ Cr.)": "513.28"
       }
     ],
     "dayWise": [
@@ -484,11 +484,11 @@
       {
         "Date": "Oct 30 (Day 2)",
         "QIB (Ex Anchor)": "6.89",
-        "NII": "0.95",
-        "NII (> ₹10L)": "0.66",
-        "NII (< ₹10L)": "1.54",
-        "Retail": "1.70",
-        "Total": "3.05"
+        "NII": "1.90",
+        "NII (> ₹10L)": "1.30",
+        "NII (< ₹10L)": "3.09",
+        "Retail": "3.17",
+        "Total": "3.98"
       }
     ]
   },
@@ -511,10 +511,10 @@
       "listing": "2026-11-05"
     },
     "gmp": {
-      "value": 7.5,
-      "percent": 9.15,
-      "xLot": 1365.0,
-      "updatedOn": "30-Oct 10:02"
+      "value": 7.0,
+      "percent": 8.54,
+      "xLot": 1274.0,
+      "updatedOn": "30-Oct 17:37"
     },
     "leadManager": "Smart Horizon Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/bombay-coated-special-steels-logo.png",
@@ -524,5 +524,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-10-30T04:59:54+00:00"
+  "scrapedAt": "2026-10-30T12:25:15+00:00"
 }
