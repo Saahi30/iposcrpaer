@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T22:04:06+00:00",
+  "scrapedAt": "2026-10-31T04:47:14+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,12 +15,12 @@
     "limit": null
   },
   "summary": {
-    "open": 9,
+    "open": 6,
     "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 10
+    "total": 7
   },
   "ipos": [
     {
@@ -51,7 +51,7 @@
         "value": 70.0,
         "percent": 44.3,
         "xLot": 56000.0,
-        "updatedOn": "30-Oct 23:37"
+        "updatedOn": "31-Oct 9:37"
       },
       "subscription": {
         "total": 4.67,
@@ -164,7 +164,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "30-Oct 23:36"
+        "updatedOn": "31-Oct 9:32"
       },
       "subscription": {
         "total": 1.2,
@@ -277,7 +277,7 @@
         "value": 30.0,
         "percent": 25.0,
         "xLot": 36000.0,
-        "updatedOn": "30-Oct 23:37"
+        "updatedOn": "31-Oct 9:37"
       },
       "subscription": {
         "total": 1.16,
@@ -390,7 +390,7 @@
         "value": 10.0,
         "percent": 5.0,
         "xLot": 6000.0,
-        "updatedOn": "30-Oct 23:37"
+        "updatedOn": "31-Oct 9:37"
       },
       "subscription": {
         "total": 1.14,
@@ -503,7 +503,7 @@
         "value": 7.0,
         "percent": 8.54,
         "xLot": 1274.0,
-        "updatedOn": "30-Oct 23:37"
+        "updatedOn": "31-Oct 9:37"
       },
       "subscription": {
         "total": 3.98,
@@ -609,7 +609,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "30-Oct 23:37"
+        "updatedOn": "31-Oct 9:28"
       },
       "subscription": {
         "total": 0.81,
@@ -688,310 +688,6 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
-      "slug": "ajwa-projects-ipo",
-      "ipoId": 2761,
-      "name": "Ajwa Projects",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 203.0,
-        "max": 203.0,
-        "display": "₹203"
-      },
-      "lotSize": 600,
-      "issueSize": "₹38.05 Cr",
-      "issueSizeCr": 38.05,
-      "freshIssueCr": 28.53,
-      "ofsCr": 7.6,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 2.0,
-        "percent": 0.99,
-        "xLot": 1200.0,
-        "updatedOn": "30-Oct 23:37"
-      },
-      "subscription": {
-        "total": 1.12,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "94,800",
-            "Shares bid for": "94,800",
-            "Total Amt* (₹ Cr.)": "1.92"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.32",
-            "Shares Offered*": "8,89,200",
-            "Shares bid for": "2,84,400",
-            "Total Amt* (₹ Cr.)": "5.77"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "1.93",
-            "Shares Offered*": "8,90,400",
-            "Shares bid for": "17,14,800",
-            "Total Amt* (₹ Cr.)": "34.81"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.12",
-            "Shares Offered*": "17,79,600",
-            "Shares bid for": "19,99,200",
-            "Total Amt* (₹ Cr.)": "40.58"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Wealth Mine Networks",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/ajwa-projects-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/ajwa-projects-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=ajwa-projects-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
-        "gmp": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/"
-      },
-      "gmpId": 2017,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2011, Ajwa Projects is a multi-disciplinary industrial services company delivering end-to-end solutions across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company specializes in turning project plans into real, functional industrial assets. The company manufacture technological frameworks, industrial buildings, girders, heavy modules, platforms, and crane girders that are critical for plant construction and",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "mksons-fine-jewels-ipo",
-      "ipoId": 3100,
-      "name": "M.K.Sons Fine Jewels",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 153.0,
-        "max": 162.0,
-        "display": "₹153–162"
-      },
-      "lotSize": 91,
-      "issueSize": "₹275.40 Cr",
-      "issueSizeCr": 275.4,
-      "freshIssueCr": 220.32,
-      "ofsCr": 55.08,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 6.0,
-        "percent": 3.7,
-        "xLot": 546.0,
-        "updatedOn": "30-Oct 23:37"
-      },
-      "subscription": {
-        "total": 5.09,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "51,00,000",
-            "Shares bid for": "51,00,000",
-            "Total Amt* (₹ Cr.)": "82.620"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.84",
-            "Shares Offered*": "34,00,000",
-            "Shares bid for": "62,64,349",
-            "Total Amt* (₹ Cr.)": "101.482"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "14.12",
-            "Shares Offered*": "25,50,000",
-            "Shares bid for": "3,60,11,976",
-            "Total Amt* (₹ Cr.)": "583.394"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "15.33",
-            "Shares Offered*": "17,00,000",
-            "Shares bid for": "2,60,62,400",
-            "Total Amt* (₹ Cr.)": "422.211"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "11.71",
-            "Shares Offered*": "8,50,000",
-            "Shares bid for": "99,49,576",
-            "Total Amt* (₹ Cr.)": "161.183"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "3.08",
-            "Shares Offered*": "59,50,000",
-            "Shares bid for": "1,83,28,310",
-            "Total Amt* (₹ Cr.)": "296.919"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "5.09",
-            "Shares Offered*": "1,19,00,000",
-            "Shares bid for": "6,06,04,635",
-            "Total Amt* (₹ Cr.)": "981.795"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Aryaman Financial",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/mk-sons-fine-jewels-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/mksons-fine-jewels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=mksons-fine-jewels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
-        "gmp": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/"
-      },
-      "gmpId": 2288,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.\n\nThe company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.\n\nThe company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall location",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "carver-roboweld-ipo",
-      "ipoId": 3239,
-      "name": "Carver Roboweld",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 76.0,
-        "max": 80.0,
-        "display": "₹76–80"
-      },
-      "lotSize": 1600,
-      "issueSize": "₹28.29 Cr",
-      "issueSizeCr": 28.29,
-      "freshIssueCr": 26.87,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-28",
-        "close": "2026-10-30",
-        "allotment": "2026-11-02",
-        "listing": "2026-11-04"
-      },
-      "gmp": {
-        "value": 5.0,
-        "percent": 6.25,
-        "xLot": 8000.0,
-        "updatedOn": "30-Oct 23:37"
-      },
-      "subscription": {
-        "total": 25.8,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "9,96,800",
-            "Shares bid for": "9,96,800",
-            "Total Amt* (₹ Cr.)": "7.974"
-          },
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,77,600",
-            "Shares bid for": "1,77,600",
-            "Total Amt* (₹ Cr.)": "1.421"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "26.33",
-            "Shares Offered*": "6,68,800",
-            "Shares bid for": "1,76,09,600",
-            "Total Amt* (₹ Cr.)": "140.877"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "40.39",
-            "Shares Offered*": "5,12,000",
-            "Shares bid for": "2,06,81,600",
-            "Total Amt* (₹ Cr.)": "165.453"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "47.38",
-            "Shares Offered*": "3,40,800",
-            "Shares bid for": "1,61,45,600",
-            "Total Amt* (₹ Cr.)": "129.165"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "26.50",
-            "Shares Offered*": "1,71,200",
-            "Shares bid for": "45,36,000",
-            "Total Amt* (₹ Cr.)": "36.288"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "19.17",
-            "Shares Offered*": "11,80,800",
-            "Shares bid for": "2,26,36,800",
-            "Total Amt* (₹ Cr.)": "181.094"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "25.80",
-            "Shares Offered*": "23,61,600",
-            "Shares bid for": "6,09,28,000",
-            "Total Amt* (₹ Cr.)": "487.424"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/carver-roboweld-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/carver-roboweld-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=carver-roboweld-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
-        "gmp": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/"
-      },
-      "gmpId": 2393,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services.\n\nThe Company operates its primary manufacturing facility in Bamanbore, Rajkot, ",
-      "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
       "slug": "vedant-poly-fabs-ipo",
       "ipoId": 3143,
       "name": "Vedant Poly Fabs",
@@ -1019,7 +715,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "30-Oct 23:36"
+        "updatedOn": "31-Oct 9:37"
       },
       "subscription": {
         "total": null,
