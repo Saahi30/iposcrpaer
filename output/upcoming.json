@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-10-31T21:13:11+00:00",
+  "scrapedAt": "2026-11-01T05:10:36+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
-    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/10/2026/2026-27/0/all/0?search=&v=14-08",
-    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/10/2026/2026-27/0/all?search="
+    "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
+    "gmp": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/11/2026/2026-27/0/all?search="
   },
   "filters": {
     "status": [
@@ -50,7 +50,7 @@
         "value": 5.0,
         "percent": 5.32,
         "xLot": 6000.0,
-        "updatedOn": "31-Oct 23:37"
+        "updatedOn": "1-Nov 10:02"
       },
       "subscription": {
         "total": null,
