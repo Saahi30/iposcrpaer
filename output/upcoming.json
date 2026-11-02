@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-01T21:50:40+00:00",
+  "scrapedAt": "2026-11-02T05:10:29+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,67 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 1,
+    "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 1
+    "total": 0
   },
-  "ipos": [
-    {
-      "slug": "vedant-poly-fabs-ipo",
-      "ipoId": 3143,
-      "name": "Vedant Poly Fabs",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 94.0,
-        "display": "₹88–94"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹56.68 Cr",
-      "issueSizeCr": 56.68,
-      "freshIssueCr": 48.14,
-      "ofsCr": 5.67,
-      "dates": {
-        "open": "2026-11-02",
-        "close": "2026-11-04",
-        "allotment": "2026-11-05",
-        "listing": "2026-11-09"
-      },
-      "gmp": {
-        "value": 15.0,
-        "percent": 15.96,
-        "xLot": 18000.0,
-        "updatedOn": "1-Nov 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vedant-poly-fabs-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/vedant-poly-fabs-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vedant-poly-fabs-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-        "gmp": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/"
-      },
-      "gmpId": 2297,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Vedant Poly Fabs Limited was incorporated in December 2018 and manufactures flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.\n\nSince commencing operations, the company has expanded its product portfolio, strengthene",
-      "registrar": "Cameo Corporate Services Ltd."
-    }
-  ]
+  "ipos": []
 }
