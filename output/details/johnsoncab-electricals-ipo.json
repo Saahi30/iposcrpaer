@@ -395,8 +395,8 @@
     "source": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/"
   },
   "subscription": {
-    "summary": "Johnsoncab Electricals IPO subscribed 1.24 times. The public issue subscribed 1.55 times in the individual investors category, 0.00 times in QIB (Ex Anchor), and 2.15 times in the NII category by November 2, 2026 10:39:59 AM (Day 2).",
-    "total": 1.24,
+    "summary": "Johnsoncab Electricals IPO subscribed 2.01 times. The public issue subscribed 2.21 times in the individual investors category, 0.99 times in QIB (Ex Anchor), and 2.89 times in the NII category by November 2, 2026 5:05:20 PM (Day 2).",
+    "total": 2.01,
     "applications": null,
     "byCategory": [
       {
@@ -415,45 +415,45 @@
       },
       {
         "Category": "QIB (Ex Anchor)",
-        "Subscription (x)": "0.00",
+        "Subscription (x)": "0.99",
         "Shares Offered*": "5,31,000",
-        "Shares bid for": "0",
-        "Total Amt* (₹ Cr.)": "0"
+        "Shares bid for": "5,25,000",
+        "Total Amt* (₹ Cr.)": "10.500"
       },
       {
         "Category": "NII***",
-        "Subscription (x)": "2.15",
+        "Subscription (x)": "2.89",
         "Shares Offered*": "3,99,600",
-        "Shares bid for": "8,60,400",
-        "Total Amt* (₹ Cr.)": "17.208"
+        "Shares bid for": "11,56,200",
+        "Total Amt* (₹ Cr.)": "23.124"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "2.48",
+        "Subscription (x)": "3.23",
         "Shares Offered*": "2,66,400",
-        "Shares bid for": "6,61,200",
-        "Total Amt* (₹ Cr.)": "13.224"
+        "Shares bid for": "8,59,200",
+        "Total Amt* (₹ Cr.)": "17.184"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "1.50",
+        "Subscription (x)": "2.23",
         "Shares Offered*": "1,33,200",
-        "Shares bid for": "1,99,200",
-        "Total Amt* (₹ Cr.)": "3.984"
+        "Shares bid for": "2,97,000",
+        "Total Amt* (₹ Cr.)": "5.940"
       },
       {
         "Category": "Individual Investors",
-        "Subscription (x)": "1.55",
+        "Subscription (x)": "2.21",
         "Shares Offered*": "9,33,600",
-        "Shares bid for": "14,48,400",
-        "Total Amt* (₹ Cr.)": "28.968"
+        "Shares bid for": "20,65,200",
+        "Total Amt* (₹ Cr.)": "41.304"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.24",
+        "Subscription (x)": "2.01",
         "Shares Offered*": "18,64,200",
-        "Shares bid for": "23,08,800",
-        "Total Amt* (₹ Cr.)": "46.176"
+        "Shares bid for": "37,46,400",
+        "Total Amt* (₹ Cr.)": "74.928"
       }
     ],
     "dayWise": [
@@ -468,12 +468,12 @@
       },
       {
         "Date": "Nov 2 (Day 2)",
-        "QIB (Ex Anchor)": "0.00",
-        "NII*": "2.15",
-        "NII (> ₹10L)": "2.48",
-        "NII (< ₹10L)": "1.50",
-        "Individual Investors": "1.55",
-        "Total": "1.24"
+        "QIB (Ex Anchor)": "0.99",
+        "NII*": "2.89",
+        "NII (> ₹10L)": "3.23",
+        "NII (< ₹10L)": "2.23",
+        "Individual Investors": "2.21",
+        "Total": "2.01"
       }
     ]
   },
@@ -496,10 +496,10 @@
       "listing": "2026-11-06"
     },
     "gmp": {
-      "value": 5.0,
-      "percent": 2.5,
-      "xLot": 3000.0,
-      "updatedOn": "2-Nov 10:02"
+      "value": 10.0,
+      "percent": 5.0,
+      "xLot": 6000.0,
+      "updatedOn": "2-Nov 20:02"
     },
     "leadManager": "ISK Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
@@ -509,5 +509,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-02T05:10:24+00:00"
+  "scrapedAt": "2026-11-02T15:09:18+00:00"
 }
