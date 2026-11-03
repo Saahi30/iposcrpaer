@@ -483,9 +483,9 @@
     "status": "open",
     "exchange": "BSE SME",
     "priceBand": {
-      "min": 190.0,
+      "min": 200.0,
       "max": 200.0,
-      "display": "₹190–200"
+      "display": "₹200"
     },
     "lotSize": 600,
     "issueSize": "₹56.02 Cr",
@@ -499,7 +499,7 @@
       "value": 10.0,
       "percent": 5.0,
       "xLot": 6000.0,
-      "updatedOn": "2-Nov 20:02"
+      "updatedOn": "2-Nov 23:37"
     },
     "leadManager": "ISK Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/chatgpt-image-aug-10-2026-12_16_10-pm.png",
@@ -509,5 +509,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-02T15:09:18+00:00"
+  "scrapedAt": "2026-11-03T00:45:16+00:00"
 }

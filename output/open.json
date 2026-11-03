@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-02T15:09:22+00:00",
+  "scrapedAt": "2026-11-03T00:45:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 7,
+    "open": 5,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 7
+    "total": 5
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 15.0,
         "percent": 15.96,
         "xLot": 18000.0,
-        "updatedOn": "2-Nov 20:02"
+        "updatedOn": "2-Nov 23:37"
       },
       "subscription": {
         "total": 0.42,
@@ -156,7 +156,7 @@
         "value": 80.0,
         "percent": 50.63,
         "xLot": 64000.0,
-        "updatedOn": "2-Nov 20:02"
+        "updatedOn": "2-Nov 23:37"
       },
       "subscription": {
         "total": 80.34,
@@ -269,7 +269,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "2-Nov 19:55"
+        "updatedOn": "2-Nov 23:37"
       },
       "subscription": {
         "total": 1.31,
@@ -382,7 +382,7 @@
         "value": 30.0,
         "percent": 25.0,
         "xLot": 36000.0,
-        "updatedOn": "2-Nov 20:02"
+        "updatedOn": "2-Nov 23:37"
       },
       "subscription": {
         "total": 20.96,
@@ -495,7 +495,7 @@
         "value": 10.0,
         "percent": 5.0,
         "xLot": 6000.0,
-        "updatedOn": "2-Nov 20:02"
+        "updatedOn": "2-Nov 23:37"
       },
       "subscription": {
         "total": 2.01,
@@ -579,218 +579,6 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, ho",
       "registrar": "Maashitla Securities Pvt.Ltd."
-    },
-    {
-      "slug": "bombay-coated-and-special-steels-ipo",
-      "ipoId": 2671,
-      "name": "Bombay Coated and Special Steels",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 78.0,
-        "max": 82.0,
-        "display": "₹78–82"
-      },
-      "lotSize": 182,
-      "issueSize": "₹183.06 Cr",
-      "issueSizeCr": 183.06,
-      "freshIssueCr": 183.06,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-29",
-        "close": "2026-11-02",
-        "allotment": "2026-11-03",
-        "listing": "2026-11-05"
-      },
-      "gmp": {
-        "value": 7.5,
-        "percent": 9.15,
-        "xLot": 1365.0,
-        "updatedOn": "2-Nov 20:02"
-      },
-      "subscription": {
-        "total": 63.89,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "65,97,500",
-            "Shares bid for": "65,97,500",
-            "Total Amt* (₹ Cr.)": "54.10"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "37.32",
-            "Shares Offered*": "45,64,512",
-            "Shares bid for": "17,03,30,524",
-            "Total Amt* (₹ Cr.)": "1,396.71"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "166.44",
-            "Shares Offered*": "33,48,603",
-            "Shares bid for": "55,73,33,868",
-            "Total Amt* (₹ Cr.)": "4,570.14"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "192.94",
-            "Shares Offered*": "22,32,402",
-            "Shares bid for": "43,07,09,916",
-            "Total Amt* (₹ Cr.)": "3,531.82"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "113.44",
-            "Shares Offered*": "11,16,201",
-            "Shares bid for": "12,66,23,952",
-            "Total Amt* (₹ Cr.)": "1,038.32"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "35.46",
-            "Shares Offered*": "78,13,409",
-            "Shares bid for": "27,70,80,804",
-            "Total Amt* (₹ Cr.)": "2,272.06"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "63.89",
-            "Shares Offered*": "1,57,26,524",
-            "Shares bid for": "1,00,47,45,196",
-            "Total Amt* (₹ Cr.)": "8,238.91"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Smart Horizon Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/bombay-coated-special-steels-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/bombay-coated-and-special-steels-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=bombay-coated-and-special-steels-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
-        "gmp": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/"
-      },
-      "gmpId": 1936,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple en",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "antala-industries-ipo",
-      "ipoId": 3221,
-      "name": "Antala Industries",
-      "type": "sme",
-      "status": "open",
-      "exchange": "BSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 63.0,
-        "max": 67.0,
-        "display": "₹63–67"
-      },
-      "lotSize": 2000,
-      "issueSize": "₹23.33 Cr",
-      "issueSizeCr": 23.33,
-      "freshIssueCr": 22.15,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-10-29",
-        "close": "2026-11-02",
-        "allotment": "2026-11-03",
-        "listing": "2026-11-05"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "2-Nov 20:00"
-      },
-      "subscription": {
-        "total": 1.13,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "1,76,000",
-            "Shares bid for": "1,76,000",
-            "Total Amt* (₹ Cr.)": "1.179"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "66.72",
-            "Shares Offered*": "36,000",
-            "Shares bid for": "24,02,000",
-            "Total Amt* (₹ Cr.)": "16.093"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.30",
-            "Shares Offered*": "5,10,000",
-            "Shares bid for": "1,54,000",
-            "Total Amt* (₹ Cr.)": "1.032"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.23",
-            "Shares Offered*": "3,42,000",
-            "Shares bid for": "80,000",
-            "Total Amt* (₹ Cr.)": "0.536"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.44",
-            "Shares Offered*": "1,68,000",
-            "Shares bid for": "74,000",
-            "Total Amt* (₹ Cr.)": "0.496"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "0.42",
-            "Shares Offered*": "27,60,000",
-            "Shares bid for": "11,64,000",
-            "Total Amt* (₹ Cr.)": "7.799"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.13",
-            "Shares Offered*": "33,06,000",
-            "Shares bid for": "37,20,000",
-            "Total Amt* (₹ Cr.)": "24.924"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Vatsa Capital Venture Pvt.Ltd.",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/antala-industries-ltd-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/antala-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=antala-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
-        "gmp": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/"
-      },
-      "gmpId": 2375,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabi",
-      "registrar": "Bigshare Services Pvt.Ltd."
     }
   ]
 }
