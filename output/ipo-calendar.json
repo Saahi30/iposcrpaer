@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-04T13:59:25+00:00",
+  "scrapedAt": "2026-11-04T23:25:05+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 16,
+    "totalEvents": 18,
     "mainboard": 5,
-    "sme": 11,
+    "sme": 13,
     "byEventType": {
-      "allotment": 2,
+      "allotment": 4,
       "close": 7,
       "open": 1,
       "other": 6
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=11&year=2026"
       },
       "summary": {
-        "total": 14,
+        "total": 16,
         "mainboard": 4,
-        "sme": 10
+        "sme": 12
       },
       "byDate": {
         "2026-11-02": [
@@ -197,6 +197,44 @@
               "news": "https://www.chittorgarh.com/ipo_news/bls-polymers-ipo/2559/#15815",
               "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=BLS%20Polymers%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20BLS%20Polymers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20BLS%20Polymers%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20t"
+            }
+          },
+          {
+            "title": "Johnsoncab Electricals IPO Allotment Status",
+            "company": "Johnsoncab Electricals",
+            "eventType": "allotment",
+            "date": "2026-11-04",
+            "dateEnd": "2026-11-04",
+            "details": "The allotment status of Johnsoncab Electricals Ltd. IPO is now available online. The public issue of Johnsoncab Electricals IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The",
+            "type": "sme",
+            "slug": "johnsoncab-electricals-ipo",
+            "ipoId": 3217,
+            "eventId": 15817,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/johnsoncab-electricals-ipo/3217/#15817",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Johnsoncab%20Electricals%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Johnsoncab%20Electricals%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Johnsoncab%20Electricals%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The"
+            }
+          },
+          {
+            "title": "Vectras Enprocon IPO Allotment Status",
+            "company": "Vectras Enprocon",
+            "eventType": "allotment",
+            "date": "2026-11-04",
+            "dateEnd": "2026-11-04",
+            "details": "The allotment status of Vectras Enprocon Ltd. IPO is now available online. The public issue of Vectras Enprocon IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The equity shar",
+            "type": "sme",
+            "slug": "vectras-enprocon-ipo",
+            "ipoId": 2740,
+            "eventId": 15816,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/vectras-enprocon-ipo/2740/#15816",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vectras%20Enprocon%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Vectras%20Enprocon%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vectras%20Enprocon%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The%20equity%20shar"
             }
           },
           {
@@ -510,6 +548,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/vectras-enprocon-ipo/2740/#15771",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vectras%20Enprocon%20IPO%20Closes%20on%20Nov%203%2C%202026&location=&dates=20261103/20261104&details=The%20issue%20of%20Vectras%20Enprocon%20Ltd.%20opens%20on%20Oct%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%203%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+          }
+        },
+        {
+          "title": "Johnsoncab Electricals IPO Allotment Status",
+          "company": "Johnsoncab Electricals",
+          "eventType": "allotment",
+          "date": "2026-11-04",
+          "dateEnd": "2026-11-04",
+          "details": "The allotment status of Johnsoncab Electricals Ltd. IPO is now available online. The public issue of Johnsoncab Electricals IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The",
+          "type": "sme",
+          "slug": "johnsoncab-electricals-ipo",
+          "ipoId": 3217,
+          "eventId": 15817,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/johnsoncab-electricals-ipo/3217/#15817",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Johnsoncab%20Electricals%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Johnsoncab%20Electricals%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Johnsoncab%20Electricals%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The"
+          }
+        },
+        {
+          "title": "Vectras Enprocon IPO Allotment Status",
+          "company": "Vectras Enprocon",
+          "eventType": "allotment",
+          "date": "2026-11-04",
+          "dateEnd": "2026-11-04",
+          "details": "The allotment status of Vectras Enprocon Ltd. IPO is now available online. The public issue of Vectras Enprocon IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The equity shar",
+          "type": "sme",
+          "slug": "vectras-enprocon-ipo",
+          "ipoId": 2740,
+          "eventId": 15816,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/vectras-enprocon-ipo/2740/#15816",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vectras%20Enprocon%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Vectras%20Enprocon%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vectras%20Enprocon%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The%20equity%20shar"
           }
         },
         {
@@ -876,6 +952,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/vectras-enprocon-ipo/2740/#15771",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vectras%20Enprocon%20IPO%20Closes%20on%20Nov%203%2C%202026&location=&dates=20261103/20261104&details=The%20issue%20of%20Vectras%20Enprocon%20Ltd.%20opens%20on%20Oct%2030%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%203%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs%20"
+      }
+    },
+    {
+      "title": "Johnsoncab Electricals IPO Allotment Status",
+      "company": "Johnsoncab Electricals",
+      "eventType": "allotment",
+      "date": "2026-11-04",
+      "dateEnd": "2026-11-04",
+      "details": "The allotment status of Johnsoncab Electricals Ltd. IPO is now available online. The public issue of Johnsoncab Electricals IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The",
+      "type": "sme",
+      "slug": "johnsoncab-electricals-ipo",
+      "ipoId": 3217,
+      "eventId": 15817,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/johnsoncab-electricals-ipo/3217/#15817",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Johnsoncab%20Electricals%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Johnsoncab%20Electricals%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Johnsoncab%20Electricals%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The"
+      }
+    },
+    {
+      "title": "Vectras Enprocon IPO Allotment Status",
+      "company": "Vectras Enprocon",
+      "eventType": "allotment",
+      "date": "2026-11-04",
+      "dateEnd": "2026-11-04",
+      "details": "The allotment status of Vectras Enprocon Ltd. IPO is now available online. The public issue of Vectras Enprocon IPO was open on Oct 30, 2026 and closed for subscription on Nov 3, 2026. The equity shar",
+      "type": "sme",
+      "slug": "vectras-enprocon-ipo",
+      "ipoId": 2740,
+      "eventId": 15816,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/vectras-enprocon-ipo/2740/#15816",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vectras%20Enprocon%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20Vectras%20Enprocon%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vectras%20Enprocon%20IPO%20was%20open%20on%20Oct%2030%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%203%2C%202026.%20The%20equity%20shar"
       }
     },
     {
