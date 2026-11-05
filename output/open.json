@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-04T23:25:01+00:00",
+  "scrapedAt": "2026-11-05T05:51:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,120 +14,14 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
+    "open": 1,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 1
   },
   "ipos": [
-    {
-      "slug": "vedant-poly-fabs-ipo",
-      "ipoId": 3143,
-      "name": "Vedant Poly Fabs",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 88.0,
-        "max": 94.0,
-        "display": "₹88–94"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹56.68 Cr",
-      "issueSizeCr": 56.68,
-      "freshIssueCr": 48.14,
-      "ofsCr": 5.67,
-      "dates": {
-        "open": "2026-11-02",
-        "close": "2026-11-04",
-        "allotment": "2026-11-05",
-        "listing": "2026-11-09"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 1.06,
-        "xLot": 1200.0,
-        "updatedOn": "4-Nov 23:37"
-      },
-      "subscription": {
-        "total": 1.9,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,04,800",
-            "Shares bid for": "3,04,800",
-            "Total Amt* (₹ Cr.)": "2.865"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "1.00",
-            "Shares Offered*": "68,400",
-            "Shares bid for": "68,400",
-            "Total Amt* (₹ Cr.)": "0.643"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "1.38",
-            "Shares Offered*": "22,60,800",
-            "Shares bid for": "31,27,200",
-            "Total Amt* (₹ Cr.)": "29.396"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.12",
-            "Shares Offered*": "15,07,200",
-            "Shares bid for": "16,92,000",
-            "Total Amt* (₹ Cr.)": "15.905"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.90",
-            "Shares Offered*": "7,53,600",
-            "Shares bid for": "14,35,200",
-            "Total Amt* (₹ Cr.)": "13.491"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.26",
-            "Shares Offered*": "33,96,000",
-            "Shares bid for": "76,68,000",
-            "Total Amt* (₹ Cr.)": "72.079"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.90",
-            "Shares Offered*": "57,25,200",
-            "Shares bid for": "1,08,63,600",
-            "Total Amt* (₹ Cr.)": "102.118"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Affinity Global",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/vedant-poly-fabs-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/vedant-poly-fabs-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=vedant-poly-fabs-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-        "gmp": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/"
-      },
-      "gmpId": 2297,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Vedant Poly Fabs Limited was incorporated in December 2018 and manufactures flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.\n\nSince commencing operations, the company has expanded its product portfolio, strengthene",
-      "registrar": "Cameo Corporate Services Ltd."
-    },
     {
       "slug": "antala-industries-ipo",
       "ipoId": 3221,
@@ -156,59 +50,59 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "4-Nov 23:37"
+        "updatedOn": "5-Nov 11:02"
       },
       "subscription": {
-        "total": 4.82,
+        "total": 6.13,
         "byCategory": [
           {
             "Category": "Market Maker",
             "Subscription (x)": "1",
             "Shares Offered*": "1,76,000",
             "Shares bid for": "1,76,000",
-            "Total Amt* (₹ Cr.)": "1.162"
+            "Total Amt* (₹ Cr.)": "1.16"
           },
           {
             "Category": "QIB (Ex Anchor)",
             "Subscription (x)": "66.72",
             "Shares Offered*": "36,000",
             "Shares bid for": "24,02,000",
-            "Total Amt* (₹ Cr.)": "15.853"
+            "Total Amt* (₹ Cr.)": "15.85"
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "22.17",
+            "Subscription (x)": "24.85",
             "Shares Offered*": "5,10,000",
-            "Shares bid for": "1,13,08,000",
-            "Total Amt* (₹ Cr.)": "74.633"
+            "Shares bid for": "1,26,76,000",
+            "Total Amt* (₹ Cr.)": "83.66"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "32.49",
+            "Subscription (x)": "35.68",
             "Shares Offered*": "3,42,000",
-            "Shares bid for": "1,11,12,000",
-            "Total Amt* (₹ Cr.)": "73.339"
+            "Shares bid for": "1,22,04,000",
+            "Total Amt* (₹ Cr.)": "80.55"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "1.17",
+            "Subscription (x)": "2.81",
             "Shares Offered*": "1,68,000",
-            "Shares bid for": "1,96,000",
-            "Total Amt* (₹ Cr.)": "1.294"
+            "Shares bid for": "4,72,000",
+            "Total Amt* (₹ Cr.)": "3.12"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.80",
+            "Subscription (x)": "1.89",
             "Shares Offered*": "27,60,000",
-            "Shares bid for": "22,20,000",
-            "Total Amt* (₹ Cr.)": "14.652"
+            "Shares bid for": "52,04,000",
+            "Total Amt* (₹ Cr.)": "34.35"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "4.82",
+            "Subscription (x)": "6.13",
             "Shares Offered*": "33,06,000",
-            "Shares bid for": "1,59,30,000",
-            "Total Amt* (₹ Cr.)": "105.138"
+            "Shares bid for": "2,02,82,000",
+            "Total Amt* (₹ Cr.)": "133.86"
           }
         ],
         "applications": null
