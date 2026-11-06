@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-06T05:47:28+00:00",
+  "scrapedAt": "2026-11-06T13:57:17+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 18,
-    "mainboard": 5,
-    "sme": 13,
+    "totalEvents": 21,
+    "mainboard": 7,
+    "sme": 14,
     "byEventType": {
-      "allotment": 4,
+      "allotment": 7,
       "close": 7,
       "open": 1,
       "other": 6
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=11&year=2026"
       },
       "summary": {
-        "total": 16,
-        "mainboard": 4,
-        "sme": 12
+        "total": 19,
+        "mainboard": 6,
+        "sme": 13
       },
       "byDate": {
         "2026-11-02": [
@@ -278,6 +278,65 @@
             }
           }
         ],
+        "2026-11-06": [
+          {
+            "title": "Bombay Coated & Special Steels IPO Allotment Status",
+            "company": "Bombay Coated & Special Steels",
+            "eventType": "allotment",
+            "date": "2026-11-06",
+            "dateEnd": "2026-11-06",
+            "details": "The allotment status of Bombay Coated & Special Steels Ltd. IPO is now available online. The public issue of Bombay Coated & Special Steels IPO was open on Oct 29, 2026 and closed for subscription on",
+            "type": "mainboard",
+            "slug": "bombay-coated-and-special-steels-ipo",
+            "ipoId": 2671,
+            "eventId": 15822,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15822",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20%26%20Special%20Steels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20"
+            }
+          },
+          {
+            "title": "M.K.Sons Fine Jewels IPO Allotment Status",
+            "company": "M.K.Sons Fine Jewels",
+            "eventType": "allotment",
+            "date": "2026-11-06",
+            "dateEnd": "2026-11-06",
+            "details": "The allotment status of M.K.Sons Fine Jewels Ltd. IPO is now available online. The public issue of M.K.Sons Fine Jewels IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The eq",
+            "type": "mainboard",
+            "slug": "mksons-fine-jewels-ipo",
+            "ipoId": 3100,
+            "eventId": 15824,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/mksons-fine-jewels-ipo/3100/#15824",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=M.K.Sons%20Fine%20Jewels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20M.K.Sons%20Fine%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20M.K.Sons%20Fine%20Jewels%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20eq"
+            }
+          },
+          {
+            "title": "Ajwa Projects IPO Allotment Status",
+            "company": "Ajwa Projects",
+            "eventType": "allotment",
+            "date": "2026-11-06",
+            "dateEnd": "2026-11-06",
+            "details": "The allotment status of Ajwa Projects Ltd. IPO is now available online. The public issue of Ajwa Projects IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The equity shares of",
+            "type": "sme",
+            "slug": "ajwa-projects-ipo",
+            "ipoId": 2761,
+            "eventId": 15823,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/ajwa-projects-ipo/2761/#15823",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ajwa%20Projects%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Ajwa%20Projects%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ajwa%20Projects%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of"
+            }
+          }
+        ],
         "2026-11-10": [
           {
             "title": "Holiday - Diwali-Balipratipada",
@@ -396,6 +455,44 @@
             "news": "https://www.chittorgarh.com/ipo_news/bls-polymers-ipo/2559/#15815",
             "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=BLS%20Polymers%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20BLS%20Polymers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20BLS%20Polymers%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20t"
+          }
+        },
+        {
+          "title": "Bombay Coated & Special Steels IPO Allotment Status",
+          "company": "Bombay Coated & Special Steels",
+          "eventType": "allotment",
+          "date": "2026-11-06",
+          "dateEnd": "2026-11-06",
+          "details": "The allotment status of Bombay Coated & Special Steels Ltd. IPO is now available online. The public issue of Bombay Coated & Special Steels IPO was open on Oct 29, 2026 and closed for subscription on",
+          "type": "mainboard",
+          "slug": "bombay-coated-and-special-steels-ipo",
+          "ipoId": 2671,
+          "eventId": 15822,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15822",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20%26%20Special%20Steels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20"
+          }
+        },
+        {
+          "title": "M.K.Sons Fine Jewels IPO Allotment Status",
+          "company": "M.K.Sons Fine Jewels",
+          "eventType": "allotment",
+          "date": "2026-11-06",
+          "dateEnd": "2026-11-06",
+          "details": "The allotment status of M.K.Sons Fine Jewels Ltd. IPO is now available online. The public issue of M.K.Sons Fine Jewels IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The eq",
+          "type": "mainboard",
+          "slug": "mksons-fine-jewels-ipo",
+          "ipoId": 3100,
+          "eventId": 15824,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/mksons-fine-jewels-ipo/3100/#15824",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=M.K.Sons%20Fine%20Jewels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20M.K.Sons%20Fine%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20M.K.Sons%20Fine%20Jewels%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20eq"
           }
         },
         {
@@ -627,6 +724,25 @@
           }
         },
         {
+          "title": "Ajwa Projects IPO Allotment Status",
+          "company": "Ajwa Projects",
+          "eventType": "allotment",
+          "date": "2026-11-06",
+          "dateEnd": "2026-11-06",
+          "details": "The allotment status of Ajwa Projects Ltd. IPO is now available online. The public issue of Ajwa Projects IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The equity shares of",
+          "type": "sme",
+          "slug": "ajwa-projects-ipo",
+          "ipoId": 2761,
+          "eventId": 15823,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/ajwa-projects-ipo/2761/#15823",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ajwa%20Projects%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Ajwa%20Projects%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ajwa%20Projects%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of"
+          }
+        },
+        {
           "title": "Holiday - Diwali-Balipratipada",
           "company": "Holiday - Diwali-Balipratipada",
           "eventType": "other",
@@ -800,6 +916,44 @@
         "news": "https://www.chittorgarh.com/ipo_news/bls-polymers-ipo/2559/#15815",
         "chittorgarh": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=BLS%20Polymers%20IPO%20Allotment%20Status&location=&dates=20261104/20261105&details=The%20allotment%20status%20of%20BLS%20Polymers%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20BLS%20Polymers%20IPO%20was%20open%20on%20Oct%2027%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2029%2C%202026.%20The%20equity%20shares%20of%20t"
+      }
+    },
+    {
+      "title": "Bombay Coated & Special Steels IPO Allotment Status",
+      "company": "Bombay Coated & Special Steels",
+      "eventType": "allotment",
+      "date": "2026-11-06",
+      "dateEnd": "2026-11-06",
+      "details": "The allotment status of Bombay Coated & Special Steels Ltd. IPO is now available online. The public issue of Bombay Coated & Special Steels IPO was open on Oct 29, 2026 and closed for subscription on",
+      "type": "mainboard",
+      "slug": "bombay-coated-and-special-steels-ipo",
+      "ipoId": 2671,
+      "eventId": 15822,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/bombay-coated-and-special-steels-ipo/2671/#15822",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Bombay%20Coated%20%26%20Special%20Steels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Bombay%20Coated%20%26%20Special%20Steels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Bombay%20Coated%20%26%20Special%20Steels%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20"
+      }
+    },
+    {
+      "title": "M.K.Sons Fine Jewels IPO Allotment Status",
+      "company": "M.K.Sons Fine Jewels",
+      "eventType": "allotment",
+      "date": "2026-11-06",
+      "dateEnd": "2026-11-06",
+      "details": "The allotment status of M.K.Sons Fine Jewels Ltd. IPO is now available online. The public issue of M.K.Sons Fine Jewels IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The eq",
+      "type": "mainboard",
+      "slug": "mksons-fine-jewels-ipo",
+      "ipoId": 3100,
+      "eventId": 15824,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/mksons-fine-jewels-ipo/3100/#15824",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=M.K.Sons%20Fine%20Jewels%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20M.K.Sons%20Fine%20Jewels%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20M.K.Sons%20Fine%20Jewels%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20eq"
       }
     },
     {
@@ -1028,6 +1182,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/antala-industries-ipo/3221/#15762",
         "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Antala%20Industries%20IPO%20Closes%20on%20Nov%205%2C%202026&location=&dates=20261105/20261106&details=The%20issue%20of%20Antala%20Industries%20Ltd.%20opens%20on%20Oct%2029%2C%202026%20and%20closes%20for%20subscription%20on%20Nov%205%2C%202026.%20The%20equity%20shares%20of%20the%20company%20to%20be%20list%20at%20BSE%20SME.%20The%20price%20for%20the%20issue%20has%20been%20set%20at%20Rs"
+      }
+    },
+    {
+      "title": "Ajwa Projects IPO Allotment Status",
+      "company": "Ajwa Projects",
+      "eventType": "allotment",
+      "date": "2026-11-06",
+      "dateEnd": "2026-11-06",
+      "details": "The allotment status of Ajwa Projects Ltd. IPO is now available online. The public issue of Ajwa Projects IPO was open on Oct 28, 2026 and closed for subscription on Oct 30, 2026. The equity shares of",
+      "type": "sme",
+      "slug": "ajwa-projects-ipo",
+      "ipoId": 2761,
+      "eventId": 15823,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/ajwa-projects-ipo/2761/#15823",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Ajwa%20Projects%20IPO%20Allotment%20Status&location=&dates=20261106/20261107&details=The%20allotment%20status%20of%20Ajwa%20Projects%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Ajwa%20Projects%20IPO%20was%20open%20on%20Oct%2028%2C%202026%20and%20closed%20for%20subscription%20on%20Oct%2030%2C%202026.%20The%20equity%20shares%20of"
       }
     },
     {
