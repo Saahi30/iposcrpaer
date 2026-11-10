@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-10T01:19:30+00:00",
+  "scrapedAt": "2026-11-10T14:34:17+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,11 +17,11 @@
     }
   ],
   "summary": {
-    "totalEvents": 24,
+    "totalEvents": 25,
     "mainboard": 7,
-    "sme": 17,
+    "sme": 18,
     "byEventType": {
-      "allotment": 10,
+      "allotment": 11,
       "close": 7,
       "open": 1,
       "other": 6
@@ -37,9 +37,9 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=11&year=2026"
       },
       "summary": {
-        "total": 22,
+        "total": 23,
         "mainboard": 6,
-        "sme": 16
+        "sme": 17
       },
       "byDate": {
         "2026-11-02": [
@@ -414,6 +414,25 @@
               "news": null,
               "chittorgarh": null,
               "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Diwali-Balipratipada&location=&dates=20261110/20261111&details=Diwali-Balipratipada"
+            }
+          },
+          {
+            "title": "Antala Industries IPO Allotment Status",
+            "company": "Antala Industries",
+            "eventType": "allotment",
+            "date": "2026-11-10",
+            "dateEnd": "2026-11-10",
+            "details": "The allotment status of Antala Industries Ltd. IPO is now available online. The public issue of Antala Industries IPO was open on Oct 29, 2026 and closed for subscription on Nov 5, 2026. The equity sh",
+            "type": "sme",
+            "slug": "antala-industries-ipo",
+            "ipoId": 3221,
+            "eventId": 15834,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/antala-industries-ipo/3221/#15834",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Antala%20Industries%20IPO%20Allotment%20Status&location=&dates=20261110/20261111&details=The%20allotment%20status%20of%20Antala%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Antala%20Industries%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%205%2C%202026.%20The%20equity%20sh"
             }
           },
           {
@@ -856,6 +875,25 @@
             "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15829",
             "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Allotment%20Status&location=&dates=20261109/20261110&details=The%20allotment%20status%20of%20Vedant%20Poly%20Fabs%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vedant%20Poly%20Fabs%20IPO%20was%20open%20on%20Nov%202%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20share"
+          }
+        },
+        {
+          "title": "Antala Industries IPO Allotment Status",
+          "company": "Antala Industries",
+          "eventType": "allotment",
+          "date": "2026-11-10",
+          "dateEnd": "2026-11-10",
+          "details": "The allotment status of Antala Industries Ltd. IPO is now available online. The public issue of Antala Industries IPO was open on Oct 29, 2026 and closed for subscription on Nov 5, 2026. The equity sh",
+          "type": "sme",
+          "slug": "antala-industries-ipo",
+          "ipoId": 3221,
+          "eventId": 15834,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/antala-industries-ipo/3221/#15834",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Antala%20Industries%20IPO%20Allotment%20Status&location=&dates=20261110/20261111&details=The%20allotment%20status%20of%20Antala%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Antala%20Industries%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%205%2C%202026.%20The%20equity%20sh"
           }
         },
         {
@@ -1374,6 +1412,25 @@
         "news": "https://www.chittorgarh.com/ipo_news/vedant-poly-fabs-ipo/3143/#15829",
         "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Vedant%20Poly%20Fabs%20IPO%20Allotment%20Status&location=&dates=20261109/20261110&details=The%20allotment%20status%20of%20Vedant%20Poly%20Fabs%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Vedant%20Poly%20Fabs%20IPO%20was%20open%20on%20Nov%202%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%204%2C%202026.%20The%20equity%20share"
+      }
+    },
+    {
+      "title": "Antala Industries IPO Allotment Status",
+      "company": "Antala Industries",
+      "eventType": "allotment",
+      "date": "2026-11-10",
+      "dateEnd": "2026-11-10",
+      "details": "The allotment status of Antala Industries Ltd. IPO is now available online. The public issue of Antala Industries IPO was open on Oct 29, 2026 and closed for subscription on Nov 5, 2026. The equity sh",
+      "type": "sme",
+      "slug": "antala-industries-ipo",
+      "ipoId": 3221,
+      "eventId": 15834,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/antala-industries-ipo/3221/#15834",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Antala%20Industries%20IPO%20Allotment%20Status&location=&dates=20261110/20261111&details=The%20allotment%20status%20of%20Antala%20Industries%20Ltd.%20IPO%20is%20now%20available%20online.%20The%20public%20issue%20of%20Antala%20Industries%20IPO%20was%20open%20on%20Oct%2029%2C%202026%20and%20closed%20for%20subscription%20on%20Nov%205%2C%202026.%20The%20equity%20sh"
       }
     },
     {
