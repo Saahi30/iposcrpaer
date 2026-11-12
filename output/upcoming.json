@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T00:15:37+00:00",
+  "scrapedAt": "2026-11-12T14:51:47+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,67 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 0,
+    "upcoming": 1,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 0
+    "total": 1
   },
-  "ipos": []
+  "ipos": [
+    {
+      "slug": "crystal-crop-protection-ipo",
+      "ipoId": 2813,
+      "name": "Crystal Crop Protection",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 439.29,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-02-20",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "12-Nov 10:00"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "IIFL Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/crystal-crop-protection-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/crystal-crop-protection-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=crystal-crop-protection-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+        "gmp": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/"
+      },
+      "gmpId": 2067,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Crystal Crop Protection is a crop solutions company with agrochemicals and seeds as its core offerings. Its portfolio includes crop protection products such as herbicides, fungicides and insecticides, along with natural crop solutions like bio-stimulants, bio-protectants, plant growth regulators, liquid fertilizers and micronutrients. It also offer seeds for field crops, vegetable crops and flowers.\n\nIts products are designed specifically for Indian farmers and are supported by strong in-house r",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    }
+  ]
 }
