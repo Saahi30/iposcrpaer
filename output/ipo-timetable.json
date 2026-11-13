@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T23:21:08+00:00",
+  "scrapedAt": "2026-11-13T05:48:40+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 304,
-    "mainboard": 109,
-    "sme": 195
+    "total": 306,
+    "mainboard": 110,
+    "sme": 196
   },
   "ipos": [
     {
@@ -7307,6 +7307,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/vedant-poly-fabs-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 2813,
+      "name": "Crystal Crop Protection Ltd.",
+      "slug": "crystal-crop-protection-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-11-18",
+        "close": "2026-11-20",
+        "allotment": "2026-11-23",
+        "refunds": "2026-11-25",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "18-Nov-2026",
+        "close": "20-Nov-2026",
+        "allotment": "23-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/crystal-crop-protection-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2503,
+      "name": "Watrana Rentals Ltd.",
+      "slug": "watrana-rentals-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-11-19",
+        "close": "2026-11-23",
+        "allotment": "2026-11-25",
+        "refunds": "2026-11-26",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "19-Nov-2026",
+        "close": "23-Nov-2026",
+        "allotment": "25-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/watrana-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/watrana-rentals-ipo/2503/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
