@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-13T23:23:26+00:00",
+  "scrapedAt": "2026-11-14T05:38:43+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 306,
-    "mainboard": 110,
+    "total": 307,
+    "mainboard": 111,
     "sme": 196
   },
   "ipos": [
@@ -7331,6 +7331,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/crystal-crop-protection-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3247,
+      "name": "Mahanadi Coalfields Ltd.",
+      "slug": "mahanadi-coalfields-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-11-19",
+        "close": "2026-11-23",
+        "allotment": "2026-11-25",
+        "refunds": "2026-11-26",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "19-Nov-2026",
+        "close": "23-Nov-2026",
+        "allotment": "25-Nov-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/mahanadi-coalfields-ltdlogo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
