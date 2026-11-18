@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-18T00:44:49+00:00",
+  "scrapedAt": "2026-11-18T15:22:07+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -47,14 +47,72 @@
         "listing": "2026-11-26"
       },
       "gmp": {
-        "value": 19.0,
-        "percent": 6.99,
-        "xLot": 1045.0,
-        "updatedOn": "17-Nov 23:37"
+        "value": 18.0,
+        "percent": 6.62,
+        "xLot": 990.0,
+        "updatedOn": "18-Nov 20:37"
       },
       "subscription": {
-        "total": null,
-        "byCategory": []
+        "total": 1.48,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "49,98,708",
+            "Shares bid for": "49,98,708",
+            "Total Amt* (₹ Cr.)": "135.965"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "2.11",
+            "Shares Offered*": "33,32,473",
+            "Shares bid for": "70,42,035",
+            "Total Amt* (₹ Cr.)": "191.543"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "0.79",
+            "Shares Offered*": "24,99,354",
+            "Shares bid for": "19,69,770",
+            "Total Amt* (₹ Cr.)": "53.578"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.64",
+            "Shares Offered*": "16,66,236",
+            "Shares bid for": "10,64,910",
+            "Total Amt* (₹ Cr.)": "28.966"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "1.09",
+            "Shares Offered*": "8,33,118",
+            "Shares bid for": "9,04,860",
+            "Total Amt* (₹ Cr.)": "24.612"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "1.38",
+            "Shares Offered*": "58,31,827",
+            "Shares bid for": "80,55,025",
+            "Total Amt* (₹ Cr.)": "219.097"
+          },
+          {
+            "Category": "Employees",
+            "Subscription (x)": "3.10",
+            "Shares Offered*": "1,01,215",
+            "Shares bid for": "3,14,270",
+            "Total Amt* (₹ Cr.)": "8.548"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "1.48",
+            "Shares Offered*": "1,17,64,869",
+            "Shares bid for": "1,73,81,100",
+            "Total Amt* (₹ Cr.)": "472.766"
+          }
+        ],
+        "applications": null
       },
       "leadManager": "IIFL Capital",
       "symbols": {
