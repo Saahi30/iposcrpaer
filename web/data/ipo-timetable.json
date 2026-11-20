@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-20T00:25:41+00:00",
+  "scrapedAt": "2026-11-20T15:05:52+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 309,
-    "mainboard": 112,
+    "total": 310,
+    "mainboard": 113,
     "sme": 197
   },
   "ipos": [
@@ -7427,6 +7427,30 @@
       "logo": "https://www.chittorgarh.net/images/ipo/foodlink-fb-india-ltd-logo.jpeg",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2774,
+      "name": "Integris Medtech Ltd.",
+      "slug": "integris-medtech-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-11-27",
+        "close": "2026-12-01",
+        "allotment": "2026-12-02",
+        "refunds": "2026-12-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "27-Nov-2026",
+        "close": "01-Dec-2026",
+        "allotment": "02-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     }

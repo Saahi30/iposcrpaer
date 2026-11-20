@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-20T00:25:35+00:00",
+  "scrapedAt": "2026-11-20T15:05:46+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,13 +15,123 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 2,
+    "upcoming": 4,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 4
   },
   "ipos": [
+    {
+      "slug": "monomark-engineering-ipo",
+      "ipoId": 2972,
+      "name": "Monomark Engineering",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "-",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-02-28",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "20-Nov 12:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Holani Consultants",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/monomark-engineering-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/monomark-engineering-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=monomark-engineering-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/monomark-engineering-ipo/2972/",
+        "gmp": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/"
+      },
+      "gmpId": 2232,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in 2005, Monomark Engineering (India) Limited is engaged in providing industrial operations and maintenance (O&M) services, metal fabrication solutions, and industrial project execution services to clients across sectors such as metals, cement, ports, and engineering/OEMs.\n\nThe company executes projects under two models—EPC and FEIC. Under the EPC model, it undertakes end-to-end project execution including engineering, procurement, construction, erection, installation, and commissio",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "integris-medtech-ipo",
+      "ipoId": 2774,
+      "name": "Integris Medtech",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 600.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-11-27",
+        "close": "2026-12-01",
+        "allotment": "2026-12-02",
+        "listing": "2026-12-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": null,
+        "xLot": null,
+        "updatedOn": "20-Nov 14:10"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/integris-medtech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=integris-medtech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
+        "gmp": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/"
+      },
+      "gmpId": 2029,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions.\n\nIntegris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Eu",
+      "registrar": "Kfin Technologies Ltd."
+    },
     {
       "slug": "foodlink-fb-ipo",
       "ipoId": 2493,
@@ -50,7 +160,7 @@
         "value": 12.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "19-Nov 23:37"
+        "updatedOn": "20-Nov 20:02"
       },
       "subscription": {
         "total": null,
@@ -105,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "19-Nov 23:34"
+        "updatedOn": "20-Nov 20:01"
       },
       "subscription": {
         "total": null,
