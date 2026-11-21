@@ -337,16 +337,16 @@
     "lotSize": null,
     "issueSize": "-",
     "dates": {
-      "open": "2027-02-28",
+      "open": "2027-03-01",
       "close": null,
       "allotment": null,
       "listing": null
     },
     "gmp": {
       "value": 0.0,
-      "percent": null,
+      "percent": 0.0,
       "xLot": null,
-      "updatedOn": "20-Nov 12:10"
+      "updatedOn": "21-Nov 5:55"
     },
     "leadManager": "Holani Consultants",
     "logo": "https://www.chittorgarh.net/images/ipo/monomark-engineering-logo.png",
@@ -356,5 +356,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-20T23:47:45+00:00"
+  "scrapedAt": "2026-11-21T06:18:22+00:00"
 }

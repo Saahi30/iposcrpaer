@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-20T23:47:51+00:00",
+  "scrapedAt": "2026-11-21T06:18:28+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 3,
+    "open": 2,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 3
+    "total": 2
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 67.0,
         "percent": 27.35,
         "xLot": 40200.0,
-        "updatedOn": "20-Nov 23:37"
+        "updatedOn": "21-Nov 11:02"
       },
       "subscription": {
         "total": 11.98,
@@ -163,7 +163,7 @@
         "value": 0.75,
         "percent": 0.55,
         "xLot": 82.5,
-        "updatedOn": "20-Nov 23:37"
+        "updatedOn": "21-Nov 11:02"
       },
       "subscription": {
         "total": 0.49,
@@ -254,119 +254,6 @@
       "saleType": "OFS only",
       "about": "Incorporated in April 1992, Mahanadi Coalfields Limited is India’s largest coal producer in terms of production, primarily engaged in the mining and production of non-coking coal. The Company operates mainly in the Talcher and Ib Valley coalfields in Odisha and produces various grades of coal, including washed and beneficiated coal, catering primarily to the power sector as well as industries such as cement, sponge iron, steel, aluminium and paper.\n\nThe Company is a wholly owned subsidiary of Co",
       "registrar": "Kfin Technologies Ltd."
-    },
-    {
-      "slug": "crystal-crop-protection-ipo",
-      "ipoId": 2813,
-      "name": "Crystal Crop Protection",
-      "type": "mainboard",
-      "status": "open",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 259.0,
-        "max": 272.0,
-        "display": "₹259–272"
-      },
-      "lotSize": 55,
-      "issueSize": "₹455.49 Cr",
-      "issueSizeCr": 455.49,
-      "freshIssueCr": 354.77,
-      "ofsCr": 100.71,
-      "dates": {
-        "open": "2026-11-18",
-        "close": "2026-11-20",
-        "allotment": "2026-11-23",
-        "listing": "2026-11-26"
-      },
-      "gmp": {
-        "value": 14.5,
-        "percent": 5.33,
-        "xLot": 797.5,
-        "updatedOn": "20-Nov 23:37"
-      },
-      "subscription": {
-        "total": 17.68,
-        "byCategory": [
-          {
-            "Category": "Anchor",
-            "Subscription (x)": "1",
-            "Shares Offered*": "49,98,708",
-            "Shares bid for": "49,98,708",
-            "Total Amt* (₹ Cr.)": "135.965"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "15.81",
-            "Shares Offered*": "33,32,473",
-            "Shares bid for": "5,26,89,065",
-            "Total Amt* (₹ Cr.)": "1,433.143"
-          },
-          {
-            "Category": "NII",
-            "Subscription (x)": "39.16",
-            "Shares Offered*": "24,99,354",
-            "Shares bid for": "9,78,80,860",
-            "Total Amt* (₹ Cr.)": "2,662.359"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "45.19",
-            "Shares Offered*": "16,66,236",
-            "Shares bid for": "7,52,93,735",
-            "Total Amt* (₹ Cr.)": "2,047.990"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "27.11",
-            "Shares Offered*": "8,33,118",
-            "Shares bid for": "2,25,87,125",
-            "Total Amt* (₹ Cr.)": "614.370"
-          },
-          {
-            "Category": "Retail",
-            "Subscription (x)": "9.71",
-            "Shares Offered*": "58,31,827",
-            "Shares bid for": "5,65,98,135",
-            "Total Amt* (₹ Cr.)": "1,539.469"
-          },
-          {
-            "Category": "Employees",
-            "Subscription (x)": "8.67",
-            "Shares Offered*": "1,01,215",
-            "Shares bid for": "8,77,195",
-            "Total Amt* (₹ Cr.)": "23.860"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "17.68",
-            "Shares Offered*": "1,17,64,869",
-            "Shares bid for": "20,80,45,255",
-            "Total Amt* (₹ Cr.)": "5,658.831"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "IIFL Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/crystal-crop-protection-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/crystal-crop-protection-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=crystal-crop-protection-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
-        "gmp": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/"
-      },
-      "gmpId": 2067,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 1994, Crystal Crop Protection is a crop solutions company with agrochemicals and seeds as its core offerings. Its portfolio includes crop protection products such as herbicides, fungicides and insecticides, along with natural crop solutions like bio-stimulants, bio-protectants, plant growth regulators, liquid fertilizers and micronutrients. It also offer seeds for field crops, vegetable crops and flowers. The offerings are customized for Indian farmers through research and develo",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }
