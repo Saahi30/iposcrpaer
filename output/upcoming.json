@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T05:50:55+00:00",
+  "scrapedAt": "2026-11-22T14:19:07+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -31,9 +31,9 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 0.0,
+        "max": 0.0,
+        "display": "₹0"
       },
       "lotSize": null,
       "issueSize": "-",
@@ -41,16 +41,16 @@
       "freshIssueCr": null,
       "ofsCr": null,
       "dates": {
-        "open": "2027-03-02",
-        "close": null,
-        "allotment": null,
-        "listing": null
+        "open": "2026-12-02",
+        "close": "2026-12-04",
+        "allotment": "2026-12-07",
+        "listing": "2026-12-09"
       },
       "gmp": {
-        "value": 0.0,
+        "value": 23.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "22-Nov 5:55"
+        "updatedOn": "22-Nov 19:02"
       },
       "subscription": {
         "total": null,
@@ -74,7 +74,7 @@
       "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
-      "about": "Incorporated in 2005, Monomark Engineering (India) Limited is engaged in providing industrial operations and maintenance (O&M) services, metal fabrication solutions, and industrial project execution services to clients across sectors such as metals, cement, ports, and engineering/OEMs.\n\nThe company executes projects under two models—EPC and FEIC. Under the EPC model, it undertakes end-to-end project execution including engineering, procurement, construction, erection, installation, and commissio",
+      "about": "Incorporated on September 29, 2005, Monomark Engineering (India) Limited is engaged in providing Industrial Operations and Maintenance (“O&M”) services, Metal Fabrication solutions and Industrial Project Execution services to industrial clients across sectors such as metals, cement, ports and engineering/OEMs. The Company’s business is organised into three segments: Industrial O&M Services, Metal Fabrication Solutions and Industrial Project Execution Services. Its O&M services include production",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -160,7 +160,7 @@
         "value": 12.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "22-Nov 11:02"
+        "updatedOn": "22-Nov 19:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Nov 10:54"
+        "updatedOn": "22-Nov 18:56"
       },
       "subscription": {
         "total": null,
