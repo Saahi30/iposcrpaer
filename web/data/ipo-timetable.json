@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T23:25:04+00:00",
+  "scrapedAt": "2026-11-23T06:38:11+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 311,
-    "mainboard": 114,
-    "sme": 197
+    "total": 313,
+    "mainboard": 115,
+    "sme": 198
   },
   "ipos": [
     {
@@ -7451,6 +7451,54 @@
       "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 2978,
+      "name": "A J Packaging Ltd.",
+      "slug": "a-j-packaging-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-12-01",
+        "close": "2026-12-03",
+        "allotment": "2026-12-04",
+        "refunds": "2026-12-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "01-Dec-2026",
+        "close": "03-Dec-2026",
+        "allotment": "04-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aj-packaging-logo.jpg",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/a-j-packaging-ipo/2978/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
+      }
+    },
+    {
+      "ipoId": 3136,
+      "name": "Matangi Rubber Ltd.",
+      "slug": "matangi-rubber-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-12-01",
+        "close": "2026-12-03",
+        "allotment": "2026-12-04",
+        "refunds": "2026-12-07",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "01-Dec-2026",
+        "close": "03-Dec-2026",
+        "allotment": "04-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/matangi-rubber-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/matangi-rubber-ipo/3136/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },

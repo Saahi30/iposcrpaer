@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T23:24:58+00:00",
+  "scrapedAt": "2026-11-23T06:38:04+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 4,
+    "upcoming": 6,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 4
+    "total": 6
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 23.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "22-Nov 23:37"
+        "updatedOn": "23-Nov 11:37"
       },
       "subscription": {
         "total": null,
@@ -75,6 +75,116 @@
       "issueType": "Bookbuilding IPO",
       "saleType": "Fresh capital only",
       "about": "Incorporated on September 29, 2005, Monomark Engineering (India) Limited is engaged in providing Industrial Operations and Maintenance (“O&M”) services, Metal Fabrication solutions and Industrial Project Execution services to industrial clients across sectors such as metals, cement, ports and engineering/OEMs. The Company’s business is organised into three segments: Industrial O&M Services, Metal Fabrication Solutions and Industrial Project Execution Services. Its O&M services include production",
+      "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "a-j-packaging-ipo",
+      "ipoId": 2978,
+      "name": "A J Packaging",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 175.0,
+        "max": 180.0,
+        "display": "₹175–180"
+      },
+      "lotSize": 800,
+      "issueSize": "₹54.00 Cr",
+      "issueSizeCr": 54.0,
+      "freshIssueCr": 46.79,
+      "ofsCr": 4.5,
+      "dates": {
+        "open": "2026-12-01",
+        "close": "2026-12-03",
+        "allotment": "2026-12-04",
+        "listing": "2026-12-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Nov 11:32"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "D&A Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/aj-packaging-logo.jpg",
+      "hasDetail": true,
+      "detailPath": "details/a-j-packaging-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=a-j-packaging-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/a-j-packaging-ipo/2978/",
+        "gmp": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/"
+      },
+      "gmpId": 2247,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 1995, A J packaging specializes in manufacturing a diverse range of metal tin cans in multiple shapes such as oval, rectangular, and round, with capacities ranging from 50 grams to 500 grams and 50 ml to 5000 ml. The company offers an extensive product portfolio that includes printed, lacquered, embossed, uniquely shaped, and fully customizable metal cans. These products are designed to meet the packaging requirements of various solid, powdered, and liquid goods. The company oper",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
+      "slug": "matangi-rubber-ipo",
+      "ipoId": 3136,
+      "name": "Matangi Rubber",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 163.0,
+        "max": 172.0,
+        "display": "₹163–172"
+      },
+      "lotSize": 87,
+      "issueSize": "₹125.16 Cr",
+      "issueSizeCr": 125.16,
+      "freshIssueCr": 99.1,
+      "ofsCr": 26.06,
+      "dates": {
+        "open": "2026-12-01",
+        "close": "2026-12-03",
+        "allotment": "2026-12-04",
+        "listing": "2026-12-08"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "23-Nov 11:31"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Sarthi Capital Advisors",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/matangi-rubber-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/matangi-rubber-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=matangi-rubber-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/matangi-rubber-ipo/3136/",
+        "gmp": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/"
+      },
+      "gmpId": 2290,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated on June 23, 2004 , Matangi Rubber Limited is engaged in the manufacturing of tyres, tyre flaps, tyre tubes and rubber compounds. It primarily caters to the two-wheeler and three-wheeler tyre segments, while its tyre flaps and tubes are used in commercial vehicles such as trucks, buses and heavy utility vehicles. The Company operates through three business models: manufacturing and selling, contract manufacturing and job work services. Under its manufacturing and selling model, it ma",
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
@@ -105,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "22-Nov 5:55"
+        "updatedOn": "23-Nov 5:55"
       },
       "subscription": {
         "total": null,
@@ -141,15 +251,15 @@
       "exchange": "BSE, NSE",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": 0.0,
-        "max": 0.0,
-        "display": "₹0"
+        "min": 181.0,
+        "max": 191.0,
+        "display": "₹181–191"
       },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
+      "lotSize": 78,
+      "issueSize": "₹360.76 Cr",
+      "issueSizeCr": 360.76,
       "freshIssueCr": 192.0,
-      "ofsCr": null,
+      "ofsCr": 168.76,
       "dates": {
         "open": "2026-11-26",
         "close": "2026-11-30",
@@ -158,9 +268,9 @@
       },
       "gmp": {
         "value": 12.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "22-Nov 23:37"
+        "percent": 6.28,
+        "xLot": 936.0,
+        "updatedOn": "23-Nov 11:37"
       },
       "subscription": {
         "total": null,
@@ -215,7 +325,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "22-Nov 23:37"
+        "updatedOn": "23-Nov 11:32"
       },
       "subscription": {
         "total": null,
