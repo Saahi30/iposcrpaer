@@ -302,7 +302,7 @@
   "links": {
     "subscriptionPage": "https://www.chittorgarh.com/ipo_subscription/matangi-rubber-ipo/3136/",
     "gmpPage": "https://www.investorgain.com/chr-gmp/matangi-rubber-ipo/3136",
-    "rhp": "https://www.chittorgarh.net/images/ipo/matangi-rubber-logo.png",
+    "rhp": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
     "source": "https://www.chittorgarh.com/ipo/matangi-rubber-ipo/3136/"
   },
   "subscription": {
@@ -331,10 +331,10 @@
       "listing": "2026-12-08"
     },
     "gmp": {
-      "value": 0.0,
-      "percent": 0.0,
-      "xLot": 0.0,
-      "updatedOn": "23-Nov 11:31"
+      "value": 21.5,
+      "percent": 12.5,
+      "xLot": 1870.5,
+      "updatedOn": "23-Nov 23:37"
     },
     "leadManager": "Sarthi Capital Advisors",
     "logo": "https://www.chittorgarh.net/images/ipo/matangi-rubber-logo.png",
@@ -344,5 +344,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-23T06:37:58+00:00"
+  "scrapedAt": "2026-11-23T23:36:26+00:00"
 }
