@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-23T23:36:33+00:00",
+  "scrapedAt": "2026-11-24T09:06:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,11 +15,11 @@
   },
   "summary": {
     "open": 0,
-    "upcoming": 6,
+    "upcoming": 7,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 6
+    "total": 7
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 23.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "23-Nov 23:37"
+        "updatedOn": "24-Nov 14:02"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 20.0,
         "percent": 11.11,
         "xLot": 16000.0,
-        "updatedOn": "23-Nov 23:37"
+        "updatedOn": "24-Nov 14:02"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 21.5,
         "percent": 12.5,
         "xLot": 1870.5,
-        "updatedOn": "23-Nov 23:37"
+        "updatedOn": "24-Nov 14:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "23-Nov 5:55"
+        "updatedOn": "24-Nov 5:55"
       },
       "subscription": {
         "total": null,
@@ -243,6 +243,61 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
+      "slug": "airpro-technology-ipo",
+      "ipoId": 3161,
+      "name": "Airpro Technology",
+      "type": "sme",
+      "status": "upcoming",
+      "exchange": "NSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 99.0,
+        "max": 99.0,
+        "display": "₹99"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹35.64 Cr",
+      "issueSizeCr": 35.64,
+      "freshIssueCr": 27.13,
+      "ofsCr": 6.73,
+      "dates": {
+        "open": "2026-11-27",
+        "close": "2026-12-01",
+        "allotment": "2026-12-02",
+        "listing": "2026-12-04"
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "24-Nov 13:54"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "Horizon Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/airpro-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/airpro-technology-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=airpro-technology-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/airpro-technology-ipo/3161/",
+        "gmp": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/"
+      },
+      "gmpId": 2316,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated on February 17, 2014, Airpro Technology India Limited is a technology-driven company engaged in the design, assembly, distribution and servicing of wired and wireless networking products and solutions. The Company operates as a brand owner, providing networking solutions for enterprises and institutions to establish and manage reliable, scalable and cost-effective connectivity infrastructure. The Company offers a range of networking products, including wireless access points, WLAN c",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
+    {
       "slug": "foodlink-fb-ipo",
       "ipoId": 2493,
       "name": "Foodlink F&B Holdings",
@@ -267,10 +322,10 @@
         "listing": "2026-12-03"
       },
       "gmp": {
-        "value": 15.0,
-        "percent": 7.85,
-        "xLot": 1170.0,
-        "updatedOn": "23-Nov 23:37"
+        "value": 16.0,
+        "percent": 8.38,
+        "xLot": 1248.0,
+        "updatedOn": "24-Nov 14:02"
       },
       "subscription": {
         "total": null,
@@ -325,7 +380,7 @@
         "value": 10.0,
         "percent": 7.04,
         "xLot": 10000.0,
-        "updatedOn": "23-Nov 23:37"
+        "updatedOn": "24-Nov 14:02"
       },
       "subscription": {
         "total": null,

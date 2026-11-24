@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-23T23:36:39+00:00",
+  "scrapedAt": "2026-11-24T09:06:22+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 313,
+    "total": 314,
     "mainboard": 115,
-    "sme": 198
+    "sme": 199
   },
   "ipos": [
     {
@@ -7428,6 +7428,30 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3161,
+      "name": "Airpro Technology India Ltd.",
+      "slug": "airpro-technology-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-11-27",
+        "close": "2026-12-01",
+        "allotment": "2026-12-02",
+        "refunds": "2026-12-03",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "27-Nov-2026",
+        "close": "01-Dec-2026",
+        "allotment": "02-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/airpro-ipo-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/airpro-technology-ipo/3161/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     },
     {
