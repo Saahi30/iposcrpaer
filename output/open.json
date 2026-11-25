@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-24T22:06:19+00:00",
+  "scrapedAt": "2026-11-25T07:43:40+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,119 @@
     "limit": null
   },
   "summary": {
-    "open": 0,
+    "open": 1,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 0
+    "total": 1
   },
-  "ipos": []
+  "ipos": [
+    {
+      "slug": "shree-siddhivinayak-greentech-industries-ipo",
+      "ipoId": 3195,
+      "name": "Shree Siddhivinayak Greentech Industries",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 130.0,
+        "max": 142.0,
+        "display": "₹130–142"
+      },
+      "lotSize": 1000,
+      "issueSize": "₹93.66 Cr",
+      "issueSizeCr": 93.66,
+      "freshIssueCr": 88.98,
+      "ofsCr": null,
+      "dates": {
+        "open": "2026-11-25",
+        "close": "2026-11-27",
+        "allotment": "2026-11-30",
+        "listing": "2026-12-02"
+      },
+      "gmp": {
+        "value": 20.0,
+        "percent": 14.08,
+        "xLot": 20000.0,
+        "updatedOn": "25-Nov 12:37"
+      },
+      "subscription": {
+        "total": 0.34,
+        "byCategory": [
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "3,30,000",
+            "Shares bid for": "3,30,000",
+            "Total Amt* (₹ Cr.)": "4.686"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "4.27",
+            "Shares Offered*": "66,000",
+            "Shares bid for": "2,82,000",
+            "Total Amt* (₹ Cr.)": "4.004"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.46",
+            "Shares Offered*": "31,00,000",
+            "Shares bid for": "14,21,000",
+            "Total Amt* (₹ Cr.)": "20.178"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.67",
+            "Shares Offered*": "20,67,000",
+            "Shares bid for": "13,90,000",
+            "Total Amt* (₹ Cr.)": "19.738"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.03",
+            "Shares Offered*": "10,33,000",
+            "Shares bid for": "31,000",
+            "Total Amt* (₹ Cr.)": "0.440"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.14",
+            "Shares Offered*": "31,00,000",
+            "Shares bid for": "4,30,000",
+            "Total Amt* (₹ Cr.)": "6.106"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.34",
+            "Shares Offered*": "62,66,000",
+            "Shares bid for": "21,33,000",
+            "Total Amt* (₹ Cr.)": "30.289"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Erudore Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/shree-siddhivinayak-greentech-industries-ltdlogo.png",
+      "hasDetail": true,
+      "detailPath": "details/shree-siddhivinayak-greentech-industries-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=shree-siddhivinayak-greentech-industries-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-siddhivinayak-greentech-industries-ipo/3195/",
+        "gmp": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/"
+      },
+      "gmpId": 2349,
+      "faceValue": "₹10 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated in June 2022, Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the manufacturing of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products, and sugarcane by-products. The company also operates a Cane Seed nursery, enabling backward integration in sugarcane cultivation. It serves both B2B customers through jaggery powder, Khandsari sugar, and by-products, and B2C customers through its \"Feel Guddy\" branded jaggery-b",
+      "registrar": "MAS Services Ltd."
+    }
+  ]
 }

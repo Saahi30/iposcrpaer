@@ -394,7 +394,7 @@
   "links": {
     "subscriptionPage": "https://www.chittorgarh.com/ipo_subscription/a-j-packaging-ipo/2978/",
     "gmpPage": "https://www.investorgain.com/chr-gmp/a-j-packaging-ipo/2978",
-    "rhp": "https://www.chittorgarh.net/images/ipo/aj-packaging-logo.jpg",
+    "rhp": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
     "source": "https://www.chittorgarh.com/ipo/a-j-packaging-ipo/2978/"
   },
   "subscription": {
@@ -423,10 +423,10 @@
       "listing": "2026-12-08"
     },
     "gmp": {
-      "value": 18.0,
-      "percent": 10.0,
-      "xLot": 14400.0,
-      "updatedOn": "24-Nov 23:37"
+      "value": 24.0,
+      "percent": 13.33,
+      "xLot": 19200.0,
+      "updatedOn": "25-Nov 12:37"
     },
     "leadManager": "D&A Financial",
     "logo": "https://www.chittorgarh.net/images/ipo/aj-packaging-logo.jpg",
@@ -436,5 +436,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-24T22:06:10+00:00"
+  "scrapedAt": "2026-11-25T07:43:32+00:00"
 }
