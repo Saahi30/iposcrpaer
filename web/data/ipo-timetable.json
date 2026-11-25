@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T07:43:45+00:00",
+  "scrapedAt": "2026-11-25T21:22:22+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,8 +9,8 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 314,
-    "mainboard": 115,
+    "total": 313,
+    "mainboard": 114,
     "sme": 199
   },
   "ipos": [
@@ -7320,13 +7320,13 @@
         "close": "2026-11-20",
         "allotment": "2026-11-23",
         "refunds": "2026-11-25",
-        "listing": null
+        "listing": "2026-11-26"
       },
       "displayDates": {
         "open": "18-Nov-2026",
         "close": "20-Nov-2026",
         "allotment": "23-Nov-2026",
-        "listing": null
+        "listing": "26-Nov-2026"
       },
       "logo": "https://www.chittorgarh.net/images/ipo/crystal-crop-protection-logo.png",
       "urls": {
@@ -7452,30 +7452,6 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/airpro-technology-ipo/3161/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
-      }
-    },
-    {
-      "ipoId": 2774,
-      "name": "Integris Medtech Ltd.",
-      "slug": "integris-medtech-ipo",
-      "type": "mainboard",
-      "dates": {
-        "open": "2026-11-27",
-        "close": "2026-12-01",
-        "allotment": "2026-12-02",
-        "refunds": "2026-12-03",
-        "listing": null
-      },
-      "displayDates": {
-        "open": "27-Nov-2026",
-        "close": "01-Dec-2026",
-        "allotment": "02-Dec-2026",
-        "listing": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
-      "urls": {
-        "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
-        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
       }
     },
     {

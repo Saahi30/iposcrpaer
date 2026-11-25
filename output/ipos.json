@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T07:43:40+00:00",
+  "scrapedAt": "2026-11-25T21:22:16+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -48,13 +48,13 @@
         "listing": "2026-12-02"
       },
       "gmp": {
-        "value": 20.0,
-        "percent": 14.08,
-        "xLot": 20000.0,
-        "updatedOn": "25-Nov 12:37"
+        "value": 25.0,
+        "percent": 17.61,
+        "xLot": 25000.0,
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
-        "total": 0.34,
+        "total": 0.41,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -72,38 +72,38 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.46",
+            "Subscription (x)": "0.51",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "14,21,000",
-            "Total Amt* (₹ Cr.)": "20.178"
+            "Shares bid for": "15,79,000",
+            "Total Amt* (₹ Cr.)": "22.422"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.67",
+            "Subscription (x)": "0.73",
             "Shares Offered*": "20,67,000",
-            "Shares bid for": "13,90,000",
-            "Total Amt* (₹ Cr.)": "19.738"
+            "Shares bid for": "15,14,000",
+            "Total Amt* (₹ Cr.)": "21.499"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.03",
+            "Subscription (x)": "0.06",
             "Shares Offered*": "10,33,000",
-            "Shares bid for": "31,000",
-            "Total Amt* (₹ Cr.)": "0.440"
+            "Shares bid for": "65,000",
+            "Total Amt* (₹ Cr.)": "0.923"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.14",
+            "Subscription (x)": "0.23",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "4,30,000",
-            "Total Amt* (₹ Cr.)": "6.106"
+            "Shares bid for": "7,04,000",
+            "Total Amt* (₹ Cr.)": "9.997"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.34",
+            "Subscription (x)": "0.41",
             "Shares Offered*": "62,66,000",
-            "Shares bid for": "21,33,000",
-            "Total Amt* (₹ Cr.)": "30.289"
+            "Shares bid for": "25,65,000",
+            "Total Amt* (₹ Cr.)": "36.423"
           }
         ],
         "applications": null
@@ -128,6 +128,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated in June 2022, Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the manufacturing of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products, and sugarcane by-products. The company also operates a Cane Seed nursery, enabling backward integration in sugarcane cultivation. It serves both B2B customers through jaggery powder, Khandsari sugar, and by-products, and B2C customers through its \"Feel Guddy\" branded jaggery-b",
       "registrar": "MAS Services Ltd."
+    },
+    {
+      "slug": "integris-medtech-ipo",
+      "ipoId": 2774,
+      "name": "Integris Medtech",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": null,
+        "max": null,
+        "display": null
+      },
+      "lotSize": null,
+      "issueSize": "₹0.0 Cr",
+      "issueSizeCr": 0.0,
+      "freshIssueCr": 600.0,
+      "ofsCr": null,
+      "dates": {
+        "open": "2027-03-05",
+        "close": null,
+        "allotment": null,
+        "listing": null
+      },
+      "gmp": {
+        "value": 0.0,
+        "percent": 0.0,
+        "xLot": null,
+        "updatedOn": "25-Nov 5:55"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "ICICI Securities",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/integris-medtech-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=integris-medtech-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
+        "gmp": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/"
+      },
+      "gmpId": 2029,
+      "faceValue": "₹1 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions.\n\nIntegris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Eu",
+      "registrar": "Kfin Technologies Ltd."
     },
     {
       "slug": "monomark-engineering-ipo",
@@ -157,7 +212,7 @@
         "value": 21.0,
         "percent": 32.31,
         "xLot": 4725.0,
-        "updatedOn": "25-Nov 12:37"
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
         "total": null,
@@ -212,7 +267,7 @@
         "value": 24.0,
         "percent": 13.33,
         "xLot": 19200.0,
-        "updatedOn": "25-Nov 12:37"
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
         "total": null,
@@ -264,10 +319,10 @@
         "listing": "2026-12-08"
       },
       "gmp": {
-        "value": 21.5,
-        "percent": 12.5,
-        "xLot": 1870.5,
-        "updatedOn": "25-Nov 12:37"
+        "value": 27.0,
+        "percent": 15.7,
+        "xLot": 2349.0,
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
         "total": null,
@@ -295,61 +350,6 @@
       "registrar": "Bigshare Services Pvt.Ltd."
     },
     {
-      "slug": "integris-medtech-ipo",
-      "ipoId": 2774,
-      "name": "Integris Medtech",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
-      },
-      "lotSize": null,
-      "issueSize": "₹0.0 Cr",
-      "issueSizeCr": 0.0,
-      "freshIssueCr": 600.0,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-11-27",
-        "close": "2026-12-01",
-        "allotment": "2026-12-02",
-        "listing": "2026-12-04"
-      },
-      "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": null,
-        "updatedOn": "25-Nov 5:55"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "ICICI Securities",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/integris-medtech-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/integris-medtech-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=integris-medtech-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/integris-medtech-ipo/2774/",
-        "gmp": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/"
-      },
-      "gmpId": 2029,
-      "faceValue": "₹1 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions.\n\nIntegris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Eu",
-      "registrar": "Kfin Technologies Ltd."
-    },
-    {
       "slug": "airpro-technology-ipo",
       "ipoId": 3161,
       "name": "Airpro Technology",
@@ -374,10 +374,10 @@
         "listing": "2026-12-04"
       },
       "gmp": {
-        "value": 0.0,
-        "percent": 0.0,
-        "xLot": 0.0,
-        "updatedOn": "25-Nov 12:32"
+        "value": 4.0,
+        "percent": 4.04,
+        "xLot": 4800.0,
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
         "total": null,
@@ -429,10 +429,10 @@
         "listing": "2026-12-03"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 14.14,
-        "xLot": 2106.0,
-        "updatedOn": "25-Nov 12:37"
+        "value": 18.0,
+        "percent": 9.42,
+        "xLot": 1404.0,
+        "updatedOn": "25-Nov 23:37"
       },
       "subscription": {
         "total": null,
