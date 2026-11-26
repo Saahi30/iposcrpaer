@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T21:22:16+00:00",
+  "scrapedAt": "2026-11-26T07:33:49+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -15,14 +15,120 @@
     "limit": null
   },
   "summary": {
-    "open": 1,
-    "upcoming": 6,
+    "open": 2,
+    "upcoming": 5,
     "closed": 0,
     "listed": 0,
     "other": 0,
     "total": 7
   },
   "ipos": [
+    {
+      "slug": "foodlink-fb-ipo",
+      "ipoId": 2493,
+      "name": "Foodlink F&B Holdings",
+      "type": "mainboard",
+      "status": "open",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 181.0,
+        "max": 191.0,
+        "display": "₹181–191"
+      },
+      "lotSize": 78,
+      "issueSize": "₹360.76 Cr",
+      "issueSizeCr": 360.76,
+      "freshIssueCr": 192.0,
+      "ofsCr": 168.76,
+      "dates": {
+        "open": "2026-11-26",
+        "close": "2026-11-30",
+        "allotment": "2026-12-01",
+        "listing": "2026-12-03"
+      },
+      "gmp": {
+        "value": 14.0,
+        "percent": 7.33,
+        "xLot": 1092.0,
+        "updatedOn": "26-Nov 12:37"
+      },
+      "subscription": {
+        "total": 0.36,
+        "byCategory": [
+          {
+            "Category": "Anchor",
+            "Subscription (x)": "1",
+            "Shares Offered*": "84,99,483",
+            "Shares bid for": "84,99,483",
+            "Total Amt* (₹ Cr.)": "162.340"
+          },
+          {
+            "Category": "QIB (Ex Anchor)",
+            "Subscription (x)": "0.00",
+            "Shares Offered*": "56,66,321",
+            "Shares bid for": "0",
+            "Total Amt* (₹ Cr.)": "0"
+          },
+          {
+            "Category": "NII",
+            "Subscription (x)": "0.22",
+            "Shares Offered*": "28,33,161",
+            "Shares bid for": "6,36,792",
+            "Total Amt* (₹ Cr.)": "12.163"
+          },
+          {
+            "Category": "bNII (> ₹10L)",
+            "Subscription (x)": "0.19",
+            "Shares Offered*": "18,88,774",
+            "Shares bid for": "3,58,332",
+            "Total Amt* (₹ Cr.)": "6.844"
+          },
+          {
+            "Category": "sNII (< ₹10L)",
+            "Subscription (x)": "0.29",
+            "Shares Offered*": "9,44,387",
+            "Shares bid for": "2,78,460",
+            "Total Amt* (₹ Cr.)": "5.319"
+          },
+          {
+            "Category": "Retail",
+            "Subscription (x)": "1.63",
+            "Shares Offered*": "18,88,774",
+            "Shares bid for": "30,80,532",
+            "Total Amt* (₹ Cr.)": "58.838"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.36",
+            "Shares Offered*": "1,03,88,256",
+            "Shares bid for": "37,17,324",
+            "Total Amt* (₹ Cr.)": "71.001"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Equirus Capital",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/foodlink-fb-india-ltd-logo.jpeg",
+      "hasDetail": true,
+      "detailPath": "details/foodlink-fb-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=foodlink-fb-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/",
+        "gmp": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/"
+      },
+      "gmpId": 1810,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in 2003, Foodlink F&B Holdings (India) Ltd. is a food and beverage services company engaged in providing premium catering services and operating casual dining restaurants and cloud kitchens. Headquartered in Mumbai, Foodlink caters to weddings, social celebrations, corporate events and other large-scale gatherings. Its restaurant portfolio includes brands such as China Bistro, India Bistro, Glocal and Art of Dum. The company also operates through its international subsidiary in the ",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "shree-siddhivinayak-greentech-industries-ipo",
       "ipoId": 3195,
@@ -48,13 +154,13 @@
         "listing": "2026-12-02"
       },
       "gmp": {
-        "value": 25.0,
-        "percent": 17.61,
-        "xLot": 25000.0,
-        "updatedOn": "25-Nov 23:37"
+        "value": 21.0,
+        "percent": 14.79,
+        "xLot": 21000.0,
+        "updatedOn": "26-Nov 12:37"
       },
       "subscription": {
-        "total": 0.41,
+        "total": 0.89,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -72,38 +178,38 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.51",
+            "Subscription (x)": "0.68",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "15,79,000",
-            "Total Amt* (₹ Cr.)": "22.422"
+            "Shares bid for": "21,23,000",
+            "Total Amt* (₹ Cr.)": "30.147"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.73",
+            "Subscription (x)": "0.87",
             "Shares Offered*": "20,67,000",
-            "Shares bid for": "15,14,000",
-            "Total Amt* (₹ Cr.)": "21.499"
+            "Shares bid for": "18,08,000",
+            "Total Amt* (₹ Cr.)": "25.674"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.06",
+            "Subscription (x)": "0.30",
             "Shares Offered*": "10,33,000",
-            "Shares bid for": "65,000",
-            "Total Amt* (₹ Cr.)": "0.923"
+            "Shares bid for": "3,15,000",
+            "Total Amt* (₹ Cr.)": "4.473"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "0.23",
+            "Subscription (x)": "1.03",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "7,04,000",
-            "Total Amt* (₹ Cr.)": "9.997"
+            "Shares bid for": "31,84,000",
+            "Total Amt* (₹ Cr.)": "45.213"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "0.41",
+            "Subscription (x)": "0.89",
             "Shares Offered*": "62,66,000",
-            "Shares bid for": "25,65,000",
-            "Total Amt* (₹ Cr.)": "36.423"
+            "Shares bid for": "55,89,000",
+            "Total Amt* (₹ Cr.)": "79.364"
           }
         ],
         "applications": null
@@ -148,7 +254,7 @@
       "freshIssueCr": 600.0,
       "ofsCr": null,
       "dates": {
-        "open": "2027-03-05",
+        "open": "2027-03-06",
         "close": null,
         "allotment": null,
         "listing": null
@@ -157,7 +263,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "25-Nov 5:55"
+        "updatedOn": "26-Nov 5:55"
       },
       "subscription": {
         "total": null,
@@ -212,7 +318,7 @@
         "value": 21.0,
         "percent": 32.31,
         "xLot": 4725.0,
-        "updatedOn": "25-Nov 23:37"
+        "updatedOn": "26-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -267,7 +373,7 @@
         "value": 24.0,
         "percent": 13.33,
         "xLot": 19200.0,
-        "updatedOn": "25-Nov 23:37"
+        "updatedOn": "26-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -322,7 +428,7 @@
         "value": 27.0,
         "percent": 15.7,
         "xLot": 2349.0,
-        "updatedOn": "25-Nov 23:37"
+        "updatedOn": "26-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -377,7 +483,7 @@
         "value": 4.0,
         "percent": 4.04,
         "xLot": 4800.0,
-        "updatedOn": "25-Nov 23:37"
+        "updatedOn": "26-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -402,61 +508,6 @@
       "issueType": "Fixed Price IPO",
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated on February 17, 2014, Airpro Technology India Limited is a technology-driven company engaged in the design, assembly, distribution and servicing of wired and wireless networking products and solutions. The Company operates as a brand owner, providing networking solutions for enterprises and institutions to establish and manage reliable, scalable and cost-effective connectivity infrastructure. The Company offers a range of networking products, including wireless access points, WLAN c",
-      "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "foodlink-fb-ipo",
-      "ipoId": 2493,
-      "name": "Foodlink F&B Holdings",
-      "type": "mainboard",
-      "status": "upcoming",
-      "exchange": "BSE, NSE",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 181.0,
-        "max": 191.0,
-        "display": "₹181–191"
-      },
-      "lotSize": 78,
-      "issueSize": "₹360.76 Cr",
-      "issueSizeCr": 360.76,
-      "freshIssueCr": 192.0,
-      "ofsCr": 168.76,
-      "dates": {
-        "open": "2026-11-26",
-        "close": "2026-11-30",
-        "allotment": "2026-12-01",
-        "listing": "2026-12-03"
-      },
-      "gmp": {
-        "value": 18.0,
-        "percent": 9.42,
-        "xLot": 1404.0,
-        "updatedOn": "25-Nov 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Equirus Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/foodlink-fb-india-ltd-logo.jpeg",
-      "hasDetail": true,
-      "detailPath": "details/foodlink-fb-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=foodlink-fb-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/",
-        "gmp": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/"
-      },
-      "gmpId": 1810,
-      "faceValue": "₹2 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in 2003, Foodlink F&B Holdings (India) Ltd. is a food and beverage services company engaged in providing premium catering services and operating casual dining restaurants and cloud kitchens. Headquartered in Mumbai, Foodlink caters to weddings, social celebrations, corporate events and other large-scale gatherings. Its restaurant portfolio includes brands such as China Bistro, India Bistro, Glocal and Art of Dum. The company also operates through its international subsidiary in the ",
       "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
