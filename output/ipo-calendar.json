@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T07:33:53+00:00",
+  "scrapedAt": "2026-11-26T21:09:25+00:00",
   "source": {
     "mainboard": "https://www.chittorgarh.com/calendar/ipo-calendar/1/",
     "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/"
@@ -17,12 +17,13 @@
     }
   ],
   "summary": {
-    "totalEvents": 47,
-    "mainboard": 20,
+    "totalEvents": 48,
+    "mainboard": 21,
     "sme": 27,
     "byEventType": {
       "allotment": 13,
       "close": 17,
+      "listing": 1,
       "open": 11,
       "other": 6
     }
@@ -37,8 +38,8 @@
         "sme": "https://www.chittorgarh.com/calendar/sme-ipo-calendar/2/?month=11&year=2026"
       },
       "summary": {
-        "total": 37,
-        "mainboard": 14,
+        "total": 38,
+        "mainboard": 15,
         "sme": 23
       },
       "byDate": {
@@ -678,6 +679,25 @@
         ],
         "2026-11-26": [
           {
+            "title": "Crystal Crop Protection IPO Listing Date & Info",
+            "company": "Crystal Crop Protection",
+            "eventType": "listing",
+            "date": "2026-11-26",
+            "dateEnd": "2026-11-26",
+            "details": "The IPO Shares of Crystal Crop Protection Ltd. IPO are proposed to list on Thursday, November 26, 2026 at BSE, NSE. The public issue of Crystal Crop Protection IPO was opened on Nov 18, 2026 and close",
+            "type": "mainboard",
+            "slug": "crystal-crop-protection-ipo",
+            "ipoId": 2813,
+            "eventId": 15901,
+            "month": 11,
+            "year": 2026,
+            "urls": {
+              "news": "https://www.chittorgarh.com/ipo_news/crystal-crop-protection-ipo/2813/#15901",
+              "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+              "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Crystal%20Crop%20Protection%20IPO%20Listing%20Date%20%26%20Info&location=&dates=20261126/20261127&details=The%20IPO%20Shares%20of%20Crystal%20Crop%20Protection%20Ltd.%20IPO%20are%20proposed%20to%20list%20on%20Thursday%2C%20November%2026%2C%202026%20at%20BSE%2C%20NSE.%20The%20public%20issue%20of%20Crystal%20Crop%20Protection%20IPO%20was%20opened%20on%20Nov%2018%2C%202026%20and%20close"
+            }
+          },
+          {
             "title": "Foodlink F&B Holdings IPO Opens on Nov 26, 2026",
             "company": "Foodlink F&B Holdings",
             "eventType": "open",
@@ -986,6 +1006,25 @@
             "news": null,
             "chittorgarh": null,
             "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Prakash%20Gurpurb%20Sri%20Guru%20Nanak%20Dev&location=&dates=20261124/20261125&details=Prakash%20Gurpurb%20Sri%20Guru%20Nanak%20Dev"
+          }
+        },
+        {
+          "title": "Crystal Crop Protection IPO Listing Date & Info",
+          "company": "Crystal Crop Protection",
+          "eventType": "listing",
+          "date": "2026-11-26",
+          "dateEnd": "2026-11-26",
+          "details": "The IPO Shares of Crystal Crop Protection Ltd. IPO are proposed to list on Thursday, November 26, 2026 at BSE, NSE. The public issue of Crystal Crop Protection IPO was opened on Nov 18, 2026 and close",
+          "type": "mainboard",
+          "slug": "crystal-crop-protection-ipo",
+          "ipoId": 2813,
+          "eventId": 15901,
+          "month": 11,
+          "year": 2026,
+          "urls": {
+            "news": "https://www.chittorgarh.com/ipo_news/crystal-crop-protection-ipo/2813/#15901",
+            "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+            "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Crystal%20Crop%20Protection%20IPO%20Listing%20Date%20%26%20Info&location=&dates=20261126/20261127&details=The%20IPO%20Shares%20of%20Crystal%20Crop%20Protection%20Ltd.%20IPO%20are%20proposed%20to%20list%20on%20Thursday%2C%20November%2026%2C%202026%20at%20BSE%2C%20NSE.%20The%20public%20issue%20of%20Crystal%20Crop%20Protection%20IPO%20was%20opened%20on%20Nov%2018%2C%202026%20and%20close"
           }
         },
         {
@@ -2101,6 +2140,25 @@
         "news": null,
         "chittorgarh": null,
         "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Holiday%20-%20Prakash%20Gurpurb%20Sri%20Guru%20Nanak%20Dev&location=&dates=20261124/20261125&details=Prakash%20Gurpurb%20Sri%20Guru%20Nanak%20Dev"
+      }
+    },
+    {
+      "title": "Crystal Crop Protection IPO Listing Date & Info",
+      "company": "Crystal Crop Protection",
+      "eventType": "listing",
+      "date": "2026-11-26",
+      "dateEnd": "2026-11-26",
+      "details": "The IPO Shares of Crystal Crop Protection Ltd. IPO are proposed to list on Thursday, November 26, 2026 at BSE, NSE. The public issue of Crystal Crop Protection IPO was opened on Nov 18, 2026 and close",
+      "type": "mainboard",
+      "slug": "crystal-crop-protection-ipo",
+      "ipoId": 2813,
+      "eventId": 15901,
+      "month": 11,
+      "year": 2026,
+      "urls": {
+        "news": "https://www.chittorgarh.com/ipo_news/crystal-crop-protection-ipo/2813/#15901",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+        "googleCalendar": "https://www.google.com/calendar/render?action=TEMPLATE&sf=true&output=xml&text=Crystal%20Crop%20Protection%20IPO%20Listing%20Date%20%26%20Info&location=&dates=20261126/20261127&details=The%20IPO%20Shares%20of%20Crystal%20Crop%20Protection%20Ltd.%20IPO%20are%20proposed%20to%20list%20on%20Thursday%2C%20November%2026%2C%202026%20at%20BSE%2C%20NSE.%20The%20public%20issue%20of%20Crystal%20Crop%20Protection%20IPO%20was%20opened%20on%20Nov%2018%2C%202026%20and%20close"
       }
     },
     {
