@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T21:09:26+00:00",
+  "scrapedAt": "2026-11-27T07:31:30+00:00",
   "source": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/",
   "feeds": {
     "all": "https://webnodejs.chittorgarh.com/cloud/report/data-read/118/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -9,9 +9,9 @@
   "year": 2026,
   "financialYear": "2026-27",
   "summary": {
-    "total": 313,
-    "mainboard": 114,
-    "sme": 199
+    "total": 315,
+    "mainboard": 115,
+    "sme": 200
   },
   "ipos": [
     {
@@ -7524,6 +7524,54 @@
       "urls": {
         "chittorgarh": "https://www.chittorgarh.com/ipo/monomark-engineering-ipo/2972/",
         "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3186,
+      "name": "Swara Baby Products Ltd.",
+      "slug": "swara-baby-products-ipo",
+      "type": "mainboard",
+      "dates": {
+        "open": "2026-12-02",
+        "close": "2026-12-04",
+        "allotment": "2026-12-07",
+        "refunds": "2026-12-08",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "02-Dec-2026",
+        "close": "04-Dec-2026",
+        "allotment": "07-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/main-swara-logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/swara-baby-products-ipo/3186/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/mainboard/"
+      }
+    },
+    {
+      "ipoId": 3230,
+      "name": "Vishwas Refoils & Consumer Ltd.",
+      "slug": "vishwas-refoils-consumer-ipo",
+      "type": "sme",
+      "dates": {
+        "open": "2026-12-03",
+        "close": "2026-12-07",
+        "allotment": "2026-12-08",
+        "refunds": "2026-12-09",
+        "listing": null
+      },
+      "displayDates": {
+        "open": "03-Dec-2026",
+        "close": "07-Dec-2026",
+        "allotment": "08-Dec-2026",
+        "listing": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/vishwasrefoils_logo.png",
+      "urls": {
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vishwas-refoils-consumer-ipo/3230/",
+        "timetablePage": "https://www.chittorgarh.com/report/ipo-list-by-time-table-and-lot-size/118/sme/"
       }
     }
   ]

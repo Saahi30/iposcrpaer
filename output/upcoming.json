@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T21:09:19+00:00",
+  "scrapedAt": "2026-11-27T07:31:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -41,7 +41,7 @@
       "freshIssueCr": 600.0,
       "ofsCr": null,
       "dates": {
-        "open": "2027-03-06",
+        "open": "2027-03-07",
         "close": null,
         "allotment": null,
         "listing": null
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "26-Nov 5:55"
+        "updatedOn": "27-Nov 5:55"
       },
       "subscription": {
         "total": null,
@@ -78,58 +78,58 @@
       "registrar": "Kfin Technologies Ltd."
     },
     {
-      "slug": "swara-baby-products-ipo",
-      "ipoId": 3186,
-      "name": "Swara Baby Products",
-      "type": "mainboard",
+      "slug": "vishwas-refoils-consumer-ipo",
+      "ipoId": 3230,
+      "name": "Vishwas Refoils & Consumer",
+      "type": "sme",
       "status": "upcoming",
-      "exchange": "BSE, NSE",
+      "exchange": "BSE SME",
       "pricingMethod": "Bookbuilding",
       "priceBand": {
-        "min": null,
-        "max": null,
-        "display": null
+        "min": 85.0,
+        "max": 90.0,
+        "display": "₹85–90"
       },
-      "lotSize": null,
-      "issueSize": "₹1000.00 Cr",
-      "issueSizeCr": 1000.0,
-      "freshIssueCr": 500.0,
-      "ofsCr": 500.0,
+      "lotSize": 1600,
+      "issueSize": "₹25.78 Cr",
+      "issueSizeCr": 25.78,
+      "freshIssueCr": 24.48,
+      "ofsCr": null,
       "dates": {
-        "open": "2027-03-06",
-        "close": null,
-        "allotment": null,
-        "listing": null
+        "open": "2026-12-03",
+        "close": "2026-12-07",
+        "allotment": "2026-12-08",
+        "listing": "2026-12-10"
       },
       "gmp": {
         "value": 0.0,
-        "percent": null,
-        "xLot": null,
-        "updatedOn": "26-Nov 17:00"
+        "percent": 0.0,
+        "xLot": 0.0,
+        "updatedOn": "27-Nov 12:34"
       },
       "subscription": {
         "total": null,
         "byCategory": []
       },
-      "leadManager": "JM Financial",
+      "leadManager": "Cumulative Capital",
       "symbols": {
         "isin": null,
         "bse": null,
         "nse": null
       },
-      "logo": "https://www.chittorgarh.net/images/ipo/main-swara-logo.png",
+      "logo": "https://www.chittorgarh.net/images/ipo/vishwasrefoils_logo.png",
       "hasDetail": true,
-      "detailPath": "details/swara-baby-products-ipo.json",
+      "detailPath": "details/vishwas-refoils-consumer-ipo.json",
       "urls": {
-        "local": "./ipo.html?slug=swara-baby-products-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/swara-baby-products-ipo/3186/",
-        "gmp": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/"
+        "local": "./ipo.html?slug=vishwas-refoils-consumer-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/vishwas-refoils-consumer-ipo/3230/",
+        "gmp": "https://www.investorgain.com/gmp/vishwas-refoils-consumer-ipo/2384/"
       },
-      "gmpId": 2340,
-      "faceValue": "₹2 per share",
+      "gmpId": 2384,
+      "faceValue": "₹10 per share",
       "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated in November 2016, Swara Baby Products Limited is a specialized contract manufacturer of disposable consumer hygiene products, offering a diversified portfolio across baby care, adult incontinence, and feminine hygiene categories. The company manufactures baby pant and tape-style diapers, adult diapers, sanitary napkins, panty liners, and related hygiene products for leading brands, while also marketing its own consumer brands, \"Cuddles\" (baby diapers) and \"Shields\" (adult diapers) t",
+      "saleType": "Fresh capital only",
+      "about": "Incorporated on March 18, 2023, Vishwas Refoils & Consumer Limited, is engaged in the processing, manufacturing, and packaging of edible oils. Its product range includes refined palmolein, sunflower, groundnut, cottonseed, corn, castor, soybean, and rice bran oils, along with filtered mustard oil and mild mustard oil. The company sells these products under its own brand, “ Vishwas ”, in various packaging formats, including pouches, bottles, jars, and tins. It also supplies edible oils in bulk to",
       "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
@@ -157,10 +157,10 @@
         "listing": "2026-12-09"
       },
       "gmp": {
-        "value": 24.0,
-        "percent": 36.92,
-        "xLot": 5400.0,
-        "updatedOn": "26-Nov 23:37"
+        "value": 20.0,
+        "percent": 30.77,
+        "xLot": 4500.0,
+        "updatedOn": "27-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -186,6 +186,61 @@
       "saleType": "Fresh capital only",
       "about": "Incorporated on September 29, 2005, Monomark Engineering (India) Limited is engaged in providing Industrial Operations and Maintenance (“O&M”) services, Metal Fabrication solutions and Industrial Project Execution services to industrial clients across sectors such as metals, cement, ports and engineering/OEMs. The Company’s business is organised into three segments: Industrial O&M Services, Metal Fabrication Solutions and Industrial Project Execution Services. Its O&M services include production",
       "registrar": "Bigshare Services Pvt.Ltd."
+    },
+    {
+      "slug": "swara-baby-products-ipo",
+      "ipoId": 3186,
+      "name": "Swara Baby Products",
+      "type": "mainboard",
+      "status": "upcoming",
+      "exchange": "BSE, NSE",
+      "pricingMethod": "Bookbuilding",
+      "priceBand": {
+        "min": 105.0,
+        "max": 111.0,
+        "display": "₹105–111"
+      },
+      "lotSize": 135,
+      "issueSize": "₹799.88 Cr",
+      "issueSizeCr": 799.88,
+      "freshIssueCr": 499.88,
+      "ofsCr": 300.0,
+      "dates": {
+        "open": "2026-12-02",
+        "close": "2026-12-04",
+        "allotment": "2026-12-07",
+        "listing": "2026-12-09"
+      },
+      "gmp": {
+        "value": 7.0,
+        "percent": 6.31,
+        "xLot": 945.0,
+        "updatedOn": "27-Nov 12:37"
+      },
+      "subscription": {
+        "total": null,
+        "byCategory": []
+      },
+      "leadManager": "JM Financial",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/main-swara-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/swara-baby-products-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=swara-baby-products-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/swara-baby-products-ipo/3186/",
+        "gmp": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/"
+      },
+      "gmpId": 2340,
+      "faceValue": "₹2 per share",
+      "issueType": "Bookbuilding IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated in November 2016, Swara Baby Products Limited is a specialized contract manufacturer of disposable consumer hygiene products, offering a diversified portfolio across baby care, adult incontinence, and feminine hygiene categories. The company manufactures baby pant and tape-style diapers, adult diapers, sanitary napkins, panty liners, and related hygiene products for leading brands, while also marketing its own consumer brands, \"Cuddles\" (baby diapers) and \"Shields\" (adult diapers) t",
+      "registrar": "MUFG Intime India Pvt.Ltd."
     },
     {
       "slug": "a-j-packaging-ipo",
@@ -215,7 +270,7 @@
         "value": 24.0,
         "percent": 13.33,
         "xLot": 19200.0,
-        "updatedOn": "26-Nov 23:37"
+        "updatedOn": "27-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -267,10 +322,10 @@
         "listing": "2026-12-08"
       },
       "gmp": {
-        "value": 27.0,
-        "percent": 15.7,
-        "xLot": 2349.0,
-        "updatedOn": "26-Nov 23:37"
+        "value": 25.0,
+        "percent": 14.53,
+        "xLot": 2175.0,
+        "updatedOn": "27-Nov 12:37"
       },
       "subscription": {
         "total": null,
@@ -296,61 +351,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated on June 23, 2004 , Matangi Rubber Limited is engaged in the manufacturing of tyres, tyre flaps, tyre tubes and rubber compounds. It primarily caters to the two-wheeler and three-wheeler tyre segments, while its tyre flaps and tubes are used in commercial vehicles such as trucks, buses and heavy utility vehicles. The Company operates through three business models: manufacturing and selling, contract manufacturing and job work services. Under its manufacturing and selling model, it ma",
       "registrar": "Bigshare Services Pvt.Ltd."
-    },
-    {
-      "slug": "airpro-technology-ipo",
-      "ipoId": 3161,
-      "name": "Airpro Technology",
-      "type": "sme",
-      "status": "upcoming",
-      "exchange": "NSE SME",
-      "pricingMethod": "Fixed Price",
-      "priceBand": {
-        "min": 99.0,
-        "max": 99.0,
-        "display": "₹99"
-      },
-      "lotSize": 1200,
-      "issueSize": "₹35.64 Cr",
-      "issueSizeCr": 35.64,
-      "freshIssueCr": 27.13,
-      "ofsCr": 6.73,
-      "dates": {
-        "open": "2026-11-27",
-        "close": "2026-12-01",
-        "allotment": "2026-12-02",
-        "listing": "2026-12-04"
-      },
-      "gmp": {
-        "value": 3.0,
-        "percent": 3.03,
-        "xLot": 3600.0,
-        "updatedOn": "26-Nov 23:37"
-      },
-      "subscription": {
-        "total": null,
-        "byCategory": []
-      },
-      "leadManager": "Horizon Management",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/airpro-ipo-logo.png",
-      "hasDetail": true,
-      "detailPath": "details/airpro-technology-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=airpro-technology-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/airpro-technology-ipo/3161/",
-        "gmp": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/"
-      },
-      "gmpId": 2316,
-      "faceValue": "₹10 per share",
-      "issueType": "Fixed Price IPO",
-      "saleType": "Fresh capital cum OFS",
-      "about": "Incorporated on February 17, 2014, Airpro Technology India Limited is a technology-driven company engaged in the design, assembly, distribution and servicing of wired and wireless networking products and solutions. The Company operates as a brand owner, providing networking solutions for enterprises and institutions to establish and manage reliable, scalable and cost-effective connectivity infrastructure. The Company offers a range of networking products, including wireless access points, WLAN c",
-      "registrar": "MUFG Intime India Pvt.Ltd."
     }
   ]
 }

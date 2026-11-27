@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-26T21:09:19+00:00",
+  "scrapedAt": "2026-11-27T07:31:25+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,14 +14,99 @@
     "limit": null
   },
   "summary": {
-    "open": 2,
+    "open": 3,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 2
+    "total": 3
   },
   "ipos": [
+    {
+      "slug": "airpro-technology-ipo",
+      "ipoId": 3161,
+      "name": "Airpro Technology",
+      "type": "sme",
+      "status": "open",
+      "exchange": "NSE SME",
+      "pricingMethod": "Fixed Price",
+      "priceBand": {
+        "min": 99.0,
+        "max": 99.0,
+        "display": "₹99"
+      },
+      "lotSize": 1200,
+      "issueSize": "₹35.64 Cr",
+      "issueSizeCr": 35.64,
+      "freshIssueCr": 27.13,
+      "ofsCr": 6.73,
+      "dates": {
+        "open": "2026-11-27",
+        "close": "2026-12-01",
+        "allotment": "2026-12-02",
+        "listing": "2026-12-04"
+      },
+      "gmp": {
+        "value": 3.0,
+        "percent": 3.03,
+        "xLot": 3600.0,
+        "updatedOn": "27-Nov 12:37"
+      },
+      "subscription": {
+        "total": 0.4,
+        "byCategory": [
+          {
+            "Category": "Market Maker",
+            "Subscription (x)": "1",
+            "Shares Offered*": "1,80,000",
+            "Shares bid for": "1,80,000",
+            "Total Amt* (₹ Cr.)": "1.78"
+          },
+          {
+            "Category": "NII***",
+            "Subscription (x)": "0.32",
+            "Shares Offered*": "17,11,200",
+            "Shares bid for": "5,40,000",
+            "Total Amt* (₹ Cr.)": "5.35"
+          },
+          {
+            "Category": "Individual Investors",
+            "Subscription (x)": "0.48",
+            "Shares Offered*": "17,08,800",
+            "Shares bid for": "8,23,200",
+            "Total Amt* (₹ Cr.)": "8.15"
+          },
+          {
+            "Category": "Total **",
+            "Subscription (x)": "0.40",
+            "Shares Offered*": "34,20,000",
+            "Shares bid for": "13,63,200",
+            "Total Amt* (₹ Cr.)": "13.50"
+          }
+        ],
+        "applications": null
+      },
+      "leadManager": "Horizon Management",
+      "symbols": {
+        "isin": null,
+        "bse": null,
+        "nse": null
+      },
+      "logo": "https://www.chittorgarh.net/images/ipo/airpro-ipo-logo.png",
+      "hasDetail": true,
+      "detailPath": "details/airpro-technology-ipo.json",
+      "urls": {
+        "local": "./ipo.html?slug=airpro-technology-ipo",
+        "chittorgarh": "https://www.chittorgarh.com/ipo/airpro-technology-ipo/3161/",
+        "gmp": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/"
+      },
+      "gmpId": 2316,
+      "faceValue": "₹10 per share",
+      "issueType": "Fixed Price IPO",
+      "saleType": "Fresh capital cum OFS",
+      "about": "Incorporated on February 17, 2014, Airpro Technology India Limited is a technology-driven company engaged in the design, assembly, distribution and servicing of wired and wireless networking products and solutions. The Company operates as a brand owner, providing networking solutions for enterprises and institutions to establish and manage reliable, scalable and cost-effective connectivity infrastructure. The Company offers a range of networking products, including wireless access points, WLAN c",
+      "registrar": "MUFG Intime India Pvt.Ltd."
+    },
     {
       "slug": "foodlink-fb-ipo",
       "ipoId": 2493,
@@ -47,13 +132,13 @@
         "listing": "2026-12-03"
       },
       "gmp": {
-        "value": 7.0,
-        "percent": 3.66,
-        "xLot": 546.0,
-        "updatedOn": "26-Nov 23:37"
+        "value": 4.0,
+        "percent": 2.09,
+        "xLot": 312.0,
+        "updatedOn": "27-Nov 12:37"
       },
       "subscription": {
-        "total": 1.1,
+        "total": 1.35,
         "byCategory": [
           {
             "Category": "Anchor",
@@ -71,38 +156,38 @@
           },
           {
             "Category": "NII",
-            "Subscription (x)": "0.41",
+            "Subscription (x)": "0.60",
             "Shares Offered*": "28,33,161",
-            "Shares bid for": "11,59,236",
-            "Total Amt* (₹ Cr.)": "22.141"
+            "Shares bid for": "17,03,208",
+            "Total Amt* (₹ Cr.)": "32.531"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "0.34",
+            "Subscription (x)": "0.50",
             "Shares Offered*": "18,88,774",
-            "Shares bid for": "6,45,918",
-            "Total Amt* (₹ Cr.)": "12.337"
+            "Shares bid for": "9,47,076",
+            "Total Amt* (₹ Cr.)": "18.089"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.54",
+            "Subscription (x)": "0.80",
             "Shares Offered*": "9,44,387",
-            "Shares bid for": "5,13,318",
-            "Total Amt* (₹ Cr.)": "9.804"
+            "Shares bid for": "7,56,132",
+            "Total Amt* (₹ Cr.)": "14.442"
           },
           {
             "Category": "Retail",
-            "Subscription (x)": "2.44",
+            "Subscription (x)": "3.55",
             "Shares Offered*": "18,88,774",
-            "Shares bid for": "46,03,950",
-            "Total Amt* (₹ Cr.)": "87.935"
+            "Shares bid for": "66,96,924",
+            "Total Amt* (₹ Cr.)": "127.911"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.10",
+            "Subscription (x)": "1.35",
             "Shares Offered*": "1,03,88,256",
-            "Shares bid for": "1,14,29,496",
-            "Total Amt* (₹ Cr.)": "218.303"
+            "Shares bid for": "1,40,66,442",
+            "Total Amt* (₹ Cr.)": "268.669"
           }
         ],
         "applications": null
@@ -153,13 +238,13 @@
         "listing": "2026-12-02"
       },
       "gmp": {
-        "value": 2.0,
-        "percent": 1.41,
-        "xLot": 2000.0,
-        "updatedOn": "26-Nov 23:37"
+        "value": 1.5,
+        "percent": 1.06,
+        "xLot": 1500.0,
+        "updatedOn": "27-Nov 12:37"
       },
       "subscription": {
-        "total": 1.27,
+        "total": 1.54,
         "byCategory": [
           {
             "Category": "Market Maker",
@@ -177,38 +262,38 @@
           },
           {
             "Category": "NII***",
-            "Subscription (x)": "0.83",
+            "Subscription (x)": "0.91",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "25,73,000",
-            "Total Amt* (₹ Cr.)": "36.537"
+            "Shares bid for": "28,13,000",
+            "Total Amt* (₹ Cr.)": "39.945"
           },
           {
             "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.01",
+            "Subscription (x)": "1.06",
             "Shares Offered*": "20,67,000",
-            "Shares bid for": "20,96,000",
-            "Total Amt* (₹ Cr.)": "29.763"
+            "Shares bid for": "21,96,000",
+            "Total Amt* (₹ Cr.)": "31.183"
           },
           {
             "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.46",
+            "Subscription (x)": "0.60",
             "Shares Offered*": "10,33,000",
-            "Shares bid for": "4,77,000",
-            "Total Amt* (₹ Cr.)": "6.773"
+            "Shares bid for": "6,17,000",
+            "Total Amt* (₹ Cr.)": "8.761"
           },
           {
             "Category": "Individual Investors",
-            "Subscription (x)": "1.64",
+            "Subscription (x)": "2.11",
             "Shares Offered*": "31,00,000",
-            "Shares bid for": "50,84,000",
-            "Total Amt* (₹ Cr.)": "72.193"
+            "Shares bid for": "65,30,000",
+            "Total Amt* (₹ Cr.)": "92.726"
           },
           {
             "Category": "Total **",
-            "Subscription (x)": "1.27",
+            "Subscription (x)": "1.54",
             "Shares Offered*": "62,66,000",
-            "Shares bid for": "79,39,000",
-            "Total Amt* (₹ Cr.)": "112.734"
+            "Shares bid for": "96,25,000",
+            "Total Amt* (₹ Cr.)": "136.675"
           }
         ],
         "applications": null
