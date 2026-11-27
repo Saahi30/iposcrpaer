@@ -366,8 +366,8 @@
     "source": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/"
   },
   "subscription": {
-    "summary": "Foodlink F&B Holdings (India) IPO subscribed 1.35 times. The public issue subscribed 3.55 times in the retail category, 1.00 times in QIB (Ex Anchor), and 0.60 times in the NII category by November 27, 2026 12:54:56 PM (Day 2).",
-    "total": 1.35,
+    "summary": "Foodlink F&B Holdings (India) IPO subscribed 1.49 times. The public issue subscribed 4.09 times in the retail category, 1.00 times in QIB (Ex Anchor), and 0.74 times in the NII category by November 27, 2026 5:54:57 PM (Day 2).",
+    "total": 1.49,
     "applications": null,
     "byCategory": [
       {
@@ -381,43 +381,43 @@
         "Category": "QIB (Ex Anchor)",
         "Subscription (x)": "1.00",
         "Shares Offered*": "56,66,321",
-        "Shares bid for": "56,66,310",
-        "Total Amt* (₹ Cr.)": "108.227"
+        "Shares bid for": "56,67,402",
+        "Total Amt* (₹ Cr.)": "108.247"
       },
       {
         "Category": "NII",
-        "Subscription (x)": "0.60",
+        "Subscription (x)": "0.74",
         "Shares Offered*": "28,33,161",
-        "Shares bid for": "17,03,208",
-        "Total Amt* (₹ Cr.)": "32.531"
+        "Shares bid for": "20,97,342",
+        "Total Amt* (₹ Cr.)": "40.059"
       },
       {
         "Category": "bNII (> ₹10L)",
-        "Subscription (x)": "0.50",
+        "Subscription (x)": "0.61",
         "Shares Offered*": "18,88,774",
-        "Shares bid for": "9,47,076",
-        "Total Amt* (₹ Cr.)": "18.089"
+        "Shares bid for": "11,51,358",
+        "Total Amt* (₹ Cr.)": "21.991"
       },
       {
         "Category": "sNII (< ₹10L)",
-        "Subscription (x)": "0.80",
+        "Subscription (x)": "1.00",
         "Shares Offered*": "9,44,387",
-        "Shares bid for": "7,56,132",
-        "Total Amt* (₹ Cr.)": "14.442"
+        "Shares bid for": "9,45,984",
+        "Total Amt* (₹ Cr.)": "18.068"
       },
       {
         "Category": "Retail",
-        "Subscription (x)": "3.55",
+        "Subscription (x)": "4.09",
         "Shares Offered*": "18,88,774",
-        "Shares bid for": "66,96,924",
-        "Total Amt* (₹ Cr.)": "127.911"
+        "Shares bid for": "77,27,070",
+        "Total Amt* (₹ Cr.)": "147.587"
       },
       {
         "Category": "Total **",
-        "Subscription (x)": "1.35",
+        "Subscription (x)": "1.49",
         "Shares Offered*": "1,03,88,256",
-        "Shares bid for": "1,40,66,442",
-        "Total Amt* (₹ Cr.)": "268.669"
+        "Shares bid for": "1,54,91,814",
+        "Total Amt* (₹ Cr.)": "295.894"
       }
     ],
     "dayWise": [
@@ -433,11 +433,11 @@
       {
         "Date": "Nov 27 (Day 2)",
         "QIB (Ex Anchor)": "1.00",
-        "NII": "0.60",
-        "NII (> ₹10L)": "0.50",
-        "NII (< ₹10L)": "0.80",
-        "Retail": "3.55",
-        "Total": "1.35"
+        "NII": "0.74",
+        "NII (> ₹10L)": "0.61",
+        "NII (< ₹10L)": "1.00",
+        "Retail": "4.09",
+        "Total": "1.49"
       }
     ]
   },
@@ -463,7 +463,7 @@
       "value": 4.0,
       "percent": 2.09,
       "xLot": 312.0,
-      "updatedOn": "27-Nov 12:37"
+      "updatedOn": "27-Nov 23:37"
     },
     "leadManager": "Equirus Capital",
     "logo": "https://www.chittorgarh.net/images/ipo/foodlink-fb-india-ltd-logo.jpeg",
@@ -473,5 +473,5 @@
       "nse": null
     }
   },
-  "scrapedAt": "2026-11-27T07:31:12+00:00"
+  "scrapedAt": "2026-11-27T20:53:21+00:00"
 }
