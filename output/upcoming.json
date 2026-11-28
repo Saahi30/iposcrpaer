@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T20:53:34+00:00",
+  "scrapedAt": "2026-11-28T06:59:35+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -41,7 +41,7 @@
       "freshIssueCr": 600.0,
       "ofsCr": null,
       "dates": {
-        "open": "2027-03-07",
+        "open": "2027-03-08",
         "close": null,
         "allotment": null,
         "listing": null
@@ -50,7 +50,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": null,
-        "updatedOn": "27-Nov 5:55"
+        "updatedOn": "28-Nov 5:55"
       },
       "subscription": {
         "total": null,
@@ -105,7 +105,7 @@
         "value": 0.0,
         "percent": 0.0,
         "xLot": 0.0,
-        "updatedOn": "27-Nov 23:33"
+        "updatedOn": "28-Nov 11:59"
       },
       "subscription": {
         "total": null,
@@ -160,7 +160,7 @@
         "value": 20.0,
         "percent": 30.77,
         "xLot": 4500.0,
-        "updatedOn": "27-Nov 23:37"
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": null,
@@ -215,7 +215,7 @@
         "value": 3.0,
         "percent": 2.7,
         "xLot": 405.0,
-        "updatedOn": "27-Nov 23:37"
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": null,
@@ -270,7 +270,7 @@
         "value": 24.0,
         "percent": 13.33,
         "xLot": 19200.0,
-        "updatedOn": "27-Nov 23:37"
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": null,
@@ -322,10 +322,10 @@
         "listing": "2026-12-08"
       },
       "gmp": {
-        "value": 31.0,
-        "percent": 18.02,
-        "xLot": 2697.0,
-        "updatedOn": "27-Nov 23:37"
+        "value": 30.0,
+        "percent": 17.44,
+        "xLot": 2610.0,
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": null,

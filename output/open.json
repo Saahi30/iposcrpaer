@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T20:53:34+00:00",
+  "scrapedAt": "2026-11-28T06:59:35+00:00",
   "source": "https://www.chittorgarh.com/",
   "feeds": {
     "list": "https://webnodejs.chittorgarh.com/cloud/report/data-read/82/1/11/2026/2026-27/0/all/0?search=&v=14-08",
@@ -14,12 +14,12 @@
     "limit": null
   },
   "summary": {
-    "open": 3,
+    "open": 2,
     "upcoming": 0,
     "closed": 0,
     "listed": 0,
     "other": 0,
-    "total": 3
+    "total": 2
   },
   "ipos": [
     {
@@ -50,7 +50,7 @@
         "value": 3.0,
         "percent": 3.03,
         "xLot": 3600.0,
-        "updatedOn": "27-Nov 23:37"
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": 0.8,
@@ -135,7 +135,7 @@
         "value": 4.0,
         "percent": 2.09,
         "xLot": 312.0,
-        "updatedOn": "27-Nov 23:37"
+        "updatedOn": "28-Nov 12:02"
       },
       "subscription": {
         "total": 1.49,
@@ -212,112 +212,6 @@
       "saleType": "Fresh capital cum OFS",
       "about": "Incorporated in 2003, Foodlink F&B Holdings (India) Ltd. is a food and beverage services company engaged in providing premium catering services and operating casual dining restaurants and cloud kitchens. Headquartered in Mumbai, Foodlink caters to weddings, social celebrations, corporate events and other large-scale gatherings. Its restaurant portfolio includes brands such as China Bistro, India Bistro, Glocal and Art of Dum. The company also operates through its international subsidiary in the ",
       "registrar": "MUFG Intime India Pvt.Ltd."
-    },
-    {
-      "slug": "shree-siddhivinayak-greentech-industries-ipo",
-      "ipoId": 3195,
-      "name": "Shree Siddhivinayak Greentech Industries",
-      "type": "sme",
-      "status": "open",
-      "exchange": "NSE SME",
-      "pricingMethod": "Bookbuilding",
-      "priceBand": {
-        "min": 130.0,
-        "max": 142.0,
-        "display": "₹130–142"
-      },
-      "lotSize": 1000,
-      "issueSize": "₹93.66 Cr",
-      "issueSizeCr": 93.66,
-      "freshIssueCr": 88.98,
-      "ofsCr": null,
-      "dates": {
-        "open": "2026-11-25",
-        "close": "2026-11-27",
-        "allotment": "2026-11-30",
-        "listing": "2026-12-02"
-      },
-      "gmp": {
-        "value": 1.0,
-        "percent": 0.7,
-        "xLot": 1000.0,
-        "updatedOn": "27-Nov 23:37"
-      },
-      "subscription": {
-        "total": 1.69,
-        "byCategory": [
-          {
-            "Category": "Market Maker",
-            "Subscription (x)": "1",
-            "Shares Offered*": "3,30,000",
-            "Shares bid for": "3,30,000",
-            "Total Amt* (₹ Cr.)": "4.686"
-          },
-          {
-            "Category": "QIB (Ex Anchor)",
-            "Subscription (x)": "4.27",
-            "Shares Offered*": "66,000",
-            "Shares bid for": "2,82,000",
-            "Total Amt* (₹ Cr.)": "4.004"
-          },
-          {
-            "Category": "NII***",
-            "Subscription (x)": "0.97",
-            "Shares Offered*": "31,00,000",
-            "Shares bid for": "29,95,000",
-            "Total Amt* (₹ Cr.)": "42.529"
-          },
-          {
-            "Category": "bNII (> ₹10L)",
-            "Subscription (x)": "1.11",
-            "Shares Offered*": "20,67,000",
-            "Shares bid for": "22,86,000",
-            "Total Amt* (₹ Cr.)": "32.461"
-          },
-          {
-            "Category": "sNII (< ₹10L)",
-            "Subscription (x)": "0.69",
-            "Shares Offered*": "10,33,000",
-            "Shares bid for": "7,09,000",
-            "Total Amt* (₹ Cr.)": "10.068"
-          },
-          {
-            "Category": "Individual Investors",
-            "Subscription (x)": "2.35",
-            "Shares Offered*": "31,00,000",
-            "Shares bid for": "73,00,000",
-            "Total Amt* (₹ Cr.)": "103.660"
-          },
-          {
-            "Category": "Total **",
-            "Subscription (x)": "1.69",
-            "Shares Offered*": "62,66,000",
-            "Shares bid for": "1,05,77,000",
-            "Total Amt* (₹ Cr.)": "150.193"
-          }
-        ],
-        "applications": null
-      },
-      "leadManager": "Erudore Capital",
-      "symbols": {
-        "isin": null,
-        "bse": null,
-        "nse": null
-      },
-      "logo": "https://www.chittorgarh.net/images/ipo/shree-siddhivinayak-greentech-industries-ltdlogo.png",
-      "hasDetail": true,
-      "detailPath": "details/shree-siddhivinayak-greentech-industries-ipo.json",
-      "urls": {
-        "local": "./ipo.html?slug=shree-siddhivinayak-greentech-industries-ipo",
-        "chittorgarh": "https://www.chittorgarh.com/ipo/shree-siddhivinayak-greentech-industries-ipo/3195/",
-        "gmp": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/"
-      },
-      "gmpId": 2349,
-      "faceValue": "₹10 per share",
-      "issueType": "Bookbuilding IPO",
-      "saleType": "Fresh capital only",
-      "about": "Incorporated in June 2022, Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the manufacturing of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products, and sugarcane by-products. The company also operates a Cane Seed nursery, enabling backward integration in sugarcane cultivation. It serves both B2B customers through jaggery powder, Khandsari sugar, and by-products, and B2C customers through its \"Feel Guddy\" branded jaggery-b",
-      "registrar": "MAS Services Ltd."
     }
   ]
 }
